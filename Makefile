@@ -1,9 +1,9 @@
 SHELL:=/usr/bin/zsh
 
-all: readme.rst
+all: README.rst
 
 clean:
-	@rm readme.rst
+	@rm README.rst
 
 README.md: out.jsn
 	jsonnet -m ./ -S out.jsn
@@ -11,7 +11,7 @@ README.md: out.jsn
 prjs.json: prjs.jsn
 	jsonnet prjs.jsn -o $@
 
-readme.rst: readme.rst.j2 prjs.json
+README.rst: readme.rst.j2 prjs.json
 	yasha -v prjs.json $< -o $@
 
 .PHONY: all
