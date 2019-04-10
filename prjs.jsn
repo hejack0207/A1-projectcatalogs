@@ -34,7 +34,7 @@ local tpl=import 'tpl.jsn';
 
                 ],
                 docker_compose: [
-
+                    $.repos.docker_pdi_ce,
                 ],
                 docker: [
 
@@ -42,6 +42,16 @@ local tpl=import 'tpl.jsn';
                 kubernetes: [
 
                 ],
+            },
+        },
+        architect: {
+            olap: {
+                etl: {
+                    pentaho: [
+                        $.repos.pentaho_kettle,
+                        $.repos.docker_pdi_ce,
+                    ],
+                },
             },
         },
     },
@@ -116,6 +126,14 @@ local tpl=import 'tpl.jsn';
         tpl.ghrepos + {
             user: "vim",
             repos_name: "vim",
+        },
+        tpl.ghrepos + {
+            user: "zhicwu",
+            repos_name: "docker-pdi-ce",
+        },
+        tpl.ghrepos + {
+            user: "pentaho",
+            repos_name: "pentaho-kettle",
         },
     ],
 
