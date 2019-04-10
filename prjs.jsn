@@ -13,6 +13,7 @@ local tpl=import 'tpl.jsn';
                 autotools: [
                     $.repos.tesseract,
                     $.repos.zsh,
+                    $.repos.sqlite,
                 ],
                 cmake: [
                 ],
@@ -31,6 +32,10 @@ local tpl=import 'tpl.jsn';
         tpl.ghrepos + {
             user: "zsh-users",
             repos_name: "zsh",
+        },
+        tpl.ghrepos + {
+            user: "mackyle",
+            repos_name: "sqlite",
         },
     ],
 
