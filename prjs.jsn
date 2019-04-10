@@ -16,8 +16,12 @@ local tpl=import 'tpl.jsn';
                     $.repos.sqlite,
                     $.repos.openssh,
                     $.repos.tmux,
+                    $.repos.postgres,
                 ],
                 cmake: [
+                    $.repos.Paddle,
+                    $.repos.mysql_server,
+                    $.repos.ccls,
                 ],
             },
         },
@@ -27,6 +31,14 @@ local tpl=import 'tpl.jsn';
         {
             name: "build.autotools",
             key: "topics.dev.build.autotools",
+        },
+        {
+            name: "build.cmake",
+            key: "topics.dev.build.cmake",
+        },
+        {
+            name: "build.make",
+            key: "topics.dev.build.make",
         },
     ],
 
@@ -53,6 +65,22 @@ local tpl=import 'tpl.jsn';
         tpl.ghrepos + {
             user: "tmux",
             repos_name: "tmux",
+        },
+        tpl.ghrepos + {
+            user: "postgres",
+            repos_name: "postgres",
+        },
+        tpl.ghrepos + {
+            user: "PaddlePaddle",
+            repos_name: "Paddle",
+        },
+        tpl.ghrepos + {
+            user: "mysql",
+            repos_name: "mysql-server",
+        },
+        tpl.ghrepos + {
+            user: "MaskRay",
+            repos_name: "ccls",
         },
     ],
 
