@@ -23,6 +23,13 @@ local tpl=import 'tpl.jsn';
         },
     },
 
+    outputs: [
+        {
+            name: "build.autotools",
+            key: "topics.dev.build.autotools",
+        },
+    ],
+
     repos_:: [
         tpl.myrepos + {
             repos_name: "lb-2-jhipster",
