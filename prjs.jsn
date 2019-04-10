@@ -10,16 +10,28 @@ local tpl=import 'tpl.jsn';
             },
             build: {
                 make: [],
-                autotools: [],
-                cmake: [],
+                autotools: [
+                    $.repos.tesseract,
+                    $.repos.zsh,
+                ],
+                cmake: [
+                ],
             },
         },
     },
 
     repos_:: [
         tpl.myrepos + {
-            repos_name: "lb-2-jhipster"
+            repos_name: "lb-2-jhipster",
         },    
+        tpl.ghrepos + {
+            user: "tesseract-ocr",
+            repos_name: "tesseract",
+        },
+        tpl.ghrepos + {
+            user: "zsh-users",
+            repos_name: "zsh",
+        },
     ],
 
     repos: {
