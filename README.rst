@@ -23,3 +23,12 @@ Categories
   + https://github.com/git/git
   + https://github.com/vim/vim
 
+* docker-compose
+
+  + https://github.com/zhicwu/docker-pdi-ce
+
+* pentaho
+
+  + https://github.com/pentaho/pentaho-kettle
+  + https://github.com/zhicwu/docker-pdi-ce
+

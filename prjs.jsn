@@ -69,6 +69,14 @@ local tpl=import 'tpl.jsn';
             name: "build.make",
             topics: $.topics.dev.build.make,
         },
+        {
+            name: "docker-compose",
+            topics: $.topics.dev.deploy.docker_compose,
+        },
+        {
+            name: "pentaho",
+            topics: $.topics.architect.olap.etl.pentaho,
+        },
     ],
 
     repos_:: [
