@@ -1,0 +1,29 @@
+local tpl=import 'tpl.jsn';
+
+{
+    topics: {
+        dev: {
+            documentation: {
+                restructed: [
+                    $.repos.lb_2_jhipster,
+                ],
+            },
+            build: {
+                make: [],
+                autotools: [],
+                cmake: [],
+            },
+        },
+    },
+
+    repos_:: [
+        tpl.myrepo + {
+            repos_name: "lb-2-jhipster"
+        },    
+    ],
+
+    repos: {
+        [std.strReplace(r.repos_name,'-','_')]: r,
+        for r in self.repos_
+    }
+}

@@ -3,5 +3,10 @@
         site: "",
         user: "",
         repo_name: "",
+        url: self.site + "/" + self.user + "/" + self.repo_name,
+    },
+    myrepo: self.repo + {
+        site: "https://github.com",
+        user: "hejack0207",
     },
 }
