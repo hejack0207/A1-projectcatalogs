@@ -12,19 +12,10 @@ Categories
 
 * build.cmake
 
-  + https://github.com/tesseract-ocr/tesseract
-  + https://github.com/zsh-users/zsh
-  + https://github.com/mackyle/sqlite
-  + https://github.com/antonyantony/openssh
-  + https://github.com/tmux/tmux
-  + https://github.com/postgres/postgres
+  + https://github.com/PaddlePaddle/Paddle
+  + https://github.com/mysql/mysql-server
+  + https://github.com/MaskRay/ccls
 
 * build.make
 
-  + https://github.com/tesseract-ocr/tesseract
-  + https://github.com/zsh-users/zsh
-  + https://github.com/mackyle/sqlite
-  + https://github.com/antonyantony/openssh
-  + https://github.com/tmux/tmux
-  + https://github.com/postgres/postgres
 
