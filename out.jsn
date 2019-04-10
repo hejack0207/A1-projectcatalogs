@@ -1,0 +1,8 @@
+local prjs=import 'prjs.jsn';
+
+{
+    "readme.rst": |||
+  README FILE
+|||,
+
+}
