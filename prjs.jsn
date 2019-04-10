@@ -10,7 +10,6 @@ local tpl=import 'tpl.jsn';
             },
             build: {
                 make: [
-                    $.repos.impala,
                     $.repos.redis,
                     $.repos.git,
                     $.repos.vim,
@@ -24,6 +23,7 @@ local tpl=import 'tpl.jsn';
                     $.repos.postgres,
                 ],
                 cmake: [
+                    $.repos.impala,
                     $.repos.Paddle,
                     $.repos.mysql_server,
                     $.repos.ccls,
