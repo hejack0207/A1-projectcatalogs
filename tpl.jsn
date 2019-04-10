@@ -1,0 +1,7 @@
+{
+    repo: {
+        site: "",
+        user: "",
+        repo_name: "",
+    },
+}
