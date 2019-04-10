@@ -1,12 +1,14 @@
 {
-    repo: {
+    repos: {
         site: "",
         user: "",
-        repo_name: "",
-        url: self.site + "/" + self.user + "/" + self.repo_name,
+        repos_name: "",
+        url: self.site + "/" + self.user + "/" + self.repos_name,
     },
-    myrepo: self.repo + {
+    ghrepos: self.repos + {
         site: "https://github.com",
+    },
+    myrepos: self.ghrepos + {
         user: "hejack0207",
     },
 }

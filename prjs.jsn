@@ -17,7 +17,7 @@ local tpl=import 'tpl.jsn';
     },
 
     repos_:: [
-        tpl.myrepo + {
+        tpl.myrepos + {
             repos_name: "lb-2-jhipster"
         },    
     ],
