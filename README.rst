@@ -28,6 +28,10 @@ Categories
   + https://github.com/zhicwu/docker-pdi-ce
   + https://github.com/bbotev01/gpdb5
 
+* ansible
+
+  + https://github.com/andreasscherbaum/gpdb-ansible
+
 * pentaho
 
   + https://github.com/pentaho/pentaho-kettle
@@ -37,4 +41,5 @@ Categories
 
   + https://github.com/postgres/postgres
   + https://github.com/bbotev01/gpdb5
+  + https://github.com/andreasscherbaum/gpdb-ansible
 

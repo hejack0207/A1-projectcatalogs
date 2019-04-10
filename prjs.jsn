@@ -31,7 +31,7 @@ local tpl=import 'tpl.jsn';
             },
             deploy: {
                 ansible: [
-
+                    $.repos.gpdb_ansible,
                 ],
                 docker_compose: [
                     $.repos.docker_pdi_ce,
@@ -60,6 +60,7 @@ local tpl=import 'tpl.jsn';
                 postgres: [
                     $.repos.postgres,
                     $.repos.docker_gpdb5,
+                    $.repos.gpdb_ansible,
                 ],
             },
         },
@@ -89,6 +90,10 @@ local tpl=import 'tpl.jsn';
         {
             name: "docker-compose",
             topics: $.topics.dev.deploy.docker_compose,
+        },
+        {
+            name: "ansible",
+            topics: $.topics.dev.deploy.ansible,
         },
         {
             name: "pentaho",
@@ -168,6 +173,10 @@ local tpl=import 'tpl.jsn';
             user: "bbotev01",
             repos_name: "gpdb5",
             alias: "docker-gpdb5",
+        },
+        tpl.ghrepos + {
+            user: "andreasscherbaum",
+            repos_name: "gpdb-ansible",
         },
     ],
 
