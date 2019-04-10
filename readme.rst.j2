@@ -4,6 +4,7 @@ Categories
 {% for t in outputs %}
 * {{ t.name }}
 
+    {# for repo in (topics | selectattr(t.topics)) #}
     {% for repo in topics.dev.build.autotools %}
   + {{ repo.url }}
     {% endfor %}

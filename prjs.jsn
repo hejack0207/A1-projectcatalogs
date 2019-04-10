@@ -30,15 +30,15 @@ local tpl=import 'tpl.jsn';
     outputs: [
         {
             name: "build.autotools",
-            key: "topics.dev.build.autotools",
+            topics: "dev.build.autotools",
         },
         {
             name: "build.cmake",
-            key: "topics.dev.build.cmake",
+            topics: "dev.build.cmake",
         },
         {
             name: "build.make",
-            key: "topics.dev.build.make",
+            topics: "dev.build.make",
         },
     ],
 
