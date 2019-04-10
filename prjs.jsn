@@ -102,7 +102,7 @@ local tpl=import 'tpl.jsn';
             topics: $.topics.architect.olap.etl.pentaho,
         },
         {
-            name: "relation database",
+            name: "postgres",
             topics: $.topics.infra.rdb.postgres,
         },
     ],
