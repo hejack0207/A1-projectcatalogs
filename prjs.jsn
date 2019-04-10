@@ -14,6 +14,8 @@ local tpl=import 'tpl.jsn';
                     $.repos.tesseract,
                     $.repos.zsh,
                     $.repos.sqlite,
+                    $.repos.openssh,
+                    $.repos.tmux,
                 ],
                 cmake: [
                 ],
@@ -37,9 +39,17 @@ local tpl=import 'tpl.jsn';
             user: "mackyle",
             repos_name: "sqlite",
         },
+        tpl.ghrepos + {
+            user: "antonyantony",
+            repos_name: "openssh",
+        },
+        tpl.ghrepos + {
+            user: "tmux",
+            repos_name: "tmux",
+        },
     ],
 
-    repos: {
+    repos:: {
         [std.strReplace(r.repos_name,'-','_')]: r,
         for r in self.repos_
     }
