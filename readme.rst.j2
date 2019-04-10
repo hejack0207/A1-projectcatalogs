@@ -3,7 +3,9 @@ Categories
 
 {% for t in outputs %}
 * {{ t.name }}
-{% for repo in topics.dev.build.autotools %}
+
+    {% for repo in topics.dev.build.autotools %}
   + {{ repo.url }}
-{% endfor %}
+    {% endfor %}
+
 {% endfor %}
