@@ -1,7 +1,7 @@
 local tpl=import 'tpl.jsn';
 
 {
-    topics: {
+    topics:: {
         dev: {
             documentation: {
                 restructed: [
@@ -9,7 +9,14 @@ local tpl=import 'tpl.jsn';
                 ],
             },
             build: {
-                make: [],
+                make: [
+                    $.repos.impala,
+                    $.repos.redis,
+                    $.repos.impala,
+                    $.repos.redis,
+                    $.repos.git,
+                    $.repos.vim,
+                ],
                 autotools: [
                     $.repos.tesseract,
                     $.repos.zsh,
@@ -81,6 +88,22 @@ local tpl=import 'tpl.jsn';
         tpl.ghrepos + {
             user: "MaskRay",
             repos_name: "ccls",
+        },
+        tpl.ghrepos + {
+            user: "apache",
+            repos_name: "impala",
+        },
+        tpl.ghrepos + {
+            user: "antirez",
+            repos_name: "redis",
+        },
+        tpl.ghrepos + {
+            user: "git",
+            repos_name: "git",
+        },
+        tpl.ghrepos + {
+            user: "vim",
+            repos_name: "vim",
         },
     ],
 
