@@ -32,6 +32,7 @@ local tpl=import 'tpl.jsn';
             deploy: {
                 ansible: [
                     $.repos.gpdb_ansible,
+                    $.repos.greenplum_ansible,
                 ],
                 docker_compose: [
                     $.repos.docker_pdi_ce,
@@ -61,6 +62,7 @@ local tpl=import 'tpl.jsn';
                     $.repos.postgres,
                     $.repos.docker_gpdb5,
                     $.repos.gpdb_ansible,
+                    $.repos.greenplum_ansible,
                 ],
             },
         },
@@ -177,6 +179,11 @@ local tpl=import 'tpl.jsn';
         tpl.ghrepos + {
             user: "andreasscherbaum",
             repos_name: "gpdb-ansible",
+        },
+        tpl.ghrepos + {
+            user: "faer615",
+            repos_name: "greenplum",
+            alias: "greenplum-ansible"
         },
     ],
 

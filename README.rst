@@ -31,6 +31,7 @@ Categories
 * ansible
 
   + https://github.com/andreasscherbaum/gpdb-ansible
+  + https://github.com/faer615/greenplum
 
 * pentaho
 
@@ -42,4 +43,5 @@ Categories
   + https://github.com/postgres/postgres
   + https://github.com/bbotev01/gpdb5
   + https://github.com/andreasscherbaum/gpdb-ansible
+  + https://github.com/faer615/greenplum
 
