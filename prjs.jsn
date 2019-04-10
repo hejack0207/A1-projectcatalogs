@@ -63,6 +63,14 @@ local tpl=import 'tpl.jsn';
                 ],
             },
         },
+        business: {
+            gis: [
+            ],
+            etl: [
+            ],
+            text_mining: [
+            ],
+        },
     },
 
     outputs: [
