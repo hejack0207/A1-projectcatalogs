@@ -3,6 +3,7 @@
         site: "",
         user: "",
         repos_name: "",
+        forked: false,
         url: self.site + "/" + self.user + "/" + self.repos_name,
     },
     ghrepos: self.repos + {
