@@ -29,6 +29,20 @@ local tpl=import 'tpl.jsn';
                     $.repos.ccls,
                 ],
             },
+            deploy: {
+                ansible: [
+
+                ],
+                docker_compose: [
+
+                ],
+                docker: [
+
+                ],
+                kubernetes: [
+
+                ],
+            },
         },
     },
 
