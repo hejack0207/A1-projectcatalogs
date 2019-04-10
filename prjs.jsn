@@ -12,8 +12,6 @@ local tpl=import 'tpl.jsn';
                 make: [
                     $.repos.impala,
                     $.repos.redis,
-                    $.repos.impala,
-                    $.repos.redis,
                     $.repos.git,
                     $.repos.vim,
                 ],

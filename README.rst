@@ -20,8 +20,6 @@ Categories
 
   + https://github.com/apache/impala
   + https://github.com/antirez/redis
-  + https://github.com/apache/impala
-  + https://github.com/antirez/redis
   + https://github.com/git/git
   + https://github.com/vim/vim
 
