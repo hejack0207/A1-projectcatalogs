@@ -4,6 +4,7 @@
         user: "",
         repos_name: "",
         forked: false,
+        alias: null,
         url: self.site + "/" + self.user + "/" + self.repos_name,
     },
     ghrepos: self.repos + {

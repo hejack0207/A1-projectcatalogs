@@ -26,6 +26,7 @@ Categories
 * docker-compose
 
   + https://github.com/zhicwu/docker-pdi-ce
+  + https://github.com/bbotev01/gpdb5
 
 * pentaho
 

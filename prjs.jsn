@@ -35,6 +35,7 @@ local tpl=import 'tpl.jsn';
                 ],
                 docker_compose: [
                     $.repos.docker_pdi_ce,
+                    $.repos.docker_gpdb5,
                 ],
                 docker: [
 
@@ -143,10 +144,15 @@ local tpl=import 'tpl.jsn';
             user: "pentaho",
             repos_name: "pentaho-kettle",
         },
+        tpl.ghrepos + {
+            user: "bbotev01",
+            repos_name: "gpdb5",
+            alias: "docker-gpdb5",
+        },
     ],
 
     repos:: {
-        [std.strReplace(r.repos_name,'-','_')]: r,
+        [if r.alias != null then std.strReplace(r.alias,'-','_') else std.strReplace(r.repos_name,'-','_')]: r,
         for r in self.repos_
     }
 }
