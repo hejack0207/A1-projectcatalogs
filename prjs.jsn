@@ -55,6 +55,14 @@ local tpl=import 'tpl.jsn';
                 },
             },
         },
+        infra: {
+            rdb: {
+                postgres: [
+                    $.repos.postgres,
+                    $.repos.docker_gpdb5,
+                ],
+            },
+        },
     },
 
     outputs: [
@@ -77,6 +85,10 @@ local tpl=import 'tpl.jsn';
         {
             name: "pentaho",
             topics: $.topics.architect.olap.etl.pentaho,
+        },
+        {
+            name: "relation database",
+            topics: $.topics.infra.rdb.postgres,
         },
     ],
 
