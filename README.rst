@@ -37,6 +37,7 @@ Categories
 
   + pentaho-kettle https://github.com/pentaho/pentaho-kettle
   + docker-pdi-ce https://github.com/zhicwu/docker-pdi-ce
+  + ansible.pentaho-biserver-ce https://github.com/oggers/ansible.pentaho-biserver-ce
 
 * postgres
 

@@ -52,6 +52,7 @@ local tpl=import 'tpl.jsn';
                     pentaho: [
                         $.repos.pentaho_kettle,
                         $.repos.docker_pdi_ce,
+                        $.repos.ansible_pentaho_biserver_ce
                     ],
                 },
             },
@@ -192,10 +193,14 @@ local tpl=import 'tpl.jsn';
             user: "greenplum-db",
             repos_name: "gpdb",
         },
+        tpl.ghrepos + {
+            user: "oggers",
+            repos_name: "ansible.pentaho-biserver-ce",
+        },
     ],
 
     repos:: {
-        [std.strReplace(r.alias,'-','_')]: r
+        [std.strReplace(std.strReplace(r.alias,'-','_'),'.','_')]: r
         for r in self.repos_
     }
 }
