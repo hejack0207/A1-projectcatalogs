@@ -42,4 +42,8 @@ Categories
 * postgres
 
   + postgres https://github.com/postgres/postgres
+  + gpdb https://github.com/greenplum-db/gpdb
+  + docker-gpdb5 https://github.com/bbotev01/gpdb5
+  + gpdb-ansible https://github.com/andreasscherbaum/gpdb-ansible
+  + greenplum-ansible https://github.com/faer615/greenplum
 
