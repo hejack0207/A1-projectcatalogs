@@ -3,45 +3,42 @@ Categories
 
 * build.autotools
 
-  + https://github.com/tesseract-ocr/tesseract
-  + https://github.com/zsh-users/zsh
-  + https://github.com/mackyle/sqlite
-  + https://github.com/antonyantony/openssh
-  + https://github.com/tmux/tmux
-  + https://github.com/postgres/postgres
+  + tesseract https://github.com/tesseract-ocr/tesseract
+  + zsh https://github.com/zsh-users/zsh
+  + sqlite https://github.com/mackyle/sqlite
+  + openssh https://github.com/antonyantony/openssh
+  + tmux https://github.com/tmux/tmux
+  + postgres https://github.com/postgres/postgres
 
 * build.cmake
 
-  + https://github.com/apache/impala
-  + https://github.com/PaddlePaddle/Paddle
-  + https://github.com/mysql/mysql-server
-  + https://github.com/MaskRay/ccls
+  + impala https://github.com/apache/impala
+  + Paddle https://github.com/PaddlePaddle/Paddle
+  + mysql-server https://github.com/mysql/mysql-server
+  + ccls https://github.com/MaskRay/ccls
 
 * build.make
 
-  + https://github.com/antirez/redis
-  + https://github.com/git/git
-  + https://github.com/vim/vim
+  + redis https://github.com/antirez/redis
+  + git https://github.com/git/git
+  + vim https://github.com/vim/vim
 
 * docker-compose
 
-  + https://github.com/zhicwu/docker-pdi-ce
-  + https://github.com/bbotev01/gpdb5
+  + docker-pdi-ce https://github.com/zhicwu/docker-pdi-ce
+  + docker-gpdb5 https://github.com/bbotev01/gpdb5
 
 * ansible
 
-  + https://github.com/andreasscherbaum/gpdb-ansible
-  + https://github.com/faer615/greenplum
+  + gpdb-ansible https://github.com/andreasscherbaum/gpdb-ansible
+  + greenplum-ansible https://github.com/faer615/greenplum
 
 * pentaho
 
-  + https://github.com/pentaho/pentaho-kettle
-  + https://github.com/zhicwu/docker-pdi-ce
+  + pentaho-kettle https://github.com/pentaho/pentaho-kettle
+  + docker-pdi-ce https://github.com/zhicwu/docker-pdi-ce
 
 * postgres
 
-  + https://github.com/postgres/postgres
-  + https://github.com/bbotev01/gpdb5
-  + https://github.com/andreasscherbaum/gpdb-ansible
-  + https://github.com/faer615/greenplum
+  + postgres https://github.com/postgres/postgres
 

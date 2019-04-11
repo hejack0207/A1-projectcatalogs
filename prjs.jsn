@@ -60,6 +60,9 @@ local tpl=import 'tpl.jsn';
             rdb: {
                 postgres: [
                     $.repos.postgres,
+                ],
+                greenplum: [
+                    $.repos.gpdb,
                     $.repos.docker_gpdb5,
                     $.repos.gpdb_ansible,
                     $.repos.greenplum_ansible,
@@ -185,10 +188,14 @@ local tpl=import 'tpl.jsn';
             repos_name: "greenplum",
             alias: "greenplum-ansible"
         },
+        tpl.ghrepos + {
+            user: "greenplum-db",
+            repos_name: "gpdb",
+        },
     ],
 
     repos:: {
-        [if r.alias != null then std.strReplace(r.alias,'-','_') else std.strReplace(r.repos_name,'-','_')]: r,
+        [std.strReplace(r.alias,'-','_')]: r
         for r in self.repos_
     }
 }
