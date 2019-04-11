@@ -55,7 +55,15 @@ local tpl=import 'tpl.jsn';
                         $.repos.docker_pdi_ce,
                         $.repos.ansible_pentaho_biserver_ce
                     ],
+                    envelope: [
+                        $.repos.envelop,
+                    ],
                 },
+                bigdata: {
+                    engine: [
+                        $.repos.kylin,
+                    ],
+                }
             },
         },
         infra: {
@@ -199,10 +207,29 @@ local tpl=import 'tpl.jsn';
             user: "oggers",
             repos_name: "ansible.pentaho-biserver-ce",
         },
+        tpl.ghrepos + {
+            user: "apache",
+            repos_name: "kylin",
+        },
+        tpl.ghrepos + {
+            user: "cloudera-labs",
+            repos_name: "envelope",
+        },
     ],
 
     repos:: {
         [std.strReplace(std.strReplace(r.alias,'-','_'),'.','_')]: r
         for r in self.repos_
-    }
+    },
+
+    ghtopics_:: [
+        tpl.ghtopics + {
+            repos_name: "olap",
+        },
+    ],
+
+    ghtopcs:: {
+        [std.strReplace(std.strReplace(t.alias,'-','_'),'.','_')]: t
+        for t in self.ghtopcs_
+    },
 }

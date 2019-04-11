@@ -14,4 +14,16 @@
     myrepos: self.ghrepos + {
         user: "hejack0207",
     },
+    ghtopics: self.ghrepos + {
+        user: "topics",
+    },
+    tag: {
+        name: null,
+        ghtopics: null,
+    },
+    tags: [
+        self.tag + {
+            name: "olap",
+        },
+    ],
 }
