@@ -32,6 +32,7 @@ Categories
 
   + gpdb-ansible https://github.com/andreasscherbaum/gpdb-ansible
   + greenplum-ansible https://github.com/faer615/greenplum
+  + ansible.pentaho-biserver-ce https://github.com/oggers/ansible.pentaho-biserver-ce
 
 * pentaho
 
