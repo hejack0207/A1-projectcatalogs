@@ -56,7 +56,7 @@ local tpl=import 'tpl.jsn';
                         $.repos.ansible_pentaho_biserver_ce
                     ],
                     envelope: [
-                        $.repos.envelop,
+                        $.repos.envelope,
                     ],
                 },
                 bigdata: {
@@ -81,8 +81,6 @@ local tpl=import 'tpl.jsn';
         },
         business: {
             gis: [
-            ],
-            etl: [
             ],
             text_mining: [
             ],
@@ -111,8 +109,10 @@ local tpl=import 'tpl.jsn';
             topics: $.topics.dev.deploy.ansible,
         },
         {
-            name: "pentaho",
-            topics: $.topics.architect.olap.etl.pentaho,
+            name: "etl",
+            topics: $.topics.architect.olap.etl.pentaho +
+                    [tpl.repos_sep] + 
+                    $.topics.architect.olap.etl.envelope,
         },
         {
             name: "postgres",

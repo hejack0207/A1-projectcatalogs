@@ -34,11 +34,13 @@ Categories
   + greenplum-ansible https://github.com/faer615/greenplum
   + ansible.pentaho-biserver-ce https://github.com/oggers/ansible.pentaho-biserver-ce
 
-* pentaho
+* etl
 
   + pentaho-kettle https://github.com/pentaho/pentaho-kettle
   + docker-pdi-ce https://github.com/zhicwu/docker-pdi-ce
   + ansible.pentaho-biserver-ce https://github.com/oggers/ansible.pentaho-biserver-ce
+  + -------------------------- 
+  + envelope https://github.com/cloudera-labs/envelope
 
 * postgres
 

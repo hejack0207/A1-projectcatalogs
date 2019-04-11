@@ -11,6 +11,10 @@
     ghrepos: self.repos + {
         site: "https://github.com",
     },
+    repos_sep: self.ghrepos + {
+        url: "",
+        alias: "--------------------------",
+    },
     myrepos: self.ghrepos + {
         user: "hejack0207",
     },
