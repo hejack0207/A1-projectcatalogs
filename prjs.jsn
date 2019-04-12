@@ -120,6 +120,10 @@ local tpl=import 'tpl.jsn';
             name: "postgres",
             topics: $.topics.infra.rdb.postgres + $.topics.infra.rdb.greenplum,
         },
+        {
+            name: "olap",
+            topics: $.topics.architect.olap.bigdata.engine,
+        },
     ],
 
     repos_:: [

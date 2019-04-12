@@ -52,3 +52,7 @@ Categories
   + gpdb-ansible https://github.com/andreasscherbaum/gpdb-ansible
   + greenplum-ansible https://github.com/faer615/greenplum
 
+* olap
+
+  + kylin https://github.com/apache/kylin
+
