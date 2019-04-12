@@ -48,7 +48,8 @@ local tpl=import 'tpl.jsn';
                     $.repos.apollo_build_scripts,
                 ],
                 docker: [
-
+                    $.repos.docker_mysql,
+                    $.repos.docker_tomcat,
                 ],
                 kubernetes: [
 
@@ -112,7 +113,9 @@ local tpl=import 'tpl.jsn';
         },
         {
             name: "docker-compose",
-            topics: $.topics.dev.deploy.docker_compose,
+            topics: $.topics.dev.deploy.docker_compose +
+                [tpl.repos_sep] +
+                $.topics.dev.deploy.docker,
         },
         {
             name: "ansible",
@@ -261,6 +264,16 @@ local tpl=import 'tpl.jsn';
         tpl.ghrepos + {
             user: "nobodyiam",
             repos_name: "apollo-build-scripts",
+        },
+        tpl.ghrepos + {
+            user: "docker-library",
+            repos_name: "tomcat",
+            alias: "docker-tomcat",
+        },
+        tpl.ghrepos + {
+            user: "docker-library",
+            repos_name: "mysql",
+            alias: "docker-mysql",
         },
     ],
 
