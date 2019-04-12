@@ -135,6 +135,10 @@ local tpl=import 'tpl.jsn';
             name: "scaffold",
             topics: $.topics.dev.scaffold,
         },
+        {
+            name: "template projects",
+            topics: $.topics.dev.template_prjs,
+        },
     ],
 
     repos_:: [
