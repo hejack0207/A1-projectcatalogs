@@ -7,6 +7,8 @@
         alias: self.repos_name,
         url: self.site + "/" + self.user + "/" + self.repos_name,
         tags: [],
+        release: null,
+        shallow: false,
     },
     ghrepos: self.repos + {
         site: "https://github.com",
