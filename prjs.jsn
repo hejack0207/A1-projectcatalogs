@@ -10,6 +10,10 @@ local tpl=import 'tpl.jsn';
             },
             scaffold: [
                 $.repos.generator_jhipster,
+                $.repos.lb_2_jhipster,
+            ],
+            template_prjs: [
+                $.repos.SpringCloud,
             ],
             build: {
                 make: [
@@ -134,9 +138,6 @@ local tpl=import 'tpl.jsn';
     ],
 
     repos_:: [
-        tpl.myrepos + {
-            repos_name: "lb-2-jhipster",
-        },    
         tpl.ghrepos + {
             user: "tesseract-ocr",
             repos_name: "tesseract",
@@ -240,6 +241,16 @@ local tpl=import 'tpl.jsn';
         tpl.ghrepos + {
             user: "jhipster",
             repos_name: "generator-jhipster",
+            forked: true,
+        },
+        tpl.ghrepos + {
+            user: "ziogiugno",
+            repos_name: "lb-2-jhipster",
+            forked: true,
+        },
+        tpl.ghrepos + {
+            user: "zhoutaoo",
+            repos_name: "SpringCloud",
             forked: true,
         },
     ],

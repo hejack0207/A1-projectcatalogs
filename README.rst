@@ -59,4 +59,5 @@ Categories
 * scaffold
 
   + generator-jhipster https://github.com/hejack0207/generator-jhipster
+  + lb-2-jhipster https://github.com/hejack0207/lb-2-jhipster
 
