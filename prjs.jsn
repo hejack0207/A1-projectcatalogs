@@ -8,6 +8,9 @@ local tpl=import 'tpl.jsn';
                     $.repos.lb_2_jhipster,
                 ],
             },
+            scaffold: [
+                $.repos.generator_jhipster,
+            ],
             build: {
                 make: [
                     $.repos.redis,
@@ -124,6 +127,10 @@ local tpl=import 'tpl.jsn';
             name: "olap",
             topics: $.topics.architect.olap.bigdata.engine,
         },
+        {
+            name: "scaffold",
+            topics: $.topics.dev.scaffold,
+        },
     ],
 
     repos_:: [
@@ -228,6 +235,11 @@ local tpl=import 'tpl.jsn';
         tpl.ghrepos + {
             user: "JoeyBling",
             repos_name: "webkettle",
+            forked: true,
+        },
+        tpl.ghrepos + {
+            user: "jhipster",
+            repos_name: "generator-jhipster",
             forked: true,
         },
     ],

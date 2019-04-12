@@ -56,3 +56,7 @@ Categories
 
   + kylin https://github.com/apache/kylin
 
+* scaffold
+
+  + generator-jhipster https://github.com/hejack0207/generator-jhipster
+
