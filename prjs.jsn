@@ -45,6 +45,7 @@ local tpl=import 'tpl.jsn';
                 docker_compose: [
                     $.repos.docker_pdi_ce,
                     $.repos.docker_gpdb5,
+                    $.repos.apollo_build_scripts,
                 ],
                 docker: [
 
@@ -256,6 +257,10 @@ local tpl=import 'tpl.jsn';
             user: "zhoutaoo",
             repos_name: "SpringCloud",
             forked: true,
+        },
+        tpl.ghrepos + {
+            user: "nobodyiam",
+            repos_name: "apollo-build-scripts",
         },
     ],
 

@@ -27,6 +27,7 @@ Categories
 
   + docker-pdi-ce https://github.com/zhicwu/docker-pdi-ce
   + docker-gpdb5 https://github.com/bbotev01/gpdb5
+  + apollo-build-scripts https://github.com/nobodyiam/apollo-build-scripts
 
 * ansible
 
