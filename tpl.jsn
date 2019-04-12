@@ -5,7 +5,8 @@
         repos_name: "",
         forked: false,
         alias: self.repos_name,
-        url: self.site + "/" + self.user + "/" + self.repos_name,
+        url: if self.forked then self.site + "/hejack0207/" + self.repos_name 
+            else self.site + "/" + self.user + "/" + self.repos_name,
         tags: [],
         release: null,
         shallow: false,

@@ -224,6 +224,7 @@ local tpl=import 'tpl.jsn';
         tpl.ghrepos + {
             user: "JoeyBling",
             repos_name: "webkettle",
+            forked: true,
         },
     ],
 
