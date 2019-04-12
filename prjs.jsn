@@ -53,7 +53,9 @@ local tpl=import 'tpl.jsn';
                     pentaho: [
                         $.repos.pentaho_kettle,
                         $.repos.docker_pdi_ce,
-                        $.repos.ansible_pentaho_biserver_ce
+                        $.repos.ansible_pentaho_biserver_ce,
+                        $.repos.webkettle,
+                        $.repos.kettle_manager,
                     ],
                     envelope: [
                         $.repos.envelope,
@@ -214,6 +216,14 @@ local tpl=import 'tpl.jsn';
         tpl.ghrepos + {
             user: "cloudera-labs",
             repos_name: "envelope",
+        },
+        tpl.ghrepos + {
+            user: "majinju",
+            repos_name: "kettle-manager",
+        },
+        tpl.ghrepos + {
+            user: "JoeyBling",
+            repos_name: "webkettle",
         },
     ],
 
