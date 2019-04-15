@@ -46,6 +46,7 @@ local tpl=import 'tpl.jsn';
                     $.repos.docker_pdi_ce,
                     $.repos.docker_gpdb5,
                     $.repos.apollo_build_scripts,
+                    $.repos.docker_tomcat8,
                 ],
                 docker: [
                     $.repos.docker_mysql,
@@ -274,6 +275,10 @@ local tpl=import 'tpl.jsn';
             user: "docker-library",
             repos_name: "mysql",
             alias: "docker-mysql",
+        },
+        tpl.ghrepos + {
+            user: "cmoro-deusto",
+            repos_name: "docker-tomcat8",
         },
     ],
 
