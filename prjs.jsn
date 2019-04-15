@@ -246,6 +246,7 @@ local tpl=import 'tpl.jsn';
         tpl.ghrepos + {
             user: "majinju",
             repos_name: "kettle-manager",
+            score: 2,
         },
         tpl.ghrepos + {
             user: "JoeyBling",

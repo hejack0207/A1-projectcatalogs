@@ -45,7 +45,6 @@ Categories
   + docker-pdi-ce https://github.com/zhicwu/docker-pdi-ce
   + ansible.pentaho-biserver-ce https://github.com/oggers/ansible.pentaho-biserver-ce
   + webkettle https://github.com/hejack0207/webkettle
-  + kettle-manager https://github.com/majinju/kettle-manager
   + -------------------------- 
   + envelope https://github.com/cloudera-labs/envelope
 
