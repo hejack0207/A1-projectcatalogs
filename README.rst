@@ -31,7 +31,7 @@ Categories
   + docker-tomcat8 https://github.com/cmoro-deusto/docker-tomcat8
   + -------------------------- 
   + docker-mysql https://github.com/docker-library/mysql
-  + docker-tomcat https://github.com/docker-library/tomcat
+  + kylin-docker https://github.com/Kyligence/kylin-docker
 
 * ansible
 
@@ -60,6 +60,7 @@ Categories
 * olap
 
   + kylin https://github.com/apache/kylin
+  + kylin-docker https://github.com/Kyligence/kylin-docker
 
 * scaffold
 

@@ -51,11 +51,15 @@ local tpl=import 'tpl.jsn';
                 docker: [
                     $.repos.docker_mysql,
                     $.repos.docker_tomcat,
+                    $.repos.kylin_docker,
                 ],
                 kubernetes: [
 
                 ],
             },
+            testing: [
+                $.repos.f2etest,
+            ],
         },
         architect: {
             olap: {
@@ -74,6 +78,7 @@ local tpl=import 'tpl.jsn';
                 bigdata: {
                     engine: [
                         $.repos.kylin,
+                        $.repos.kylin_docker,
                     ],
                 }
             },
@@ -280,6 +285,14 @@ local tpl=import 'tpl.jsn';
         tpl.ghrepos + {
             user: "cmoro-deusto",
             repos_name: "docker-tomcat8",
+        },
+        tpl.ghrepos + {
+            user: "alibaba",
+            repos_name: "f2etest",
+        },
+        tpl.ghrepos + {
+            user: "Kyligence",
+            repos_name: "kylin-docker",
         },
     ],
 

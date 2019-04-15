@@ -6,7 +6,9 @@ Categories
 
     {# for repo in (topics | selectattr(t.topics)) #}
     {% for repo in t.topics %}
+      {% if repo.score >= 3 %}
   + {{ repo.alias }} {{ repo.url }}
+      {% endif %}
     {% endfor %}
 
 {% endfor %}
