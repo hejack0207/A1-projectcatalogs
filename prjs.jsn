@@ -270,6 +270,7 @@ local tpl=import 'tpl.jsn';
             user: "docker-library",
             repos_name: "tomcat",
             alias: "docker-tomcat",
+            score: 2,
         },
         tpl.ghrepos + {
             user: "docker-library",

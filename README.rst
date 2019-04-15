@@ -28,6 +28,7 @@ Categories
   + docker-pdi-ce https://github.com/zhicwu/docker-pdi-ce
   + docker-gpdb5 https://github.com/bbotev01/gpdb5
   + apollo-build-scripts https://github.com/nobodyiam/apollo-build-scripts
+  + docker-tomcat8 https://github.com/cmoro-deusto/docker-tomcat8
   + -------------------------- 
   + docker-mysql https://github.com/docker-library/mysql
   + docker-tomcat https://github.com/docker-library/tomcat

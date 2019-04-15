@@ -10,6 +10,7 @@
         tags: [],
         release: null,
         shallow: false,
+        score: 3,
     },
     ghrepos: self.repos + {
         site: "https://github.com",
