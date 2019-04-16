@@ -93,6 +93,10 @@ local tpl=import 'tpl.jsn';
                     $.repos.hadoop_ansible,
                     $.repos.hadoop_kerberos_helm,
                 ],
+                hbase: [
+                ],
+                hive: [
+                ],
                 olap: $.topics.architect.olap.bigdata.engine,
             },
         },
