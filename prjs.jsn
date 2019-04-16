@@ -42,6 +42,7 @@ local tpl=import 'tpl.jsn';
                     $.repos.greenplum_ansible,
                     $.repos.ansible_pentaho_biserver_ce,
                     $.repos.hadoop_ansible,
+                    $.repos.kubespray,
                 ],
                 docker_compose: [
                     $.repos.docker_pdi_ce,
@@ -56,6 +57,8 @@ local tpl=import 'tpl.jsn';
                     $.repos.hadoop_docker,
                 ],
                 kubernetes: [
+                    $.repos.kubespray,
+                    $.repos.kubekit,
                     $.repos.hadoop_kerberos_helm,
                 ],
             },
@@ -136,6 +139,10 @@ local tpl=import 'tpl.jsn';
         {
             name: "ansible",
             topics: $.topics.dev.deploy.ansible,
+        },
+        {
+            name: "kubernetes",
+            topics: $.topics.dev.deploy.kubernetes,
         },
         {
             name: "etl",
@@ -364,6 +371,16 @@ local tpl=import 'tpl.jsn';
             user: "ifilonenko",
             repos_name: "hadoop-kerberos-helm",
             tags: ["helm","kubernetes","hadoop"],
+        },
+        tpl.ghrepos + {
+            user: "kubernetes-sigs",
+            repos_name: "kubespray",
+            tags: ["kubernetes","ansible"],
+        },
+        tpl.ghrepos + {
+            user: "Orientsoft",
+            repos_name: "kubekit",
+            tags: ["kubernetes"],
         },
     ],
 

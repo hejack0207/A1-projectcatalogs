@@ -40,6 +40,13 @@ Categories
   + greenplum-ansible https://github.com/faer615/greenplum
   + ansible.pentaho-biserver-ce https://github.com/oggers/ansible.pentaho-biserver-ce
   + hadoop-ansible https://github.com/analytically/hadoop-ansible
+  + kubespray https://github.com/kubernetes-sigs/kubespray
+
+* kubernetes
+
+  + kubespray https://github.com/kubernetes-sigs/kubespray
+  + kubekit https://github.com/Orientsoft/kubekit
+  + hadoop-kerberos-helm https://github.com/ifilonenko/hadoop-kerberos-helm
 
 * etl
 
