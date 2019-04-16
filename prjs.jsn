@@ -87,6 +87,7 @@ local tpl=import 'tpl.jsn';
                 hadoop: [
                     $.repos.hadoop_docker,
                 ],
+                olap: $.topics.architect.olap.bigdata.engine,
             },
         },
         infra: {
