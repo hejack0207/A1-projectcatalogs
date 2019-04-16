@@ -163,6 +163,14 @@ local tpl=import 'tpl.jsn';
         },
     ],
 
+    tags: {
+        names:: std.foldl((function (r,i) std.setUnion(r,i)),[ r.tags for r in $.repos_ ],[]),
+        contents: {
+            [n]: [r.url for r in $.repos_ if std.setMember(n,r.tags)],
+            for n in $.tags.names
+        }
+    },
+
     repos_:: [
         tpl.ghrepos + {
             user: "tesseract-ocr",
