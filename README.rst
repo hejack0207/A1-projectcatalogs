@@ -28,8 +28,8 @@ Categories
   + docker-pdi-ce https://github.com/zhicwu/docker-pdi-ce
   + docker-gpdb5 https://github.com/bbotev01/gpdb5
   + apollo-build-scripts https://github.com/nobodyiam/apollo-build-scripts
-  + docker-tomcat8 https://github.com/cmoro-deusto/docker-tomcat8
   + -------------------------- 
+  + docker-tomcat8 https://github.com/cmoro-deusto/docker-tomcat8
   + docker-mysql https://github.com/docker-library/mysql
   + kylin-docker https://github.com/Kyligence/kylin-docker
   + hadoop-docker https://github.com/sequenceiq/hadoop-docker
