@@ -39,6 +39,7 @@ Categories
   + gpdb-ansible https://github.com/andreasscherbaum/gpdb-ansible
   + greenplum-ansible https://github.com/faer615/greenplum
   + ansible.pentaho-biserver-ce https://github.com/oggers/ansible.pentaho-biserver-ce
+  + hadoop-ansible https://github.com/analytically/hadoop-ansible
 
 * etl
 
@@ -74,6 +75,8 @@ Categories
 * big data
 
   + hadoop-docker https://github.com/sequenceiq/hadoop-docker
+  + hadoop-ansible https://github.com/analytically/hadoop-ansible
+  + hadoop-kerberos-helm https://github.com/ifilonenko/hadoop-kerberos-helm
   + kylin https://github.com/apache/kylin
   + kylin-docker https://github.com/Kyligence/kylin-docker
 

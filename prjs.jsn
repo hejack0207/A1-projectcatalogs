@@ -41,6 +41,7 @@ local tpl=import 'tpl.jsn';
                     $.repos.gpdb_ansible,
                     $.repos.greenplum_ansible,
                     $.repos.ansible_pentaho_biserver_ce,
+                    $.repos.hadoop_ansible,
                 ],
                 docker_compose: [
                     $.repos.docker_pdi_ce,
@@ -55,7 +56,7 @@ local tpl=import 'tpl.jsn';
                     $.repos.hadoop_docker,
                 ],
                 kubernetes: [
-
+                    $.repos.hadoop_kerberos_helm,
                 ],
             },
             testing: [
@@ -86,6 +87,8 @@ local tpl=import 'tpl.jsn';
             bigdata: {
                 hadoop: [
                     $.repos.hadoop_docker,
+                    $.repos.hadoop_ansible,
+                    $.repos.hadoop_kerberos_helm,
                 ],
                 olap: $.topics.architect.olap.bigdata.engine,
             },
@@ -351,6 +354,16 @@ local tpl=import 'tpl.jsn';
             user: "sequenceiq",
             repos_name: "hadoop-docker",
             tags: ["docker","bigdata"],
+        },
+        tpl.ghrepos + {
+            user: "analytically",
+            repos_name: "hadoop-ansible",
+            tags: ["ansible","bigdata","hadoop"],
+        },
+        tpl.ghrepos + {
+            user: "ifilonenko",
+            repos_name: "hadoop-kerberos-helm",
+            tags: ["helm","kubernetes","hadoop"],
         },
     ],
 
