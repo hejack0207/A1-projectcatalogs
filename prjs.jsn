@@ -46,9 +46,9 @@ local tpl=import 'tpl.jsn';
                     $.repos.docker_pdi_ce,
                     $.repos.docker_gpdb5,
                     $.repos.apollo_build_scripts,
-                    $.repos.docker_tomcat8,
                 ],
                 docker: [
+                    $.repos.docker_tomcat8,
                     $.repos.docker_mysql,
                     $.repos.docker_tomcat,
                     $.repos.kylin_docker,
