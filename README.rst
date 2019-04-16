@@ -74,4 +74,6 @@ Categories
 * big data
 
   + hadoop-docker https://github.com/sequenceiq/hadoop-docker
+  + kylin https://github.com/apache/kylin
+  + kylin-docker https://github.com/Kyligence/kylin-docker
 

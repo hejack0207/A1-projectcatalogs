@@ -158,7 +158,8 @@ local tpl=import 'tpl.jsn';
         },
         {
             name: "big data",
-            topics: $.topics.architect.bigdata.hadoop,
+            topics: $.topics.architect.bigdata.hadoop +
+                $.topics.architect.bigdata.olap,
         },
     ],
 
