@@ -32,6 +32,7 @@ Categories
   + -------------------------- 
   + docker-mysql https://github.com/docker-library/mysql
   + kylin-docker https://github.com/Kyligence/kylin-docker
+  + hadoop-docker https://github.com/sequenceiq/hadoop-docker
 
 * ansible
 
@@ -69,4 +70,8 @@ Categories
 * template projects
 
   + SpringCloud https://github.com/hejack0207/SpringCloud
+
+* big data
+
+  + hadoop-docker https://github.com/sequenceiq/hadoop-docker
 

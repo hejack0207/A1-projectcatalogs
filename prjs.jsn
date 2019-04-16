@@ -52,6 +52,7 @@ local tpl=import 'tpl.jsn';
                     $.repos.docker_mysql,
                     $.repos.docker_tomcat,
                     $.repos.kylin_docker,
+                    $.repos.hadoop_docker,
                 ],
                 kubernetes: [
 
@@ -81,6 +82,11 @@ local tpl=import 'tpl.jsn';
                         $.repos.kylin_docker,
                     ],
                 }
+            },
+            bigdata: {
+                hadoop: [
+                    $.repos.hadoop_docker,
+                ],
             },
         },
         infra: {
@@ -148,6 +154,10 @@ local tpl=import 'tpl.jsn';
         {
             name: "template projects",
             topics: $.topics.dev.template_prjs,
+        },
+        {
+            name: "big data",
+            topics: $.topics.architect.bigdata.hadoop,
         },
     ],
 
@@ -326,6 +336,11 @@ local tpl=import 'tpl.jsn';
             user: "Kyligence",
             repos_name: "kylin-docker",
             tags: ["docker"],
+        },
+        tpl.ghrepos + {
+            user: "sequenceiq",
+            repos_name: "hadoop-docker",
+            tags: ["docker","bigdata"],
         },
     ],
 
