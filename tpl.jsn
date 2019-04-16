@@ -25,12 +25,12 @@
     ghtopics: self.ghrepos + {
         user: "topics",
     },
-    tag: {
+    gtag: {
         name: null,
         ghtopics: null,
     },
-    tags: [
-        self.tag + {
+    gtags: [
+        self.gtag + {
             name: "olap",
         },
     ],

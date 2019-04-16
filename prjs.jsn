@@ -155,71 +155,88 @@ local tpl=import 'tpl.jsn';
         tpl.ghrepos + {
             user: "tesseract-ocr",
             repos_name: "tesseract",
+            tags: ["c"],
         },
         tpl.ghrepos + {
             user: "zsh-users",
             repos_name: "zsh",
+            tags: ["c"],
         },
         tpl.ghrepos + {
             user: "mackyle",
             repos_name: "sqlite",
+            tags: ["c"],
         },
         tpl.ghrepos + {
             user: "antonyantony",
             repos_name: "openssh",
+            tags: ["c"],
         },
         tpl.ghrepos + {
             user: "tmux",
             repos_name: "tmux",
+            tags: ["c"],
         },
         tpl.ghrepos + {
             user: "postgres",
             repos_name: "postgres",
+            tags: ["c"],
         },
         tpl.ghrepos + {
             user: "PaddlePaddle",
             repos_name: "Paddle",
+            tags: ["c"],
         },
         tpl.ghrepos + {
             user: "mysql",
             repos_name: "mysql-server",
+            tags: ["c"],
         },
         tpl.ghrepos + {
             user: "MaskRay",
             repos_name: "ccls",
+            tags: ["cpp"],
         },
         tpl.ghrepos + {
             user: "apache",
             repos_name: "impala",
+            tags: ["c"],
         },
         tpl.ghrepos + {
             user: "antirez",
             repos_name: "redis",
+            tags: ["c"],
         },
         tpl.ghrepos + {
             user: "git",
             repos_name: "git",
+            tags: ["c"],
         },
         tpl.ghrepos + {
             user: "vim",
             repos_name: "vim",
+            tags: ["c"],
         },
         tpl.ghrepos + {
             user: "zhicwu",
             repos_name: "docker-pdi-ce",
+            tags: ["docker-compose"],
         },
         tpl.ghrepos + {
             user: "pentaho",
             repos_name: "pentaho-kettle",
+            tags: ["java"],
         },
         tpl.ghrepos + {
             user: "bbotev01",
             repos_name: "gpdb5",
             alias: "docker-gpdb5",
+            tags: ["docker","greenplum"],
         },
         tpl.ghrepos + {
             user: "andreasscherbaum",
             repos_name: "gpdb-ansible",
+            tags: ["ansible","greenplum"],
         },
         tpl.ghrepos + {
             user: "faer615",
@@ -230,70 +247,85 @@ local tpl=import 'tpl.jsn';
         tpl.ghrepos + {
             user: "greenplum-db",
             repos_name: "gpdb",
+            tags: ["greenplum"],
         },
         tpl.ghrepos + {
             user: "oggers",
             repos_name: "ansible.pentaho-biserver-ce",
+            tags: ["docker-compose"],
         },
         tpl.ghrepos + {
             user: "apache",
             repos_name: "kylin",
+            tags: ["java","olap"],
         },
         tpl.ghrepos + {
             user: "cloudera-labs",
             repos_name: "envelope",
+            tags: ["java"],
         },
         tpl.ghrepos + {
             user: "majinju",
             repos_name: "kettle-manager",
             score: 2,
+            tags: ["java"],
         },
         tpl.ghrepos + {
             user: "JoeyBling",
             repos_name: "webkettle",
+            tags: ["java","docker-compose"],
             forked: true,
         },
         tpl.ghrepos + {
             user: "jhipster",
             repos_name: "generator-jhipster",
             forked: true,
+            tags: ["javascript"],
         },
         tpl.ghrepos + {
             user: "ziogiugno",
             repos_name: "lb-2-jhipster",
             forked: true,
+            tags: ["java"],
         },
         tpl.ghrepos + {
             user: "zhoutaoo",
             repos_name: "SpringCloud",
             forked: true,
+            tags: ["java"],
         },
         tpl.ghrepos + {
             user: "nobodyiam",
             repos_name: "apollo-build-scripts",
+            tags: ["docker-compose"],
         },
         tpl.ghrepos + {
             user: "docker-library",
             repos_name: "tomcat",
             alias: "docker-tomcat",
             score: 2,
+            tags: ["docker"],
         },
         tpl.ghrepos + {
             user: "docker-library",
             repos_name: "mysql",
             alias: "docker-mysql",
+            tags: ["docker"],
         },
         tpl.ghrepos + {
             user: "cmoro-deusto",
             repos_name: "docker-tomcat8",
+            tags: ["docker"],
         },
         tpl.ghrepos + {
             user: "alibaba",
             repos_name: "f2etest",
+            tags: ["testing"],
         },
         tpl.ghrepos + {
             user: "Kyligence",
             repos_name: "kylin-docker",
+            tags: ["docker"],
         },
     ],
 
