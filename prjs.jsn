@@ -42,6 +42,8 @@ local tpl=import 'tpl.jsn';
                     $.repos.greenplum_ansible,
                     $.repos.ansible_pentaho_biserver_ce,
                     $.repos.hadoop_ansible,
+                    $.repos.ansible_playbooks_cdh5,
+                    $.repos.ansible_playbooks_cdh6,
                     $.repos.kubespray,
                 ],
                 docker_compose: [
@@ -96,6 +98,10 @@ local tpl=import 'tpl.jsn';
                 hbase: [
                 ],
                 hive: [
+                ],
+                cdh: [
+                    $.repos.ansible_playbooks_cdh5,
+                    $.repos.ansible_playbooks_cdh6,
                 ],
                 olap: $.topics.architect.olap.bigdata.engine,
             },
@@ -287,6 +293,7 @@ local tpl=import 'tpl.jsn';
             user: "oggers",
             repos_name: "ansible.pentaho-biserver-ce",
             tags: ["docker-compose"],
+            score: 2,
         },
         tpl.ghrepos + {
             user: "apache",
@@ -385,6 +392,16 @@ local tpl=import 'tpl.jsn';
             user: "Orientsoft",
             repos_name: "kubekit",
             tags: ["kubernetes"],
+        },
+        tpl.ghrepos + {
+            user: "mcsrainbow",
+            repos_name: "ansible-playbooks-cdh5",
+            tags: ["ansible","bigdata"],
+        },
+        tpl.ghrepos + {
+            user: "bjddd192",
+            repos_name: "ansible-playbooks-cdh6",
+            tags: ["ansible","bigdata"],
         },
     ],
 

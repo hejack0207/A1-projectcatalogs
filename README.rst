@@ -38,8 +38,9 @@ Categories
 
   + gpdb-ansible https://github.com/andreasscherbaum/gpdb-ansible
   + greenplum-ansible https://github.com/faer615/greenplum
-  + ansible.pentaho-biserver-ce https://github.com/oggers/ansible.pentaho-biserver-ce
   + hadoop-ansible https://github.com/analytically/hadoop-ansible
+  + ansible-playbooks-cdh5 https://github.com/mcsrainbow/ansible-playbooks-cdh5
+  + ansible-playbooks-cdh6 https://github.com/bjddd192/ansible-playbooks-cdh6
   + kubespray https://github.com/kubernetes-sigs/kubespray
 
 * kubernetes
@@ -52,7 +53,6 @@ Categories
 
   + pentaho-kettle https://github.com/pentaho/pentaho-kettle
   + docker-pdi-ce https://github.com/zhicwu/docker-pdi-ce
-  + ansible.pentaho-biserver-ce https://github.com/oggers/ansible.pentaho-biserver-ce
   + webkettle https://github.com/hejack0207/webkettle
   + -------------------------- 
   + envelope https://github.com/cloudera-labs/envelope
