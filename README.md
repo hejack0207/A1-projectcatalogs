@@ -1,7 +1,7 @@
 Indexes
 =======
 
--   here is [catalog](Categories).
+-   here is [catalog](#Categories).
 
 ------------------------------------------------------------------------
 ## Categories
