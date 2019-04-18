@@ -1,6 +1,9 @@
 Indexes
 ==========
 project catalog
+Categories
+==========
+
 * build.autotools
 
   + tesseract https://github.com/tesseract-ocr/tesseract
