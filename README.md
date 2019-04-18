@@ -1,3 +1,7 @@
+# TOC
+[Catalog](#catalog)
+[Tags](#tags)
+
 # catalog
 ## build.autotools
   + tesseract <https://github.com/tesseract-ocr/tesseract>
