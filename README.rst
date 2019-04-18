@@ -2,10 +2,10 @@ Indexes
 ==========
 
 * catalog
-  + catalog_.
+  catalog_.
 
 * tags
-  + tags_.
+  tags_.
 
 .. _catalog:
 project catalog
