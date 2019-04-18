@@ -8,8 +8,11 @@ clean:
 #README.md: templates/out.jsn
 	#jsonnet -m ./ -S out.jsn
 
-README.md: README.rst
-	pandoc -f rst -t markdown_github -o $@ $<
+#README.md: README.rst
+	#pandoc -f rst -t markdown_github -o $@ $<
+
+README.md: templates/README.md.j2 prjs.json
+	yasha -v prjs.json $< -o $@
 
 #README.html: README.rst
 	#pandoc -f rst -t html -o $@ $<
