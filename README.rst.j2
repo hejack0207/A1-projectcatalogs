@@ -1,0 +1,36 @@
+Indexes
+==========
+
+* catalog
+  + catalog_.
+
+* tags
+  + tags_.
+
+.. _catalog:
+project catalog
+{% for t in project_category %}
+* {{ t.name }}
+
+    {# for repo in (topics | selectattr(t.topics)) #}
+    {% for repo in t.topics %}
+      {% if repo.score >= 3 %}
+  + {{ repo.alias }} {{ repo.url }}
+      {% endif %}
+    {% endfor %}
+
+{% endfor %}
+
+.. _tags:
+project tags
+{% for t in project_category %}
+* {{ t.name }}
+
+    {# for repo in (topics | selectattr(t.topics)) #}
+    {% for repo in t.topics %}
+      {% if repo.score >= 3 %}
+  + {{ repo.alias }} {{ repo.url }}
+      {% endif %}
+    {% endfor %}
+
+{% endfor %}
