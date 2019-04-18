@@ -17,4 +17,7 @@ project-catalog.rst: project-catalog.rst.j2 prjs.json
 project-tags.rst: project-tags.rst.j2 prjs.json
 	yasha -v prjs.json $< -o $@
 
+README.rst: README.rst.j2 prjs.json
+	yasha -v prjs.json $< -o $@
+
 .PHONY: all
