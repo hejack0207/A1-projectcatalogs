@@ -14,7 +14,7 @@ clean:
 README.md: templates/README.md.j2 prjs.json
 	yasha -v prjs.json $< -o $@
 	#yasha -v prjs.json $< -o /tmp/README.md
-	#pandoc -f markdown -t markdown_github /tmp/README.md | sponge $@
+	#pandoc -f markdown -t markdown_strict /tmp/README.md | sponge $@
 
 #README.html: README.rst
 	#pandoc -f rst -t html -o $@ $<
