@@ -4,7 +4,7 @@ Indexes
 -   here is [catalog](Categories).
 
 ------------------------------------------------------------------------
-
+## Categories
 -   build.autotools
     -   tesseract <https://github.com/tesseract-ocr/tesseract>
     -   zsh <https://github.com/zsh-users/zsh>
