@@ -1,5 +1,3 @@
-[toc]
-
 # catalog
 ## build.autotools
   + tesseract <https://github.com/tesseract-ocr/tesseract>

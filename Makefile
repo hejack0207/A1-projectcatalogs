@@ -11,7 +11,7 @@ clean:
 #README.md: README.rst
 	#pandoc -f rst -t markdown_github -o $@ $<
 
-README.md: templates/README.md.j2 prjs.json
+templates/README.md: templates/README.md.j2 prjs.json
 	yasha -v prjs.json $< -o $@
 	#yasha -v prjs.json $< -o /tmp/README.md
 	#pandoc -f markdown -t markdown_strict /tmp/README.md | sponge $@
@@ -28,7 +28,10 @@ project-catalog.rst: templates/project-catalog.rst.j2 prjs.json
 project-tags.rst: templates/project-tags.rst.j2 prjs.json
 	yasha -v prjs.json $< -o $@
 
-README.rst: templates/README.rst.j2 prjs.json
-	yasha -v prjs.json $< -o $@
+#README.rst: templates/README.rst.j2 prjs.json
+	#yasha -v prjs.json $< -o $@
+
+README.rst: templates/README.md
+	pandoc -f markdown -t rst --toc -o $@ $<
 
 .PHONY: all
