@@ -6,7 +6,7 @@ Indexes
 
 * tags
   `tags
-<https://github.com/hejack0207/projectcatalogs/project-tags.rst>`_
+<https://github.com/hejack0207/projectcatalogs/blob/master/project-tags.rst>`_
 
 .. _catalog: https://github.com/hejack0207/projectcatalogs/blob/master/project-catalog.rst
-.. _tags: https://github.com/hejack0207/projectcatalogs/project-tags.rst
+.. _tags: https://github.com/hejack0207/projectcatalogs/blob/master/project-tags.rst
