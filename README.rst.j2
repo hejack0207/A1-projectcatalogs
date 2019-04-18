@@ -1,13 +1,5 @@
 Indexes
 ==========
-
-* catalog
-  catalog_.
-
-* tags
-  tags_.
-
-.. _catalog:
 project catalog
 {% for t in project_category %}
 * {{ t.name }}
@@ -17,18 +9,6 @@ project catalog
       {% if repo.score >= 3 %}
   + {{ repo.alias }} {{ repo.url }}
       {% endif %}
-    {% endfor %}
-
-{% endfor %}
-
-.. _tags:
-project tags
-{% for k,v in tags.contents | dictsort %}
-* {{ k }}
-
-    {# for repo in (topics | selectattr(t.topics)) #}
-    {% for repo in v %}
-  + {{ repo.alias }} {{ repo.url }}
     {% endfor %}
 
 {% endfor %}
