@@ -1,10 +1,27 @@
-Indexes
-==========
 here is [catalog](#catalog)
+
 here is [tags](#tags)
 
 # catalog
-{% include 'project-catalog.rst.j2' %}
+{% for t in project_category %}
+* {{ t.name }}
+
+    {# for repo in (topics | selectattr(t.topics)) #}
+    {% for repo in t.topics %}
+      {% if repo.score >= 3 %}
+  + {{ repo.alias }} {{ repo.url }}
+      {% endif %}
+    {% endfor %}
+
+{% endfor %}
 
 # tags
-{% include 'project-tags.rst.j2' %}
+{% for k,v in tags.contents | dictsort %}
+* {{ k }}
+
+    {# for repo in (topics | selectattr(t.topics)) #}
+    {% for repo in v %}
+  + {{ repo.alias }} {{ repo.url }}
+    {% endfor %}
+
+{% endfor %}

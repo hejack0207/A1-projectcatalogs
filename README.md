@@ -1,13 +1,9 @@
-Indexes
-=======
+here is [catalog](#catalog)
 
-here is [catalog](#catalog) here is [tags](#tags)
+here is [tags](#tags)
 
 catalog
 =======
-
-Categories
-==========
 
 -   build.autotools
 
@@ -107,9 +103,6 @@ Categories
 -   kylin-docker https://github.com/Kyligence/kylin-docker
 
 tags
-====
-
-Tags
 ====
 
 -   ansible
