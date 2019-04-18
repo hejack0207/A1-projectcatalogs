@@ -7,7 +7,7 @@ here is [tags]
 * {{ t.name }}
     {% for repo in t.topics %}
       {% if repo.score >= 3 %}
-  + {{ repo.alias }} {{ repo.url }}
+  + {{ repo.alias }} <{{ repo.url }}>
       {% endif %}
     {% endfor %}
 
@@ -17,7 +17,7 @@ here is [tags]
 {% for k,v in tags.contents | dictsort %}
 * {{ k }}
     {% for repo in v %}
-  + {{ repo.alias }} {{ repo.url }}
+  + {{ repo.alias }} <{{ repo.url }}>
     {% endfor %}
 
 {% endfor %}
