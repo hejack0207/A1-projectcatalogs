@@ -1,10 +1,8 @@
-here is [catalog](#catalog)
-
-here is [tags](#tags)
+[toc]
 
 # catalog
 {% for t in project_category %}
-* {{ t.name }}
+## {{ t.name }}
     {% for repo in t.topics %}
       {% if repo.score >= 3 %}
   + {{ repo.alias }} <{{ repo.url }}>
@@ -15,7 +13,7 @@ here is [tags](#tags)
 
 # tags
 {% for k,v in tags.contents | dictsort %}
-* {{ k }}
+## {{ k }}
     {% for repo in v %}
   + {{ repo.alias }} <{{ repo.url }}>
     {% endfor %}
