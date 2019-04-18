@@ -6,7 +6,6 @@ catalog
 =======
 
 -   build.autotools
-
 -   tesseract https://github.com/tesseract-ocr/tesseract
 -   zsh https://github.com/zsh-users/zsh
 -   sqlite https://github.com/mackyle/sqlite
@@ -15,20 +14,17 @@ catalog
 -   postgres https://github.com/postgres/postgres
 
 -   build.cmake
-
 -   impala https://github.com/apache/impala
 -   Paddle https://github.com/PaddlePaddle/Paddle
 -   mysql-server https://github.com/mysql/mysql-server
 -   ccls https://github.com/MaskRay/ccls
 
 -   build.make
-
 -   redis https://github.com/antirez/redis
 -   git https://github.com/git/git
 -   vim https://github.com/vim/vim
 
 -   docker-compose
-
 -   docker-pdi-ce https://github.com/zhicwu/docker-pdi-ce
 -   docker-gpdb5 https://github.com/bbotev01/gpdb5
 -   apollo-build-scripts
@@ -43,7 +39,6 @@ catalog
 -   hadoop-docker https://github.com/sequenceiq/hadoop-docker
 
 -   ansible
-
 -   gpdb-ansible https://github.com/andreasscherbaum/gpdb-ansible
 -   greenplum-ansible https://github.com/faer615/greenplum
 -   hadoop-ansible https://github.com/analytically/hadoop-ansible
@@ -54,14 +49,12 @@ catalog
 -   kubespray https://github.com/kubernetes-sigs/kubespray
 
 -   kubernetes
-
 -   kubespray https://github.com/kubernetes-sigs/kubespray
 -   kubekit https://github.com/Orientsoft/kubekit
 -   hadoop-kerberos-helm
     https://github.com/ifilonenko/hadoop-kerberos-helm
 
 -   etl
-
 -   pentaho-kettle https://github.com/pentaho/pentaho-kettle
 -   docker-pdi-ce https://github.com/zhicwu/docker-pdi-ce
 -   webkettle https://github.com/hejack0207/webkettle
@@ -72,7 +65,6 @@ catalog
 -   envelope https://github.com/cloudera-labs/envelope
 
 -   postgres
-
 -   postgres https://github.com/postgres/postgres
 -   gpdb https://github.com/greenplum-db/gpdb
 -   docker-gpdb5 https://github.com/bbotev01/gpdb5
@@ -80,21 +72,17 @@ catalog
 -   greenplum-ansible https://github.com/faer615/greenplum
 
 -   olap
-
 -   kylin https://github.com/apache/kylin
 -   kylin-docker https://github.com/Kyligence/kylin-docker
 
 -   scaffold
-
 -   generator-jhipster https://github.com/hejack0207/generator-jhipster
 -   lb-2-jhipster https://github.com/hejack0207/lb-2-jhipster
 
 -   template projects
-
 -   SpringCloud https://github.com/hejack0207/SpringCloud
 
 -   big data
-
 -   hadoop-docker https://github.com/sequenceiq/hadoop-docker
 -   hadoop-ansible https://github.com/analytically/hadoop-ansible
 -   hadoop-kerberos-helm
@@ -106,7 +94,6 @@ tags
 ====
 
 -   ansible
-
 -   gpdb-ansible https://github.com/andreasscherbaum/gpdb-ansible
 -   greenplum-ansible https://github.com/faer615/greenplum
 -   hadoop-ansible https://github.com/analytically/hadoop-ansible
@@ -117,7 +104,6 @@ tags
     https://github.com/bjddd192/ansible-playbooks-cdh6
 
 -   bigdata
-
 -   hadoop-docker https://github.com/sequenceiq/hadoop-docker
 -   hadoop-ansible https://github.com/analytically/hadoop-ansible
 -   ansible-playbooks-cdh5
@@ -126,7 +112,6 @@ tags
     https://github.com/bjddd192/ansible-playbooks-cdh6
 
 -   c
-
 -   tesseract https://github.com/tesseract-ocr/tesseract
 -   zsh https://github.com/zsh-users/zsh
 -   sqlite https://github.com/mackyle/sqlite
@@ -141,11 +126,9 @@ tags
 -   vim https://github.com/vim/vim
 
 -   cpp
-
 -   ccls https://github.com/MaskRay/ccls
 
 -   docker
-
 -   docker-gpdb5 https://github.com/bbotev01/gpdb5
 -   docker-tomcat https://github.com/docker-library/tomcat
 -   docker-mysql https://github.com/docker-library/mysql
@@ -154,7 +137,6 @@ tags
 -   hadoop-docker https://github.com/sequenceiq/hadoop-docker
 
 -   docker-compose
-
 -   docker-pdi-ce https://github.com/zhicwu/docker-pdi-ce
 -   ansible.pentaho-biserver-ce
     https://github.com/oggers/ansible.pentaho-biserver-ce
@@ -163,25 +145,21 @@ tags
     https://github.com/nobodyiam/apollo-build-scripts
 
 -   greenplum
-
 -   docker-gpdb5 https://github.com/bbotev01/gpdb5
 -   gpdb-ansible https://github.com/andreasscherbaum/gpdb-ansible
 -   greenplum-ansible https://github.com/faer615/greenplum
 -   gpdb https://github.com/greenplum-db/gpdb
 
 -   hadoop
-
 -   hadoop-ansible https://github.com/analytically/hadoop-ansible
 -   hadoop-kerberos-helm
     https://github.com/ifilonenko/hadoop-kerberos-helm
 
 -   helm
-
 -   hadoop-kerberos-helm
     https://github.com/ifilonenko/hadoop-kerberos-helm
 
 -   java
-
 -   pentaho-kettle https://github.com/pentaho/pentaho-kettle
 -   kylin https://github.com/apache/kylin
 -   envelope https://github.com/cloudera-labs/envelope
@@ -191,22 +169,18 @@ tags
 -   SpringCloud https://github.com/hejack0207/SpringCloud
 
 -   javascript
-
 -   generator-jhipster https://github.com/hejack0207/generator-jhipster
 
 -   kubernetes
-
 -   hadoop-kerberos-helm
     https://github.com/ifilonenko/hadoop-kerberos-helm
 -   kubespray https://github.com/kubernetes-sigs/kubespray
 -   kubekit https://github.com/Orientsoft/kubekit
 
 -   olap
-
 -   kylin https://github.com/apache/kylin
 
 -   testing
-
 -   f2etest https://github.com/alibaba/f2etest
 
 
