@@ -2,12 +2,13 @@ Indexes
 ==========
 
 * catalog
-  + catalog_
+  + catalog_.
 
 * tags
-  + tags_
+  + tags_.
 
 .. _catalog:
+project catalog
 * build.autotools
 
   + tesseract https://github.com/tesseract-ocr/tesseract
@@ -96,6 +97,7 @@ Indexes
 
 
 .. _tags:
+project tags
 * build.autotools
 
   + tesseract https://github.com/tesseract-ocr/tesseract
