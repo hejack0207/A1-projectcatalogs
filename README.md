@@ -1,6 +1,6 @@
 # TOC
-[Catalog](#catalog)
-[Tags](#tags)
+* [Catalog](#catalog)
+* [Tags](#tags)
 
 # catalog
 ## build.autotools
