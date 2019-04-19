@@ -3,7 +3,7 @@ Indexes
 * here is catalog_.
 
 
-.. _catalog: 
+.. _catalog:
 Categories
 ==========
 
