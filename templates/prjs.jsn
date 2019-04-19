@@ -181,6 +181,10 @@ local tpl=import 'tpl.jsn';
             topics: $.topics.architect.bigdata.hadoop +
                 $.topics.architect.bigdata.olap,
         },
+        {
+            name: "documentation",
+            topics: $.topics.dev.documentation.restructed,
+        },
     ],
 
     tags: {

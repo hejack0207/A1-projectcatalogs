@@ -93,6 +93,10 @@ Categories
   + kylin https://github.com/apache/kylin
   + kylin-docker https://github.com/Kyligence/kylin-docker
 
+* documentation
+
+  + lb-2-jhipster https://github.com/hejack0207/lb-2-jhipster
+
 
 .. _tags:
 Tags
