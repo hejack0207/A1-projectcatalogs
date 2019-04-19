@@ -1,0 +1,1662 @@
+{
+   "project_category": [
+      {
+         "name": "build.autotools",
+         "topics": [
+            {
+               "alias": "tesseract",
+               "forked": false,
+               "release": null,
+               "repos_name": "tesseract",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "c"
+               ],
+               "url": "https://github.com/tesseract-ocr/tesseract",
+               "user": "tesseract-ocr"
+            },
+            {
+               "alias": "zsh",
+               "forked": false,
+               "release": null,
+               "repos_name": "zsh",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "c"
+               ],
+               "url": "https://github.com/zsh-users/zsh",
+               "user": "zsh-users"
+            },
+            {
+               "alias": "sqlite",
+               "forked": false,
+               "release": null,
+               "repos_name": "sqlite",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "c"
+               ],
+               "url": "https://github.com/mackyle/sqlite",
+               "user": "mackyle"
+            },
+            {
+               "alias": "openssh",
+               "forked": false,
+               "release": null,
+               "repos_name": "openssh",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "c"
+               ],
+               "url": "https://github.com/antonyantony/openssh",
+               "user": "antonyantony"
+            },
+            {
+               "alias": "tmux",
+               "forked": false,
+               "release": null,
+               "repos_name": "tmux",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "c"
+               ],
+               "url": "https://github.com/tmux/tmux",
+               "user": "tmux"
+            },
+            {
+               "alias": "postgres",
+               "forked": false,
+               "release": null,
+               "repos_name": "postgres",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "c"
+               ],
+               "url": "https://github.com/postgres/postgres",
+               "user": "postgres"
+            }
+         ]
+      },
+      {
+         "name": "build.cmake",
+         "topics": [
+            {
+               "alias": "impala",
+               "forked": false,
+               "release": null,
+               "repos_name": "impala",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "c"
+               ],
+               "url": "https://github.com/apache/impala",
+               "user": "apache"
+            },
+            {
+               "alias": "Paddle",
+               "forked": false,
+               "release": null,
+               "repos_name": "Paddle",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "c"
+               ],
+               "url": "https://github.com/PaddlePaddle/Paddle",
+               "user": "PaddlePaddle"
+            },
+            {
+               "alias": "mysql-server",
+               "forked": false,
+               "release": null,
+               "repos_name": "mysql-server",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "c"
+               ],
+               "url": "https://github.com/mysql/mysql-server",
+               "user": "mysql"
+            },
+            {
+               "alias": "ccls",
+               "forked": false,
+               "release": null,
+               "repos_name": "ccls",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "cpp"
+               ],
+               "url": "https://github.com/MaskRay/ccls",
+               "user": "MaskRay"
+            }
+         ]
+      },
+      {
+         "name": "build.make",
+         "topics": [
+            {
+               "alias": "redis",
+               "forked": false,
+               "release": null,
+               "repos_name": "redis",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "c"
+               ],
+               "url": "https://github.com/antirez/redis",
+               "user": "antirez"
+            },
+            {
+               "alias": "git",
+               "forked": false,
+               "release": null,
+               "repos_name": "git",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "c"
+               ],
+               "url": "https://github.com/git/git",
+               "user": "git"
+            },
+            {
+               "alias": "vim",
+               "forked": false,
+               "release": null,
+               "repos_name": "vim",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "c"
+               ],
+               "url": "https://github.com/vim/vim",
+               "user": "vim"
+            }
+         ]
+      },
+      {
+         "name": "docker-compose",
+         "topics": [
+            {
+               "alias": "docker-pdi-ce",
+               "forked": false,
+               "release": null,
+               "repos_name": "docker-pdi-ce",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "docker-compose"
+               ],
+               "url": "https://github.com/zhicwu/docker-pdi-ce",
+               "user": "zhicwu"
+            },
+            {
+               "alias": "docker-gpdb5",
+               "forked": false,
+               "release": null,
+               "repos_name": "gpdb5",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "docker",
+                  "greenplum"
+               ],
+               "url": "https://github.com/bbotev01/gpdb5",
+               "user": "bbotev01"
+            },
+            {
+               "alias": "apollo-build-scripts",
+               "forked": false,
+               "release": null,
+               "repos_name": "apollo-build-scripts",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "docker-compose"
+               ],
+               "url": "https://github.com/nobodyiam/apollo-build-scripts",
+               "user": "nobodyiam"
+            },
+            {
+               "alias": "--------------------------",
+               "forked": false,
+               "release": null,
+               "repos_name": "",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [ ],
+               "url": "",
+               "user": ""
+            },
+            {
+               "alias": "docker-tomcat8",
+               "forked": false,
+               "release": null,
+               "repos_name": "docker-tomcat8",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "docker"
+               ],
+               "url": "https://github.com/cmoro-deusto/docker-tomcat8",
+               "user": "cmoro-deusto"
+            },
+            {
+               "alias": "docker-mysql",
+               "forked": false,
+               "release": null,
+               "repos_name": "mysql",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "docker"
+               ],
+               "url": "https://github.com/docker-library/mysql",
+               "user": "docker-library"
+            },
+            {
+               "alias": "docker-tomcat",
+               "forked": false,
+               "release": null,
+               "repos_name": "tomcat",
+               "score": 2,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "docker"
+               ],
+               "url": "https://github.com/docker-library/tomcat",
+               "user": "docker-library"
+            },
+            {
+               "alias": "kylin-docker",
+               "forked": false,
+               "release": null,
+               "repos_name": "kylin-docker",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "docker"
+               ],
+               "url": "https://github.com/Kyligence/kylin-docker",
+               "user": "Kyligence"
+            },
+            {
+               "alias": "hadoop-docker",
+               "forked": false,
+               "release": null,
+               "repos_name": "hadoop-docker",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "docker",
+                  "bigdata"
+               ],
+               "url": "https://github.com/sequenceiq/hadoop-docker",
+               "user": "sequenceiq"
+            }
+         ]
+      },
+      {
+         "name": "ansible",
+         "topics": [
+            {
+               "alias": "gpdb-ansible",
+               "forked": false,
+               "release": null,
+               "repos_name": "gpdb-ansible",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "ansible",
+                  "greenplum"
+               ],
+               "url": "https://github.com/andreasscherbaum/gpdb-ansible",
+               "user": "andreasscherbaum"
+            },
+            {
+               "alias": "greenplum-ansible",
+               "forked": false,
+               "release": null,
+               "repos_name": "greenplum",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "ansible",
+                  "greenplum"
+               ],
+               "url": "https://github.com/faer615/greenplum",
+               "user": "faer615"
+            },
+            {
+               "alias": "ansible.pentaho-biserver-ce",
+               "forked": false,
+               "release": null,
+               "repos_name": "ansible.pentaho-biserver-ce",
+               "score": 2,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "docker-compose"
+               ],
+               "url": "https://github.com/oggers/ansible.pentaho-biserver-ce",
+               "user": "oggers"
+            },
+            {
+               "alias": "hadoop-ansible",
+               "forked": false,
+               "release": null,
+               "repos_name": "hadoop-ansible",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "ansible",
+                  "bigdata",
+                  "hadoop"
+               ],
+               "url": "https://github.com/analytically/hadoop-ansible",
+               "user": "analytically"
+            },
+            {
+               "alias": "ansible-playbooks-cdh5",
+               "forked": false,
+               "release": null,
+               "repos_name": "ansible-playbooks-cdh5",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "ansible",
+                  "bigdata"
+               ],
+               "url": "https://github.com/mcsrainbow/ansible-playbooks-cdh5",
+               "user": "mcsrainbow"
+            },
+            {
+               "alias": "ansible-playbooks-cdh6",
+               "forked": false,
+               "release": null,
+               "repos_name": "ansible-playbooks-cdh6",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "ansible",
+                  "bigdata"
+               ],
+               "url": "https://github.com/bjddd192/ansible-playbooks-cdh6",
+               "user": "bjddd192"
+            },
+            {
+               "alias": "kubespray",
+               "forked": false,
+               "release": null,
+               "repos_name": "kubespray",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "kubernetes",
+                  "ansible"
+               ],
+               "url": "https://github.com/kubernetes-sigs/kubespray",
+               "user": "kubernetes-sigs"
+            }
+         ]
+      },
+      {
+         "name": "kubernetes",
+         "topics": [
+            {
+               "alias": "kubespray",
+               "forked": false,
+               "release": null,
+               "repos_name": "kubespray",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "kubernetes",
+                  "ansible"
+               ],
+               "url": "https://github.com/kubernetes-sigs/kubespray",
+               "user": "kubernetes-sigs"
+            },
+            {
+               "alias": "kubekit",
+               "forked": false,
+               "release": null,
+               "repos_name": "kubekit",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "kubernetes"
+               ],
+               "url": "https://github.com/Orientsoft/kubekit",
+               "user": "Orientsoft"
+            },
+            {
+               "alias": "hadoop-kerberos-helm",
+               "forked": false,
+               "release": null,
+               "repos_name": "hadoop-kerberos-helm",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "helm",
+                  "kubernetes",
+                  "hadoop"
+               ],
+               "url": "https://github.com/ifilonenko/hadoop-kerberos-helm",
+               "user": "ifilonenko"
+            }
+         ]
+      },
+      {
+         "name": "etl",
+         "topics": [
+            {
+               "alias": "pentaho-kettle",
+               "forked": false,
+               "release": null,
+               "repos_name": "pentaho-kettle",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "java"
+               ],
+               "url": "https://github.com/pentaho/pentaho-kettle",
+               "user": "pentaho"
+            },
+            {
+               "alias": "docker-pdi-ce",
+               "forked": false,
+               "release": null,
+               "repos_name": "docker-pdi-ce",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "docker-compose"
+               ],
+               "url": "https://github.com/zhicwu/docker-pdi-ce",
+               "user": "zhicwu"
+            },
+            {
+               "alias": "ansible.pentaho-biserver-ce",
+               "forked": false,
+               "release": null,
+               "repos_name": "ansible.pentaho-biserver-ce",
+               "score": 2,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "docker-compose"
+               ],
+               "url": "https://github.com/oggers/ansible.pentaho-biserver-ce",
+               "user": "oggers"
+            },
+            {
+               "alias": "webkettle",
+               "forked": true,
+               "release": null,
+               "repos_name": "webkettle",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "java",
+                  "docker-compose"
+               ],
+               "url": "https://github.com/hejack0207/webkettle",
+               "user": "JoeyBling"
+            },
+            {
+               "alias": "kettle-manager",
+               "forked": false,
+               "release": null,
+               "repos_name": "kettle-manager",
+               "score": 2,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "java"
+               ],
+               "url": "https://github.com/majinju/kettle-manager",
+               "user": "majinju"
+            },
+            {
+               "alias": "--------------------------",
+               "forked": false,
+               "release": null,
+               "repos_name": "",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [ ],
+               "url": "",
+               "user": ""
+            },
+            {
+               "alias": "envelope",
+               "forked": false,
+               "release": null,
+               "repos_name": "envelope",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "java"
+               ],
+               "url": "https://github.com/cloudera-labs/envelope",
+               "user": "cloudera-labs"
+            }
+         ]
+      },
+      {
+         "name": "postgres",
+         "topics": [
+            {
+               "alias": "postgres",
+               "forked": false,
+               "release": null,
+               "repos_name": "postgres",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "c"
+               ],
+               "url": "https://github.com/postgres/postgres",
+               "user": "postgres"
+            },
+            {
+               "alias": "gpdb",
+               "forked": false,
+               "release": null,
+               "repos_name": "gpdb",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "greenplum"
+               ],
+               "url": "https://github.com/greenplum-db/gpdb",
+               "user": "greenplum-db"
+            },
+            {
+               "alias": "docker-gpdb5",
+               "forked": false,
+               "release": null,
+               "repos_name": "gpdb5",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "docker",
+                  "greenplum"
+               ],
+               "url": "https://github.com/bbotev01/gpdb5",
+               "user": "bbotev01"
+            },
+            {
+               "alias": "gpdb-ansible",
+               "forked": false,
+               "release": null,
+               "repos_name": "gpdb-ansible",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "ansible",
+                  "greenplum"
+               ],
+               "url": "https://github.com/andreasscherbaum/gpdb-ansible",
+               "user": "andreasscherbaum"
+            },
+            {
+               "alias": "greenplum-ansible",
+               "forked": false,
+               "release": null,
+               "repos_name": "greenplum",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "ansible",
+                  "greenplum"
+               ],
+               "url": "https://github.com/faer615/greenplum",
+               "user": "faer615"
+            }
+         ]
+      },
+      {
+         "name": "olap",
+         "topics": [
+            {
+               "alias": "kylin",
+               "forked": false,
+               "release": null,
+               "repos_name": "kylin",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "java",
+                  "olap"
+               ],
+               "url": "https://github.com/apache/kylin",
+               "user": "apache"
+            },
+            {
+               "alias": "kylin-docker",
+               "forked": false,
+               "release": null,
+               "repos_name": "kylin-docker",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "docker"
+               ],
+               "url": "https://github.com/Kyligence/kylin-docker",
+               "user": "Kyligence"
+            }
+         ]
+      },
+      {
+         "name": "scaffold",
+         "topics": [
+            {
+               "alias": "generator-jhipster",
+               "forked": true,
+               "release": null,
+               "repos_name": "generator-jhipster",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "javascript"
+               ],
+               "url": "https://github.com/hejack0207/generator-jhipster",
+               "user": "jhipster"
+            },
+            {
+               "alias": "lb-2-jhipster",
+               "forked": true,
+               "release": null,
+               "repos_name": "lb-2-jhipster",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "java"
+               ],
+               "url": "https://github.com/hejack0207/lb-2-jhipster",
+               "user": "ziogiugno"
+            }
+         ]
+      },
+      {
+         "name": "template projects",
+         "topics": [
+            {
+               "alias": "SpringCloud",
+               "forked": true,
+               "release": null,
+               "repos_name": "SpringCloud",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "java"
+               ],
+               "url": "https://github.com/hejack0207/SpringCloud",
+               "user": "zhoutaoo"
+            }
+         ]
+      },
+      {
+         "name": "big data",
+         "topics": [
+            {
+               "alias": "hadoop-docker",
+               "forked": false,
+               "release": null,
+               "repos_name": "hadoop-docker",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "docker",
+                  "bigdata"
+               ],
+               "url": "https://github.com/sequenceiq/hadoop-docker",
+               "user": "sequenceiq"
+            },
+            {
+               "alias": "hadoop-ansible",
+               "forked": false,
+               "release": null,
+               "repos_name": "hadoop-ansible",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "ansible",
+                  "bigdata",
+                  "hadoop"
+               ],
+               "url": "https://github.com/analytically/hadoop-ansible",
+               "user": "analytically"
+            },
+            {
+               "alias": "hadoop-kerberos-helm",
+               "forked": false,
+               "release": null,
+               "repos_name": "hadoop-kerberos-helm",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "helm",
+                  "kubernetes",
+                  "hadoop"
+               ],
+               "url": "https://github.com/ifilonenko/hadoop-kerberos-helm",
+               "user": "ifilonenko"
+            },
+            {
+               "alias": "kylin",
+               "forked": false,
+               "release": null,
+               "repos_name": "kylin",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "java",
+                  "olap"
+               ],
+               "url": "https://github.com/apache/kylin",
+               "user": "apache"
+            },
+            {
+               "alias": "kylin-docker",
+               "forked": false,
+               "release": null,
+               "repos_name": "kylin-docker",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "docker"
+               ],
+               "url": "https://github.com/Kyligence/kylin-docker",
+               "user": "Kyligence"
+            }
+         ]
+      },
+      {
+         "name": "documentation",
+         "topics": [
+            {
+               "alias": "lb-2-jhipster",
+               "forked": true,
+               "release": null,
+               "repos_name": "lb-2-jhipster",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "java"
+               ],
+               "url": "https://github.com/hejack0207/lb-2-jhipster",
+               "user": "ziogiugno"
+            }
+         ]
+      }
+   ],
+   "tags": {
+      "contents": {
+         "ansible": [
+            {
+               "alias": "gpdb-ansible",
+               "forked": false,
+               "release": null,
+               "repos_name": "gpdb-ansible",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "ansible",
+                  "greenplum"
+               ],
+               "url": "https://github.com/andreasscherbaum/gpdb-ansible",
+               "user": "andreasscherbaum"
+            },
+            {
+               "alias": "greenplum-ansible",
+               "forked": false,
+               "release": null,
+               "repos_name": "greenplum",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "ansible",
+                  "greenplum"
+               ],
+               "url": "https://github.com/faer615/greenplum",
+               "user": "faer615"
+            },
+            {
+               "alias": "hadoop-ansible",
+               "forked": false,
+               "release": null,
+               "repos_name": "hadoop-ansible",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "ansible",
+                  "bigdata",
+                  "hadoop"
+               ],
+               "url": "https://github.com/analytically/hadoop-ansible",
+               "user": "analytically"
+            },
+            {
+               "alias": "kubespray",
+               "forked": false,
+               "release": null,
+               "repos_name": "kubespray",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "kubernetes",
+                  "ansible"
+               ],
+               "url": "https://github.com/kubernetes-sigs/kubespray",
+               "user": "kubernetes-sigs"
+            },
+            {
+               "alias": "ansible-playbooks-cdh5",
+               "forked": false,
+               "release": null,
+               "repos_name": "ansible-playbooks-cdh5",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "ansible",
+                  "bigdata"
+               ],
+               "url": "https://github.com/mcsrainbow/ansible-playbooks-cdh5",
+               "user": "mcsrainbow"
+            },
+            {
+               "alias": "ansible-playbooks-cdh6",
+               "forked": false,
+               "release": null,
+               "repos_name": "ansible-playbooks-cdh6",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "ansible",
+                  "bigdata"
+               ],
+               "url": "https://github.com/bjddd192/ansible-playbooks-cdh6",
+               "user": "bjddd192"
+            }
+         ],
+         "bigdata": [
+            {
+               "alias": "hadoop-docker",
+               "forked": false,
+               "release": null,
+               "repos_name": "hadoop-docker",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "docker",
+                  "bigdata"
+               ],
+               "url": "https://github.com/sequenceiq/hadoop-docker",
+               "user": "sequenceiq"
+            },
+            {
+               "alias": "hadoop-ansible",
+               "forked": false,
+               "release": null,
+               "repos_name": "hadoop-ansible",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "ansible",
+                  "bigdata",
+                  "hadoop"
+               ],
+               "url": "https://github.com/analytically/hadoop-ansible",
+               "user": "analytically"
+            },
+            {
+               "alias": "ansible-playbooks-cdh5",
+               "forked": false,
+               "release": null,
+               "repos_name": "ansible-playbooks-cdh5",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "ansible",
+                  "bigdata"
+               ],
+               "url": "https://github.com/mcsrainbow/ansible-playbooks-cdh5",
+               "user": "mcsrainbow"
+            },
+            {
+               "alias": "ansible-playbooks-cdh6",
+               "forked": false,
+               "release": null,
+               "repos_name": "ansible-playbooks-cdh6",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "ansible",
+                  "bigdata"
+               ],
+               "url": "https://github.com/bjddd192/ansible-playbooks-cdh6",
+               "user": "bjddd192"
+            }
+         ],
+         "c": [
+            {
+               "alias": "tesseract",
+               "forked": false,
+               "release": null,
+               "repos_name": "tesseract",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "c"
+               ],
+               "url": "https://github.com/tesseract-ocr/tesseract",
+               "user": "tesseract-ocr"
+            },
+            {
+               "alias": "zsh",
+               "forked": false,
+               "release": null,
+               "repos_name": "zsh",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "c"
+               ],
+               "url": "https://github.com/zsh-users/zsh",
+               "user": "zsh-users"
+            },
+            {
+               "alias": "sqlite",
+               "forked": false,
+               "release": null,
+               "repos_name": "sqlite",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "c"
+               ],
+               "url": "https://github.com/mackyle/sqlite",
+               "user": "mackyle"
+            },
+            {
+               "alias": "openssh",
+               "forked": false,
+               "release": null,
+               "repos_name": "openssh",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "c"
+               ],
+               "url": "https://github.com/antonyantony/openssh",
+               "user": "antonyantony"
+            },
+            {
+               "alias": "tmux",
+               "forked": false,
+               "release": null,
+               "repos_name": "tmux",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "c"
+               ],
+               "url": "https://github.com/tmux/tmux",
+               "user": "tmux"
+            },
+            {
+               "alias": "postgres",
+               "forked": false,
+               "release": null,
+               "repos_name": "postgres",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "c"
+               ],
+               "url": "https://github.com/postgres/postgres",
+               "user": "postgres"
+            },
+            {
+               "alias": "Paddle",
+               "forked": false,
+               "release": null,
+               "repos_name": "Paddle",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "c"
+               ],
+               "url": "https://github.com/PaddlePaddle/Paddle",
+               "user": "PaddlePaddle"
+            },
+            {
+               "alias": "mysql-server",
+               "forked": false,
+               "release": null,
+               "repos_name": "mysql-server",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "c"
+               ],
+               "url": "https://github.com/mysql/mysql-server",
+               "user": "mysql"
+            },
+            {
+               "alias": "impala",
+               "forked": false,
+               "release": null,
+               "repos_name": "impala",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "c"
+               ],
+               "url": "https://github.com/apache/impala",
+               "user": "apache"
+            },
+            {
+               "alias": "redis",
+               "forked": false,
+               "release": null,
+               "repos_name": "redis",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "c"
+               ],
+               "url": "https://github.com/antirez/redis",
+               "user": "antirez"
+            },
+            {
+               "alias": "git",
+               "forked": false,
+               "release": null,
+               "repos_name": "git",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "c"
+               ],
+               "url": "https://github.com/git/git",
+               "user": "git"
+            },
+            {
+               "alias": "vim",
+               "forked": false,
+               "release": null,
+               "repos_name": "vim",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "c"
+               ],
+               "url": "https://github.com/vim/vim",
+               "user": "vim"
+            }
+         ],
+         "cpp": [
+            {
+               "alias": "ccls",
+               "forked": false,
+               "release": null,
+               "repos_name": "ccls",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "cpp"
+               ],
+               "url": "https://github.com/MaskRay/ccls",
+               "user": "MaskRay"
+            }
+         ],
+         "docker": [
+            {
+               "alias": "docker-gpdb5",
+               "forked": false,
+               "release": null,
+               "repos_name": "gpdb5",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "docker",
+                  "greenplum"
+               ],
+               "url": "https://github.com/bbotev01/gpdb5",
+               "user": "bbotev01"
+            },
+            {
+               "alias": "docker-tomcat",
+               "forked": false,
+               "release": null,
+               "repos_name": "tomcat",
+               "score": 2,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "docker"
+               ],
+               "url": "https://github.com/docker-library/tomcat",
+               "user": "docker-library"
+            },
+            {
+               "alias": "docker-mysql",
+               "forked": false,
+               "release": null,
+               "repos_name": "mysql",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "docker"
+               ],
+               "url": "https://github.com/docker-library/mysql",
+               "user": "docker-library"
+            },
+            {
+               "alias": "docker-tomcat8",
+               "forked": false,
+               "release": null,
+               "repos_name": "docker-tomcat8",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "docker"
+               ],
+               "url": "https://github.com/cmoro-deusto/docker-tomcat8",
+               "user": "cmoro-deusto"
+            },
+            {
+               "alias": "kylin-docker",
+               "forked": false,
+               "release": null,
+               "repos_name": "kylin-docker",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "docker"
+               ],
+               "url": "https://github.com/Kyligence/kylin-docker",
+               "user": "Kyligence"
+            },
+            {
+               "alias": "hadoop-docker",
+               "forked": false,
+               "release": null,
+               "repos_name": "hadoop-docker",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "docker",
+                  "bigdata"
+               ],
+               "url": "https://github.com/sequenceiq/hadoop-docker",
+               "user": "sequenceiq"
+            }
+         ],
+         "docker-compose": [
+            {
+               "alias": "docker-pdi-ce",
+               "forked": false,
+               "release": null,
+               "repos_name": "docker-pdi-ce",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "docker-compose"
+               ],
+               "url": "https://github.com/zhicwu/docker-pdi-ce",
+               "user": "zhicwu"
+            },
+            {
+               "alias": "ansible.pentaho-biserver-ce",
+               "forked": false,
+               "release": null,
+               "repos_name": "ansible.pentaho-biserver-ce",
+               "score": 2,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "docker-compose"
+               ],
+               "url": "https://github.com/oggers/ansible.pentaho-biserver-ce",
+               "user": "oggers"
+            },
+            {
+               "alias": "webkettle",
+               "forked": true,
+               "release": null,
+               "repos_name": "webkettle",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "java",
+                  "docker-compose"
+               ],
+               "url": "https://github.com/hejack0207/webkettle",
+               "user": "JoeyBling"
+            },
+            {
+               "alias": "apollo-build-scripts",
+               "forked": false,
+               "release": null,
+               "repos_name": "apollo-build-scripts",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "docker-compose"
+               ],
+               "url": "https://github.com/nobodyiam/apollo-build-scripts",
+               "user": "nobodyiam"
+            }
+         ],
+         "greenplum": [
+            {
+               "alias": "docker-gpdb5",
+               "forked": false,
+               "release": null,
+               "repos_name": "gpdb5",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "docker",
+                  "greenplum"
+               ],
+               "url": "https://github.com/bbotev01/gpdb5",
+               "user": "bbotev01"
+            },
+            {
+               "alias": "gpdb-ansible",
+               "forked": false,
+               "release": null,
+               "repos_name": "gpdb-ansible",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "ansible",
+                  "greenplum"
+               ],
+               "url": "https://github.com/andreasscherbaum/gpdb-ansible",
+               "user": "andreasscherbaum"
+            },
+            {
+               "alias": "greenplum-ansible",
+               "forked": false,
+               "release": null,
+               "repos_name": "greenplum",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "ansible",
+                  "greenplum"
+               ],
+               "url": "https://github.com/faer615/greenplum",
+               "user": "faer615"
+            },
+            {
+               "alias": "gpdb",
+               "forked": false,
+               "release": null,
+               "repos_name": "gpdb",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "greenplum"
+               ],
+               "url": "https://github.com/greenplum-db/gpdb",
+               "user": "greenplum-db"
+            }
+         ],
+         "hadoop": [
+            {
+               "alias": "hadoop-ansible",
+               "forked": false,
+               "release": null,
+               "repos_name": "hadoop-ansible",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "ansible",
+                  "bigdata",
+                  "hadoop"
+               ],
+               "url": "https://github.com/analytically/hadoop-ansible",
+               "user": "analytically"
+            },
+            {
+               "alias": "hadoop-kerberos-helm",
+               "forked": false,
+               "release": null,
+               "repos_name": "hadoop-kerberos-helm",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "helm",
+                  "kubernetes",
+                  "hadoop"
+               ],
+               "url": "https://github.com/ifilonenko/hadoop-kerberos-helm",
+               "user": "ifilonenko"
+            }
+         ],
+         "helm": [
+            {
+               "alias": "hadoop-kerberos-helm",
+               "forked": false,
+               "release": null,
+               "repos_name": "hadoop-kerberos-helm",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "helm",
+                  "kubernetes",
+                  "hadoop"
+               ],
+               "url": "https://github.com/ifilonenko/hadoop-kerberos-helm",
+               "user": "ifilonenko"
+            }
+         ],
+         "java": [
+            {
+               "alias": "pentaho-kettle",
+               "forked": false,
+               "release": null,
+               "repos_name": "pentaho-kettle",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "java"
+               ],
+               "url": "https://github.com/pentaho/pentaho-kettle",
+               "user": "pentaho"
+            },
+            {
+               "alias": "kylin",
+               "forked": false,
+               "release": null,
+               "repos_name": "kylin",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "java",
+                  "olap"
+               ],
+               "url": "https://github.com/apache/kylin",
+               "user": "apache"
+            },
+            {
+               "alias": "envelope",
+               "forked": false,
+               "release": null,
+               "repos_name": "envelope",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "java"
+               ],
+               "url": "https://github.com/cloudera-labs/envelope",
+               "user": "cloudera-labs"
+            },
+            {
+               "alias": "kettle-manager",
+               "forked": false,
+               "release": null,
+               "repos_name": "kettle-manager",
+               "score": 2,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "java"
+               ],
+               "url": "https://github.com/majinju/kettle-manager",
+               "user": "majinju"
+            },
+            {
+               "alias": "webkettle",
+               "forked": true,
+               "release": null,
+               "repos_name": "webkettle",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "java",
+                  "docker-compose"
+               ],
+               "url": "https://github.com/hejack0207/webkettle",
+               "user": "JoeyBling"
+            },
+            {
+               "alias": "lb-2-jhipster",
+               "forked": true,
+               "release": null,
+               "repos_name": "lb-2-jhipster",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "java"
+               ],
+               "url": "https://github.com/hejack0207/lb-2-jhipster",
+               "user": "ziogiugno"
+            },
+            {
+               "alias": "SpringCloud",
+               "forked": true,
+               "release": null,
+               "repos_name": "SpringCloud",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "java"
+               ],
+               "url": "https://github.com/hejack0207/SpringCloud",
+               "user": "zhoutaoo"
+            }
+         ],
+         "javascript": [
+            {
+               "alias": "generator-jhipster",
+               "forked": true,
+               "release": null,
+               "repos_name": "generator-jhipster",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "javascript"
+               ],
+               "url": "https://github.com/hejack0207/generator-jhipster",
+               "user": "jhipster"
+            }
+         ],
+         "kubernetes": [
+            {
+               "alias": "hadoop-kerberos-helm",
+               "forked": false,
+               "release": null,
+               "repos_name": "hadoop-kerberos-helm",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "helm",
+                  "kubernetes",
+                  "hadoop"
+               ],
+               "url": "https://github.com/ifilonenko/hadoop-kerberos-helm",
+               "user": "ifilonenko"
+            },
+            {
+               "alias": "kubespray",
+               "forked": false,
+               "release": null,
+               "repos_name": "kubespray",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "kubernetes",
+                  "ansible"
+               ],
+               "url": "https://github.com/kubernetes-sigs/kubespray",
+               "user": "kubernetes-sigs"
+            },
+            {
+               "alias": "kubekit",
+               "forked": false,
+               "release": null,
+               "repos_name": "kubekit",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "kubernetes"
+               ],
+               "url": "https://github.com/Orientsoft/kubekit",
+               "user": "Orientsoft"
+            }
+         ],
+         "olap": [
+            {
+               "alias": "kylin",
+               "forked": false,
+               "release": null,
+               "repos_name": "kylin",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "java",
+                  "olap"
+               ],
+               "url": "https://github.com/apache/kylin",
+               "user": "apache"
+            }
+         ],
+         "testing": [
+            {
+               "alias": "f2etest",
+               "forked": false,
+               "release": null,
+               "repos_name": "f2etest",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "testing"
+               ],
+               "url": "https://github.com/alibaba/f2etest",
+               "user": "alibaba"
+            }
+         ]
+      }
+   }
+}
