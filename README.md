@@ -50,6 +50,7 @@
   + ccls <https://github.com/MaskRay/ccls>
 
 ## docker
+  + tesseract <https://github.com/tesseract-ocr/tesseract>
   + docker-gpdb5 <https://github.com/bbotev01/gpdb5>
   + docker-tomcat <https://github.com/docker-library/tomcat>
   + docker-mysql <https://github.com/docker-library/mysql>
@@ -58,6 +59,7 @@
   + hadoop-docker <https://github.com/sequenceiq/hadoop-docker>
 
 ## docker-compose
+  + tesseract <https://github.com/tesseract-ocr/tesseract>
   + docker-pdi-ce <https://github.com/zhicwu/docker-pdi-ce>
   + ansible.pentaho-biserver-ce <https://github.com/oggers/ansible.pentaho-biserver-ce>
   + webkettle <https://github.com/hejack0207/webkettle>

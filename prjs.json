@@ -15,7 +15,9 @@
                   "cpp",
                   "cmake",
                   "travis",
-                  "asciidoc"
+                  "asciidoc",
+                  "docker",
+                  "docker-compose"
                ],
                "url": "https://github.com/tesseract-ocr/tesseract",
                "user": "tesseract-ocr"
@@ -987,7 +989,9 @@
                   "cpp",
                   "cmake",
                   "travis",
-                  "asciidoc"
+                  "asciidoc",
+                  "docker",
+                  "docker-compose"
                ],
                "url": "https://github.com/tesseract-ocr/tesseract",
                "user": "tesseract-ocr"
@@ -1297,7 +1301,9 @@
                   "cpp",
                   "cmake",
                   "travis",
-                  "asciidoc"
+                  "asciidoc",
+                  "docker",
+                  "docker-compose"
                ],
                "url": "https://github.com/tesseract-ocr/tesseract",
                "user": "tesseract-ocr"
@@ -1376,7 +1382,9 @@
                   "cpp",
                   "cmake",
                   "travis",
-                  "asciidoc"
+                  "asciidoc",
+                  "docker",
+                  "docker-compose"
                ],
                "url": "https://github.com/tesseract-ocr/tesseract",
                "user": "tesseract-ocr"
@@ -1398,6 +1406,25 @@
             }
          ],
          "docker": [
+            {
+               "alias": "tesseract",
+               "forked": false,
+               "release": null,
+               "repos_name": "tesseract",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "cpp",
+                  "cmake",
+                  "travis",
+                  "asciidoc",
+                  "docker",
+                  "docker-compose"
+               ],
+               "url": "https://github.com/tesseract-ocr/tesseract",
+               "user": "tesseract-ocr"
+            },
             {
                "alias": "docker-gpdb5",
                "forked": false,
@@ -1490,6 +1517,25 @@
             }
          ],
          "docker-compose": [
+            {
+               "alias": "tesseract",
+               "forked": false,
+               "release": null,
+               "repos_name": "tesseract",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "cpp",
+                  "cmake",
+                  "travis",
+                  "asciidoc",
+                  "docker",
+                  "docker-compose"
+               ],
+               "url": "https://github.com/tesseract-ocr/tesseract",
+               "user": "tesseract-ocr"
+            },
             {
                "alias": "docker-pdi-ce",
                "forked": false,
@@ -2050,7 +2096,9 @@
                   "cpp",
                   "cmake",
                   "travis",
-                  "asciidoc"
+                  "asciidoc",
+                  "docker",
+                  "docker-compose"
                ],
                "url": "https://github.com/tesseract-ocr/tesseract",
                "user": "tesseract-ocr"
