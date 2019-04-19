@@ -12,8 +12,10 @@
                "shallow": false,
                "site": "https://github.com",
                "tags": [
-                  "c",
-                  "autotools"
+                  "cpp",
+                  "cmake",
+                  "travis",
+                  "asciidoc"
                ],
                "url": "https://github.com/tesseract-ocr/tesseract",
                "user": "tesseract-ocr"
@@ -972,7 +974,7 @@
                "user": "bjddd192"
             }
          ],
-         "autotools": [
+         "asciidoc": [
             {
                "alias": "tesseract",
                "forked": false,
@@ -982,12 +984,16 @@
                "shallow": false,
                "site": "https://github.com",
                "tags": [
-                  "c",
-                  "autotools"
+                  "cpp",
+                  "cmake",
+                  "travis",
+                  "asciidoc"
                ],
                "url": "https://github.com/tesseract-ocr/tesseract",
                "user": "tesseract-ocr"
-            },
+            }
+         ],
+         "autotools": [
             {
                "alias": "zsh",
                "forked": false,
@@ -1065,21 +1071,6 @@
             }
          ],
          "c": [
-            {
-               "alias": "tesseract",
-               "forked": false,
-               "release": null,
-               "repos_name": "tesseract",
-               "score": 3,
-               "shallow": false,
-               "site": "https://github.com",
-               "tags": [
-                  "c",
-                  "autotools"
-               ],
-               "url": "https://github.com/tesseract-ocr/tesseract",
-               "user": "tesseract-ocr"
-            },
             {
                "alias": "zsh",
                "forked": false,
@@ -1295,6 +1286,23 @@
          ],
          "cmake": [
             {
+               "alias": "tesseract",
+               "forked": false,
+               "release": null,
+               "repos_name": "tesseract",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "cpp",
+                  "cmake",
+                  "travis",
+                  "asciidoc"
+               ],
+               "url": "https://github.com/tesseract-ocr/tesseract",
+               "user": "tesseract-ocr"
+            },
+            {
                "alias": "Paddle",
                "forked": false,
                "release": null,
@@ -1356,6 +1364,23 @@
             }
          ],
          "cpp": [
+            {
+               "alias": "tesseract",
+               "forked": false,
+               "release": null,
+               "repos_name": "tesseract",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "cpp",
+                  "cmake",
+                  "travis",
+                  "asciidoc"
+               ],
+               "url": "https://github.com/tesseract-ocr/tesseract",
+               "user": "tesseract-ocr"
+            },
             {
                "alias": "ccls",
                "forked": false,
@@ -2010,6 +2035,25 @@
                ],
                "url": "https://github.com/cmoro-deusto/docker-tomcat8",
                "user": "cmoro-deusto"
+            }
+         ],
+         "travis": [
+            {
+               "alias": "tesseract",
+               "forked": false,
+               "release": null,
+               "repos_name": "tesseract",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "cpp",
+                  "cmake",
+                  "travis",
+                  "asciidoc"
+               ],
+               "url": "https://github.com/tesseract-ocr/tesseract",
+               "user": "tesseract-ocr"
             }
          ]
       }

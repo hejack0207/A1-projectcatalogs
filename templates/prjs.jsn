@@ -199,7 +199,7 @@ local tpl=import 'tpl.jsn';
         tpl.ghrepos + {
             user: "tesseract-ocr",
             repos_name: "tesseract",
-            tags: ["c","autotools"],
+            tags: ["cpp","cmake","travis","asciidoc"],
         },
         tpl.ghrepos + {
             user: "zsh-users",

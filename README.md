@@ -90,8 +90,10 @@
   + ansible-playbooks-cdh5 <https://github.com/mcsrainbow/ansible-playbooks-cdh5>
   + ansible-playbooks-cdh6 <https://github.com/bjddd192/ansible-playbooks-cdh6>
 
-## autotools
+## asciidoc
   + tesseract <https://github.com/tesseract-ocr/tesseract>
+
+## autotools
   + zsh <https://github.com/zsh-users/zsh>
   + sqlite <https://github.com/mackyle/sqlite>
   + openssh <https://github.com/antonyantony/openssh>
@@ -99,7 +101,6 @@
   + postgres <https://github.com/postgres/postgres>
 
 ## c
-  + tesseract <https://github.com/tesseract-ocr/tesseract>
   + zsh <https://github.com/zsh-users/zsh>
   + sqlite <https://github.com/mackyle/sqlite>
   + openssh <https://github.com/antonyantony/openssh>
@@ -118,12 +119,14 @@
   + ansible-playbooks-cdh6 <https://github.com/bjddd192/ansible-playbooks-cdh6>
 
 ## cmake
+  + tesseract <https://github.com/tesseract-ocr/tesseract>
   + Paddle <https://github.com/PaddlePaddle/Paddle>
   + mysql-server <https://github.com/mysql/mysql-server>
   + ccls <https://github.com/MaskRay/ccls>
   + impala <https://github.com/apache/impala>
 
 ## cpp
+  + tesseract <https://github.com/tesseract-ocr/tesseract>
   + ccls <https://github.com/MaskRay/ccls>
 
 ## docker
@@ -196,4 +199,7 @@
 ## tomcat
   + docker-tomcat <https://github.com/docker-library/tomcat>
   + docker-tomcat8 <https://github.com/cmoro-deusto/docker-tomcat8>
+
+## travis
+  + tesseract <https://github.com/tesseract-ocr/tesseract>
 
