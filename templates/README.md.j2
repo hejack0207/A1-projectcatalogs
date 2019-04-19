@@ -1,17 +1,5 @@
 # TOC
-* [Catalog](#catalog)
 * [Tags](#tags)
-
-# catalog
-{% for t in project_category %}
-## {{ t.name }}
-    {% for repo in t.topics %}
-      {% if repo.score >= 3 %}
-  + {{ repo.alias }} <{{ repo.url }}>
-      {% endif %}
-    {% endfor %}
-
-{% endfor %}
 
 # tags
 {% for k,v in tags.contents | dictsort %}
