@@ -90,11 +90,13 @@
   + ansible-playbooks-cdh5 <https://github.com/mcsrainbow/ansible-playbooks-cdh5>
   + ansible-playbooks-cdh6 <https://github.com/bjddd192/ansible-playbooks-cdh6>
 
-## bigdata
-  + hadoop-docker <https://github.com/sequenceiq/hadoop-docker>
-  + hadoop-ansible <https://github.com/analytically/hadoop-ansible>
-  + ansible-playbooks-cdh5 <https://github.com/mcsrainbow/ansible-playbooks-cdh5>
-  + ansible-playbooks-cdh6 <https://github.com/bjddd192/ansible-playbooks-cdh6>
+## autotools
+  + tesseract <https://github.com/tesseract-ocr/tesseract>
+  + zsh <https://github.com/zsh-users/zsh>
+  + sqlite <https://github.com/mackyle/sqlite>
+  + openssh <https://github.com/antonyantony/openssh>
+  + tmux <https://github.com/tmux/tmux>
+  + postgres <https://github.com/postgres/postgres>
 
 ## c
   + tesseract <https://github.com/tesseract-ocr/tesseract>
@@ -109,6 +111,17 @@
   + redis <https://github.com/antirez/redis>
   + git <https://github.com/git/git>
   + vim <https://github.com/vim/vim>
+  + gpdb <https://github.com/greenplum-db/gpdb>
+
+## cdh
+  + ansible-playbooks-cdh5 <https://github.com/mcsrainbow/ansible-playbooks-cdh5>
+  + ansible-playbooks-cdh6 <https://github.com/bjddd192/ansible-playbooks-cdh6>
+
+## cmake
+  + Paddle <https://github.com/PaddlePaddle/Paddle>
+  + mysql-server <https://github.com/mysql/mysql-server>
+  + ccls <https://github.com/MaskRay/ccls>
+  + impala <https://github.com/apache/impala>
 
 ## cpp
   + ccls <https://github.com/MaskRay/ccls>
@@ -125,6 +138,7 @@
   + docker-pdi-ce <https://github.com/zhicwu/docker-pdi-ce>
   + ansible.pentaho-biserver-ce <https://github.com/oggers/ansible.pentaho-biserver-ce>
   + webkettle <https://github.com/hejack0207/webkettle>
+  + SpringCloud <https://github.com/hejack0207/SpringCloud>
   + apollo-build-scripts <https://github.com/nobodyiam/apollo-build-scripts>
 
 ## greenplum
@@ -134,6 +148,7 @@
   + gpdb <https://github.com/greenplum-db/gpdb>
 
 ## hadoop
+  + hadoop-docker <https://github.com/sequenceiq/hadoop-docker>
   + hadoop-ansible <https://github.com/analytically/hadoop-ansible>
   + hadoop-kerberos-helm <https://github.com/ifilonenko/hadoop-kerberos-helm>
 
@@ -152,14 +167,33 @@
 ## javascript
   + generator-jhipster <https://github.com/hejack0207/generator-jhipster>
 
+## jhipster
+  + generator-jhipster <https://github.com/hejack0207/generator-jhipster>
+  + lb-2-jhipster <https://github.com/hejack0207/lb-2-jhipster>
+
 ## kubernetes
   + hadoop-kerberos-helm <https://github.com/ifilonenko/hadoop-kerberos-helm>
   + kubespray <https://github.com/kubernetes-sigs/kubespray>
   + kubekit <https://github.com/Orientsoft/kubekit>
+
+## kylin
+  + kylin-docker <https://github.com/Kyligence/kylin-docker>
+
+## make
+  + redis <https://github.com/antirez/redis>
+  + git <https://github.com/git/git>
+  + vim <https://github.com/vim/vim>
+
+## mysql
+  + docker-mysql <https://github.com/docker-library/mysql>
 
 ## olap
   + kylin <https://github.com/apache/kylin>
 
 ## testing
   + f2etest <https://github.com/alibaba/f2etest>
+
+## tomcat
+  + docker-tomcat <https://github.com/docker-library/tomcat>
+  + docker-tomcat8 <https://github.com/cmoro-deusto/docker-tomcat8>
 

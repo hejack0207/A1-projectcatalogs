@@ -199,67 +199,67 @@ local tpl=import 'tpl.jsn';
         tpl.ghrepos + {
             user: "tesseract-ocr",
             repos_name: "tesseract",
-            tags: ["c"],
+            tags: ["c","autotools"],
         },
         tpl.ghrepos + {
             user: "zsh-users",
             repos_name: "zsh",
-            tags: ["c"],
+            tags: ["c","autotools"],
         },
         tpl.ghrepos + {
             user: "mackyle",
             repos_name: "sqlite",
-            tags: ["c"],
+            tags: ["c","autotools"],
         },
         tpl.ghrepos + {
             user: "antonyantony",
             repos_name: "openssh",
-            tags: ["c"],
+            tags: ["c","autotools"],
         },
         tpl.ghrepos + {
             user: "tmux",
             repos_name: "tmux",
-            tags: ["c"],
+            tags: ["c","autotools"],
         },
         tpl.ghrepos + {
             user: "postgres",
             repos_name: "postgres",
-            tags: ["c"],
+            tags: ["c","autotools"],
         },
         tpl.ghrepos + {
             user: "PaddlePaddle",
             repos_name: "Paddle",
-            tags: ["c"],
+            tags: ["c","cmake"],
         },
         tpl.ghrepos + {
             user: "mysql",
             repos_name: "mysql-server",
-            tags: ["c"],
+            tags: ["c","cmake"],
         },
         tpl.ghrepos + {
             user: "MaskRay",
             repos_name: "ccls",
-            tags: ["cpp"],
+            tags: ["cpp","cmake"],
         },
         tpl.ghrepos + {
             user: "apache",
             repos_name: "impala",
-            tags: ["c"],
+            tags: ["c","cmake"],
         },
         tpl.ghrepos + {
             user: "antirez",
             repos_name: "redis",
-            tags: ["c"],
+            tags: ["c","make"],
         },
         tpl.ghrepos + {
             user: "git",
             repos_name: "git",
-            tags: ["c"],
+            tags: ["c","make"],
         },
         tpl.ghrepos + {
             user: "vim",
             repos_name: "vim",
-            tags: ["c"],
+            tags: ["c","make"],
         },
         tpl.ghrepos + {
             user: "zhicwu",
@@ -291,7 +291,7 @@ local tpl=import 'tpl.jsn';
         tpl.ghrepos + {
             user: "greenplum-db",
             repos_name: "gpdb",
-            tags: ["greenplum"],
+            tags: ["greenplum","c"],
         },
         tpl.ghrepos + {
             user: "oggers",
@@ -325,19 +325,19 @@ local tpl=import 'tpl.jsn';
             user: "jhipster",
             repos_name: "generator-jhipster",
             forked: true,
-            tags: ["javascript"],
+            tags: ["javascript","jhipster"],
         },
         tpl.ghrepos + {
             user: "ziogiugno",
             repos_name: "lb-2-jhipster",
             forked: true,
-            tags: ["java"],
+            tags: ["java","jhipster"],
         },
         tpl.ghrepos + {
             user: "zhoutaoo",
             repos_name: "SpringCloud",
             forked: true,
-            tags: ["java"],
+            tags: ["java","docker-compose"],
         },
         tpl.ghrepos + {
             user: "nobodyiam",
@@ -349,18 +349,18 @@ local tpl=import 'tpl.jsn';
             repos_name: "tomcat",
             alias: "docker-tomcat",
             score: 2,
-            tags: ["docker"],
+            tags: ["docker","tomcat"],
         },
         tpl.ghrepos + {
             user: "docker-library",
             repos_name: "mysql",
             alias: "docker-mysql",
-            tags: ["docker"],
+            tags: ["docker","mysql"],
         },
         tpl.ghrepos + {
             user: "cmoro-deusto",
             repos_name: "docker-tomcat8",
-            tags: ["docker"],
+            tags: ["docker","tomcat"],
         },
         tpl.ghrepos + {
             user: "alibaba",
@@ -370,17 +370,17 @@ local tpl=import 'tpl.jsn';
         tpl.ghrepos + {
             user: "Kyligence",
             repos_name: "kylin-docker",
-            tags: ["docker"],
+            tags: ["docker","kylin"],
         },
         tpl.ghrepos + {
             user: "sequenceiq",
             repos_name: "hadoop-docker",
-            tags: ["docker","bigdata"],
+            tags: ["docker","hadoop"],
         },
         tpl.ghrepos + {
             user: "analytically",
             repos_name: "hadoop-ansible",
-            tags: ["ansible","bigdata","hadoop"],
+            tags: ["ansible","hadoop"],
         },
         tpl.ghrepos + {
             user: "ifilonenko",
@@ -400,12 +400,12 @@ local tpl=import 'tpl.jsn';
         tpl.ghrepos + {
             user: "mcsrainbow",
             repos_name: "ansible-playbooks-cdh5",
-            tags: ["ansible","bigdata"],
+            tags: ["ansible","cdh"],
         },
         tpl.ghrepos + {
             user: "bjddd192",
             repos_name: "ansible-playbooks-cdh6",
-            tags: ["ansible","bigdata"],
+            tags: ["ansible","cdh"],
         },
     ],
 
