@@ -223,6 +223,12 @@ local tpl=import 'tpl.jsn';
         editor: [
             "vim","cpp-tool"
         ],
+        terminal: [
+            "zsh","ssh","tmux","git"
+        ],
+        scaffold: [
+            "jhipster","springcloud"
+        ],
     },
     check: {
         tags_also_category: std.setInter(std.set(std.objectFields($.tag_categories)),

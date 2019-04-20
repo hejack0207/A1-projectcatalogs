@@ -51,19 +51,23 @@
   [sqlite](#sqlite)
   [mysql](#mysql)
   [postgres](#postgres)
+## scaffold
+
+  [jhipster](#jhipster)
+  [springcloud](#springcloud)
+## terminal
+
+  [zsh](#zsh)
+  [ssh](#ssh)
+  [tmux](#tmux)
+  [git](#git)
 
 ## not in category
   [ai](#ai)
   [apollo](#apollo)
-  [git](#git)
-  [jhipster](#jhipster)
-  [springcloud](#springcloud)
-  [ssh](#ssh)
   [testing](#testing)
-  [tmux](#tmux)
   [travis](#travis)
   [webui](#webui)
-  [zsh](#zsh)
 
 
 # repos

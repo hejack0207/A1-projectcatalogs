@@ -12,12 +12,14 @@
          "cpp-tool",
          "docker",
          "docker-compose",
+         "git",
          "greenplum",
          "hadoop",
          "helm",
          "impala",
          "java",
          "javascript",
+         "jhipster",
          "kettle",
          "kubernetes",
          "kylin",
@@ -26,23 +28,21 @@
          "pentaho",
          "postgres",
          "redis",
+         "springcloud",
          "sqlite",
+         "ssh",
          "tesseract",
+         "tmux",
          "tomcat",
-         "vim"
+         "vim",
+         "zsh"
       ],
       "tags_not_in_category": [
          "ai",
          "apollo",
-         "git",
-         "jhipster",
-         "springcloud",
-         "ssh",
          "testing",
-         "tmux",
          "travis",
-         "webui",
-         "zsh"
+         "webui"
       ]
    },
    "project_category": [
@@ -1007,6 +1007,16 @@
          "sqlite",
          "mysql",
          "postgres"
+      ],
+      "scaffold": [
+         "jhipster",
+         "springcloud"
+      ],
+      "terminal": [
+         "zsh",
+         "ssh",
+         "tmux",
+         "git"
       ]
    },
    "tags": {
