@@ -563,12 +563,6 @@
   [webui](#webui)
   [kettle](#kettle)
       ]
-  + lb-2-jhipster <https://github.com/hejack0207/lb-2-jhipster> 
-
-      [
-  [java](#java)
-  [jhipster](#jhipster)
-      ]
   + SpringCloud <https://github.com/hejack0207/SpringCloud> 
 
       [
@@ -579,6 +573,12 @@
 
 ## javascript
   + generator-jhipster <https://github.com/hejack0207/generator-jhipster> 
+
+      [
+  [javascript](#javascript)
+  [jhipster](#jhipster)
+      ]
+  + lb-2-jhipster <https://github.com/hejack0207/lb-2-jhipster> 
 
       [
   [javascript](#javascript)
@@ -595,7 +595,7 @@
   + lb-2-jhipster <https://github.com/hejack0207/lb-2-jhipster> 
 
       [
-  [java](#java)
+  [javascript](#javascript)
   [jhipster](#jhipster)
       ]
 

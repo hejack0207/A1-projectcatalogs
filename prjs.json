@@ -827,7 +827,7 @@
                "shallow": false,
                "site": "https://github.com",
                "tags": [
-                  "java",
+                  "javascript",
                   "jhipster"
                ],
                "url": "https://github.com/hejack0207/lb-2-jhipster",
@@ -949,7 +949,7 @@
                "shallow": false,
                "site": "https://github.com",
                "tags": [
-                  "java",
+                  "javascript",
                   "jhipster"
                ],
                "url": "https://github.com/hejack0207/lb-2-jhipster",
@@ -2101,21 +2101,6 @@
                "user": "JoeyBling"
             },
             {
-               "alias": "lb-2-jhipster",
-               "forked": true,
-               "release": null,
-               "repos_name": "lb-2-jhipster",
-               "score": 3,
-               "shallow": false,
-               "site": "https://github.com",
-               "tags": [
-                  "java",
-                  "jhipster"
-               ],
-               "url": "https://github.com/hejack0207/lb-2-jhipster",
-               "user": "ziogiugno"
-            },
-            {
                "alias": "SpringCloud",
                "forked": true,
                "release": null,
@@ -2147,6 +2132,21 @@
                ],
                "url": "https://github.com/hejack0207/generator-jhipster",
                "user": "jhipster"
+            },
+            {
+               "alias": "lb-2-jhipster",
+               "forked": true,
+               "release": null,
+               "repos_name": "lb-2-jhipster",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "javascript",
+                  "jhipster"
+               ],
+               "url": "https://github.com/hejack0207/lb-2-jhipster",
+               "user": "ziogiugno"
             }
          ],
          "jhipster": [
@@ -2174,7 +2174,7 @@
                "shallow": false,
                "site": "https://github.com",
                "tags": [
-                  "java",
+                  "javascript",
                   "jhipster"
                ],
                "url": "https://github.com/hejack0207/lb-2-jhipster",

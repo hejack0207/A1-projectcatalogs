@@ -381,7 +381,7 @@ local tpl=import 'tpl.jsn';
             user: "ziogiugno",
             repos_name: "lb-2-jhipster",
             forked: true,
-            tags: ["java","jhipster"],
+            tags: ["javascript","jhipster"],
         },
         tpl.ghrepos + {
             user: "zhoutaoo",

@@ -122,12 +122,12 @@ Tags
   + envelope https://github.com/cloudera-labs/envelope
   + kettle-manager https://github.com/majinju/kettle-manager
   + webkettle https://github.com/hejack0207/webkettle
-  + lb-2-jhipster https://github.com/hejack0207/lb-2-jhipster
   + SpringCloud https://github.com/hejack0207/SpringCloud
 
 * javascript
 
   + generator-jhipster https://github.com/hejack0207/generator-jhipster
+  + lb-2-jhipster https://github.com/hejack0207/lb-2-jhipster
 
 * jhipster
 
