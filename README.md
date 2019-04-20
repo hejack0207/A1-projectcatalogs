@@ -14,7 +14,7 @@
   [maven](#maven)
 ## business
 
-  [agricultrue-knowledge-graph](#agricultrue-knowledge-graph)
+  [agriculture-knowledge-graph](#agriculture-knowledge-graph)
   [knn-graph](#knn-graph)
 ## data_generator
 
@@ -42,6 +42,7 @@
 ## esb
 
   [camel](#camel)
+  [servicemix](#servicemix)
 ## etl
 
   [kettle](#kettle)
@@ -49,6 +50,12 @@
   [envelope](#envelope)
   [datax](#datax)
   [flinkx](#flinkx)
+## frontend
+
+  [angular](#angular)
+## gis
+
+  [impalagis](#impalagis)
 ## graph_db
 
   [neo4j](#neo4j)
@@ -93,10 +100,11 @@
   [f2etest](#f2etest)
 
 ## not in category
-  [agriculture-knowledge-graph](#agriculture-knowledge-graph)
   [ai](#ai)
   [apollo](#apollo)
+  [graph-ui](#graph-ui)
   [mazerunner](#mazerunner)
+  [restful](#restful)
   [travis](#travis)
   [webui](#webui)
 
@@ -121,6 +129,14 @@
   [c](#c)
   [cmake](#cmake)
   [ai](#ai)
+      ]
+
+## angular
+  + ngx-graph <https://github.com/swimlane/ngx-graph> 
+
+      [
+  [angular](#angular)
+  [graph-ui](#graph-ui)
       ]
 
 ## ansible
@@ -486,6 +502,18 @@
   [docker](#docker)
   [postgres](#postgres)
       ]
+  + servicemix-docker <https://github.com/mzipay/servicemix-docker> 
+
+      [
+  [servicemix](#servicemix)
+  [docker](#docker)
+      ]
+  + mkroli-servicemix-docker <https://github.com/mkroli/servicemix-docker> 
+
+      [
+  [servicemix](#servicemix)
+  [docker](#docker)
+      ]
 
 ## docker-compose
   + tesseract <https://github.com/tesseract-ocr/tesseract> 
@@ -561,6 +589,11 @@
       [
   [flink](#flink)
       ]
+  + flink <https://github.com/apache/flink> 
+
+      [
+  [flink](#flink)
+      ]
 
 ## flinkx
   + flinkx <https://github.com/DTStack/flinkx> 
@@ -577,6 +610,14 @@
   [c](#c)
   [make](#make)
   [git](#git)
+      ]
+
+## graph-ui
+  + ngx-graph <https://github.com/swimlane/ngx-graph> 
+
+      [
+  [angular](#angular)
+  [graph-ui](#graph-ui)
       ]
 
 ## greenplum
@@ -641,6 +682,20 @@
       [
   [c](#c)
   [cmake](#cmake)
+  [impala](#impala)
+      ]
+  + ImpalaGIS <https://github.com/fzn0268/ImpalaGIS> 
+
+      [
+  [impalagis](#impalagis)
+  [impala](#impala)
+      ]
+
+## impalagis
+  + ImpalaGIS <https://github.com/fzn0268/ImpalaGIS> 
+
+      [
+  [impalagis](#impalagis)
   [impala](#impala)
       ]
 
@@ -754,6 +809,11 @@
   [java](#java)
   [docker-compose](#docker-compose)
   [webui](#webui)
+  [kettle](#kettle)
+      ]
+  + pdi-cluster <https://github.com/zhicwu/pdi-cluster> 
+
+      [
   [kettle](#kettle)
       ]
 
@@ -951,6 +1011,28 @@
   [redis](#redis)
       ]
 
+## restful
+  + spark-jobserver <https://github.com/spark-jobserver/spark-jobserver> 
+
+      [
+  [spark](#spark)
+  [restful](#restful)
+      ]
+
+## servicemix
+  + servicemix-docker <https://github.com/mzipay/servicemix-docker> 
+
+      [
+  [servicemix](#servicemix)
+  [docker](#docker)
+      ]
+  + mkroli-servicemix-docker <https://github.com/mkroli/servicemix-docker> 
+
+      [
+  [servicemix](#servicemix)
+  [docker](#docker)
+      ]
+
 ## spark
   + envelope <https://github.com/cloudera-labs/envelope> 
 
@@ -983,6 +1065,12 @@
   [neo4j](#neo4j)
   [mazerunner](#mazerunner)
   [spark](#spark)
+      ]
+  + spark-jobserver <https://github.com/spark-jobserver/spark-jobserver> 
+
+      [
+  [spark](#spark)
+  [restful](#restful)
       ]
 
 ## springcloud

@@ -230,7 +230,7 @@ local tpl=import 'tpl.jsn';
             "jhipster","springcloud","archetype"
         ],
         esb: [
-            "camel"
+            "camel","servicemix"
         ],
         testing: [
             "f2etest"
@@ -245,7 +245,13 @@ local tpl=import 'tpl.jsn';
             "plantuml"
         ],
         business: [
-            "agricultrue-knowledge-graph","knn-graph"
+            "agriculture-knowledge-graph","knn-graph"
+        ],
+        gis: [
+            "impalagis"
+        ],
+        frontend: [
+            "angular"
         ],
     },
     check: {
@@ -590,6 +596,42 @@ local tpl=import 'tpl.jsn';
             user: "google",
             repos_name: "jsonnet",
             tags: ["jsonnet"],
+        },
+        tpl.ghrepos + {
+            user: "spark-jobserver",
+            repos_name: "spark-jobserver",
+            tags: ["spark","restful"],
+        },
+        tpl.ghrepos + {
+            user: "swimlane",
+            repos_name: "ngx-graph",
+            tags: ["angular","graph-ui"],
+        },
+        tpl.ghrepos + {
+            user: "mzipay",
+            repos_name: "servicemix-docker",
+            tags: ["servicemix","docker"],
+        },
+        tpl.ghrepos + {
+            user: "mkroli",
+            repos_name: "servicemix-docker",
+            alias: "mkroli-servicemix-docker",
+            tags: ["servicemix","docker"],
+        },
+        tpl.ghrepos + {
+            user: "zhicwu",
+            repos_name: "pdi-cluster",
+            tags: ["kettle"],
+        },
+        tpl.ghrepos + {
+            user: "apache",
+            repos_name: "flink",
+            tags: ["flink"],
+        },
+        tpl.ghrepos + {
+            user: "fzn0268",
+            repos_name: "ImpalaGIS",
+            tags: ["impalagis","impala"],
         },
     ],
 

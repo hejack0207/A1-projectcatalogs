@@ -10,6 +10,10 @@ Tags
 
   + Paddle https://github.com/PaddlePaddle/Paddle
 
+* angular
+
+  + ngx-graph https://github.com/swimlane/ngx-graph
+
 * ansible
 
   + gpdb-ansible https://github.com/andreasscherbaum/gpdb-ansible
@@ -100,6 +104,8 @@ Tags
   + hadoop-docker https://github.com/sequenceiq/hadoop-docker
   + docker-postgres https://github.com/docker-library/postgres
   + docker-postgresql https://github.com/sameersbn/docker-postgresql
+  + servicemix-docker https://github.com/mzipay/servicemix-docker
+  + mkroli-servicemix-docker https://github.com/mkroli/servicemix-docker
 
 * docker-compose
 
@@ -122,6 +128,7 @@ Tags
 
   + flinkx https://github.com/DTStack/flinkx
   + flinkStreamSQL https://github.com/DTStack/flinkStreamSQL
+  + flink https://github.com/apache/flink
 
 * flinkx
 
@@ -130,6 +137,10 @@ Tags
 * git
 
   + git https://github.com/git/git
+
+* graph-ui
+
+  + ngx-graph https://github.com/swimlane/ngx-graph
 
 * greenplum
 
@@ -151,6 +162,11 @@ Tags
 * impala
 
   + impala https://github.com/apache/impala
+  + ImpalaGIS https://github.com/fzn0268/ImpalaGIS
+
+* impalagis
+
+  + ImpalaGIS https://github.com/fzn0268/ImpalaGIS
 
 * java
 
@@ -182,6 +198,7 @@ Tags
   + pentaho-kettle https://github.com/pentaho/pentaho-kettle
   + kettle-manager https://github.com/majinju/kettle-manager
   + webkettle https://github.com/hejack0207/webkettle
+  + pdi-cluster https://github.com/zhicwu/pdi-cluster
 
 * knn-graph
 
@@ -252,6 +269,15 @@ Tags
 
   + redis https://github.com/antirez/redis
 
+* restful
+
+  + spark-jobserver https://github.com/spark-jobserver/spark-jobserver
+
+* servicemix
+
+  + servicemix-docker https://github.com/mzipay/servicemix-docker
+  + mkroli-servicemix-docker https://github.com/mkroli/servicemix-docker
+
 * spark
 
   + envelope https://github.com/cloudera-labs/envelope
@@ -259,6 +285,7 @@ Tags
   + mizo https://github.com/imri/mizo
   + spark-neo4j https://github.com/kbastani/spark-neo4j
   + neo4j-mazerunner https://github.com/neo4j-contrib/neo4j-mazerunner
+  + spark-jobserver https://github.com/spark-jobserver/spark-jobserver
 
 * springcloud
 

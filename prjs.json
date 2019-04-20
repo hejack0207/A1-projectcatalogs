@@ -2,7 +2,8 @@
    "check": {
       "tags_also_category": [ ],
       "tags_in_category": [
-         "agricultrue-knowledge-graph",
+         "agriculture-knowledge-graph",
+         "angular",
          "ansible",
          "archetype",
          "asciidoc",
@@ -26,6 +27,7 @@
          "hadoop",
          "helm",
          "impala",
+         "impalagis",
          "java",
          "javascript",
          "jhipster",
@@ -44,6 +46,7 @@
          "plantuml",
          "postgres",
          "redis",
+         "servicemix",
          "spark",
          "springcloud",
          "sqlite",
@@ -56,10 +59,11 @@
          "zsh"
       ],
       "tags_not_in_category": [
-         "agriculture-knowledge-graph",
          "ai",
          "apollo",
+         "graph-ui",
          "mazerunner",
+         "restful",
          "travis",
          "webui"
       ]
@@ -990,7 +994,7 @@
          "maven"
       ],
       "business": [
-         "agricultrue-knowledge-graph",
+         "agriculture-knowledge-graph",
          "knn-graph"
       ],
       "data_generator": [
@@ -1017,7 +1021,8 @@
          "cpp-tool"
       ],
       "esb": [
-         "camel"
+         "camel",
+         "servicemix"
       ],
       "etl": [
          "kettle",
@@ -1025,6 +1030,12 @@
          "envelope",
          "datax",
          "flinkx"
+      ],
+      "frontend": [
+         "angular"
+      ],
+      "gis": [
+         "impalagis"
       ],
       "graph_db": [
          "neo4j",
@@ -1117,6 +1128,23 @@
                ],
                "url": "https://github.com/PaddlePaddle/Paddle",
                "user": "PaddlePaddle"
+            }
+         ],
+         "angular": [
+            {
+               "alias": "ngx-graph",
+               "forked": false,
+               "release": null,
+               "repos_name": "ngx-graph",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "angular",
+                  "graph-ui"
+               ],
+               "url": "https://github.com/swimlane/ngx-graph",
+               "user": "swimlane"
             }
          ],
          "ansible": [
@@ -1922,6 +1950,36 @@
                ],
                "url": "https://github.com/sameersbn/docker-postgresql",
                "user": "sameersbn"
+            },
+            {
+               "alias": "servicemix-docker",
+               "forked": false,
+               "release": null,
+               "repos_name": "servicemix-docker",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "servicemix",
+                  "docker"
+               ],
+               "url": "https://github.com/mzipay/servicemix-docker",
+               "user": "mzipay"
+            },
+            {
+               "alias": "mkroli-servicemix-docker",
+               "forked": false,
+               "release": null,
+               "repos_name": "servicemix-docker",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "servicemix",
+                  "docker"
+               ],
+               "url": "https://github.com/mkroli/servicemix-docker",
+               "user": "mkroli"
             }
          ],
          "docker-compose": [
@@ -2087,6 +2145,20 @@
                ],
                "url": "https://github.com/DTStack/flinkStreamSQL",
                "user": "DTStack"
+            },
+            {
+               "alias": "flink",
+               "forked": false,
+               "release": null,
+               "repos_name": "flink",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "flink"
+               ],
+               "url": "https://github.com/apache/flink",
+               "user": "apache"
             }
          ],
          "flinkx": [
@@ -2122,6 +2194,23 @@
                ],
                "url": "https://github.com/git/git",
                "user": "git"
+            }
+         ],
+         "graph-ui": [
+            {
+               "alias": "ngx-graph",
+               "forked": false,
+               "release": null,
+               "repos_name": "ngx-graph",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "angular",
+                  "graph-ui"
+               ],
+               "url": "https://github.com/swimlane/ngx-graph",
+               "user": "swimlane"
             }
          ],
          "greenplum": [
@@ -2268,6 +2357,38 @@
                ],
                "url": "https://github.com/apache/impala",
                "user": "apache"
+            },
+            {
+               "alias": "ImpalaGIS",
+               "forked": false,
+               "release": null,
+               "repos_name": "ImpalaGIS",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "impalagis",
+                  "impala"
+               ],
+               "url": "https://github.com/fzn0268/ImpalaGIS",
+               "user": "fzn0268"
+            }
+         ],
+         "impalagis": [
+            {
+               "alias": "ImpalaGIS",
+               "forked": false,
+               "release": null,
+               "repos_name": "ImpalaGIS",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "impalagis",
+                  "impala"
+               ],
+               "url": "https://github.com/fzn0268/ImpalaGIS",
+               "user": "fzn0268"
             }
          ],
          "java": [
@@ -2525,6 +2646,20 @@
                ],
                "url": "https://github.com/hejack0207/webkettle",
                "user": "JoeyBling"
+            },
+            {
+               "alias": "pdi-cluster",
+               "forked": false,
+               "release": null,
+               "repos_name": "pdi-cluster",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "kettle"
+               ],
+               "url": "https://github.com/zhicwu/pdi-cluster",
+               "user": "zhicwu"
             }
          ],
          "knn-graph": [
@@ -2964,6 +3099,55 @@
                "user": "antirez"
             }
          ],
+         "restful": [
+            {
+               "alias": "spark-jobserver",
+               "forked": false,
+               "release": null,
+               "repos_name": "spark-jobserver",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "spark",
+                  "restful"
+               ],
+               "url": "https://github.com/spark-jobserver/spark-jobserver",
+               "user": "spark-jobserver"
+            }
+         ],
+         "servicemix": [
+            {
+               "alias": "servicemix-docker",
+               "forked": false,
+               "release": null,
+               "repos_name": "servicemix-docker",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "servicemix",
+                  "docker"
+               ],
+               "url": "https://github.com/mzipay/servicemix-docker",
+               "user": "mzipay"
+            },
+            {
+               "alias": "mkroli-servicemix-docker",
+               "forked": false,
+               "release": null,
+               "repos_name": "servicemix-docker",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "servicemix",
+                  "docker"
+               ],
+               "url": "https://github.com/mkroli/servicemix-docker",
+               "user": "mkroli"
+            }
+         ],
          "spark": [
             {
                "alias": "envelope",
@@ -3041,6 +3225,21 @@
                ],
                "url": "https://github.com/neo4j-contrib/neo4j-mazerunner",
                "user": "neo4j-contrib"
+            },
+            {
+               "alias": "spark-jobserver",
+               "forked": false,
+               "release": null,
+               "repos_name": "spark-jobserver",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "spark",
+                  "restful"
+               ],
+               "url": "https://github.com/spark-jobserver/spark-jobserver",
+               "user": "spark-jobserver"
             }
          ],
          "springcloud": [
