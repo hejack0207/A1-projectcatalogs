@@ -186,7 +186,29 @@ local tpl=import 'tpl.jsn';
             topics: $.topics.dev.documentation.restructed,
         },
     ],
-
+    tags_category: {
+        olap: [
+            "kylin"
+        ],
+        ocr: [
+            "tesseract"
+        ],
+        build: [
+            "autotools","cmake","make"
+        ],
+        etl: [
+            "kettle"
+        ],
+        deploy: [
+            "ansible","docker","docker-compose","helm","kubernetes"
+        ],
+        languages: [
+            "c","java"
+        ],
+        documentation: [
+            "asciidoc"
+        ],
+    },
     tags: {
         names:: std.foldl((function (r,i) std.setUnion(r,i)),[ r.tags for r in $.repos_ ],[]),
         contents: {
@@ -199,77 +221,77 @@ local tpl=import 'tpl.jsn';
         tpl.ghrepos + {
             user: "tesseract-ocr",
             repos_name: "tesseract",
-            tags: ["cpp","cmake","travis","asciidoc","docker","docker-compose"],
+            tags: ["cpp","cmake","travis","asciidoc","docker","docker-compose","tesseract"],
         },
         tpl.ghrepos + {
             user: "zsh-users",
             repos_name: "zsh",
-            tags: ["c","autotools"],
+            tags: ["c","autotools","zsh"],
         },
         tpl.ghrepos + {
             user: "mackyle",
             repos_name: "sqlite",
-            tags: ["c","autotools"],
+            tags: ["c","autotools","sqlite"],
         },
         tpl.ghrepos + {
             user: "antonyantony",
             repos_name: "openssh",
-            tags: ["c","autotools"],
+            tags: ["c","autotools","ssh"],
         },
         tpl.ghrepos + {
             user: "tmux",
             repos_name: "tmux",
-            tags: ["c","autotools"],
+            tags: ["c","autotools","tmux"],
         },
         tpl.ghrepos + {
             user: "postgres",
             repos_name: "postgres",
-            tags: ["c","autotools"],
+            tags: ["c","autotools","postgres"],
         },
         tpl.ghrepos + {
             user: "PaddlePaddle",
             repos_name: "Paddle",
-            tags: ["c","cmake"],
+            tags: ["c","cmake","ai"],
         },
         tpl.ghrepos + {
             user: "mysql",
             repos_name: "mysql-server",
-            tags: ["c","cmake"],
+            tags: ["c","cmake","mysql"],
         },
         tpl.ghrepos + {
             user: "MaskRay",
             repos_name: "ccls",
-            tags: ["cpp","cmake"],
+            tags: ["cpp","cmake","cpp-tool"],
         },
         tpl.ghrepos + {
             user: "apache",
             repos_name: "impala",
-            tags: ["c","cmake"],
+            tags: ["c","cmake","impala"],
         },
         tpl.ghrepos + {
             user: "antirez",
             repos_name: "redis",
-            tags: ["c","make"],
+            tags: ["c","make","redis"],
         },
         tpl.ghrepos + {
             user: "git",
             repos_name: "git",
-            tags: ["c","make"],
+            tags: ["c","make","git"],
         },
         tpl.ghrepos + {
             user: "vim",
             repos_name: "vim",
-            tags: ["c","make"],
+            tags: ["c","make","vim"],
         },
         tpl.ghrepos + {
             user: "zhicwu",
             repos_name: "docker-pdi-ce",
-            tags: ["docker-compose"],
+            tags: ["docker-compose","etl"],
         },
         tpl.ghrepos + {
             user: "pentaho",
             repos_name: "pentaho-kettle",
-            tags: ["java"],
+            tags: ["java","etl"],
         },
         tpl.ghrepos + {
             user: "bbotev01",
@@ -296,7 +318,7 @@ local tpl=import 'tpl.jsn';
         tpl.ghrepos + {
             user: "oggers",
             repos_name: "ansible.pentaho-biserver-ce",
-            tags: ["docker-compose"],
+            tags: ["docker-compose","pentaho"],
             score: 2,
         },
         tpl.ghrepos + {
@@ -307,18 +329,18 @@ local tpl=import 'tpl.jsn';
         tpl.ghrepos + {
             user: "cloudera-labs",
             repos_name: "envelope",
-            tags: ["java"],
+            tags: ["java","etl"],
         },
         tpl.ghrepos + {
             user: "majinju",
             repos_name: "kettle-manager",
             score: 2,
-            tags: ["java"],
+            tags: ["java","webui","kettle"],
         },
         tpl.ghrepos + {
             user: "JoeyBling",
             repos_name: "webkettle",
-            tags: ["java","docker-compose"],
+            tags: ["java","docker-compose","webui","kettle"],
             forked: true,
         },
         tpl.ghrepos + {
@@ -337,12 +359,12 @@ local tpl=import 'tpl.jsn';
             user: "zhoutaoo",
             repos_name: "SpringCloud",
             forked: true,
-            tags: ["java","docker-compose"],
+            tags: ["java","docker-compose","springcloud"],
         },
         tpl.ghrepos + {
             user: "nobodyiam",
             repos_name: "apollo-build-scripts",
-            tags: ["docker-compose"],
+            tags: ["docker-compose","apollo"],
         },
         tpl.ghrepos + {
             user: "docker-library",

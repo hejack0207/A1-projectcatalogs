@@ -102,6 +102,10 @@ Categories
 Tags
 ==========
 
+* ai
+
+  + Paddle https://github.com/PaddlePaddle/Paddle
+
 * ansible
 
   + gpdb-ansible https://github.com/andreasscherbaum/gpdb-ansible
@@ -110,6 +114,10 @@ Tags
   + kubespray https://github.com/kubernetes-sigs/kubespray
   + ansible-playbooks-cdh5 https://github.com/mcsrainbow/ansible-playbooks-cdh5
   + ansible-playbooks-cdh6 https://github.com/bjddd192/ansible-playbooks-cdh6
+
+* apollo
+
+  + apollo-build-scripts https://github.com/nobodyiam/apollo-build-scripts
 
 * asciidoc
 
@@ -156,6 +164,10 @@ Tags
   + tesseract https://github.com/tesseract-ocr/tesseract
   + ccls https://github.com/MaskRay/ccls
 
+* cpp-tool
+
+  + ccls https://github.com/MaskRay/ccls
+
 * docker
 
   + tesseract https://github.com/tesseract-ocr/tesseract
@@ -175,6 +187,16 @@ Tags
   + SpringCloud https://github.com/hejack0207/SpringCloud
   + apollo-build-scripts https://github.com/nobodyiam/apollo-build-scripts
 
+* etl
+
+  + docker-pdi-ce https://github.com/zhicwu/docker-pdi-ce
+  + pentaho-kettle https://github.com/pentaho/pentaho-kettle
+  + envelope https://github.com/cloudera-labs/envelope
+
+* git
+
+  + git https://github.com/git/git
+
 * greenplum
 
   + docker-gpdb5 https://github.com/bbotev01/gpdb5
@@ -191,6 +213,10 @@ Tags
 * helm
 
   + hadoop-kerberos-helm https://github.com/ifilonenko/hadoop-kerberos-helm
+
+* impala
+
+  + impala https://github.com/apache/impala
 
 * java
 
@@ -211,6 +237,11 @@ Tags
   + generator-jhipster https://github.com/hejack0207/generator-jhipster
   + lb-2-jhipster https://github.com/hejack0207/lb-2-jhipster
 
+* kettle
+
+  + kettle-manager https://github.com/majinju/kettle-manager
+  + webkettle https://github.com/hejack0207/webkettle
+
 * kubernetes
 
   + hadoop-kerberos-helm https://github.com/ifilonenko/hadoop-kerberos-helm
@@ -230,6 +261,7 @@ Tags
 
 * mysql
 
+  + mysql-server https://github.com/mysql/mysql-server
   + docker-mysql https://github.com/docker-library/mysql
 
 * olap
@@ -237,9 +269,41 @@ Tags
   + kylin https://github.com/apache/kylin
   + kylin-docker https://github.com/Kyligence/kylin-docker
 
+* pentaho
+
+  + ansible.pentaho-biserver-ce https://github.com/oggers/ansible.pentaho-biserver-ce
+
+* postgres
+
+  + postgres https://github.com/postgres/postgres
+
+* redis
+
+  + redis https://github.com/antirez/redis
+
+* springcloud
+
+  + SpringCloud https://github.com/hejack0207/SpringCloud
+
+* sqlite
+
+  + sqlite https://github.com/mackyle/sqlite
+
+* ssh
+
+  + openssh https://github.com/antonyantony/openssh
+
+* tesseract
+
+  + tesseract https://github.com/tesseract-ocr/tesseract
+
 * testing
 
   + f2etest https://github.com/alibaba/f2etest
+
+* tmux
+
+  + tmux https://github.com/tmux/tmux
 
 * tomcat
 
@@ -249,4 +313,17 @@ Tags
 * travis
 
   + tesseract https://github.com/tesseract-ocr/tesseract
+
+* vim
+
+  + vim https://github.com/vim/vim
+
+* webui
+
+  + kettle-manager https://github.com/majinju/kettle-manager
+  + webkettle https://github.com/hejack0207/webkettle
+
+* zsh
+
+  + zsh https://github.com/zsh-users/zsh
 

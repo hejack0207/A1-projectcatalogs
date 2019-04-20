@@ -1,29 +1,56 @@
 # project tags
+  [ai](#ai)
   [ansible](#ansible)
+  [apollo](#apollo)
   [asciidoc](#asciidoc)
   [autotools](#autotools)
   [c](#c)
   [cdh](#cdh)
   [cmake](#cmake)
   [cpp](#cpp)
+  [cpp-tool](#cpp-tool)
   [docker](#docker)
   [docker-compose](#docker-compose)
+  [etl](#etl)
+  [git](#git)
   [greenplum](#greenplum)
   [hadoop](#hadoop)
   [helm](#helm)
+  [impala](#impala)
   [java](#java)
   [javascript](#javascript)
   [jhipster](#jhipster)
+  [kettle](#kettle)
   [kubernetes](#kubernetes)
   [kylin](#kylin)
   [make](#make)
   [mysql](#mysql)
   [olap](#olap)
+  [pentaho](#pentaho)
+  [postgres](#postgres)
+  [redis](#redis)
+  [springcloud](#springcloud)
+  [sqlite](#sqlite)
+  [ssh](#ssh)
+  [tesseract](#tesseract)
   [testing](#testing)
+  [tmux](#tmux)
   [tomcat](#tomcat)
   [travis](#travis)
+  [vim](#vim)
+  [webui](#webui)
+  [zsh](#zsh)
 
 # repos
+## ai
+  + Paddle <https://github.com/PaddlePaddle/Paddle> 
+
+      [
+  [c](#c)
+  [cmake](#cmake)
+  [ai](#ai)
+      ]
+
 ## ansible
   + gpdb-ansible <https://github.com/andreasscherbaum/gpdb-ansible> 
 
@@ -62,6 +89,14 @@
   [cdh](#cdh)
       ]
 
+## apollo
+  + apollo-build-scripts <https://github.com/nobodyiam/apollo-build-scripts> 
+
+      [
+  [docker-compose](#docker-compose)
+  [apollo](#apollo)
+      ]
+
 ## asciidoc
   + tesseract <https://github.com/tesseract-ocr/tesseract> 
 
@@ -72,6 +107,7 @@
   [asciidoc](#asciidoc)
   [docker](#docker)
   [docker-compose](#docker-compose)
+  [tesseract](#tesseract)
       ]
 
 ## autotools
@@ -80,30 +116,35 @@
       [
   [c](#c)
   [autotools](#autotools)
+  [zsh](#zsh)
       ]
   + sqlite <https://github.com/mackyle/sqlite> 
 
       [
   [c](#c)
   [autotools](#autotools)
+  [sqlite](#sqlite)
       ]
   + openssh <https://github.com/antonyantony/openssh> 
 
       [
   [c](#c)
   [autotools](#autotools)
+  [ssh](#ssh)
       ]
   + tmux <https://github.com/tmux/tmux> 
 
       [
   [c](#c)
   [autotools](#autotools)
+  [tmux](#tmux)
       ]
   + postgres <https://github.com/postgres/postgres> 
 
       [
   [c](#c)
   [autotools](#autotools)
+  [postgres](#postgres)
       ]
 
 ## c
@@ -112,66 +153,77 @@
       [
   [c](#c)
   [autotools](#autotools)
+  [zsh](#zsh)
       ]
   + sqlite <https://github.com/mackyle/sqlite> 
 
       [
   [c](#c)
   [autotools](#autotools)
+  [sqlite](#sqlite)
       ]
   + openssh <https://github.com/antonyantony/openssh> 
 
       [
   [c](#c)
   [autotools](#autotools)
+  [ssh](#ssh)
       ]
   + tmux <https://github.com/tmux/tmux> 
 
       [
   [c](#c)
   [autotools](#autotools)
+  [tmux](#tmux)
       ]
   + postgres <https://github.com/postgres/postgres> 
 
       [
   [c](#c)
   [autotools](#autotools)
+  [postgres](#postgres)
       ]
   + Paddle <https://github.com/PaddlePaddle/Paddle> 
 
       [
   [c](#c)
   [cmake](#cmake)
+  [ai](#ai)
       ]
   + mysql-server <https://github.com/mysql/mysql-server> 
 
       [
   [c](#c)
   [cmake](#cmake)
+  [mysql](#mysql)
       ]
   + impala <https://github.com/apache/impala> 
 
       [
   [c](#c)
   [cmake](#cmake)
+  [impala](#impala)
       ]
   + redis <https://github.com/antirez/redis> 
 
       [
   [c](#c)
   [make](#make)
+  [redis](#redis)
       ]
   + git <https://github.com/git/git> 
 
       [
   [c](#c)
   [make](#make)
+  [git](#git)
       ]
   + vim <https://github.com/vim/vim> 
 
       [
   [c](#c)
   [make](#make)
+  [vim](#vim)
       ]
   + gpdb <https://github.com/greenplum-db/gpdb> 
 
@@ -204,30 +256,35 @@
   [asciidoc](#asciidoc)
   [docker](#docker)
   [docker-compose](#docker-compose)
+  [tesseract](#tesseract)
       ]
   + Paddle <https://github.com/PaddlePaddle/Paddle> 
 
       [
   [c](#c)
   [cmake](#cmake)
+  [ai](#ai)
       ]
   + mysql-server <https://github.com/mysql/mysql-server> 
 
       [
   [c](#c)
   [cmake](#cmake)
+  [mysql](#mysql)
       ]
   + ccls <https://github.com/MaskRay/ccls> 
 
       [
   [cpp](#cpp)
   [cmake](#cmake)
+  [cpp-tool](#cpp-tool)
       ]
   + impala <https://github.com/apache/impala> 
 
       [
   [c](#c)
   [cmake](#cmake)
+  [impala](#impala)
       ]
 
 ## cpp
@@ -240,12 +297,23 @@
   [asciidoc](#asciidoc)
   [docker](#docker)
   [docker-compose](#docker-compose)
+  [tesseract](#tesseract)
       ]
   + ccls <https://github.com/MaskRay/ccls> 
 
       [
   [cpp](#cpp)
   [cmake](#cmake)
+  [cpp-tool](#cpp-tool)
+      ]
+
+## cpp-tool
+  + ccls <https://github.com/MaskRay/ccls> 
+
+      [
+  [cpp](#cpp)
+  [cmake](#cmake)
+  [cpp-tool](#cpp-tool)
       ]
 
 ## docker
@@ -258,6 +326,7 @@
   [asciidoc](#asciidoc)
   [docker](#docker)
   [docker-compose](#docker-compose)
+  [tesseract](#tesseract)
       ]
   + docker-gpdb5 <https://github.com/bbotev01/gpdb5> 
 
@@ -307,33 +376,69 @@
   [asciidoc](#asciidoc)
   [docker](#docker)
   [docker-compose](#docker-compose)
+  [tesseract](#tesseract)
       ]
   + docker-pdi-ce <https://github.com/zhicwu/docker-pdi-ce> 
 
       [
   [docker-compose](#docker-compose)
+  [etl](#etl)
       ]
   + ansible.pentaho-biserver-ce <https://github.com/oggers/ansible.pentaho-biserver-ce> 
 
       [
   [docker-compose](#docker-compose)
+  [pentaho](#pentaho)
       ]
   + webkettle <https://github.com/hejack0207/webkettle> 
 
       [
   [java](#java)
   [docker-compose](#docker-compose)
+  [webui](#webui)
+  [kettle](#kettle)
       ]
   + SpringCloud <https://github.com/hejack0207/SpringCloud> 
 
       [
   [java](#java)
   [docker-compose](#docker-compose)
+  [springcloud](#springcloud)
       ]
   + apollo-build-scripts <https://github.com/nobodyiam/apollo-build-scripts> 
 
       [
   [docker-compose](#docker-compose)
+  [apollo](#apollo)
+      ]
+
+## etl
+  + docker-pdi-ce <https://github.com/zhicwu/docker-pdi-ce> 
+
+      [
+  [docker-compose](#docker-compose)
+  [etl](#etl)
+      ]
+  + pentaho-kettle <https://github.com/pentaho/pentaho-kettle> 
+
+      [
+  [java](#java)
+  [etl](#etl)
+      ]
+  + envelope <https://github.com/cloudera-labs/envelope> 
+
+      [
+  [java](#java)
+  [etl](#etl)
+      ]
+
+## git
+  + git <https://github.com/git/git> 
+
+      [
+  [c](#c)
+  [make](#make)
+  [git](#git)
       ]
 
 ## greenplum
@@ -392,11 +497,21 @@
   [hadoop](#hadoop)
       ]
 
+## impala
+  + impala <https://github.com/apache/impala> 
+
+      [
+  [c](#c)
+  [cmake](#cmake)
+  [impala](#impala)
+      ]
+
 ## java
   + pentaho-kettle <https://github.com/pentaho/pentaho-kettle> 
 
       [
   [java](#java)
+  [etl](#etl)
       ]
   + kylin <https://github.com/apache/kylin> 
 
@@ -409,17 +524,22 @@
 
       [
   [java](#java)
+  [etl](#etl)
       ]
   + kettle-manager <https://github.com/majinju/kettle-manager> 
 
       [
   [java](#java)
+  [webui](#webui)
+  [kettle](#kettle)
       ]
   + webkettle <https://github.com/hejack0207/webkettle> 
 
       [
   [java](#java)
   [docker-compose](#docker-compose)
+  [webui](#webui)
+  [kettle](#kettle)
       ]
   + lb-2-jhipster <https://github.com/hejack0207/lb-2-jhipster> 
 
@@ -432,6 +552,7 @@
       [
   [java](#java)
   [docker-compose](#docker-compose)
+  [springcloud](#springcloud)
       ]
 
 ## javascript
@@ -454,6 +575,23 @@
       [
   [java](#java)
   [jhipster](#jhipster)
+      ]
+
+## kettle
+  + kettle-manager <https://github.com/majinju/kettle-manager> 
+
+      [
+  [java](#java)
+  [webui](#webui)
+  [kettle](#kettle)
+      ]
+  + webkettle <https://github.com/hejack0207/webkettle> 
+
+      [
+  [java](#java)
+  [docker-compose](#docker-compose)
+  [webui](#webui)
+  [kettle](#kettle)
       ]
 
 ## kubernetes
@@ -498,21 +636,31 @@
       [
   [c](#c)
   [make](#make)
+  [redis](#redis)
       ]
   + git <https://github.com/git/git> 
 
       [
   [c](#c)
   [make](#make)
+  [git](#git)
       ]
   + vim <https://github.com/vim/vim> 
 
       [
   [c](#c)
   [make](#make)
+  [vim](#vim)
       ]
 
 ## mysql
+  + mysql-server <https://github.com/mysql/mysql-server> 
+
+      [
+  [c](#c)
+  [cmake](#cmake)
+  [mysql](#mysql)
+      ]
   + docker-mysql <https://github.com/docker-library/mysql> 
 
       [
@@ -536,11 +684,86 @@
   [olap](#olap)
       ]
 
+## pentaho
+  + ansible.pentaho-biserver-ce <https://github.com/oggers/ansible.pentaho-biserver-ce> 
+
+      [
+  [docker-compose](#docker-compose)
+  [pentaho](#pentaho)
+      ]
+
+## postgres
+  + postgres <https://github.com/postgres/postgres> 
+
+      [
+  [c](#c)
+  [autotools](#autotools)
+  [postgres](#postgres)
+      ]
+
+## redis
+  + redis <https://github.com/antirez/redis> 
+
+      [
+  [c](#c)
+  [make](#make)
+  [redis](#redis)
+      ]
+
+## springcloud
+  + SpringCloud <https://github.com/hejack0207/SpringCloud> 
+
+      [
+  [java](#java)
+  [docker-compose](#docker-compose)
+  [springcloud](#springcloud)
+      ]
+
+## sqlite
+  + sqlite <https://github.com/mackyle/sqlite> 
+
+      [
+  [c](#c)
+  [autotools](#autotools)
+  [sqlite](#sqlite)
+      ]
+
+## ssh
+  + openssh <https://github.com/antonyantony/openssh> 
+
+      [
+  [c](#c)
+  [autotools](#autotools)
+  [ssh](#ssh)
+      ]
+
+## tesseract
+  + tesseract <https://github.com/tesseract-ocr/tesseract> 
+
+      [
+  [cpp](#cpp)
+  [cmake](#cmake)
+  [travis](#travis)
+  [asciidoc](#asciidoc)
+  [docker](#docker)
+  [docker-compose](#docker-compose)
+  [tesseract](#tesseract)
+      ]
+
 ## testing
   + f2etest <https://github.com/alibaba/f2etest> 
 
       [
   [testing](#testing)
+      ]
+
+## tmux
+  + tmux <https://github.com/tmux/tmux> 
+
+      [
+  [c](#c)
+  [autotools](#autotools)
+  [tmux](#tmux)
       ]
 
 ## tomcat
@@ -567,5 +790,41 @@
   [asciidoc](#asciidoc)
   [docker](#docker)
   [docker-compose](#docker-compose)
+  [tesseract](#tesseract)
+      ]
+
+## vim
+  + vim <https://github.com/vim/vim> 
+
+      [
+  [c](#c)
+  [make](#make)
+  [vim](#vim)
+      ]
+
+## webui
+  + kettle-manager <https://github.com/majinju/kettle-manager> 
+
+      [
+  [java](#java)
+  [webui](#webui)
+  [kettle](#kettle)
+      ]
+  + webkettle <https://github.com/hejack0207/webkettle> 
+
+      [
+  [java](#java)
+  [docker-compose](#docker-compose)
+  [webui](#webui)
+  [kettle](#kettle)
+      ]
+
+## zsh
+  + zsh <https://github.com/zsh-users/zsh> 
+
+      [
+  [c](#c)
+  [autotools](#autotools)
+  [zsh](#zsh)
       ]
 
