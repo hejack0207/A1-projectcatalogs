@@ -39,11 +39,6 @@
   [mandrian](#mandrian)
   [olap_impl](#olap_impl)
   [sql_support](#sql_support)
-## arch_bigdata_rdb
-
-  [sqlite](#sqlite)
-  [mysql](#mysql)
-  [postgres](#postgres)
 ## arch_etl
 
   [kettle](#kettle)
@@ -116,6 +111,11 @@
   [tomcat](#tomcat)
   [redis](#redis)
   [keepalived](#keepalived)
+## infra_rdb
+
+  [sqlite](#sqlite)
+  [mysql](#mysql)
+  [postgres](#postgres)
 ## se_management
 
   [redmine](#redmine)

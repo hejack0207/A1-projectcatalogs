@@ -137,11 +137,6 @@
          "olap_impl",
          "sql_support"
       ],
-      "arch_bigdata_rdb": [
-         "sqlite",
-         "mysql",
-         "postgres"
-      ],
       "arch_etl": [
          "kettle",
          "pentaho",
@@ -213,6 +208,11 @@
          "tomcat",
          "redis",
          "keepalived"
+      ],
+      "infra_rdb": [
+         "sqlite",
+         "mysql",
+         "postgres"
       ],
       "se_management": [
          "redmine"
