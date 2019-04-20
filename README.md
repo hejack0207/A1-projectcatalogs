@@ -277,6 +277,7 @@
   [cpp](#cpp)
   [cmake](#cmake)
   [cpp-tool](#cpp-tool)
+  [vim](#vim)
       ]
   + impala <https://github.com/apache/impala> 
 
@@ -304,6 +305,7 @@
   [cpp](#cpp)
   [cmake](#cmake)
   [cpp-tool](#cpp-tool)
+  [vim](#vim)
       ]
 
 ## cpp-tool
@@ -313,6 +315,7 @@
   [cpp](#cpp)
   [cmake](#cmake)
   [cpp-tool](#cpp-tool)
+  [vim](#vim)
       ]
 
 ## docker
@@ -793,6 +796,14 @@
       ]
 
 ## vim
+  + ccls <https://github.com/MaskRay/ccls> 
+
+      [
+  [cpp](#cpp)
+  [cmake](#cmake)
+  [cpp-tool](#cpp-tool)
+  [vim](#vim)
+      ]
   + vim <https://github.com/vim/vim> 
 
       [

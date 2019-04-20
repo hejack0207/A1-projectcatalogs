@@ -270,7 +270,7 @@ local tpl=import 'tpl.jsn';
         tpl.ghrepos + {
             user: "MaskRay",
             repos_name: "ccls",
-            tags: ["cpp","cmake","cpp-tool"],
+            tags: ["cpp","cmake","cpp-tool","vim"],
         },
         tpl.ghrepos + {
             user: "apache",

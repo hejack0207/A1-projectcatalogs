@@ -215,6 +215,7 @@ Tags
 
 * vim
 
+  + ccls https://github.com/MaskRay/ccls
   + vim https://github.com/vim/vim
 
 * webui

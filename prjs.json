@@ -167,7 +167,8 @@
                "tags": [
                   "cpp",
                   "cmake",
-                  "cpp-tool"
+                  "cpp-tool",
+                  "vim"
                ],
                "url": "https://github.com/MaskRay/ccls",
                "user": "MaskRay"
@@ -1476,7 +1477,8 @@
                "tags": [
                   "cpp",
                   "cmake",
-                  "cpp-tool"
+                  "cpp-tool",
+                  "vim"
                ],
                "url": "https://github.com/MaskRay/ccls",
                "user": "MaskRay"
@@ -1530,7 +1532,8 @@
                "tags": [
                   "cpp",
                   "cmake",
-                  "cpp-tool"
+                  "cpp-tool",
+                  "vim"
                ],
                "url": "https://github.com/MaskRay/ccls",
                "user": "MaskRay"
@@ -1548,7 +1551,8 @@
                "tags": [
                   "cpp",
                   "cmake",
-                  "cpp-tool"
+                  "cpp-tool",
+                  "vim"
                ],
                "url": "https://github.com/MaskRay/ccls",
                "user": "MaskRay"
@@ -2590,6 +2594,23 @@
             }
          ],
          "vim": [
+            {
+               "alias": "ccls",
+               "forked": false,
+               "release": null,
+               "repos_name": "ccls",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "cpp",
+                  "cmake",
+                  "cpp-tool",
+                  "vim"
+               ],
+               "url": "https://github.com/MaskRay/ccls",
+               "user": "MaskRay"
+            },
             {
                "alias": "vim",
                "forked": false,
