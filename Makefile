@@ -22,8 +22,11 @@ README.html: README.md
 prjs.json: templates/prjs.jsn
 	jsonnet $< -o $@
 
-project-catalog.rst: templates/project-catalog.rst.j2 prjs.json
-	yasha -v prjs.json $< -o $@
+prjs-catalog.json: templates/prjs-catalog.jsn
+	jsonnet $< -o $@
+
+project-catalog.rst: templates/project-catalog.rst.j2 prjs-catalog.json
+	yasha -v prjs-catalog.json $< -o $@
 
 project-tags.rst: templates/project-tags.rst.j2 prjs.json
 	yasha -v prjs.json $< -o $@

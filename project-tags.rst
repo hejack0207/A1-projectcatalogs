@@ -96,7 +96,7 @@ Tags
 
 * code_generator
 
-  + plantuml-code_generator https://github.com/bafolts/plantuml-code_generator
+  + plantuml-code-generator https://github.com/bafolts/plantuml-code-generator
 
 * cpp
 
@@ -347,7 +347,7 @@ Tags
 
   + plantuml https://github.com/plantuml/plantuml
   + json-to-plantuml https://github.com/meteorbites/json-to-plantuml
-  + plantuml-code_generator https://github.com/bafolts/plantuml-code_generator
+  + plantuml-code-generator https://github.com/bafolts/plantuml-code-generator
   + dkd-plantuml https://github.com/dkd/plantuml
   + plantuml-syntax https://github.com/aklt/plantuml-syntax
   + plantuml-server https://github.com/plantuml/plantuml-server

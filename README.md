@@ -477,7 +477,7 @@
       ]
 
 ## code_generator
-  + plantuml-code_generator <https://github.com/bafolts/plantuml-code_generator> 
+  + plantuml-code-generator <https://github.com/bafolts/plantuml-code-generator> 
 
       [
   [plantuml](#plantuml)
@@ -1256,7 +1256,7 @@
   [plantuml](#plantuml)
   [json](#json)
       ]
-  + plantuml-code_generator <https://github.com/bafolts/plantuml-code_generator> 
+  + plantuml-code-generator <https://github.com/bafolts/plantuml-code-generator> 
 
       [
   [plantuml](#plantuml)
