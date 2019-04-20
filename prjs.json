@@ -2,17 +2,25 @@
    "check": {
       "tags_also_category": [ ],
       "tags_in_category": [
+         "agricultrue-knowledge-graph",
          "ansible",
+         "archetype",
          "asciidoc",
          "autotools",
          "c",
+         "camel",
          "cdh",
+         "clickhouse",
          "cmake",
          "cpp",
          "cpp-tool",
+         "datax",
          "docker",
          "docker-compose",
          "envelope",
+         "f2etest",
+         "flink",
+         "flinkx",
          "git",
          "greenplum",
          "hadoop",
@@ -21,28 +29,37 @@
          "java",
          "javascript",
          "jhipster",
+         "jsonnet",
          "kettle",
+         "knn-graph",
          "kubernetes",
          "kylin",
          "make",
+         "mandrian",
+         "maven",
          "mysql",
+         "neo4j",
+         "orientdb",
          "pentaho",
+         "plantuml",
          "postgres",
          "redis",
+         "spark",
          "springcloud",
          "sqlite",
          "ssh",
          "tesseract",
+         "titan",
          "tmux",
          "tomcat",
          "vim",
          "zsh"
       ],
       "tags_not_in_category": [
+         "agriculture-knowledge-graph",
          "ai",
          "apollo",
-         "spark",
-         "testing",
+         "mazerunner",
          "travis",
          "webui"
       ]
@@ -962,12 +979,22 @@
       "bigdata": [
          "hadoop",
          "cdh",
-         "impala"
+         "impala",
+         "flink",
+         "spark"
       ],
       "build": [
          "autotools",
          "cmake",
-         "make"
+         "make",
+         "maven"
+      ],
+      "business": [
+         "agricultrue-knowledge-graph",
+         "knn-graph"
+      ],
+      "data_generator": [
+         "jsonnet"
       ],
       "datawarehouse": [
          "greenplum"
@@ -979,6 +1006,9 @@
          "helm",
          "kubernetes"
       ],
+      "design": [
+         "plantuml"
+      ],
       "documentation": [
          "asciidoc"
       ],
@@ -986,10 +1016,20 @@
          "vim",
          "cpp-tool"
       ],
+      "esb": [
+         "camel"
+      ],
       "etl": [
          "kettle",
          "pentaho",
-         "envelope"
+         "envelope",
+         "datax",
+         "flinkx"
+      ],
+      "graph_db": [
+         "neo4j",
+         "orientdb",
+         "titan"
       ],
       "infra": [
          "tomcat",
@@ -1005,7 +1045,9 @@
          "tesseract"
       ],
       "olap": [
-         "kylin"
+         "kylin",
+         "clickhouse",
+         "mandrian"
       ],
       "rdb": [
          "sqlite",
@@ -1014,17 +1056,51 @@
       ],
       "scaffold": [
          "jhipster",
-         "springcloud"
+         "springcloud",
+         "archetype"
       ],
       "terminal": [
          "zsh",
          "ssh",
          "tmux",
          "git"
+      ],
+      "testing": [
+         "f2etest"
       ]
    },
    "tags": {
       "contents": {
+         "agriculture-knowledge-graph": [
+            {
+               "alias": "Agriculture_KnowledgeGraph",
+               "forked": false,
+               "release": null,
+               "repos_name": "Agriculture_KnowledgeGraph",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "agriculture-knowledge-graph"
+               ],
+               "url": "https://github.com/hejack0207/Agriculture_KnowledgeGraph",
+               "user": "hejack0207"
+            },
+            {
+               "alias": "Agriculture-KnowledgeGraph-Data",
+               "forked": false,
+               "release": null,
+               "repos_name": "Agriculture-KnowledgeGraph-Data",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "agriculture-knowledge-graph"
+               ],
+               "url": "https://github.com/CrisJk/Agriculture-KnowledgeGraph-Data",
+               "user": "CrisJk"
+            }
+         ],
          "ai": [
             {
                "alias": "Paddle",
@@ -1150,6 +1226,24 @@
                ],
                "url": "https://github.com/nobodyiam/apollo-build-scripts",
                "user": "nobodyiam"
+            }
+         ],
+         "archetype": [
+            {
+               "alias": "kylin-archetype",
+               "forked": false,
+               "release": null,
+               "repos_name": "kylin-archetype",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "kylin",
+                  "maven",
+                  "archetype"
+               ],
+               "url": "https://github.com/wengyingjian/kylin-archetype",
+               "user": "wengyingjian"
             }
          ],
          "asciidoc": [
@@ -1449,6 +1543,22 @@
                "user": "greenplum-db"
             }
          ],
+         "camel": [
+            {
+               "alias": "camel",
+               "forked": false,
+               "release": null,
+               "repos_name": "camel",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "camel"
+               ],
+               "url": "https://github.com/apache/camel",
+               "user": "apache"
+            }
+         ],
          "cdh": [
             {
                "alias": "ansible-playbooks-cdh5",
@@ -1479,6 +1589,22 @@
                ],
                "url": "https://github.com/bjddd192/ansible-playbooks-cdh6",
                "user": "bjddd192"
+            }
+         ],
+         "clickhouse": [
+            {
+               "alias": "ClickHouse",
+               "forked": false,
+               "release": null,
+               "repos_name": "ClickHouse",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "clickhouse"
+               ],
+               "url": "https://github.com/yandex/ClickHouse",
+               "user": "yandex"
             }
          ],
          "cmake": [
@@ -1626,6 +1752,36 @@
                "user": "MaskRay"
             }
          ],
+         "datax": [
+            {
+               "alias": "DataX",
+               "forked": false,
+               "release": null,
+               "repos_name": "DataX",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "datax"
+               ],
+               "url": "https://github.com/alibaba/DataX",
+               "user": "alibaba"
+            },
+            {
+               "alias": "datax-web",
+               "forked": false,
+               "release": null,
+               "repos_name": "datax-web",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "datax"
+               ],
+               "url": "https://github.com/zipingdong/datax-web",
+               "user": "zipingdong"
+            }
+         ],
          "docker": [
             {
                "alias": "tesseract",
@@ -1736,6 +1892,36 @@
                ],
                "url": "https://github.com/sequenceiq/hadoop-docker",
                "user": "sequenceiq"
+            },
+            {
+               "alias": "docker-postgres",
+               "forked": false,
+               "release": null,
+               "repos_name": "postgres",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "docker",
+                  "postgres"
+               ],
+               "url": "https://github.com/docker-library/postgres",
+               "user": "docker-library"
+            },
+            {
+               "alias": "docker-postgresql",
+               "forked": false,
+               "release": null,
+               "repos_name": "docker-postgresql",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "docker",
+                  "postgres"
+               ],
+               "url": "https://github.com/sameersbn/docker-postgresql",
+               "user": "sameersbn"
             }
          ],
          "docker-compose": [
@@ -1854,6 +2040,70 @@
                ],
                "url": "https://github.com/cloudera-labs/envelope",
                "user": "cloudera-labs"
+            }
+         ],
+         "f2etest": [
+            {
+               "alias": "f2etest",
+               "forked": false,
+               "release": null,
+               "repos_name": "f2etest",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "f2etest"
+               ],
+               "url": "https://github.com/alibaba/f2etest",
+               "user": "alibaba"
+            }
+         ],
+         "flink": [
+            {
+               "alias": "flinkx",
+               "forked": false,
+               "release": null,
+               "repos_name": "flinkx",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "flink",
+                  "flinkx"
+               ],
+               "url": "https://github.com/DTStack/flinkx",
+               "user": "DTStack"
+            },
+            {
+               "alias": "flinkStreamSQL",
+               "forked": false,
+               "release": null,
+               "repos_name": "flinkStreamSQL",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "flink"
+               ],
+               "url": "https://github.com/DTStack/flinkStreamSQL",
+               "user": "DTStack"
+            }
+         ],
+         "flinkx": [
+            {
+               "alias": "flinkx",
+               "forked": false,
+               "release": null,
+               "repos_name": "flinkx",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "flink",
+                  "flinkx"
+               ],
+               "url": "https://github.com/DTStack/flinkx",
+               "user": "DTStack"
             }
          ],
          "git": [
@@ -2181,6 +2431,22 @@
                "user": "ziogiugno"
             }
          ],
+         "jsonnet": [
+            {
+               "alias": "jsonnet",
+               "forked": false,
+               "release": null,
+               "repos_name": "jsonnet",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "jsonnet"
+               ],
+               "url": "https://github.com/google/jsonnet",
+               "user": "google"
+            }
+         ],
          "kettle": [
             {
                "alias": "docker-pdi-ce",
@@ -2244,6 +2510,23 @@
                ],
                "url": "https://github.com/hejack0207/webkettle",
                "user": "JoeyBling"
+            }
+         ],
+         "knn-graph": [
+            {
+               "alias": "spark-knn-graphs",
+               "forked": false,
+               "release": null,
+               "repos_name": "spark-knn-graphs",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "spark",
+                  "knn-graph"
+               ],
+               "url": "https://github.com/tdebatty/spark-knn-graphs",
+               "user": "tdebatty"
             }
          ],
          "kubernetes": [
@@ -2323,6 +2606,64 @@
                ],
                "url": "https://github.com/Kyligence/kylin-docker",
                "user": "Kyligence"
+            },
+            {
+               "alias": "ssb-kylin",
+               "forked": false,
+               "release": null,
+               "repos_name": "ssb-kylin",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "kylin"
+               ],
+               "url": "https://github.com/Kyligence/ssb-kylin",
+               "user": "Kyligence"
+            },
+            {
+               "alias": "kylin-tpch",
+               "forked": false,
+               "release": null,
+               "repos_name": "kylin-tpch",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "kylin"
+               ],
+               "url": "https://github.com/Kyligence/kylin-tpch",
+               "user": "Kyligence"
+            },
+            {
+               "alias": "kylin-archetype",
+               "forked": false,
+               "release": null,
+               "repos_name": "kylin-archetype",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "kylin",
+                  "maven",
+                  "archetype"
+               ],
+               "url": "https://github.com/wengyingjian/kylin-archetype",
+               "user": "wengyingjian"
+            },
+            {
+               "alias": "big-data-olap",
+               "forked": false,
+               "release": null,
+               "repos_name": "big-data-olap",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "kylin"
+               ],
+               "url": "https://github.com/okmich/big-data-olap",
+               "user": "okmich"
             }
          ],
          "make": [
@@ -2375,6 +2716,58 @@
                "user": "vim"
             }
          ],
+         "mandrian": [
+            {
+               "alias": "mondrian",
+               "forked": false,
+               "release": null,
+               "repos_name": "mondrian",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "mandrian"
+               ],
+               "url": "https://github.com/pentaho/mondrian",
+               "user": "pentaho"
+            }
+         ],
+         "maven": [
+            {
+               "alias": "kylin-archetype",
+               "forked": false,
+               "release": null,
+               "repos_name": "kylin-archetype",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "kylin",
+                  "maven",
+                  "archetype"
+               ],
+               "url": "https://github.com/wengyingjian/kylin-archetype",
+               "user": "wengyingjian"
+            }
+         ],
+         "mazerunner": [
+            {
+               "alias": "neo4j-mazerunner",
+               "forked": false,
+               "release": null,
+               "repos_name": "neo4j-mazerunner",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "neo4j",
+                  "mazerunner",
+                  "spark"
+               ],
+               "url": "https://github.com/neo4j-contrib/neo4j-mazerunner",
+               "user": "neo4j-contrib"
+            }
+         ],
          "mysql": [
             {
                "alias": "mysql-server",
@@ -2408,6 +2801,55 @@
                "user": "docker-library"
             }
          ],
+         "neo4j": [
+            {
+               "alias": "spark-neo4j",
+               "forked": false,
+               "release": null,
+               "repos_name": "spark-neo4j",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "spark",
+                  "neo4j"
+               ],
+               "url": "https://github.com/kbastani/spark-neo4j",
+               "user": "kbastani"
+            },
+            {
+               "alias": "neo4j-mazerunner",
+               "forked": false,
+               "release": null,
+               "repos_name": "neo4j-mazerunner",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "neo4j",
+                  "mazerunner",
+                  "spark"
+               ],
+               "url": "https://github.com/neo4j-contrib/neo4j-mazerunner",
+               "user": "neo4j-contrib"
+            }
+         ],
+         "orientdb": [
+            {
+               "alias": "orientdb",
+               "forked": false,
+               "release": null,
+               "repos_name": "orientdb",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "orientdb"
+               ],
+               "url": "https://github.com/orientechnologies/orientdb",
+               "user": "orientechnologies"
+            }
+         ],
          "pentaho": [
             {
                "alias": "ansible.pentaho-biserver-ce",
@@ -2423,6 +2865,22 @@
                ],
                "url": "https://github.com/oggers/ansible.pentaho-biserver-ce",
                "user": "oggers"
+            }
+         ],
+         "plantuml": [
+            {
+               "alias": "plantuml",
+               "forked": false,
+               "release": null,
+               "repos_name": "plantuml",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "plantuml"
+               ],
+               "url": "https://github.com/plantuml/plantuml",
+               "user": "plantuml"
             }
          ],
          "postgres": [
@@ -2441,6 +2899,36 @@
                ],
                "url": "https://github.com/postgres/postgres",
                "user": "postgres"
+            },
+            {
+               "alias": "docker-postgres",
+               "forked": false,
+               "release": null,
+               "repos_name": "postgres",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "docker",
+                  "postgres"
+               ],
+               "url": "https://github.com/docker-library/postgres",
+               "user": "docker-library"
+            },
+            {
+               "alias": "docker-postgresql",
+               "forked": false,
+               "release": null,
+               "repos_name": "docker-postgresql",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "docker",
+                  "postgres"
+               ],
+               "url": "https://github.com/sameersbn/docker-postgresql",
+               "user": "sameersbn"
             }
          ],
          "redis": [
@@ -2477,6 +2965,67 @@
                ],
                "url": "https://github.com/cloudera-labs/envelope",
                "user": "cloudera-labs"
+            },
+            {
+               "alias": "spark-knn-graphs",
+               "forked": false,
+               "release": null,
+               "repos_name": "spark-knn-graphs",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "spark",
+                  "knn-graph"
+               ],
+               "url": "https://github.com/tdebatty/spark-knn-graphs",
+               "user": "tdebatty"
+            },
+            {
+               "alias": "mizo",
+               "forked": false,
+               "release": null,
+               "repos_name": "mizo",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "spark",
+                  "titan"
+               ],
+               "url": "https://github.com/imri/mizo",
+               "user": "imri"
+            },
+            {
+               "alias": "spark-neo4j",
+               "forked": false,
+               "release": null,
+               "repos_name": "spark-neo4j",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "spark",
+                  "neo4j"
+               ],
+               "url": "https://github.com/kbastani/spark-neo4j",
+               "user": "kbastani"
+            },
+            {
+               "alias": "neo4j-mazerunner",
+               "forked": false,
+               "release": null,
+               "repos_name": "neo4j-mazerunner",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "neo4j",
+                  "mazerunner",
+                  "spark"
+               ],
+               "url": "https://github.com/neo4j-contrib/neo4j-mazerunner",
+               "user": "neo4j-contrib"
             }
          ],
          "springcloud": [
@@ -2555,20 +3104,21 @@
                "user": "tesseract-ocr"
             }
          ],
-         "testing": [
+         "titan": [
             {
-               "alias": "f2etest",
+               "alias": "mizo",
                "forked": false,
                "release": null,
-               "repos_name": "f2etest",
+               "repos_name": "mizo",
                "score": 3,
                "shallow": false,
                "site": "https://github.com",
                "tags": [
-                  "testing"
+                  "spark",
+                  "titan"
                ],
-               "url": "https://github.com/alibaba/f2etest",
-               "user": "alibaba"
+               "url": "https://github.com/imri/mizo",
+               "user": "imri"
             }
          ],
          "tmux": [

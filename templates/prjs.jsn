@@ -188,16 +188,16 @@ local tpl=import 'tpl.jsn';
     ],
     tag_categories: {
         olap: [
-            "kylin"
+            "kylin","clickhouse","mandrian"
         ],
         ocr: [
             "tesseract"
         ],
         build: [
-            "autotools","cmake","make"
+            "autotools","cmake","make","maven"
         ],
         etl: [
-            "kettle","pentaho","envelope"
+            "kettle","pentaho","envelope","datax","flinkx"
         ],
         deploy: [
             "ansible","docker","docker-compose","helm","kubernetes"
@@ -215,7 +215,7 @@ local tpl=import 'tpl.jsn';
             "greenplum"
         ],
         bigdata: [
-            "hadoop","cdh","impala"
+            "hadoop","cdh","impala","flink","spark"
         ],
         infra: [
             "tomcat","redis"
@@ -227,7 +227,25 @@ local tpl=import 'tpl.jsn';
             "zsh","ssh","tmux","git"
         ],
         scaffold: [
-            "jhipster","springcloud"
+            "jhipster","springcloud","archetype"
+        ],
+        esb: [
+            "camel"
+        ],
+        testing: [
+            "f2etest"
+        ],
+        data_generator: [
+            "jsonnet"
+        ],
+        graph_db: [
+            "neo4j","orientdb","titan"
+        ],
+        design: [
+            "plantuml"
+        ],
+        business: [
+            "agricultrue-knowledge-graph","knn-graph"
         ],
     },
     check: {
@@ -415,12 +433,32 @@ local tpl=import 'tpl.jsn';
         tpl.ghrepos + {
             user: "alibaba",
             repos_name: "f2etest",
-            tags: ["testing"],
+            tags: ["f2etest"],
         },
         tpl.ghrepos + {
             user: "Kyligence",
             repos_name: "kylin-docker",
             tags: ["docker","kylin"],
+        },
+        tpl.ghrepos + {
+            user: "Kyligence",
+            repos_name: "ssb-kylin",
+            tags: ["kylin"],
+        },
+        tpl.ghrepos + {
+            user: "Kyligence",
+            repos_name: "kylin-tpch",
+            tags: ["kylin"],
+        },
+        tpl.ghrepos + {
+            user: "wengyingjian",
+            repos_name: "kylin-archetype",
+            tags: ["kylin","maven","archetype"],
+        },
+        tpl.ghrepos + {
+            user: "okmich",
+            repos_name: "big-data-olap",
+            tags: ["kylin"],
         },
         tpl.ghrepos + {
             user: "sequenceiq",
@@ -456,6 +494,97 @@ local tpl=import 'tpl.jsn';
             user: "bjddd192",
             repos_name: "ansible-playbooks-cdh6",
             tags: ["ansible","cdh"],
+        },
+        tpl.ghrepos + {
+            user: "tdebatty",
+            repos_name: "spark-knn-graphs",
+            tags: ["spark","knn-graph"],
+        },
+        tpl.ghrepos + {
+            user: "imri",
+            repos_name: "mizo",
+            tags: ["spark","titan"],
+        },
+        tpl.ghrepos + {
+            user: "kbastani",
+            repos_name: "spark-neo4j",
+            tags: ["spark","neo4j"],
+        },
+        tpl.ghrepos + {
+            user: "neo4j-contrib",
+            repos_name: "neo4j-mazerunner",
+            tags: ["neo4j","mazerunner","spark"],
+        },
+        tpl.ghrepos + {
+            user: "apache",
+            repos_name: "camel",
+            tags: ["camel"],
+        },
+        tpl.ghrepos + {
+            user: "docker-library",
+            repos_name: "postgres",
+            alias: "docker-postgres",
+            tags: ["docker","postgres"],
+        },
+        tpl.ghrepos + {
+            user: "sameersbn",
+            repos_name: "docker-postgresql",
+            tags: ["docker","postgres"],
+        },
+        tpl.ghrepos + {
+            user: "alibaba",
+            repos_name: "DataX",
+            tags: ["datax"],
+        },
+        tpl.ghrepos + {
+            user: "zipingdong",
+            repos_name: "datax-web",
+            tags: ["datax"],
+        },
+        tpl.ghrepos + {
+            user: "DTStack",
+            repos_name: "flinkx",
+            tags: ["flink","flinkx"],
+        },
+        tpl.ghrepos + {
+            user: "DTStack",
+            repos_name: "flinkStreamSQL",
+            tags: ["flink"],
+        },
+        tpl.ghrepos + {
+            user: "yandex",
+            repos_name: "ClickHouse",
+            tags: ["clickhouse"],
+        },
+        tpl.ghrepos + {
+            user: "pentaho",
+            repos_name: "mondrian",
+            tags: ["mandrian"],
+        },
+        tpl.ghrepos + {
+            user: "hejack0207",
+            repos_name: "Agriculture_KnowledgeGraph",
+            tags: ["agriculture-knowledge-graph"],
+        },
+        tpl.ghrepos + {
+            user: "CrisJk",
+            repos_name: "Agriculture-KnowledgeGraph-Data",
+            tags: ["agriculture-knowledge-graph"],
+        },
+        tpl.ghrepos + {
+            user: "orientechnologies",
+            repos_name: "orientdb",
+            tags: ["orientdb"],
+        },
+        tpl.ghrepos + {
+            user: "plantuml",
+            repos_name: "plantuml",
+            tags: ["plantuml"],
+        },
+        tpl.ghrepos + {
+            user: "google",
+            repos_name: "jsonnet",
+            tags: ["jsonnet"],
         },
     ],
 

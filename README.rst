@@ -102,6 +102,11 @@ Categories
 Tags
 ==========
 
+* agriculture-knowledge-graph
+
+  + Agriculture_KnowledgeGraph https://github.com/hejack0207/Agriculture_KnowledgeGraph
+  + Agriculture-KnowledgeGraph-Data https://github.com/CrisJk/Agriculture-KnowledgeGraph-Data
+
 * ai
 
   + Paddle https://github.com/PaddlePaddle/Paddle
@@ -118,6 +123,10 @@ Tags
 * apollo
 
   + apollo-build-scripts https://github.com/nobodyiam/apollo-build-scripts
+
+* archetype
+
+  + kylin-archetype https://github.com/wengyingjian/kylin-archetype
 
 * asciidoc
 
@@ -146,10 +155,18 @@ Tags
   + vim https://github.com/vim/vim
   + gpdb https://github.com/greenplum-db/gpdb
 
+* camel
+
+  + camel https://github.com/apache/camel
+
 * cdh
 
   + ansible-playbooks-cdh5 https://github.com/mcsrainbow/ansible-playbooks-cdh5
   + ansible-playbooks-cdh6 https://github.com/bjddd192/ansible-playbooks-cdh6
+
+* clickhouse
+
+  + ClickHouse https://github.com/yandex/ClickHouse
 
 * cmake
 
@@ -168,6 +185,11 @@ Tags
 
   + ccls https://github.com/MaskRay/ccls
 
+* datax
+
+  + DataX https://github.com/alibaba/DataX
+  + datax-web https://github.com/zipingdong/datax-web
+
 * docker
 
   + tesseract https://github.com/tesseract-ocr/tesseract
@@ -177,6 +199,8 @@ Tags
   + docker-tomcat8 https://github.com/cmoro-deusto/docker-tomcat8
   + kylin-docker https://github.com/Kyligence/kylin-docker
   + hadoop-docker https://github.com/sequenceiq/hadoop-docker
+  + docker-postgres https://github.com/docker-library/postgres
+  + docker-postgresql https://github.com/sameersbn/docker-postgresql
 
 * docker-compose
 
@@ -190,6 +214,19 @@ Tags
 * envelope
 
   + envelope https://github.com/cloudera-labs/envelope
+
+* f2etest
+
+  + f2etest https://github.com/alibaba/f2etest
+
+* flink
+
+  + flinkx https://github.com/DTStack/flinkx
+  + flinkStreamSQL https://github.com/DTStack/flinkStreamSQL
+
+* flinkx
+
+  + flinkx https://github.com/DTStack/flinkx
 
 * git
 
@@ -235,12 +272,20 @@ Tags
   + generator-jhipster https://github.com/hejack0207/generator-jhipster
   + lb-2-jhipster https://github.com/hejack0207/lb-2-jhipster
 
+* jsonnet
+
+  + jsonnet https://github.com/google/jsonnet
+
 * kettle
 
   + docker-pdi-ce https://github.com/zhicwu/docker-pdi-ce
   + pentaho-kettle https://github.com/pentaho/pentaho-kettle
   + kettle-manager https://github.com/majinju/kettle-manager
   + webkettle https://github.com/hejack0207/webkettle
+
+* knn-graph
+
+  + spark-knn-graphs https://github.com/tdebatty/spark-knn-graphs
 
 * kubernetes
 
@@ -252,6 +297,10 @@ Tags
 
   + kylin https://github.com/apache/kylin
   + kylin-docker https://github.com/Kyligence/kylin-docker
+  + ssb-kylin https://github.com/Kyligence/ssb-kylin
+  + kylin-tpch https://github.com/Kyligence/kylin-tpch
+  + kylin-archetype https://github.com/wengyingjian/kylin-archetype
+  + big-data-olap https://github.com/okmich/big-data-olap
 
 * make
 
@@ -259,18 +308,45 @@ Tags
   + git https://github.com/git/git
   + vim https://github.com/vim/vim
 
+* mandrian
+
+  + mondrian https://github.com/pentaho/mondrian
+
+* maven
+
+  + kylin-archetype https://github.com/wengyingjian/kylin-archetype
+
+* mazerunner
+
+  + neo4j-mazerunner https://github.com/neo4j-contrib/neo4j-mazerunner
+
 * mysql
 
   + mysql-server https://github.com/mysql/mysql-server
   + docker-mysql https://github.com/docker-library/mysql
 
+* neo4j
+
+  + spark-neo4j https://github.com/kbastani/spark-neo4j
+  + neo4j-mazerunner https://github.com/neo4j-contrib/neo4j-mazerunner
+
+* orientdb
+
+  + orientdb https://github.com/orientechnologies/orientdb
+
 * pentaho
 
   + ansible.pentaho-biserver-ce https://github.com/oggers/ansible.pentaho-biserver-ce
 
+* plantuml
+
+  + plantuml https://github.com/plantuml/plantuml
+
 * postgres
 
   + postgres https://github.com/postgres/postgres
+  + docker-postgres https://github.com/docker-library/postgres
+  + docker-postgresql https://github.com/sameersbn/docker-postgresql
 
 * redis
 
@@ -279,6 +355,10 @@ Tags
 * spark
 
   + envelope https://github.com/cloudera-labs/envelope
+  + spark-knn-graphs https://github.com/tdebatty/spark-knn-graphs
+  + mizo https://github.com/imri/mizo
+  + spark-neo4j https://github.com/kbastani/spark-neo4j
+  + neo4j-mazerunner https://github.com/neo4j-contrib/neo4j-mazerunner
 
 * springcloud
 
@@ -296,9 +376,9 @@ Tags
 
   + tesseract https://github.com/tesseract-ocr/tesseract
 
-* testing
+* titan
 
-  + f2etest https://github.com/alibaba/f2etest
+  + mizo https://github.com/imri/mizo
 
 * tmux
 

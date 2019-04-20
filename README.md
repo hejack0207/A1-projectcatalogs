@@ -4,11 +4,21 @@
   [hadoop](#hadoop)
   [cdh](#cdh)
   [impala](#impala)
+  [flink](#flink)
+  [spark](#spark)
 ## build
 
   [autotools](#autotools)
   [cmake](#cmake)
   [make](#make)
+  [maven](#maven)
+## business
+
+  [agricultrue-knowledge-graph](#agricultrue-knowledge-graph)
+  [knn-graph](#knn-graph)
+## data_generator
+
+  [jsonnet](#jsonnet)
 ## datawarehouse
 
   [greenplum](#greenplum)
@@ -19,6 +29,9 @@
   [docker-compose](#docker-compose)
   [helm](#helm)
   [kubernetes](#kubernetes)
+## design
+
+  [plantuml](#plantuml)
 ## documentation
 
   [asciidoc](#asciidoc)
@@ -26,11 +39,21 @@
 
   [vim](#vim)
   [cpp-tool](#cpp-tool)
+## esb
+
+  [camel](#camel)
 ## etl
 
   [kettle](#kettle)
   [pentaho](#pentaho)
   [envelope](#envelope)
+  [datax](#datax)
+  [flinkx](#flinkx)
+## graph_db
+
+  [neo4j](#neo4j)
+  [orientdb](#orientdb)
+  [titan](#titan)
 ## infra
 
   [tomcat](#tomcat)
@@ -47,6 +70,8 @@
 ## olap
 
   [kylin](#kylin)
+  [clickhouse](#clickhouse)
+  [mandrian](#mandrian)
 ## rdb
 
   [sqlite](#sqlite)
@@ -56,23 +81,39 @@
 
   [jhipster](#jhipster)
   [springcloud](#springcloud)
+  [archetype](#archetype)
 ## terminal
 
   [zsh](#zsh)
   [ssh](#ssh)
   [tmux](#tmux)
   [git](#git)
+## testing
+
+  [f2etest](#f2etest)
 
 ## not in category
+  [agriculture-knowledge-graph](#agriculture-knowledge-graph)
   [ai](#ai)
   [apollo](#apollo)
-  [spark](#spark)
-  [testing](#testing)
+  [mazerunner](#mazerunner)
   [travis](#travis)
   [webui](#webui)
 
 
 # repos
+## agriculture-knowledge-graph
+  + Agriculture_KnowledgeGraph <https://github.com/hejack0207/Agriculture_KnowledgeGraph> 
+
+      [
+  [agriculture-knowledge-graph](#agriculture-knowledge-graph)
+      ]
+  + Agriculture-KnowledgeGraph-Data <https://github.com/CrisJk/Agriculture-KnowledgeGraph-Data> 
+
+      [
+  [agriculture-knowledge-graph](#agriculture-knowledge-graph)
+      ]
+
 ## ai
   + Paddle <https://github.com/PaddlePaddle/Paddle> 
 
@@ -126,6 +167,15 @@
       [
   [docker-compose](#docker-compose)
   [apollo](#apollo)
+      ]
+
+## archetype
+  + kylin-archetype <https://github.com/wengyingjian/kylin-archetype> 
+
+      [
+  [kylin](#kylin)
+  [maven](#maven)
+  [archetype](#archetype)
       ]
 
 ## asciidoc
@@ -263,6 +313,13 @@
   [c](#c)
       ]
 
+## camel
+  + camel <https://github.com/apache/camel> 
+
+      [
+  [camel](#camel)
+      ]
+
 ## cdh
   + ansible-playbooks-cdh5 <https://github.com/mcsrainbow/ansible-playbooks-cdh5> 
 
@@ -275,6 +332,13 @@
       [
   [ansible](#ansible)
   [cdh](#cdh)
+      ]
+
+## clickhouse
+  + ClickHouse <https://github.com/yandex/ClickHouse> 
+
+      [
+  [clickhouse](#clickhouse)
       ]
 
 ## cmake
@@ -350,6 +414,18 @@
   [vim](#vim)
       ]
 
+## datax
+  + DataX <https://github.com/alibaba/DataX> 
+
+      [
+  [datax](#datax)
+      ]
+  + datax-web <https://github.com/zipingdong/datax-web> 
+
+      [
+  [datax](#datax)
+      ]
+
 ## docker
   + tesseract <https://github.com/tesseract-ocr/tesseract> 
 
@@ -397,6 +473,18 @@
       [
   [docker](#docker)
   [hadoop](#hadoop)
+      ]
+  + docker-postgres <https://github.com/docker-library/postgres> 
+
+      [
+  [docker](#docker)
+  [postgres](#postgres)
+      ]
+  + docker-postgresql <https://github.com/sameersbn/docker-postgresql> 
+
+      [
+  [docker](#docker)
+  [postgres](#postgres)
       ]
 
 ## docker-compose
@@ -452,6 +540,34 @@
   [java](#java)
   [envelope](#envelope)
   [spark](#spark)
+      ]
+
+## f2etest
+  + f2etest <https://github.com/alibaba/f2etest> 
+
+      [
+  [f2etest](#f2etest)
+      ]
+
+## flink
+  + flinkx <https://github.com/DTStack/flinkx> 
+
+      [
+  [flink](#flink)
+  [flinkx](#flinkx)
+      ]
+  + flinkStreamSQL <https://github.com/DTStack/flinkStreamSQL> 
+
+      [
+  [flink](#flink)
+      ]
+
+## flinkx
+  + flinkx <https://github.com/DTStack/flinkx> 
+
+      [
+  [flink](#flink)
+  [flinkx](#flinkx)
       ]
 
 ## git
@@ -599,6 +715,13 @@
   [jhipster](#jhipster)
       ]
 
+## jsonnet
+  + jsonnet <https://github.com/google/jsonnet> 
+
+      [
+  [jsonnet](#jsonnet)
+      ]
+
 ## kettle
   + docker-pdi-ce <https://github.com/zhicwu/docker-pdi-ce> 
 
@@ -626,6 +749,14 @@
   [docker-compose](#docker-compose)
   [webui](#webui)
   [kettle](#kettle)
+      ]
+
+## knn-graph
+  + spark-knn-graphs <https://github.com/tdebatty/spark-knn-graphs> 
+
+      [
+  [spark](#spark)
+  [knn-graph](#knn-graph)
       ]
 
 ## kubernetes
@@ -661,6 +792,28 @@
   [docker](#docker)
   [kylin](#kylin)
       ]
+  + ssb-kylin <https://github.com/Kyligence/ssb-kylin> 
+
+      [
+  [kylin](#kylin)
+      ]
+  + kylin-tpch <https://github.com/Kyligence/kylin-tpch> 
+
+      [
+  [kylin](#kylin)
+      ]
+  + kylin-archetype <https://github.com/wengyingjian/kylin-archetype> 
+
+      [
+  [kylin](#kylin)
+  [maven](#maven)
+  [archetype](#archetype)
+      ]
+  + big-data-olap <https://github.com/okmich/big-data-olap> 
+
+      [
+  [kylin](#kylin)
+      ]
 
 ## make
   + redis <https://github.com/antirez/redis> 
@@ -685,6 +838,31 @@
   [vim](#vim)
       ]
 
+## mandrian
+  + mondrian <https://github.com/pentaho/mondrian> 
+
+      [
+  [mandrian](#mandrian)
+      ]
+
+## maven
+  + kylin-archetype <https://github.com/wengyingjian/kylin-archetype> 
+
+      [
+  [kylin](#kylin)
+  [maven](#maven)
+  [archetype](#archetype)
+      ]
+
+## mazerunner
+  + neo4j-mazerunner <https://github.com/neo4j-contrib/neo4j-mazerunner> 
+
+      [
+  [neo4j](#neo4j)
+  [mazerunner](#mazerunner)
+  [spark](#spark)
+      ]
+
 ## mysql
   + mysql-server <https://github.com/mysql/mysql-server> 
 
@@ -700,6 +878,28 @@
   [mysql](#mysql)
       ]
 
+## neo4j
+  + spark-neo4j <https://github.com/kbastani/spark-neo4j> 
+
+      [
+  [spark](#spark)
+  [neo4j](#neo4j)
+      ]
+  + neo4j-mazerunner <https://github.com/neo4j-contrib/neo4j-mazerunner> 
+
+      [
+  [neo4j](#neo4j)
+  [mazerunner](#mazerunner)
+  [spark](#spark)
+      ]
+
+## orientdb
+  + orientdb <https://github.com/orientechnologies/orientdb> 
+
+      [
+  [orientdb](#orientdb)
+      ]
+
 ## pentaho
   + ansible.pentaho-biserver-ce <https://github.com/oggers/ansible.pentaho-biserver-ce> 
 
@@ -708,12 +908,31 @@
   [pentaho](#pentaho)
       ]
 
+## plantuml
+  + plantuml <https://github.com/plantuml/plantuml> 
+
+      [
+  [plantuml](#plantuml)
+      ]
+
 ## postgres
   + postgres <https://github.com/postgres/postgres> 
 
       [
   [c](#c)
   [autotools](#autotools)
+  [postgres](#postgres)
+      ]
+  + docker-postgres <https://github.com/docker-library/postgres> 
+
+      [
+  [docker](#docker)
+  [postgres](#postgres)
+      ]
+  + docker-postgresql <https://github.com/sameersbn/docker-postgresql> 
+
+      [
+  [docker](#docker)
   [postgres](#postgres)
       ]
 
@@ -732,6 +951,31 @@
       [
   [java](#java)
   [envelope](#envelope)
+  [spark](#spark)
+      ]
+  + spark-knn-graphs <https://github.com/tdebatty/spark-knn-graphs> 
+
+      [
+  [spark](#spark)
+  [knn-graph](#knn-graph)
+      ]
+  + mizo <https://github.com/imri/mizo> 
+
+      [
+  [spark](#spark)
+  [titan](#titan)
+      ]
+  + spark-neo4j <https://github.com/kbastani/spark-neo4j> 
+
+      [
+  [spark](#spark)
+  [neo4j](#neo4j)
+      ]
+  + neo4j-mazerunner <https://github.com/neo4j-contrib/neo4j-mazerunner> 
+
+      [
+  [neo4j](#neo4j)
+  [mazerunner](#mazerunner)
   [spark](#spark)
       ]
 
@@ -775,11 +1019,12 @@
   [tesseract](#tesseract)
       ]
 
-## testing
-  + f2etest <https://github.com/alibaba/f2etest> 
+## titan
+  + mizo <https://github.com/imri/mizo> 
 
       [
-  [testing](#testing)
+  [spark](#spark)
+  [titan](#titan)
       ]
 
 ## tmux
