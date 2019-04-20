@@ -1,3 +1,14 @@
+# category
+{% for c,ts in tag_categories | dictsort %}
+  ## [{{c}}]
+
+      [
+      {% for t in ts %}
+  [{{t}}](#{{t}})
+      {% endfor %}
+      ]
+{% endfor %}
+
 # project tags
 {% for k,v in tags.contents | dictsort %}
   [{{k}}](#{{k}})

@@ -1,3 +1,47 @@
+# category
+  ## [build]
+
+      [
+  [autotools](#autotools)
+  [cmake](#cmake)
+  [make](#make)
+      ]
+  ## [deploy]
+
+      [
+  [ansible](#ansible)
+  [docker](#docker)
+  [docker-compose](#docker-compose)
+  [helm](#helm)
+  [kubernetes](#kubernetes)
+      ]
+  ## [documentation]
+
+      [
+  [asciidoc](#asciidoc)
+      ]
+  ## [etl]
+
+      [
+  [kettle](#kettle)
+      ]
+  ## [languages]
+
+      [
+  [c](#c)
+  [java](#java)
+      ]
+  ## [ocr]
+
+      [
+  [tesseract](#tesseract)
+      ]
+  ## [olap]
+
+      [
+  [kylin](#kylin)
+      ]
+
 # project tags
   [ai](#ai)
   [ansible](#ansible)

@@ -186,7 +186,7 @@ local tpl=import 'tpl.jsn';
             topics: $.topics.dev.documentation.restructed,
         },
     ],
-    tags_category: {
+    tag_categories: {
         olap: [
             "kylin"
         ],

@@ -913,6 +913,36 @@
          ]
       }
    ],
+   "tag_categories": {
+      "build": [
+         "autotools",
+         "cmake",
+         "make"
+      ],
+      "deploy": [
+         "ansible",
+         "docker",
+         "docker-compose",
+         "helm",
+         "kubernetes"
+      ],
+      "documentation": [
+         "asciidoc"
+      ],
+      "etl": [
+         "kettle"
+      ],
+      "languages": [
+         "c",
+         "java"
+      ],
+      "ocr": [
+         "tesseract"
+      ],
+      "olap": [
+         "kylin"
+      ]
+   },
    "tags": {
       "contents": {
          "ai": [
@@ -2620,35 +2650,5 @@
             }
          ]
       }
-   },
-   "tags_category": {
-      "build": [
-         "autotools",
-         "cmake",
-         "make"
-      ],
-      "deploy": [
-         "ansible",
-         "docker",
-         "docker-compose",
-         "helm",
-         "kubernetes"
-      ],
-      "documentation": [
-         "asciidoc"
-      ],
-      "etl": [
-         "kettle"
-      ],
-      "languages": [
-         "c",
-         "java"
-      ],
-      "ocr": [
-         "tesseract"
-      ],
-      "olap": [
-         "kylin"
-      ]
    }
 }
