@@ -5,9 +5,6 @@ all: $(OUTPUTS)
 clean:
 	@rm $(OUTPUTS)
 
-#README.md: templates/out.jsn
-	#jsonnet -m ./ -S out.jsn
-
 #README.md: README.rst
 	#pandoc -f rst -t markdown_github -o $@ $<
 
