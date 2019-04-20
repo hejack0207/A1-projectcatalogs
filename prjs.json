@@ -1009,6 +1009,31 @@
       }
    ],
    "tag_categories": {
+      "bd_dw": [
+         "greenplum",
+         "datawarehouse_impl",
+         "drill",
+         "pinot",
+         "presto"
+      ],
+      "bd_graphdb": [
+         "neo4j",
+         "orientdb",
+         "titan",
+         "cypher"
+      ],
+      "bd_olap": [
+         "kylin",
+         "clickhouse",
+         "mandrian",
+         "olap_impl",
+         "sql_support"
+      ],
+      "bd_rdb": [
+         "sqlite",
+         "mysql",
+         "postgres"
+      ],
       "bigdata": [
          "hadoop",
          "cdh",
@@ -1018,31 +1043,6 @@
          "bigdata_awesome",
          "bigdata_usecase",
          "mpp_based"
-      ],
-      "bigdata_dw": [
-         "greenplum",
-         "datawarehouse_impl",
-         "drill",
-         "pinot",
-         "presto"
-      ],
-      "bigdata_graphdb": [
-         "neo4j",
-         "orientdb",
-         "titan",
-         "cypher"
-      ],
-      "bigdata_olap": [
-         "kylin",
-         "clickhouse",
-         "mandrian",
-         "olap_impl",
-         "sql_support"
-      ],
-      "bigdata_rdb": [
-         "sqlite",
-         "mysql",
-         "postgres"
       ],
       "build": [
          "autotools",

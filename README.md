@@ -1,4 +1,29 @@
 # category
+## bd_dw
+
+  [greenplum](#greenplum)
+  [datawarehouse_impl](#datawarehouse_impl)
+  [drill](#drill)
+  [pinot](#pinot)
+  [presto](#presto)
+## bd_graphdb
+
+  [neo4j](#neo4j)
+  [orientdb](#orientdb)
+  [titan](#titan)
+  [cypher](#cypher)
+## bd_olap
+
+  [kylin](#kylin)
+  [clickhouse](#clickhouse)
+  [mandrian](#mandrian)
+  [olap_impl](#olap_impl)
+  [sql_support](#sql_support)
+## bd_rdb
+
+  [sqlite](#sqlite)
+  [mysql](#mysql)
+  [postgres](#postgres)
 ## bigdata
 
   [hadoop](#hadoop)
@@ -9,31 +34,6 @@
   [bigdata_awesome](#bigdata_awesome)
   [bigdata_usecase](#bigdata_usecase)
   [mpp_based](#mpp_based)
-## bigdata_dw
-
-  [greenplum](#greenplum)
-  [datawarehouse_impl](#datawarehouse_impl)
-  [drill](#drill)
-  [pinot](#pinot)
-  [presto](#presto)
-## bigdata_graphdb
-
-  [neo4j](#neo4j)
-  [orientdb](#orientdb)
-  [titan](#titan)
-  [cypher](#cypher)
-## bigdata_olap
-
-  [kylin](#kylin)
-  [clickhouse](#clickhouse)
-  [mandrian](#mandrian)
-  [olap_impl](#olap_impl)
-  [sql_support](#sql_support)
-## bigdata_rdb
-
-  [sqlite](#sqlite)
-  [mysql](#mysql)
-  [postgres](#postgres)
 ## build
 
   [autotools](#autotools)
