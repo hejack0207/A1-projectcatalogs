@@ -187,72 +187,32 @@ local tpl=import 'tpl.jsn';
         },
     ],
     tag_categories: {
-        olap: [
-            "kylin","clickhouse","mandrian"
-        ],
-        ocr: [
-            "tesseract","ocr-impl"
-        ],
-        build: [
-            "autotools","cmake","make","maven"
-        ],
-        etl: [
-            "kettle","pentaho","envelope","datax","flinkx"
-        ],
-        deploy: [
-            "ansible","docker","docker-compose","helm","kubernetes"
-        ],
-        languages: [
-            "c","java","cpp","javascript"
-        ],
-        documentation: [
-            "asciidoc"
-        ],
-        rdb: [
-            "sqlite","mysql","postgres"
-        ],
-        datawarehouse: [
-            "greenplum"
-        ],
-        bigdata: [
-            "hadoop","cdh","impala","flink","spark"
-        ],
-        infra: [
-            "tomcat","redis"
-        ],
-        editor: [
-            "vim","cpp-tool"
-        ],
-        terminal: [
-            "zsh","ssh","tmux","git"
-        ],
-        scaffold: [
-            "jhipster","springcloud","archetype","swagger-angular"
-        ],
-        esb: [
-            "camel","servicemix"
-        ],
-        testing: [
-            "f2etest","benchmark"
-        ],
-        data_generator: [
-            "jsonnet"
-        ],
-        graph_db: [
-            "neo4j","orientdb","titan","cypher"
-        ],
-        design: [
-            "plantuml"
-        ],
-        business: [
-            "agriculture-knowledge-graph","knn-graph"
-        ],
-        gis: [
-            "impalagis","sparkgis"
-        ],
-        frontend: [
-            "angular"
-        ],
+        bigdata: [ "hadoop","cdh","impala","flink","spark","bigdata-awesome","bigdata-usecase" ],
+        build: [ "autotools","cmake","make","maven" ],
+        business: [ "agriculture-knowledge-graph","knn-graph" ],
+        data_generator: [ "jsonnet" ],
+        datawarehouse: [ "greenplum","datawarehouse-impl","drill","pinot","presto" ],
+        deploy: [ "ansible","docker","docker-compose","helm","kubernetes" ],
+        design: [ "plantuml" ],
+        documentation: [ "asciidoc" ],
+        editor: [ "vim","vim-plugin","vscode-plugin","cpp-tool" ],
+        esb: [ "camel","servicemix" ],
+        etl: [ "kettle","pentaho","envelope","datax","flinkx","etl-awesome" ],
+        frontend: [ "angular" ],
+        gis: [ "impalagis","sparkgis","gis-awesome","gis-impl" ],
+        graph_db: [ "neo4j","orientdb","titan","cypher" ],
+        infra: [ "tomcat","redis","keepalived" ],
+        languages: [ "c","java","cpp","javascript" ],
+        management: ["redmine"],
+        mpp: [ "mpp-based" ],
+        ocr: [ "tesseract","ocr-impl","ocr-awesome" ],
+        olap: [ "kylin","clickhouse","mandrian","olap-impl","sql-support" ],
+        rdb: [ "sqlite","mysql","postgres" ],
+        scaffold: [ "jhipster","springcloud","archetype","swagger-angular","code-generator" ],
+        security: [ "security-awesome","websecurity-awesome","security-cve" ],
+        terminal: [ "zsh","ssh","tmux","git" ],
+        testing: [ "f2etest","benchmark" ],
+        webapp: ["webui"],
     },
     check: {
         tags_also_category: std.setInter(std.set(std.objectFields($.tag_categories)),
@@ -682,6 +642,142 @@ local tpl=import 'tpl.jsn';
             user: "RubbaBoy",
             repos_name: "NewOCR",
             tags: ["ocr-impl"],
+        },
+        tpl.ghrepos + {
+            user: "SequoiaDB",
+            repos_name: "SequoiaDB",
+            tags: ["cpp"],
+        },
+        tpl.ghrepos + {
+            user: "Kyligence",
+            repos_name: "learn_kylin",
+            tags: ["kylin"],
+        },
+        tpl.ghrepos + {
+            user: "LuckyZXL2016",
+            repos_name: "Movie_Recommend",
+            tags: ["spark","bigdata-usecase"],
+        },
+        tpl.ghrepos + {
+            user: "databricks",
+            repos_name: "spark-deep-learning",
+            tags: ["spark","deep-learning"],
+        },
+        tpl.ghrepos + {
+            user: "JerryLead",
+            repos_name: "SparkInternals",
+            tags: ["spark"],
+        },
+        tpl.ghrepos + {
+            user: "zhicwu",
+            repos_name: "docker-presto",
+            tags: ["docker","presto"],
+        },
+        tpl.ghrepos + {
+            user: "apache",
+            repos_name: "incubator-doris",
+            tags: ["mpp-based","sql-support","datawarehouse-impl"],
+        },
+        tpl.ghrepos + {
+            user: "apache",
+            repos_name: "incubator-pinot",
+            tags: ["olap-impl","pinot"],
+        },
+        tpl.ghrepos + {
+            user: "apache",
+            repos_name: "drill",
+            tags: ["mpp-based","sql-support","hadoop","drill"],
+        },
+        tpl.ghrepos + {
+            user: "kba",
+            repos_name: "awesome-ocr",
+            tags: ["ocr-awesome"],
+        },
+        tpl.ghrepos + {
+            user: "qgis",
+            repos_name: "QGIS",
+            tags: ["gis-impl"],
+        },
+        tpl.ghrepos + {
+            user: "Spacial",
+            repos_name: "csirt",
+            tags: ["security-awesome"],
+        },
+        tpl.ghrepos + {
+            user: "qazbnm456",
+            repos_name: "awesome-web-security",
+            tags: ["websecurity-awesome"],
+        },
+        tpl.ghrepos + {
+            user: "qazbnm456",
+            repos_name: "awesome-cve-poc",
+            tags: ["security-cve"],
+        },
+        tpl.ghrepos + {
+            user: "acassen",
+            repos_name: "keepalived",
+            tags: ["keepalived"],
+        },
+        tpl.ghrepos + {
+            user: "futuresystems",
+            repos_name: "ansible-role-drill",
+            tags: ["ansible","drill"],
+        },
+        tpl.ghrepos + {
+            user: "onurakpolat",
+            repos_name: "awesome-bigdata",
+            tags: ["bigdata-awesome"],
+        },
+        tpl.ghrepos + {
+            user: "pditommaso",
+            repos_name: "awesome-pipline",
+            tags: ["etl-awesome"],
+        },
+        tpl.ghrepos + {
+            user: "pawl",
+            repos_name: "awesome-etl",
+            tags: ["etl-awesome"],
+        },
+        tpl.ghrepos + {
+            user: "meteorbites",
+            repos_name: "json-to-plantuml",
+            tags: ["plantuml","json"],
+        },
+        tpl.ghrepos + {
+            user: "bafolts",
+            repos_name: "plantuml-code-generator",
+            tags: ["plantuml","code-generator"],
+        },
+        tpl.ghrepos + {
+            user: "dkd",
+            repos_name: "plantuml",
+            alias: "dkd-plantuml",
+            tags: ["plantuml","redmine"],
+        },
+        tpl.ghrepos + {
+            user: "aklt",
+            repos_name: "plantuml-syntax",
+            tags: ["plantuml","vim-plugin"],
+        },
+        tpl.ghrepos + {
+            user: "plantuml",
+            repos_name: "plantuml-server",
+            tags: ["plantuml","webui"],
+        },
+        tpl.ghrepos + {
+            user: "wuchong",
+            repos_name: "awesome-flink",
+            tags: ["flink"],
+        },
+        tpl.ghrepos + {
+            user: "sshuair",
+            repos_name: "awesome-gis",
+            tags: ["gis-awesome"],
+        },
+        tpl.ghrepos + {
+            user: "qjebbs",
+            repos_name: "vscode-plantuml",
+            tags: ["plantuml","vscode-plugin"],
         },
     ],
 

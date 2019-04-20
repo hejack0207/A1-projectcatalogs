@@ -9,21 +9,29 @@
          "asciidoc",
          "autotools",
          "benchmark",
+         "bigdata-awesome",
+         "bigdata-usecase",
          "c",
          "camel",
          "cdh",
          "clickhouse",
          "cmake",
+         "code-generator",
          "cpp",
          "cpp-tool",
          "cypher",
+         "datawarehouse-impl",
          "datax",
          "docker",
          "docker-compose",
+         "drill",
          "envelope",
+         "etl-awesome",
          "f2etest",
          "flink",
          "flinkx",
+         "gis-awesome",
+         "gis-impl",
          "git",
          "greenplum",
          "hadoop",
@@ -34,6 +42,7 @@
          "javascript",
          "jhipster",
          "jsonnet",
+         "keepalived",
          "kettle",
          "knn-graph",
          "kubernetes",
@@ -41,18 +50,27 @@
          "make",
          "mandrian",
          "maven",
+         "mpp-based",
          "mysql",
          "neo4j",
+         "ocr-awesome",
          "ocr-impl",
+         "olap-impl",
          "orientdb",
          "pentaho",
+         "pinot",
          "plantuml",
          "postgres",
+         "presto",
          "redis",
+         "redmine",
+         "security-awesome",
+         "security-cve",
          "servicemix",
          "spark",
          "sparkgis",
          "springcloud",
+         "sql-support",
          "sqlite",
          "ssh",
          "swagger-angular",
@@ -61,17 +79,22 @@
          "tmux",
          "tomcat",
          "vim",
+         "vim-plugin",
+         "vscode-plugin",
+         "websecurity-awesome",
+         "webui",
          "zsh"
       ],
       "tags_not_in_category": [
          "ai",
          "apollo",
+         "deep-learning",
          "graph-ui",
+         "json",
          "mazerunner",
          "restful",
          "swagger",
-         "travis",
-         "webui"
+         "travis"
       ]
    },
    "project_category": [
@@ -991,7 +1014,9 @@
          "cdh",
          "impala",
          "flink",
-         "spark"
+         "spark",
+         "bigdata-awesome",
+         "bigdata-usecase"
       ],
       "build": [
          "autotools",
@@ -1007,7 +1032,11 @@
          "jsonnet"
       ],
       "datawarehouse": [
-         "greenplum"
+         "greenplum",
+         "datawarehouse-impl",
+         "drill",
+         "pinot",
+         "presto"
       ],
       "deploy": [
          "ansible",
@@ -1024,6 +1053,8 @@
       ],
       "editor": [
          "vim",
+         "vim-plugin",
+         "vscode-plugin",
          "cpp-tool"
       ],
       "esb": [
@@ -1035,14 +1066,17 @@
          "pentaho",
          "envelope",
          "datax",
-         "flinkx"
+         "flinkx",
+         "etl-awesome"
       ],
       "frontend": [
          "angular"
       ],
       "gis": [
          "impalagis",
-         "sparkgis"
+         "sparkgis",
+         "gis-awesome",
+         "gis-impl"
       ],
       "graph_db": [
          "neo4j",
@@ -1052,7 +1086,8 @@
       ],
       "infra": [
          "tomcat",
-         "redis"
+         "redis",
+         "keepalived"
       ],
       "languages": [
          "c",
@@ -1060,14 +1095,23 @@
          "cpp",
          "javascript"
       ],
+      "management": [
+         "redmine"
+      ],
+      "mpp": [
+         "mpp-based"
+      ],
       "ocr": [
          "tesseract",
-         "ocr-impl"
+         "ocr-impl",
+         "ocr-awesome"
       ],
       "olap": [
          "kylin",
          "clickhouse",
-         "mandrian"
+         "mandrian",
+         "olap-impl",
+         "sql-support"
       ],
       "rdb": [
          "sqlite",
@@ -1078,7 +1122,13 @@
          "jhipster",
          "springcloud",
          "archetype",
-         "swagger-angular"
+         "swagger-angular",
+         "code-generator"
+      ],
+      "security": [
+         "security-awesome",
+         "websecurity-awesome",
+         "security-cve"
       ],
       "terminal": [
          "zsh",
@@ -1089,6 +1139,9 @@
       "testing": [
          "f2etest",
          "benchmark"
+      ],
+      "webapp": [
+         "webui"
       ]
    },
    "tags": {
@@ -1280,6 +1333,21 @@
                ],
                "url": "https://github.com/bjddd192/ansible-playbooks-cdh6",
                "user": "bjddd192"
+            },
+            {
+               "alias": "ansible-role-drill",
+               "forked": false,
+               "release": null,
+               "repos_name": "ansible-role-drill",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "ansible",
+                  "drill"
+               ],
+               "url": "https://github.com/futuresystems/ansible-role-drill",
+               "user": "futuresystems"
             }
          ],
          "apollo": [
@@ -1435,6 +1503,39 @@
                ],
                "url": "https://github.com/socialsensor/graphdb-benchmarks",
                "user": "socialsensor"
+            }
+         ],
+         "bigdata-awesome": [
+            {
+               "alias": "awesome-bigdata",
+               "forked": false,
+               "release": null,
+               "repos_name": "awesome-bigdata",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "bigdata-awesome"
+               ],
+               "url": "https://github.com/onurakpolat/awesome-bigdata",
+               "user": "onurakpolat"
+            }
+         ],
+         "bigdata-usecase": [
+            {
+               "alias": "Movie_Recommend",
+               "forked": false,
+               "release": null,
+               "repos_name": "Movie_Recommend",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "spark",
+                  "bigdata-usecase"
+               ],
+               "url": "https://github.com/LuckyZXL2016/Movie_Recommend",
+               "user": "LuckyZXL2016"
             }
          ],
          "c": [
@@ -1781,6 +1882,23 @@
                "user": "apache"
             }
          ],
+         "code-generator": [
+            {
+               "alias": "plantuml-code-generator",
+               "forked": false,
+               "release": null,
+               "repos_name": "plantuml-code-generator",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "plantuml",
+                  "code-generator"
+               ],
+               "url": "https://github.com/bafolts/plantuml-code-generator",
+               "user": "bafolts"
+            }
+         ],
          "cpp": [
             {
                "alias": "tesseract",
@@ -1818,6 +1936,20 @@
                ],
                "url": "https://github.com/MaskRay/ccls",
                "user": "MaskRay"
+            },
+            {
+               "alias": "SequoiaDB",
+               "forked": false,
+               "release": null,
+               "repos_name": "SequoiaDB",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "cpp"
+               ],
+               "url": "https://github.com/SequoiaDB/SequoiaDB",
+               "user": "SequoiaDB"
             }
          ],
          "cpp-tool": [
@@ -1856,6 +1988,24 @@
                "user": "opencypher"
             }
          ],
+         "datawarehouse-impl": [
+            {
+               "alias": "incubator-doris",
+               "forked": false,
+               "release": null,
+               "repos_name": "incubator-doris",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "mpp-based",
+                  "sql-support",
+                  "datawarehouse-impl"
+               ],
+               "url": "https://github.com/apache/incubator-doris",
+               "user": "apache"
+            }
+         ],
          "datax": [
             {
                "alias": "DataX",
@@ -1884,6 +2034,23 @@
                ],
                "url": "https://github.com/zipingdong/datax-web",
                "user": "zipingdong"
+            }
+         ],
+         "deep-learning": [
+            {
+               "alias": "spark-deep-learning",
+               "forked": false,
+               "release": null,
+               "repos_name": "spark-deep-learning",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "spark",
+                  "deep-learning"
+               ],
+               "url": "https://github.com/databricks/spark-deep-learning",
+               "user": "databricks"
             }
          ],
          "docker": [
@@ -2056,6 +2223,21 @@
                ],
                "url": "https://github.com/mkroli/servicemix-docker",
                "user": "mkroli"
+            },
+            {
+               "alias": "docker-presto",
+               "forked": false,
+               "release": null,
+               "repos_name": "docker-presto",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "docker",
+                  "presto"
+               ],
+               "url": "https://github.com/zhicwu/docker-presto",
+               "user": "zhicwu"
             }
          ],
          "docker-compose": [
@@ -2158,6 +2340,40 @@
                "user": "nobodyiam"
             }
          ],
+         "drill": [
+            {
+               "alias": "drill",
+               "forked": false,
+               "release": null,
+               "repos_name": "drill",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "mpp-based",
+                  "sql-support",
+                  "hadoop",
+                  "drill"
+               ],
+               "url": "https://github.com/apache/drill",
+               "user": "apache"
+            },
+            {
+               "alias": "ansible-role-drill",
+               "forked": false,
+               "release": null,
+               "repos_name": "ansible-role-drill",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "ansible",
+                  "drill"
+               ],
+               "url": "https://github.com/futuresystems/ansible-role-drill",
+               "user": "futuresystems"
+            }
+         ],
          "envelope": [
             {
                "alias": "envelope",
@@ -2174,6 +2390,36 @@
                ],
                "url": "https://github.com/cloudera-labs/envelope",
                "user": "cloudera-labs"
+            }
+         ],
+         "etl-awesome": [
+            {
+               "alias": "awesome-pipline",
+               "forked": false,
+               "release": null,
+               "repos_name": "awesome-pipline",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "etl-awesome"
+               ],
+               "url": "https://github.com/pditommaso/awesome-pipline",
+               "user": "pditommaso"
+            },
+            {
+               "alias": "awesome-etl",
+               "forked": false,
+               "release": null,
+               "repos_name": "awesome-etl",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "etl-awesome"
+               ],
+               "url": "https://github.com/pawl/awesome-etl",
+               "user": "pawl"
             }
          ],
          "f2etest": [
@@ -2235,6 +2481,20 @@
                ],
                "url": "https://github.com/apache/flink",
                "user": "apache"
+            },
+            {
+               "alias": "awesome-flink",
+               "forked": false,
+               "release": null,
+               "repos_name": "awesome-flink",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "flink"
+               ],
+               "url": "https://github.com/wuchong/awesome-flink",
+               "user": "wuchong"
             }
          ],
          "flinkx": [
@@ -2252,6 +2512,38 @@
                ],
                "url": "https://github.com/DTStack/flinkx",
                "user": "DTStack"
+            }
+         ],
+         "gis-awesome": [
+            {
+               "alias": "awesome-gis",
+               "forked": false,
+               "release": null,
+               "repos_name": "awesome-gis",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "gis-awesome"
+               ],
+               "url": "https://github.com/sshuair/awesome-gis",
+               "user": "sshuair"
+            }
+         ],
+         "gis-impl": [
+            {
+               "alias": "QGIS",
+               "forked": false,
+               "release": null,
+               "repos_name": "QGIS",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "gis-impl"
+               ],
+               "url": "https://github.com/qgis/QGIS",
+               "user": "qgis"
             }
          ],
          "git": [
@@ -2397,6 +2689,23 @@
                ],
                "url": "https://github.com/ifilonenko/hadoop-kerberos-helm",
                "user": "ifilonenko"
+            },
+            {
+               "alias": "drill",
+               "forked": false,
+               "release": null,
+               "repos_name": "drill",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "mpp-based",
+                  "sql-support",
+                  "hadoop",
+                  "drill"
+               ],
+               "url": "https://github.com/apache/drill",
+               "user": "apache"
             }
          ],
          "helm": [
@@ -2673,6 +2982,23 @@
                "user": "ziogiugno"
             }
          ],
+         "json": [
+            {
+               "alias": "json-to-plantuml",
+               "forked": false,
+               "release": null,
+               "repos_name": "json-to-plantuml",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "plantuml",
+                  "json"
+               ],
+               "url": "https://github.com/meteorbites/json-to-plantuml",
+               "user": "meteorbites"
+            }
+         ],
          "jsonnet": [
             {
                "alias": "jsonnet",
@@ -2687,6 +3013,22 @@
                ],
                "url": "https://github.com/google/jsonnet",
                "user": "google"
+            }
+         ],
+         "keepalived": [
+            {
+               "alias": "keepalived",
+               "forked": false,
+               "release": null,
+               "repos_name": "keepalived",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "keepalived"
+               ],
+               "url": "https://github.com/acassen/keepalived",
+               "user": "acassen"
             }
          ],
          "kettle": [
@@ -2920,6 +3262,20 @@
                ],
                "url": "https://github.com/okmich/big-data-olap",
                "user": "okmich"
+            },
+            {
+               "alias": "learn_kylin",
+               "forked": false,
+               "release": null,
+               "repos_name": "learn_kylin",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "kylin"
+               ],
+               "url": "https://github.com/Kyligence/learn_kylin",
+               "user": "Kyligence"
             }
          ],
          "make": [
@@ -3024,6 +3380,41 @@
                "user": "neo4j-contrib"
             }
          ],
+         "mpp-based": [
+            {
+               "alias": "incubator-doris",
+               "forked": false,
+               "release": null,
+               "repos_name": "incubator-doris",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "mpp-based",
+                  "sql-support",
+                  "datawarehouse-impl"
+               ],
+               "url": "https://github.com/apache/incubator-doris",
+               "user": "apache"
+            },
+            {
+               "alias": "drill",
+               "forked": false,
+               "release": null,
+               "repos_name": "drill",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "mpp-based",
+                  "sql-support",
+                  "hadoop",
+                  "drill"
+               ],
+               "url": "https://github.com/apache/drill",
+               "user": "apache"
+            }
+         ],
          "mysql": [
             {
                "alias": "mysql-server",
@@ -3090,6 +3481,22 @@
                "user": "neo4j-contrib"
             }
          ],
+         "ocr-awesome": [
+            {
+               "alias": "awesome-ocr",
+               "forked": false,
+               "release": null,
+               "repos_name": "awesome-ocr",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "ocr-awesome"
+               ],
+               "url": "https://github.com/kba/awesome-ocr",
+               "user": "kba"
+            }
+         ],
          "ocr-impl": [
             {
                "alias": "EasyOCR",
@@ -3148,6 +3555,23 @@
                "user": "RubbaBoy"
             }
          ],
+         "olap-impl": [
+            {
+               "alias": "incubator-pinot",
+               "forked": false,
+               "release": null,
+               "repos_name": "incubator-pinot",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "olap-impl",
+                  "pinot"
+               ],
+               "url": "https://github.com/apache/incubator-pinot",
+               "user": "apache"
+            }
+         ],
          "orientdb": [
             {
                "alias": "orientdb",
@@ -3181,6 +3605,23 @@
                "user": "oggers"
             }
          ],
+         "pinot": [
+            {
+               "alias": "incubator-pinot",
+               "forked": false,
+               "release": null,
+               "repos_name": "incubator-pinot",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "olap-impl",
+                  "pinot"
+               ],
+               "url": "https://github.com/apache/incubator-pinot",
+               "user": "apache"
+            }
+         ],
          "plantuml": [
             {
                "alias": "plantuml",
@@ -3195,6 +3636,96 @@
                ],
                "url": "https://github.com/plantuml/plantuml",
                "user": "plantuml"
+            },
+            {
+               "alias": "json-to-plantuml",
+               "forked": false,
+               "release": null,
+               "repos_name": "json-to-plantuml",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "plantuml",
+                  "json"
+               ],
+               "url": "https://github.com/meteorbites/json-to-plantuml",
+               "user": "meteorbites"
+            },
+            {
+               "alias": "plantuml-code-generator",
+               "forked": false,
+               "release": null,
+               "repos_name": "plantuml-code-generator",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "plantuml",
+                  "code-generator"
+               ],
+               "url": "https://github.com/bafolts/plantuml-code-generator",
+               "user": "bafolts"
+            },
+            {
+               "alias": "dkd-plantuml",
+               "forked": false,
+               "release": null,
+               "repos_name": "plantuml",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "plantuml",
+                  "redmine"
+               ],
+               "url": "https://github.com/dkd/plantuml",
+               "user": "dkd"
+            },
+            {
+               "alias": "plantuml-syntax",
+               "forked": false,
+               "release": null,
+               "repos_name": "plantuml-syntax",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "plantuml",
+                  "vim-plugin"
+               ],
+               "url": "https://github.com/aklt/plantuml-syntax",
+               "user": "aklt"
+            },
+            {
+               "alias": "plantuml-server",
+               "forked": false,
+               "release": null,
+               "repos_name": "plantuml-server",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "plantuml",
+                  "webui"
+               ],
+               "url": "https://github.com/plantuml/plantuml-server",
+               "user": "plantuml"
+            },
+            {
+               "alias": "vscode-plantuml",
+               "forked": false,
+               "release": null,
+               "repos_name": "vscode-plantuml",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "plantuml",
+                  "vscode-plugin"
+               ],
+               "url": "https://github.com/qjebbs/vscode-plantuml",
+               "user": "qjebbs"
             }
          ],
          "postgres": [
@@ -3245,6 +3776,23 @@
                "user": "sameersbn"
             }
          ],
+         "presto": [
+            {
+               "alias": "docker-presto",
+               "forked": false,
+               "release": null,
+               "repos_name": "docker-presto",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "docker",
+                  "presto"
+               ],
+               "url": "https://github.com/zhicwu/docker-presto",
+               "user": "zhicwu"
+            }
+         ],
          "redis": [
             {
                "alias": "redis",
@@ -3263,6 +3811,23 @@
                "user": "antirez"
             }
          ],
+         "redmine": [
+            {
+               "alias": "dkd-plantuml",
+               "forked": false,
+               "release": null,
+               "repos_name": "plantuml",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "plantuml",
+                  "redmine"
+               ],
+               "url": "https://github.com/dkd/plantuml",
+               "user": "dkd"
+            }
+         ],
          "restful": [
             {
                "alias": "spark-jobserver",
@@ -3278,6 +3843,38 @@
                ],
                "url": "https://github.com/spark-jobserver/spark-jobserver",
                "user": "spark-jobserver"
+            }
+         ],
+         "security-awesome": [
+            {
+               "alias": "csirt",
+               "forked": false,
+               "release": null,
+               "repos_name": "csirt",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "security-awesome"
+               ],
+               "url": "https://github.com/Spacial/csirt",
+               "user": "Spacial"
+            }
+         ],
+         "security-cve": [
+            {
+               "alias": "awesome-cve-poc",
+               "forked": false,
+               "release": null,
+               "repos_name": "awesome-cve-poc",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "security-cve"
+               ],
+               "url": "https://github.com/qazbnm456/awesome-cve-poc",
+               "user": "qazbnm456"
             }
          ],
          "servicemix": [
@@ -3434,6 +4031,50 @@
                ],
                "url": "https://github.com/drubbo/SparkGIS",
                "user": "drubbo"
+            },
+            {
+               "alias": "Movie_Recommend",
+               "forked": false,
+               "release": null,
+               "repos_name": "Movie_Recommend",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "spark",
+                  "bigdata-usecase"
+               ],
+               "url": "https://github.com/LuckyZXL2016/Movie_Recommend",
+               "user": "LuckyZXL2016"
+            },
+            {
+               "alias": "spark-deep-learning",
+               "forked": false,
+               "release": null,
+               "repos_name": "spark-deep-learning",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "spark",
+                  "deep-learning"
+               ],
+               "url": "https://github.com/databricks/spark-deep-learning",
+               "user": "databricks"
+            },
+            {
+               "alias": "SparkInternals",
+               "forked": false,
+               "release": null,
+               "repos_name": "SparkInternals",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "spark"
+               ],
+               "url": "https://github.com/JerryLead/SparkInternals",
+               "user": "JerryLead"
             }
          ],
          "sparkgis": [
@@ -3469,6 +4110,41 @@
                ],
                "url": "https://github.com/hejack0207/SpringCloud",
                "user": "zhoutaoo"
+            }
+         ],
+         "sql-support": [
+            {
+               "alias": "incubator-doris",
+               "forked": false,
+               "release": null,
+               "repos_name": "incubator-doris",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "mpp-based",
+                  "sql-support",
+                  "datawarehouse-impl"
+               ],
+               "url": "https://github.com/apache/incubator-doris",
+               "user": "apache"
+            },
+            {
+               "alias": "drill",
+               "forked": false,
+               "release": null,
+               "repos_name": "drill",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "mpp-based",
+                  "sql-support",
+                  "hadoop",
+                  "drill"
+               ],
+               "url": "https://github.com/apache/drill",
+               "user": "apache"
             }
          ],
          "sqlite": [
@@ -3736,6 +4412,56 @@
                "user": "vim"
             }
          ],
+         "vim-plugin": [
+            {
+               "alias": "plantuml-syntax",
+               "forked": false,
+               "release": null,
+               "repos_name": "plantuml-syntax",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "plantuml",
+                  "vim-plugin"
+               ],
+               "url": "https://github.com/aklt/plantuml-syntax",
+               "user": "aklt"
+            }
+         ],
+         "vscode-plugin": [
+            {
+               "alias": "vscode-plantuml",
+               "forked": false,
+               "release": null,
+               "repos_name": "vscode-plantuml",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "plantuml",
+                  "vscode-plugin"
+               ],
+               "url": "https://github.com/qjebbs/vscode-plantuml",
+               "user": "qjebbs"
+            }
+         ],
+         "websecurity-awesome": [
+            {
+               "alias": "awesome-web-security",
+               "forked": false,
+               "release": null,
+               "repos_name": "awesome-web-security",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "websecurity-awesome"
+               ],
+               "url": "https://github.com/qazbnm456/awesome-web-security",
+               "user": "qazbnm456"
+            }
+         ],
          "webui": [
             {
                "alias": "kettle-manager",
@@ -3769,6 +4495,21 @@
                ],
                "url": "https://github.com/hejack0207/webkettle",
                "user": "JoeyBling"
+            },
+            {
+               "alias": "plantuml-server",
+               "forked": false,
+               "release": null,
+               "repos_name": "plantuml-server",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "plantuml",
+                  "webui"
+               ],
+               "url": "https://github.com/plantuml/plantuml-server",
+               "user": "plantuml"
             }
          ],
          "zsh": [

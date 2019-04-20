@@ -6,6 +6,8 @@
   [impala](#impala)
   [flink](#flink)
   [spark](#spark)
+  [bigdata-awesome](#bigdata-awesome)
+  [bigdata-usecase](#bigdata-usecase)
 ## build
 
   [autotools](#autotools)
@@ -22,6 +24,10 @@
 ## datawarehouse
 
   [greenplum](#greenplum)
+  [datawarehouse-impl](#datawarehouse-impl)
+  [drill](#drill)
+  [pinot](#pinot)
+  [presto](#presto)
 ## deploy
 
   [ansible](#ansible)
@@ -38,6 +44,8 @@
 ## editor
 
   [vim](#vim)
+  [vim-plugin](#vim-plugin)
+  [vscode-plugin](#vscode-plugin)
   [cpp-tool](#cpp-tool)
 ## esb
 
@@ -50,6 +58,7 @@
   [envelope](#envelope)
   [datax](#datax)
   [flinkx](#flinkx)
+  [etl-awesome](#etl-awesome)
 ## frontend
 
   [angular](#angular)
@@ -57,6 +66,8 @@
 
   [impalagis](#impalagis)
   [sparkgis](#sparkgis)
+  [gis-awesome](#gis-awesome)
+  [gis-impl](#gis-impl)
 ## graph_db
 
   [neo4j](#neo4j)
@@ -67,21 +78,31 @@
 
   [tomcat](#tomcat)
   [redis](#redis)
+  [keepalived](#keepalived)
 ## languages
 
   [c](#c)
   [java](#java)
   [cpp](#cpp)
   [javascript](#javascript)
+## management
+
+  [redmine](#redmine)
+## mpp
+
+  [mpp-based](#mpp-based)
 ## ocr
 
   [tesseract](#tesseract)
   [ocr-impl](#ocr-impl)
+  [ocr-awesome](#ocr-awesome)
 ## olap
 
   [kylin](#kylin)
   [clickhouse](#clickhouse)
   [mandrian](#mandrian)
+  [olap-impl](#olap-impl)
+  [sql-support](#sql-support)
 ## rdb
 
   [sqlite](#sqlite)
@@ -93,6 +114,12 @@
   [springcloud](#springcloud)
   [archetype](#archetype)
   [swagger-angular](#swagger-angular)
+  [code-generator](#code-generator)
+## security
+
+  [security-awesome](#security-awesome)
+  [websecurity-awesome](#websecurity-awesome)
+  [security-cve](#security-cve)
 ## terminal
 
   [zsh](#zsh)
@@ -103,16 +130,20 @@
 
   [f2etest](#f2etest)
   [benchmark](#benchmark)
+## webapp
+
+  [webui](#webui)
 
 ## not in category
   [ai](#ai)
   [apollo](#apollo)
+  [deep-learning](#deep-learning)
   [graph-ui](#graph-ui)
+  [json](#json)
   [mazerunner](#mazerunner)
   [restful](#restful)
   [swagger](#swagger)
   [travis](#travis)
-  [webui](#webui)
 
 
 # repos
@@ -196,6 +227,12 @@
   [ansible](#ansible)
   [cdh](#cdh)
       ]
+  + ansible-role-drill <https://github.com/futuresystems/ansible-role-drill> 
+
+      [
+  [ansible](#ansible)
+  [drill](#drill)
+      ]
 
 ## apollo
   + apollo-build-scripts <https://github.com/nobodyiam/apollo-build-scripts> 
@@ -269,6 +306,21 @@
 
       [
   [benchmark](#benchmark)
+      ]
+
+## bigdata-awesome
+  + awesome-bigdata <https://github.com/onurakpolat/awesome-bigdata> 
+
+      [
+  [bigdata-awesome](#bigdata-awesome)
+      ]
+
+## bigdata-usecase
+  + Movie_Recommend <https://github.com/LuckyZXL2016/Movie_Recommend> 
+
+      [
+  [spark](#spark)
+  [bigdata-usecase](#bigdata-usecase)
       ]
 
 ## c
@@ -426,6 +478,14 @@
   [impala](#impala)
       ]
 
+## code-generator
+  + plantuml-code-generator <https://github.com/bafolts/plantuml-code-generator> 
+
+      [
+  [plantuml](#plantuml)
+  [code-generator](#code-generator)
+      ]
+
 ## cpp
   + tesseract <https://github.com/tesseract-ocr/tesseract> 
 
@@ -446,6 +506,11 @@
   [cpp-tool](#cpp-tool)
   [vim](#vim)
       ]
+  + SequoiaDB <https://github.com/SequoiaDB/SequoiaDB> 
+
+      [
+  [cpp](#cpp)
+      ]
 
 ## cpp-tool
   + ccls <https://github.com/MaskRay/ccls> 
@@ -465,6 +530,15 @@
   [cypher](#cypher)
       ]
 
+## datawarehouse-impl
+  + incubator-doris <https://github.com/apache/incubator-doris> 
+
+      [
+  [mpp-based](#mpp-based)
+  [sql-support](#sql-support)
+  [datawarehouse-impl](#datawarehouse-impl)
+      ]
+
 ## datax
   + DataX <https://github.com/alibaba/DataX> 
 
@@ -475,6 +549,14 @@
 
       [
   [datax](#datax)
+      ]
+
+## deep-learning
+  + spark-deep-learning <https://github.com/databricks/spark-deep-learning> 
+
+      [
+  [spark](#spark)
+  [deep-learning](#deep-learning)
       ]
 
 ## docker
@@ -549,6 +631,12 @@
   [servicemix](#servicemix)
   [docker](#docker)
       ]
+  + docker-presto <https://github.com/zhicwu/docker-presto> 
+
+      [
+  [docker](#docker)
+  [presto](#presto)
+      ]
 
 ## docker-compose
   + tesseract <https://github.com/tesseract-ocr/tesseract> 
@@ -596,6 +684,22 @@
   [apollo](#apollo)
       ]
 
+## drill
+  + drill <https://github.com/apache/drill> 
+
+      [
+  [mpp-based](#mpp-based)
+  [sql-support](#sql-support)
+  [hadoop](#hadoop)
+  [drill](#drill)
+      ]
+  + ansible-role-drill <https://github.com/futuresystems/ansible-role-drill> 
+
+      [
+  [ansible](#ansible)
+  [drill](#drill)
+      ]
+
 ## envelope
   + envelope <https://github.com/cloudera-labs/envelope> 
 
@@ -603,6 +707,18 @@
   [java](#java)
   [envelope](#envelope)
   [spark](#spark)
+      ]
+
+## etl-awesome
+  + awesome-pipline <https://github.com/pditommaso/awesome-pipline> 
+
+      [
+  [etl-awesome](#etl-awesome)
+      ]
+  + awesome-etl <https://github.com/pawl/awesome-etl> 
+
+      [
+  [etl-awesome](#etl-awesome)
       ]
 
 ## f2etest
@@ -629,6 +745,11 @@
       [
   [flink](#flink)
       ]
+  + awesome-flink <https://github.com/wuchong/awesome-flink> 
+
+      [
+  [flink](#flink)
+      ]
 
 ## flinkx
   + flinkx <https://github.com/DTStack/flinkx> 
@@ -636,6 +757,20 @@
       [
   [flink](#flink)
   [flinkx](#flinkx)
+      ]
+
+## gis-awesome
+  + awesome-gis <https://github.com/sshuair/awesome-gis> 
+
+      [
+  [gis-awesome](#gis-awesome)
+      ]
+
+## gis-impl
+  + QGIS <https://github.com/qgis/QGIS> 
+
+      [
+  [gis-impl](#gis-impl)
       ]
 
 ## git
@@ -700,6 +835,14 @@
   [helm](#helm)
   [kubernetes](#kubernetes)
   [hadoop](#hadoop)
+      ]
+  + drill <https://github.com/apache/drill> 
+
+      [
+  [mpp-based](#mpp-based)
+  [sql-support](#sql-support)
+  [hadoop](#hadoop)
+  [drill](#drill)
       ]
 
 ## helm
@@ -823,11 +966,26 @@
   [jhipster](#jhipster)
       ]
 
+## json
+  + json-to-plantuml <https://github.com/meteorbites/json-to-plantuml> 
+
+      [
+  [plantuml](#plantuml)
+  [json](#json)
+      ]
+
 ## jsonnet
   + jsonnet <https://github.com/google/jsonnet> 
 
       [
   [jsonnet](#jsonnet)
+      ]
+
+## keepalived
+  + keepalived <https://github.com/acassen/keepalived> 
+
+      [
+  [keepalived](#keepalived)
       ]
 
 ## kettle
@@ -927,6 +1085,11 @@
       [
   [kylin](#kylin)
       ]
+  + learn_kylin <https://github.com/Kyligence/learn_kylin> 
+
+      [
+  [kylin](#kylin)
+      ]
 
 ## make
   + redis <https://github.com/antirez/redis> 
@@ -976,6 +1139,23 @@
   [spark](#spark)
       ]
 
+## mpp-based
+  + incubator-doris <https://github.com/apache/incubator-doris> 
+
+      [
+  [mpp-based](#mpp-based)
+  [sql-support](#sql-support)
+  [datawarehouse-impl](#datawarehouse-impl)
+      ]
+  + drill <https://github.com/apache/drill> 
+
+      [
+  [mpp-based](#mpp-based)
+  [sql-support](#sql-support)
+  [hadoop](#hadoop)
+  [drill](#drill)
+      ]
+
 ## mysql
   + mysql-server <https://github.com/mysql/mysql-server> 
 
@@ -1006,6 +1186,13 @@
   [spark](#spark)
       ]
 
+## ocr-awesome
+  + awesome-ocr <https://github.com/kba/awesome-ocr> 
+
+      [
+  [ocr-awesome](#ocr-awesome)
+      ]
+
 ## ocr-impl
   + EasyOCR <https://github.com/ushelp/EasyOCR> 
 
@@ -1028,6 +1215,14 @@
   [ocr-impl](#ocr-impl)
       ]
 
+## olap-impl
+  + incubator-pinot <https://github.com/apache/incubator-pinot> 
+
+      [
+  [olap-impl](#olap-impl)
+  [pinot](#pinot)
+      ]
+
 ## orientdb
   + orientdb <https://github.com/orientechnologies/orientdb> 
 
@@ -1043,11 +1238,55 @@
   [pentaho](#pentaho)
       ]
 
+## pinot
+  + incubator-pinot <https://github.com/apache/incubator-pinot> 
+
+      [
+  [olap-impl](#olap-impl)
+  [pinot](#pinot)
+      ]
+
 ## plantuml
   + plantuml <https://github.com/plantuml/plantuml> 
 
       [
   [plantuml](#plantuml)
+      ]
+  + json-to-plantuml <https://github.com/meteorbites/json-to-plantuml> 
+
+      [
+  [plantuml](#plantuml)
+  [json](#json)
+      ]
+  + plantuml-code-generator <https://github.com/bafolts/plantuml-code-generator> 
+
+      [
+  [plantuml](#plantuml)
+  [code-generator](#code-generator)
+      ]
+  + dkd-plantuml <https://github.com/dkd/plantuml> 
+
+      [
+  [plantuml](#plantuml)
+  [redmine](#redmine)
+      ]
+  + plantuml-syntax <https://github.com/aklt/plantuml-syntax> 
+
+      [
+  [plantuml](#plantuml)
+  [vim-plugin](#vim-plugin)
+      ]
+  + plantuml-server <https://github.com/plantuml/plantuml-server> 
+
+      [
+  [plantuml](#plantuml)
+  [webui](#webui)
+      ]
+  + vscode-plantuml <https://github.com/qjebbs/vscode-plantuml> 
+
+      [
+  [plantuml](#plantuml)
+  [vscode-plugin](#vscode-plugin)
       ]
 
 ## postgres
@@ -1071,6 +1310,14 @@
   [postgres](#postgres)
       ]
 
+## presto
+  + docker-presto <https://github.com/zhicwu/docker-presto> 
+
+      [
+  [docker](#docker)
+  [presto](#presto)
+      ]
+
 ## redis
   + redis <https://github.com/antirez/redis> 
 
@@ -1080,12 +1327,34 @@
   [redis](#redis)
       ]
 
+## redmine
+  + dkd-plantuml <https://github.com/dkd/plantuml> 
+
+      [
+  [plantuml](#plantuml)
+  [redmine](#redmine)
+      ]
+
 ## restful
   + spark-jobserver <https://github.com/spark-jobserver/spark-jobserver> 
 
       [
   [spark](#spark)
   [restful](#restful)
+      ]
+
+## security-awesome
+  + csirt <https://github.com/Spacial/csirt> 
+
+      [
+  [security-awesome](#security-awesome)
+      ]
+
+## security-cve
+  + awesome-cve-poc <https://github.com/qazbnm456/awesome-cve-poc> 
+
+      [
+  [security-cve](#security-cve)
       ]
 
 ## servicemix
@@ -1153,6 +1422,23 @@
   [spark](#spark)
   [sparkgis](#sparkgis)
       ]
+  + Movie_Recommend <https://github.com/LuckyZXL2016/Movie_Recommend> 
+
+      [
+  [spark](#spark)
+  [bigdata-usecase](#bigdata-usecase)
+      ]
+  + spark-deep-learning <https://github.com/databricks/spark-deep-learning> 
+
+      [
+  [spark](#spark)
+  [deep-learning](#deep-learning)
+      ]
+  + SparkInternals <https://github.com/JerryLead/SparkInternals> 
+
+      [
+  [spark](#spark)
+      ]
 
 ## sparkgis
   + SparkGIS <https://github.com/drubbo/SparkGIS> 
@@ -1169,6 +1455,23 @@
   [java](#java)
   [docker-compose](#docker-compose)
   [springcloud](#springcloud)
+      ]
+
+## sql-support
+  + incubator-doris <https://github.com/apache/incubator-doris> 
+
+      [
+  [mpp-based](#mpp-based)
+  [sql-support](#sql-support)
+  [datawarehouse-impl](#datawarehouse-impl)
+      ]
+  + drill <https://github.com/apache/drill> 
+
+      [
+  [mpp-based](#mpp-based)
+  [sql-support](#sql-support)
+  [hadoop](#hadoop)
+  [drill](#drill)
       ]
 
 ## sqlite
@@ -1301,6 +1604,29 @@
   [vim](#vim)
       ]
 
+## vim-plugin
+  + plantuml-syntax <https://github.com/aklt/plantuml-syntax> 
+
+      [
+  [plantuml](#plantuml)
+  [vim-plugin](#vim-plugin)
+      ]
+
+## vscode-plugin
+  + vscode-plantuml <https://github.com/qjebbs/vscode-plantuml> 
+
+      [
+  [plantuml](#plantuml)
+  [vscode-plugin](#vscode-plugin)
+      ]
+
+## websecurity-awesome
+  + awesome-web-security <https://github.com/qazbnm456/awesome-web-security> 
+
+      [
+  [websecurity-awesome](#websecurity-awesome)
+      ]
+
 ## webui
   + kettle-manager <https://github.com/majinju/kettle-manager> 
 
@@ -1316,6 +1642,12 @@
   [docker-compose](#docker-compose)
   [webui](#webui)
   [kettle](#kettle)
+      ]
+  + plantuml-server <https://github.com/plantuml/plantuml-server> 
+
+      [
+  [plantuml](#plantuml)
+  [webui](#webui)
       ]
 
 ## zsh
