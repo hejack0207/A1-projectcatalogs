@@ -8,7 +8,9 @@
 ## {{ k }}
     {% for repo in v %}
   + {{ repo.alias }} <{{ repo.url }}> 
-  {{ repo.tags }}
+      {% for t in repo.tags %}}
+  [{{t}}](#{{t}})
+      {% endfor %}}
     {% endfor %}
 
 {% endfor %}

@@ -26,201 +26,547 @@
 # repos
 ## ansible
   + gpdb-ansible <https://github.com/andreasscherbaum/gpdb-ansible> 
-  ['ansible', 'greenplum']
+}
+  [ansible](#ansible)
+}
+  [greenplum](#greenplum)
+}
   + greenplum-ansible <https://github.com/faer615/greenplum> 
-  ['ansible', 'greenplum']
+}
+  [ansible](#ansible)
+}
+  [greenplum](#greenplum)
+}
   + hadoop-ansible <https://github.com/analytically/hadoop-ansible> 
-  ['ansible', 'hadoop']
+}
+  [ansible](#ansible)
+}
+  [hadoop](#hadoop)
+}
   + kubespray <https://github.com/kubernetes-sigs/kubespray> 
-  ['kubernetes', 'ansible']
+}
+  [kubernetes](#kubernetes)
+}
+  [ansible](#ansible)
+}
   + ansible-playbooks-cdh5 <https://github.com/mcsrainbow/ansible-playbooks-cdh5> 
-  ['ansible', 'cdh']
+}
+  [ansible](#ansible)
+}
+  [cdh](#cdh)
+}
   + ansible-playbooks-cdh6 <https://github.com/bjddd192/ansible-playbooks-cdh6> 
-  ['ansible', 'cdh']
+}
+  [ansible](#ansible)
+}
+  [cdh](#cdh)
+}
 
 ## asciidoc
   + tesseract <https://github.com/tesseract-ocr/tesseract> 
-  ['cpp', 'cmake', 'travis', 'asciidoc', 'docker', 'docker-compose']
+}
+  [cpp](#cpp)
+}
+  [cmake](#cmake)
+}
+  [travis](#travis)
+}
+  [asciidoc](#asciidoc)
+}
+  [docker](#docker)
+}
+  [docker-compose](#docker-compose)
+}
 
 ## autotools
   + zsh <https://github.com/zsh-users/zsh> 
-  ['c', 'autotools']
+}
+  [c](#c)
+}
+  [autotools](#autotools)
+}
   + sqlite <https://github.com/mackyle/sqlite> 
-  ['c', 'autotools']
+}
+  [c](#c)
+}
+  [autotools](#autotools)
+}
   + openssh <https://github.com/antonyantony/openssh> 
-  ['c', 'autotools']
+}
+  [c](#c)
+}
+  [autotools](#autotools)
+}
   + tmux <https://github.com/tmux/tmux> 
-  ['c', 'autotools']
+}
+  [c](#c)
+}
+  [autotools](#autotools)
+}
   + postgres <https://github.com/postgres/postgres> 
-  ['c', 'autotools']
+}
+  [c](#c)
+}
+  [autotools](#autotools)
+}
 
 ## c
   + zsh <https://github.com/zsh-users/zsh> 
-  ['c', 'autotools']
+}
+  [c](#c)
+}
+  [autotools](#autotools)
+}
   + sqlite <https://github.com/mackyle/sqlite> 
-  ['c', 'autotools']
+}
+  [c](#c)
+}
+  [autotools](#autotools)
+}
   + openssh <https://github.com/antonyantony/openssh> 
-  ['c', 'autotools']
+}
+  [c](#c)
+}
+  [autotools](#autotools)
+}
   + tmux <https://github.com/tmux/tmux> 
-  ['c', 'autotools']
+}
+  [c](#c)
+}
+  [autotools](#autotools)
+}
   + postgres <https://github.com/postgres/postgres> 
-  ['c', 'autotools']
+}
+  [c](#c)
+}
+  [autotools](#autotools)
+}
   + Paddle <https://github.com/PaddlePaddle/Paddle> 
-  ['c', 'cmake']
+}
+  [c](#c)
+}
+  [cmake](#cmake)
+}
   + mysql-server <https://github.com/mysql/mysql-server> 
-  ['c', 'cmake']
+}
+  [c](#c)
+}
+  [cmake](#cmake)
+}
   + impala <https://github.com/apache/impala> 
-  ['c', 'cmake']
+}
+  [c](#c)
+}
+  [cmake](#cmake)
+}
   + redis <https://github.com/antirez/redis> 
-  ['c', 'make']
+}
+  [c](#c)
+}
+  [make](#make)
+}
   + git <https://github.com/git/git> 
-  ['c', 'make']
+}
+  [c](#c)
+}
+  [make](#make)
+}
   + vim <https://github.com/vim/vim> 
-  ['c', 'make']
+}
+  [c](#c)
+}
+  [make](#make)
+}
   + gpdb <https://github.com/greenplum-db/gpdb> 
-  ['greenplum', 'c']
+}
+  [greenplum](#greenplum)
+}
+  [c](#c)
+}
 
 ## cdh
   + ansible-playbooks-cdh5 <https://github.com/mcsrainbow/ansible-playbooks-cdh5> 
-  ['ansible', 'cdh']
+}
+  [ansible](#ansible)
+}
+  [cdh](#cdh)
+}
   + ansible-playbooks-cdh6 <https://github.com/bjddd192/ansible-playbooks-cdh6> 
-  ['ansible', 'cdh']
+}
+  [ansible](#ansible)
+}
+  [cdh](#cdh)
+}
 
 ## cmake
   + tesseract <https://github.com/tesseract-ocr/tesseract> 
-  ['cpp', 'cmake', 'travis', 'asciidoc', 'docker', 'docker-compose']
+}
+  [cpp](#cpp)
+}
+  [cmake](#cmake)
+}
+  [travis](#travis)
+}
+  [asciidoc](#asciidoc)
+}
+  [docker](#docker)
+}
+  [docker-compose](#docker-compose)
+}
   + Paddle <https://github.com/PaddlePaddle/Paddle> 
-  ['c', 'cmake']
+}
+  [c](#c)
+}
+  [cmake](#cmake)
+}
   + mysql-server <https://github.com/mysql/mysql-server> 
-  ['c', 'cmake']
+}
+  [c](#c)
+}
+  [cmake](#cmake)
+}
   + ccls <https://github.com/MaskRay/ccls> 
-  ['cpp', 'cmake']
+}
+  [cpp](#cpp)
+}
+  [cmake](#cmake)
+}
   + impala <https://github.com/apache/impala> 
-  ['c', 'cmake']
+}
+  [c](#c)
+}
+  [cmake](#cmake)
+}
 
 ## cpp
   + tesseract <https://github.com/tesseract-ocr/tesseract> 
-  ['cpp', 'cmake', 'travis', 'asciidoc', 'docker', 'docker-compose']
+}
+  [cpp](#cpp)
+}
+  [cmake](#cmake)
+}
+  [travis](#travis)
+}
+  [asciidoc](#asciidoc)
+}
+  [docker](#docker)
+}
+  [docker-compose](#docker-compose)
+}
   + ccls <https://github.com/MaskRay/ccls> 
-  ['cpp', 'cmake']
+}
+  [cpp](#cpp)
+}
+  [cmake](#cmake)
+}
 
 ## docker
   + tesseract <https://github.com/tesseract-ocr/tesseract> 
-  ['cpp', 'cmake', 'travis', 'asciidoc', 'docker', 'docker-compose']
+}
+  [cpp](#cpp)
+}
+  [cmake](#cmake)
+}
+  [travis](#travis)
+}
+  [asciidoc](#asciidoc)
+}
+  [docker](#docker)
+}
+  [docker-compose](#docker-compose)
+}
   + docker-gpdb5 <https://github.com/bbotev01/gpdb5> 
-  ['docker', 'greenplum']
+}
+  [docker](#docker)
+}
+  [greenplum](#greenplum)
+}
   + docker-tomcat <https://github.com/docker-library/tomcat> 
-  ['docker', 'tomcat']
+}
+  [docker](#docker)
+}
+  [tomcat](#tomcat)
+}
   + docker-mysql <https://github.com/docker-library/mysql> 
-  ['docker', 'mysql']
+}
+  [docker](#docker)
+}
+  [mysql](#mysql)
+}
   + docker-tomcat8 <https://github.com/cmoro-deusto/docker-tomcat8> 
-  ['docker', 'tomcat']
+}
+  [docker](#docker)
+}
+  [tomcat](#tomcat)
+}
   + kylin-docker <https://github.com/Kyligence/kylin-docker> 
-  ['docker', 'kylin']
+}
+  [docker](#docker)
+}
+  [kylin](#kylin)
+}
   + hadoop-docker <https://github.com/sequenceiq/hadoop-docker> 
-  ['docker', 'hadoop']
+}
+  [docker](#docker)
+}
+  [hadoop](#hadoop)
+}
 
 ## docker-compose
   + tesseract <https://github.com/tesseract-ocr/tesseract> 
-  ['cpp', 'cmake', 'travis', 'asciidoc', 'docker', 'docker-compose']
+}
+  [cpp](#cpp)
+}
+  [cmake](#cmake)
+}
+  [travis](#travis)
+}
+  [asciidoc](#asciidoc)
+}
+  [docker](#docker)
+}
+  [docker-compose](#docker-compose)
+}
   + docker-pdi-ce <https://github.com/zhicwu/docker-pdi-ce> 
-  ['docker-compose']
+}
+  [docker-compose](#docker-compose)
+}
   + ansible.pentaho-biserver-ce <https://github.com/oggers/ansible.pentaho-biserver-ce> 
-  ['docker-compose']
+}
+  [docker-compose](#docker-compose)
+}
   + webkettle <https://github.com/hejack0207/webkettle> 
-  ['java', 'docker-compose']
+}
+  [java](#java)
+}
+  [docker-compose](#docker-compose)
+}
   + SpringCloud <https://github.com/hejack0207/SpringCloud> 
-  ['java', 'docker-compose']
+}
+  [java](#java)
+}
+  [docker-compose](#docker-compose)
+}
   + apollo-build-scripts <https://github.com/nobodyiam/apollo-build-scripts> 
-  ['docker-compose']
+}
+  [docker-compose](#docker-compose)
+}
 
 ## greenplum
   + docker-gpdb5 <https://github.com/bbotev01/gpdb5> 
-  ['docker', 'greenplum']
+}
+  [docker](#docker)
+}
+  [greenplum](#greenplum)
+}
   + gpdb-ansible <https://github.com/andreasscherbaum/gpdb-ansible> 
-  ['ansible', 'greenplum']
+}
+  [ansible](#ansible)
+}
+  [greenplum](#greenplum)
+}
   + greenplum-ansible <https://github.com/faer615/greenplum> 
-  ['ansible', 'greenplum']
+}
+  [ansible](#ansible)
+}
+  [greenplum](#greenplum)
+}
   + gpdb <https://github.com/greenplum-db/gpdb> 
-  ['greenplum', 'c']
+}
+  [greenplum](#greenplum)
+}
+  [c](#c)
+}
 
 ## hadoop
   + hadoop-docker <https://github.com/sequenceiq/hadoop-docker> 
-  ['docker', 'hadoop']
+}
+  [docker](#docker)
+}
+  [hadoop](#hadoop)
+}
   + hadoop-ansible <https://github.com/analytically/hadoop-ansible> 
-  ['ansible', 'hadoop']
+}
+  [ansible](#ansible)
+}
+  [hadoop](#hadoop)
+}
   + hadoop-kerberos-helm <https://github.com/ifilonenko/hadoop-kerberos-helm> 
-  ['helm', 'kubernetes', 'hadoop']
+}
+  [helm](#helm)
+}
+  [kubernetes](#kubernetes)
+}
+  [hadoop](#hadoop)
+}
 
 ## helm
   + hadoop-kerberos-helm <https://github.com/ifilonenko/hadoop-kerberos-helm> 
-  ['helm', 'kubernetes', 'hadoop']
+}
+  [helm](#helm)
+}
+  [kubernetes](#kubernetes)
+}
+  [hadoop](#hadoop)
+}
 
 ## java
   + pentaho-kettle <https://github.com/pentaho/pentaho-kettle> 
-  ['java']
+}
+  [java](#java)
+}
   + kylin <https://github.com/apache/kylin> 
-  ['java', 'olap']
+}
+  [java](#java)
+}
+  [olap](#olap)
+}
   + envelope <https://github.com/cloudera-labs/envelope> 
-  ['java']
+}
+  [java](#java)
+}
   + kettle-manager <https://github.com/majinju/kettle-manager> 
-  ['java']
+}
+  [java](#java)
+}
   + webkettle <https://github.com/hejack0207/webkettle> 
-  ['java', 'docker-compose']
+}
+  [java](#java)
+}
+  [docker-compose](#docker-compose)
+}
   + lb-2-jhipster <https://github.com/hejack0207/lb-2-jhipster> 
-  ['java', 'jhipster']
+}
+  [java](#java)
+}
+  [jhipster](#jhipster)
+}
   + SpringCloud <https://github.com/hejack0207/SpringCloud> 
-  ['java', 'docker-compose']
+}
+  [java](#java)
+}
+  [docker-compose](#docker-compose)
+}
 
 ## javascript
   + generator-jhipster <https://github.com/hejack0207/generator-jhipster> 
-  ['javascript', 'jhipster']
+}
+  [javascript](#javascript)
+}
+  [jhipster](#jhipster)
+}
 
 ## jhipster
   + generator-jhipster <https://github.com/hejack0207/generator-jhipster> 
-  ['javascript', 'jhipster']
+}
+  [javascript](#javascript)
+}
+  [jhipster](#jhipster)
+}
   + lb-2-jhipster <https://github.com/hejack0207/lb-2-jhipster> 
-  ['java', 'jhipster']
+}
+  [java](#java)
+}
+  [jhipster](#jhipster)
+}
 
 ## kubernetes
   + hadoop-kerberos-helm <https://github.com/ifilonenko/hadoop-kerberos-helm> 
-  ['helm', 'kubernetes', 'hadoop']
+}
+  [helm](#helm)
+}
+  [kubernetes](#kubernetes)
+}
+  [hadoop](#hadoop)
+}
   + kubespray <https://github.com/kubernetes-sigs/kubespray> 
-  ['kubernetes', 'ansible']
+}
+  [kubernetes](#kubernetes)
+}
+  [ansible](#ansible)
+}
   + kubekit <https://github.com/Orientsoft/kubekit> 
-  ['kubernetes']
+}
+  [kubernetes](#kubernetes)
+}
 
 ## kylin
   + kylin-docker <https://github.com/Kyligence/kylin-docker> 
-  ['docker', 'kylin']
+}
+  [docker](#docker)
+}
+  [kylin](#kylin)
+}
 
 ## make
   + redis <https://github.com/antirez/redis> 
-  ['c', 'make']
+}
+  [c](#c)
+}
+  [make](#make)
+}
   + git <https://github.com/git/git> 
-  ['c', 'make']
+}
+  [c](#c)
+}
+  [make](#make)
+}
   + vim <https://github.com/vim/vim> 
-  ['c', 'make']
+}
+  [c](#c)
+}
+  [make](#make)
+}
 
 ## mysql
   + docker-mysql <https://github.com/docker-library/mysql> 
-  ['docker', 'mysql']
+}
+  [docker](#docker)
+}
+  [mysql](#mysql)
+}
 
 ## olap
   + kylin <https://github.com/apache/kylin> 
-  ['java', 'olap']
+}
+  [java](#java)
+}
+  [olap](#olap)
+}
 
 ## testing
   + f2etest <https://github.com/alibaba/f2etest> 
-  ['testing']
+}
+  [testing](#testing)
+}
 
 ## tomcat
   + docker-tomcat <https://github.com/docker-library/tomcat> 
-  ['docker', 'tomcat']
+}
+  [docker](#docker)
+}
+  [tomcat](#tomcat)
+}
   + docker-tomcat8 <https://github.com/cmoro-deusto/docker-tomcat8> 
-  ['docker', 'tomcat']
+}
+  [docker](#docker)
+}
+  [tomcat](#tomcat)
+}
 
 ## travis
   + tesseract <https://github.com/tesseract-ocr/tesseract> 
-  ['cpp', 'cmake', 'travis', 'asciidoc', 'docker', 'docker-compose']
+}
+  [cpp](#cpp)
+}
+  [cmake](#cmake)
+}
+  [travis](#travis)
+}
+  [asciidoc](#asciidoc)
+}
+  [docker](#docker)
+}
+  [docker-compose](#docker-compose)
+}
 
