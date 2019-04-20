@@ -1,30 +1,9 @@
 # category
-## bd_dw
+## arch_backend_esb
 
-  [greenplum](#greenplum)
-  [datawarehouse_impl](#datawarehouse_impl)
-  [drill](#drill)
-  [pinot](#pinot)
-  [presto](#presto)
-## bd_graphdb
-
-  [neo4j](#neo4j)
-  [orientdb](#orientdb)
-  [titan](#titan)
-  [cypher](#cypher)
-## bd_olap
-
-  [kylin](#kylin)
-  [clickhouse](#clickhouse)
-  [mandrian](#mandrian)
-  [olap_impl](#olap_impl)
-  [sql_support](#sql_support)
-## bd_rdb
-
-  [sqlite](#sqlite)
-  [mysql](#mysql)
-  [postgres](#postgres)
-## bigdata
+  [camel](#camel)
+  [servicemix](#servicemix)
+## arch_bigdata
 
   [hadoop](#hadoop)
   [cdh](#cdh)
@@ -34,43 +13,32 @@
   [bigdata_awesome](#bigdata_awesome)
   [bigdata_usecase](#bigdata_usecase)
   [mpp_based](#mpp_based)
-## build
+## arch_bigdata_dw
 
-  [autotools](#autotools)
-  [cmake](#cmake)
-  [make](#make)
-  [maven](#maven)
-## business
+  [greenplum](#greenplum)
+  [datawarehouse_impl](#datawarehouse_impl)
+  [drill](#drill)
+  [pinot](#pinot)
+  [presto](#presto)
+## arch_bigdata_graphdb
 
-  [agriculture_knowledge_graph](#agriculture_knowledge_graph)
-  [knn_graph](#knn_graph)
-## data_generator
+  [neo4j](#neo4j)
+  [orientdb](#orientdb)
+  [titan](#titan)
+  [cypher](#cypher)
+## arch_bigdata_olap
 
-  [jsonnet](#jsonnet)
-## deploy
+  [kylin](#kylin)
+  [clickhouse](#clickhouse)
+  [mandrian](#mandrian)
+  [olap_impl](#olap_impl)
+  [sql_support](#sql_support)
+## arch_bigdata_rdb
 
-  [ansible](#ansible)
-  [docker](#docker)
-  [docker_compose](#docker_compose)
-  [helm](#helm)
-  [kubernetes](#kubernetes)
-## design
-
-  [plantuml](#plantuml)
-## documentation
-
-  [asciidoc](#asciidoc)
-## editor
-
-  [vim](#vim)
-  [vim_plugin](#vim_plugin)
-  [vscode_plugin](#vscode_plugin)
-  [cpp_tool](#cpp_tool)
-## esb
-
-  [camel](#camel)
-  [servicemix](#servicemix)
-## etl
+  [sqlite](#sqlite)
+  [mysql](#mysql)
+  [postgres](#postgres)
+## arch_etl
 
   [kettle](#kettle)
   [pentaho](#pentaho)
@@ -78,59 +46,91 @@
   [datax](#datax)
   [flinkx](#flinkx)
   [etl_awesome](#etl_awesome)
-## frontend
+## arch_frontend
 
   [angular](#angular)
-## gis
+## arch_security
+
+  [security_awesome](#security_awesome)
+  [websecurity_awesome](#websecurity_awesome)
+  [security_cve](#security_cve)
+## business
+
+  [agriculture_knowledge_graph](#agriculture_knowledge_graph)
+  [knn_graph](#knn_graph)
+## business_gis
 
   [impalagis](#impalagis)
   [sparkgis](#sparkgis)
   [gis_awesome](#gis_awesome)
   [gis_impl](#gis_impl)
-## infra
+## business_ocr
 
-  [tomcat](#tomcat)
-  [redis](#redis)
-  [keepalived](#keepalived)
-## languages
+  [tesseract](#tesseract)
+  [ocr_impl](#ocr_impl)
+  [ocr_awesome](#ocr_awesome)
+## data_generator
+
+  [jsonnet](#jsonnet)
+## dev_build
+
+  [autotools](#autotools)
+  [cmake](#cmake)
+  [make](#make)
+  [maven](#maven)
+## dev_deploy
+
+  [ansible](#ansible)
+  [docker](#docker)
+  [docker_compose](#docker_compose)
+  [helm](#helm)
+  [kubernetes](#kubernetes)
+## dev_design
+
+  [plantuml](#plantuml)
+## dev_documentation
+
+  [asciidoc](#asciidoc)
+## dev_languages
 
   [c](#c)
   [java](#java)
   [cpp](#cpp)
   [javascript](#javascript)
-## management
-
-  [redmine](#redmine)
-## ocr
-
-  [tesseract](#tesseract)
-  [ocr_impl](#ocr_impl)
-  [ocr_awesome](#ocr_awesome)
-## scaffold
+## dev_scaffold
 
   [jhipster](#jhipster)
   [springcloud](#springcloud)
   [archetype](#archetype)
   [swagger_angular](#swagger_angular)
   [code_generator](#code_generator)
-## security
+## dev_testing
 
-  [security_awesome](#security_awesome)
-  [websecurity_awesome](#websecurity_awesome)
-  [security_cve](#security_cve)
-## terminal
+  [f2etest](#f2etest)
+  [benchmark](#benchmark)
+## infra
+
+  [tomcat](#tomcat)
+  [redis](#redis)
+  [keepalived](#keepalived)
+## se_management
+
+  [redmine](#redmine)
+## se_webapp
+
+  [webui](#webui)
+## tool_editor
+
+  [vim](#vim)
+  [vim_plugin](#vim_plugin)
+  [vscode_plugin](#vscode_plugin)
+  [cpp_tool](#cpp_tool)
+## tool_terminal
 
   [zsh](#zsh)
   [ssh](#ssh)
   [tmux](#tmux)
   [git](#git)
-## testing
-
-  [f2etest](#f2etest)
-  [benchmark](#benchmark)
-## webapp
-
-  [webui](#webui)
 
 ## not in category
   [ai](#ai)

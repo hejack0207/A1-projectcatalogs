@@ -1009,32 +1009,11 @@
       }
    ],
    "tag_categories": {
-      "bd_dw": [
-         "greenplum",
-         "datawarehouse_impl",
-         "drill",
-         "pinot",
-         "presto"
+      "arch_backend_esb": [
+         "camel",
+         "servicemix"
       ],
-      "bd_graphdb": [
-         "neo4j",
-         "orientdb",
-         "titan",
-         "cypher"
-      ],
-      "bd_olap": [
-         "kylin",
-         "clickhouse",
-         "mandrian",
-         "olap_impl",
-         "sql_support"
-      ],
-      "bd_rdb": [
-         "sqlite",
-         "mysql",
-         "postgres"
-      ],
-      "bigdata": [
+      "arch_bigdata": [
          "hadoop",
          "cdh",
          "impala",
@@ -1044,43 +1023,32 @@
          "bigdata_usecase",
          "mpp_based"
       ],
-      "build": [
-         "autotools",
-         "cmake",
-         "make",
-         "maven"
+      "arch_bigdata_dw": [
+         "greenplum",
+         "datawarehouse_impl",
+         "drill",
+         "pinot",
+         "presto"
       ],
-      "business": [
-         "agriculture_knowledge_graph",
-         "knn_graph"
+      "arch_bigdata_graphdb": [
+         "neo4j",
+         "orientdb",
+         "titan",
+         "cypher"
       ],
-      "data_generator": [
-         "jsonnet"
+      "arch_bigdata_olap": [
+         "kylin",
+         "clickhouse",
+         "mandrian",
+         "olap_impl",
+         "sql_support"
       ],
-      "deploy": [
-         "ansible",
-         "docker",
-         "docker_compose",
-         "helm",
-         "kubernetes"
+      "arch_bigdata_rdb": [
+         "sqlite",
+         "mysql",
+         "postgres"
       ],
-      "design": [
-         "plantuml"
-      ],
-      "documentation": [
-         "asciidoc"
-      ],
-      "editor": [
-         "vim",
-         "vim_plugin",
-         "vscode_plugin",
-         "cpp_tool"
-      ],
-      "esb": [
-         "camel",
-         "servicemix"
-      ],
-      "etl": [
+      "arch_etl": [
          "kettle",
          "pentaho",
          "envelope",
@@ -1088,58 +1056,90 @@
          "flinkx",
          "etl_awesome"
       ],
-      "frontend": [
+      "arch_frontend": [
          "angular"
       ],
-      "gis": [
+      "arch_security": [
+         "security_awesome",
+         "websecurity_awesome",
+         "security_cve"
+      ],
+      "business": [
+         "agriculture_knowledge_graph",
+         "knn_graph"
+      ],
+      "business_gis": [
          "impalagis",
          "sparkgis",
          "gis_awesome",
          "gis_impl"
       ],
-      "infra": [
-         "tomcat",
-         "redis",
-         "keepalived"
+      "business_ocr": [
+         "tesseract",
+         "ocr_impl",
+         "ocr_awesome"
       ],
-      "languages": [
+      "data_generator": [
+         "jsonnet"
+      ],
+      "dev_build": [
+         "autotools",
+         "cmake",
+         "make",
+         "maven"
+      ],
+      "dev_deploy": [
+         "ansible",
+         "docker",
+         "docker_compose",
+         "helm",
+         "kubernetes"
+      ],
+      "dev_design": [
+         "plantuml"
+      ],
+      "dev_documentation": [
+         "asciidoc"
+      ],
+      "dev_languages": [
          "c",
          "java",
          "cpp",
          "javascript"
       ],
-      "management": [
-         "redmine"
-      ],
-      "ocr": [
-         "tesseract",
-         "ocr_impl",
-         "ocr_awesome"
-      ],
-      "scaffold": [
+      "dev_scaffold": [
          "jhipster",
          "springcloud",
          "archetype",
          "swagger_angular",
          "code_generator"
       ],
-      "security": [
-         "security_awesome",
-         "websecurity_awesome",
-         "security_cve"
+      "dev_testing": [
+         "f2etest",
+         "benchmark"
       ],
-      "terminal": [
+      "infra": [
+         "tomcat",
+         "redis",
+         "keepalived"
+      ],
+      "se_management": [
+         "redmine"
+      ],
+      "se_webapp": [
+         "webui"
+      ],
+      "tool_editor": [
+         "vim",
+         "vim_plugin",
+         "vscode_plugin",
+         "cpp_tool"
+      ],
+      "tool_terminal": [
          "zsh",
          "ssh",
          "tmux",
          "git"
-      ],
-      "testing": [
-         "f2etest",
-         "benchmark"
-      ],
-      "webapp": [
-         "webui"
       ]
    },
    "tags": {
