@@ -359,7 +359,6 @@
       [
   [docker](#docker)
   [kylin](#kylin)
-  [olap](#olap)
       ]
   + hadoop-docker <https://github.com/sequenceiq/hadoop-docker> 
 
@@ -384,7 +383,7 @@
 
       [
   [docker-compose](#docker-compose)
-  [etl](#etl)
+  [kettle](#kettle)
       ]
   + ansible.pentaho-biserver-ce <https://github.com/oggers/ansible.pentaho-biserver-ce> 
 
@@ -412,26 +411,6 @@
       [
   [docker-compose](#docker-compose)
   [apollo](#apollo)
-      ]
-
-## etl
-  + docker-pdi-ce <https://github.com/zhicwu/docker-pdi-ce> 
-
-      [
-  [docker-compose](#docker-compose)
-  [etl](#etl)
-      ]
-  + pentaho-kettle <https://github.com/pentaho/pentaho-kettle> 
-
-      [
-  [java](#java)
-  [etl](#etl)
-      ]
-  + envelope <https://github.com/cloudera-labs/envelope> 
-
-      [
-  [java](#java)
-  [etl](#etl)
       ]
 
 ## git
@@ -513,20 +492,19 @@
 
       [
   [java](#java)
-  [etl](#etl)
+  [kettle](#kettle)
       ]
   + kylin <https://github.com/apache/kylin> 
 
       [
   [java](#java)
   [kylin](#kylin)
-  [olap](#olap)
       ]
   + envelope <https://github.com/cloudera-labs/envelope> 
 
       [
   [java](#java)
-  [etl](#etl)
+  [kettle](#kettle)
       ]
   + kettle-manager <https://github.com/majinju/kettle-manager> 
 
@@ -580,6 +558,24 @@
       ]
 
 ## kettle
+  + docker-pdi-ce <https://github.com/zhicwu/docker-pdi-ce> 
+
+      [
+  [docker-compose](#docker-compose)
+  [kettle](#kettle)
+      ]
+  + pentaho-kettle <https://github.com/pentaho/pentaho-kettle> 
+
+      [
+  [java](#java)
+  [kettle](#kettle)
+      ]
+  + envelope <https://github.com/cloudera-labs/envelope> 
+
+      [
+  [java](#java)
+  [kettle](#kettle)
+      ]
   + kettle-manager <https://github.com/majinju/kettle-manager> 
 
       [
@@ -622,14 +618,12 @@
       [
   [java](#java)
   [kylin](#kylin)
-  [olap](#olap)
       ]
   + kylin-docker <https://github.com/Kyligence/kylin-docker> 
 
       [
   [docker](#docker)
   [kylin](#kylin)
-  [olap](#olap)
       ]
 
 ## make
@@ -668,22 +662,6 @@
       [
   [docker](#docker)
   [mysql](#mysql)
-      ]
-
-## olap
-  + kylin <https://github.com/apache/kylin> 
-
-      [
-  [java](#java)
-  [kylin](#kylin)
-  [olap](#olap)
-      ]
-  + kylin-docker <https://github.com/Kyligence/kylin-docker> 
-
-      [
-  [docker](#docker)
-  [kylin](#kylin)
-  [olap](#olap)
       ]
 
 ## pentaho

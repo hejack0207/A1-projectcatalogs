@@ -1,4 +1,50 @@
 {
+   "check": {
+      "tags_also_category": [ ],
+      "tags_in_category": [
+         "ansible",
+         "asciidoc",
+         "autotools",
+         "c",
+         "cmake",
+         "docker",
+         "docker-compose",
+         "greenplum",
+         "hadoop",
+         "helm",
+         "java",
+         "kettle",
+         "kubernetes",
+         "kylin",
+         "make",
+         "mysql",
+         "postgres",
+         "sqlite",
+         "tesseract"
+      ],
+      "tags_not_in_category": [
+         "ai",
+         "apollo",
+         "cdh",
+         "cpp",
+         "cpp-tool",
+         "git",
+         "impala",
+         "javascript",
+         "jhipster",
+         "pentaho",
+         "redis",
+         "springcloud",
+         "ssh",
+         "testing",
+         "tmux",
+         "tomcat",
+         "travis",
+         "vim",
+         "webui",
+         "zsh"
+      ]
+   },
    "project_category": [
       {
          "name": "build.autotools",
@@ -241,7 +287,7 @@
                "site": "https://github.com",
                "tags": [
                   "docker-compose",
-                  "etl"
+                  "kettle"
                ],
                "url": "https://github.com/zhicwu/docker-pdi-ce",
                "user": "zhicwu"
@@ -343,8 +389,7 @@
                "site": "https://github.com",
                "tags": [
                   "docker",
-                  "kylin",
-                  "olap"
+                  "kylin"
                ],
                "url": "https://github.com/Kyligence/kylin-docker",
                "user": "Kyligence"
@@ -539,7 +584,7 @@
                "site": "https://github.com",
                "tags": [
                   "java",
-                  "etl"
+                  "kettle"
                ],
                "url": "https://github.com/pentaho/pentaho-kettle",
                "user": "pentaho"
@@ -554,7 +599,7 @@
                "site": "https://github.com",
                "tags": [
                   "docker-compose",
-                  "etl"
+                  "kettle"
                ],
                "url": "https://github.com/zhicwu/docker-pdi-ce",
                "user": "zhicwu"
@@ -629,7 +674,7 @@
                "site": "https://github.com",
                "tags": [
                   "java",
-                  "etl"
+                  "kettle"
                ],
                "url": "https://github.com/cloudera-labs/envelope",
                "user": "cloudera-labs"
@@ -730,8 +775,7 @@
                "site": "https://github.com",
                "tags": [
                   "java",
-                  "kylin",
-                  "olap"
+                  "kylin"
                ],
                "url": "https://github.com/apache/kylin",
                "user": "apache"
@@ -746,8 +790,7 @@
                "site": "https://github.com",
                "tags": [
                   "docker",
-                  "kylin",
-                  "olap"
+                  "kylin"
                ],
                "url": "https://github.com/Kyligence/kylin-docker",
                "user": "Kyligence"
@@ -869,8 +912,7 @@
                "site": "https://github.com",
                "tags": [
                   "java",
-                  "kylin",
-                  "olap"
+                  "kylin"
                ],
                "url": "https://github.com/apache/kylin",
                "user": "apache"
@@ -885,8 +927,7 @@
                "site": "https://github.com",
                "tags": [
                   "docker",
-                  "kylin",
-                  "olap"
+                  "kylin"
                ],
                "url": "https://github.com/Kyligence/kylin-docker",
                "user": "Kyligence"
@@ -1649,8 +1690,7 @@
                "site": "https://github.com",
                "tags": [
                   "docker",
-                  "kylin",
-                  "olap"
+                  "kylin"
                ],
                "url": "https://github.com/Kyligence/kylin-docker",
                "user": "Kyligence"
@@ -1702,7 +1742,7 @@
                "site": "https://github.com",
                "tags": [
                   "docker-compose",
-                  "etl"
+                  "kettle"
                ],
                "url": "https://github.com/zhicwu/docker-pdi-ce",
                "user": "zhicwu"
@@ -1769,53 +1809,6 @@
                ],
                "url": "https://github.com/nobodyiam/apollo-build-scripts",
                "user": "nobodyiam"
-            }
-         ],
-         "etl": [
-            {
-               "alias": "docker-pdi-ce",
-               "forked": false,
-               "release": null,
-               "repos_name": "docker-pdi-ce",
-               "score": 3,
-               "shallow": false,
-               "site": "https://github.com",
-               "tags": [
-                  "docker-compose",
-                  "etl"
-               ],
-               "url": "https://github.com/zhicwu/docker-pdi-ce",
-               "user": "zhicwu"
-            },
-            {
-               "alias": "pentaho-kettle",
-               "forked": false,
-               "release": null,
-               "repos_name": "pentaho-kettle",
-               "score": 3,
-               "shallow": false,
-               "site": "https://github.com",
-               "tags": [
-                  "java",
-                  "etl"
-               ],
-               "url": "https://github.com/pentaho/pentaho-kettle",
-               "user": "pentaho"
-            },
-            {
-               "alias": "envelope",
-               "forked": false,
-               "release": null,
-               "repos_name": "envelope",
-               "score": 3,
-               "shallow": false,
-               "site": "https://github.com",
-               "tags": [
-                  "java",
-                  "etl"
-               ],
-               "url": "https://github.com/cloudera-labs/envelope",
-               "user": "cloudera-labs"
             }
          ],
          "git": [
@@ -1993,7 +1986,7 @@
                "site": "https://github.com",
                "tags": [
                   "java",
-                  "etl"
+                  "kettle"
                ],
                "url": "https://github.com/pentaho/pentaho-kettle",
                "user": "pentaho"
@@ -2008,8 +2001,7 @@
                "site": "https://github.com",
                "tags": [
                   "java",
-                  "kylin",
-                  "olap"
+                  "kylin"
                ],
                "url": "https://github.com/apache/kylin",
                "user": "apache"
@@ -2024,7 +2016,7 @@
                "site": "https://github.com",
                "tags": [
                   "java",
-                  "etl"
+                  "kettle"
                ],
                "url": "https://github.com/cloudera-labs/envelope",
                "user": "cloudera-labs"
@@ -2145,6 +2137,51 @@
          ],
          "kettle": [
             {
+               "alias": "docker-pdi-ce",
+               "forked": false,
+               "release": null,
+               "repos_name": "docker-pdi-ce",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "docker-compose",
+                  "kettle"
+               ],
+               "url": "https://github.com/zhicwu/docker-pdi-ce",
+               "user": "zhicwu"
+            },
+            {
+               "alias": "pentaho-kettle",
+               "forked": false,
+               "release": null,
+               "repos_name": "pentaho-kettle",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "java",
+                  "kettle"
+               ],
+               "url": "https://github.com/pentaho/pentaho-kettle",
+               "user": "pentaho"
+            },
+            {
+               "alias": "envelope",
+               "forked": false,
+               "release": null,
+               "repos_name": "envelope",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "java",
+                  "kettle"
+               ],
+               "url": "https://github.com/cloudera-labs/envelope",
+               "user": "cloudera-labs"
+            },
+            {
                "alias": "kettle-manager",
                "forked": false,
                "release": null,
@@ -2236,8 +2273,7 @@
                "site": "https://github.com",
                "tags": [
                   "java",
-                  "kylin",
-                  "olap"
+                  "kylin"
                ],
                "url": "https://github.com/apache/kylin",
                "user": "apache"
@@ -2252,8 +2288,7 @@
                "site": "https://github.com",
                "tags": [
                   "docker",
-                  "kylin",
-                  "olap"
+                  "kylin"
                ],
                "url": "https://github.com/Kyligence/kylin-docker",
                "user": "Kyligence"
@@ -2340,40 +2375,6 @@
                ],
                "url": "https://github.com/docker-library/mysql",
                "user": "docker-library"
-            }
-         ],
-         "olap": [
-            {
-               "alias": "kylin",
-               "forked": false,
-               "release": null,
-               "repos_name": "kylin",
-               "score": 3,
-               "shallow": false,
-               "site": "https://github.com",
-               "tags": [
-                  "java",
-                  "kylin",
-                  "olap"
-               ],
-               "url": "https://github.com/apache/kylin",
-               "user": "apache"
-            },
-            {
-               "alias": "kylin-docker",
-               "forked": false,
-               "release": null,
-               "repos_name": "kylin-docker",
-               "score": 3,
-               "shallow": false,
-               "site": "https://github.com",
-               "tags": [
-                  "docker",
-                  "kylin",
-                  "olap"
-               ],
-               "url": "https://github.com/Kyligence/kylin-docker",
-               "user": "Kyligence"
             }
          ],
          "pentaho": [

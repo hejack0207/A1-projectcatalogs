@@ -218,6 +218,13 @@ local tpl=import 'tpl.jsn';
             "hadoop"
         ],
     },
+    check: {
+        tags_also_category: std.setInter(std.set(std.objectFields($.tag_categories)),
+            std.set($.tags.names)),
+        local func_merge(x,y)=std.setUnion(std.set(x),std.set(y)),
+        tags_in_category: std.foldl(func_merge,[$.tag_categories[f] for f in std.objectFields($.tag_categories)],[]),
+        tags_not_in_category: std.setDiff(std.set($.tags.names),self.tags_in_category),
+    },
     tags: {
         names:: std.foldl((function (r,i) std.setUnion(r,i)),[ r.tags for r in $.repos_ ],[]),
         contents: {
@@ -295,12 +302,12 @@ local tpl=import 'tpl.jsn';
         tpl.ghrepos + {
             user: "zhicwu",
             repos_name: "docker-pdi-ce",
-            tags: ["docker-compose","etl"],
+            tags: ["docker-compose","kettle"],
         },
         tpl.ghrepos + {
             user: "pentaho",
             repos_name: "pentaho-kettle",
-            tags: ["java","etl"],
+            tags: ["java","kettle"],
         },
         tpl.ghrepos + {
             user: "bbotev01",
@@ -333,12 +340,12 @@ local tpl=import 'tpl.jsn';
         tpl.ghrepos + {
             user: "apache",
             repos_name: "kylin",
-            tags: ["java","kylin","olap"],
+            tags: ["java","kylin"],
         },
         tpl.ghrepos + {
             user: "cloudera-labs",
             repos_name: "envelope",
-            tags: ["java","etl"],
+            tags: ["java","kettle"],
         },
         tpl.ghrepos + {
             user: "majinju",
@@ -401,7 +408,7 @@ local tpl=import 'tpl.jsn';
         tpl.ghrepos + {
             user: "Kyligence",
             repos_name: "kylin-docker",
-            tags: ["docker","kylin","olap"],
+            tags: ["docker","kylin"],
         },
         tpl.ghrepos + {
             user: "sequenceiq",
