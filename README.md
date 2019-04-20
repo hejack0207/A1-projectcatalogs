@@ -69,9 +69,6 @@
   [tesseract](#tesseract)
   [ocr_impl](#ocr_impl)
   [ocr_awesome](#ocr_awesome)
-## data_generator
-
-  [jsonnet](#jsonnet)
 ## dev_build
 
   [autotools](#autotools)
@@ -119,6 +116,9 @@
 ## se_webapp
 
   [webui](#webui)
+## tool_data_generator
+
+  [jsonnet](#jsonnet)
 ## tool_editor
 
   [vim](#vim)

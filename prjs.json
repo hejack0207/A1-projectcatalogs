@@ -1079,9 +1079,6 @@
          "ocr_impl",
          "ocr_awesome"
       ],
-      "data_generator": [
-         "jsonnet"
-      ],
       "dev_build": [
          "autotools",
          "cmake",
@@ -1128,6 +1125,9 @@
       ],
       "se_webapp": [
          "webui"
+      ],
+      "tool_data_generator": [
+         "jsonnet"
       ],
       "tool_editor": [
          "vim",
