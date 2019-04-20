@@ -6,10 +6,6 @@ Tags
   + Agriculture_KnowledgeGraph https://github.com/hejack0207/Agriculture_KnowledgeGraph
   + Agriculture-KnowledgeGraph-Data https://github.com/CrisJk/Agriculture-KnowledgeGraph-Data
 
-* ai
-
-  + Paddle https://github.com/PaddlePaddle/Paddle
-
 * angular
 
   + ngx-graph https://github.com/swimlane/ngx-graph
@@ -123,6 +119,7 @@ Tags
 
 * deep_learning
 
+  + Paddle https://github.com/PaddlePaddle/Paddle
   + spark-deep_learning https://github.com/databricks/spark-deep_learning
 
 * docker

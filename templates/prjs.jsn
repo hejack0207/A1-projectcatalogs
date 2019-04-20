@@ -2,6 +2,8 @@ local tpl=import 'tpl.jsn';
 
 {
     tag_categories: {
+        arch_ai: ["deep_learning"],
+        arch_api: ["swagger"],
         arch_backend_esb: [ "camel","servicemix" ],
         arch_bigdata: [ "hadoop","cdh","impala","flink","spark","bigdata_awesome","bigdata_usecase","mpp_based" ],
         arch_bigdata_dw: [ "greenplum","datawarehouse_impl","drill","pinot","presto" ],
@@ -82,7 +84,7 @@ local tpl=import 'tpl.jsn';
         tpl.ghrepos + {
             user: "PaddlePaddle",
             repos_name: "Paddle",
-            tags: ["c","cmake","ai"],
+            tags: ["c","cmake","deep_learning"],
         },
         tpl.ghrepos + {
             user: "mysql",

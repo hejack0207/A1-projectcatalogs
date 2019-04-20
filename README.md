@@ -1,4 +1,10 @@
 # category
+## arch_ai
+
+  [deep_learning](#deep_learning)
+## arch_api
+
+  [swagger](#swagger)
 ## arch_backend_esb
 
   [camel](#camel)
@@ -133,14 +139,11 @@
   [git](#git)
 
 ## not in category
-  [ai](#ai)
   [apollo](#apollo)
-  [deep_learning](#deep_learning)
   [graph-ui](#graph-ui)
   [json](#json)
   [mazerunner](#mazerunner)
   [restful](#restful)
-  [swagger](#swagger)
   [travis](#travis)
 
 
@@ -155,15 +158,6 @@
 
       [
   [agriculture_knowledge_graph](#agriculture_knowledge_graph)
-      ]
-
-## ai
-  + Paddle <https://github.com/PaddlePaddle/Paddle> 
-
-      [
-  [c](#c)
-  [cmake](#cmake)
-  [ai](#ai)
       ]
 
 ## angular
@@ -362,7 +356,7 @@
       [
   [c](#c)
   [cmake](#cmake)
-  [ai](#ai)
+  [deep_learning](#deep_learning)
       ]
   + mysql-server <https://github.com/mysql/mysql-server> 
 
@@ -451,7 +445,7 @@
       [
   [c](#c)
   [cmake](#cmake)
-  [ai](#ai)
+  [deep_learning](#deep_learning)
       ]
   + mysql-server <https://github.com/mysql/mysql-server> 
 
@@ -550,6 +544,13 @@
       ]
 
 ## deep_learning
+  + Paddle <https://github.com/PaddlePaddle/Paddle> 
+
+      [
+  [c](#c)
+  [cmake](#cmake)
+  [deep_learning](#deep_learning)
+      ]
   + spark-deep_learning <https://github.com/databricks/spark-deep_learning> 
 
       [

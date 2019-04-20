@@ -22,6 +22,7 @@
          "cypher",
          "datawarehouse_impl",
          "datax",
+         "deep_learning",
          "docker",
          "docker_compose",
          "drill",
@@ -73,6 +74,7 @@
          "sql_support",
          "sqlite",
          "ssh",
+         "swagger",
          "swagger_angular",
          "tesseract",
          "titan",
@@ -86,18 +88,21 @@
          "zsh"
       ],
       "tags_not_in_category": [
-         "ai",
          "apollo",
-         "deep_learning",
          "graph-ui",
          "json",
          "mazerunner",
          "restful",
-         "swagger",
          "travis"
       ]
    },
    "tag_categories": {
+      "arch_ai": [
+         "deep_learning"
+      ],
+      "arch_api": [
+         "swagger"
+      ],
       "arch_backend_esb": [
          "camel",
          "servicemix"
@@ -261,24 +266,6 @@
                ],
                "url": "https://github.com/CrisJk/Agriculture-KnowledgeGraph-Data",
                "user": "CrisJk"
-            }
-         ],
-         "ai": [
-            {
-               "alias": "Paddle",
-               "forked": false,
-               "release": null,
-               "repos_name": "Paddle",
-               "score": 3,
-               "shallow": false,
-               "site": "https://github.com",
-               "tags": [
-                  "c",
-                  "cmake",
-                  "ai"
-               ],
-               "url": "https://github.com/PaddlePaddle/Paddle",
-               "user": "PaddlePaddle"
             }
          ],
          "angular": [
@@ -717,7 +704,7 @@
                "tags": [
                   "c",
                   "cmake",
-                  "ai"
+                  "deep_learning"
                ],
                "url": "https://github.com/PaddlePaddle/Paddle",
                "user": "PaddlePaddle"
@@ -914,7 +901,7 @@
                "tags": [
                   "c",
                   "cmake",
-                  "ai"
+                  "deep_learning"
                ],
                "url": "https://github.com/PaddlePaddle/Paddle",
                "user": "PaddlePaddle"
@@ -1124,6 +1111,22 @@
             }
          ],
          "deep_learning": [
+            {
+               "alias": "Paddle",
+               "forked": false,
+               "release": null,
+               "repos_name": "Paddle",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "c",
+                  "cmake",
+                  "deep_learning"
+               ],
+               "url": "https://github.com/PaddlePaddle/Paddle",
+               "user": "PaddlePaddle"
+            },
             {
                "alias": "spark-deep_learning",
                "forked": false,
