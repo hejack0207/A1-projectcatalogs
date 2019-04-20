@@ -302,7 +302,7 @@ local tpl=import 'tpl.jsn';
         tpl.ghrepos + {
             user: "apache",
             repos_name: "kylin",
-            tags: ["java","olap"],
+            tags: ["java","kylin","olap"],
         },
         tpl.ghrepos + {
             user: "cloudera-labs",
@@ -370,7 +370,7 @@ local tpl=import 'tpl.jsn';
         tpl.ghrepos + {
             user: "Kyligence",
             repos_name: "kylin-docker",
-            tags: ["docker","kylin"],
+            tags: ["docker","kylin","olap"],
         },
         tpl.ghrepos + {
             user: "sequenceiq",

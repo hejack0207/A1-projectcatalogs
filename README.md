@@ -288,6 +288,7 @@
       [
   [docker](#docker)
   [kylin](#kylin)
+  [olap](#olap)
       ]
   + hadoop-docker <https://github.com/sequenceiq/hadoop-docker> 
 
@@ -401,6 +402,7 @@
 
       [
   [java](#java)
+  [kylin](#kylin)
   [olap](#olap)
       ]
   + envelope <https://github.com/cloudera-labs/envelope> 
@@ -475,11 +477,19 @@
       ]
 
 ## kylin
+  + kylin <https://github.com/apache/kylin> 
+
+      [
+  [java](#java)
+  [kylin](#kylin)
+  [olap](#olap)
+      ]
   + kylin-docker <https://github.com/Kyligence/kylin-docker> 
 
       [
   [docker](#docker)
   [kylin](#kylin)
+  [olap](#olap)
       ]
 
 ## make
@@ -515,6 +525,14 @@
 
       [
   [java](#java)
+  [kylin](#kylin)
+  [olap](#olap)
+      ]
+  + kylin-docker <https://github.com/Kyligence/kylin-docker> 
+
+      [
+  [docker](#docker)
+  [kylin](#kylin)
   [olap](#olap)
       ]
 

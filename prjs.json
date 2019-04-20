@@ -327,7 +327,8 @@
                "site": "https://github.com",
                "tags": [
                   "docker",
-                  "kylin"
+                  "kylin",
+                  "olap"
                ],
                "url": "https://github.com/Kyligence/kylin-docker",
                "user": "Kyligence"
@@ -703,6 +704,7 @@
                "site": "https://github.com",
                "tags": [
                   "java",
+                  "kylin",
                   "olap"
                ],
                "url": "https://github.com/apache/kylin",
@@ -718,7 +720,8 @@
                "site": "https://github.com",
                "tags": [
                   "docker",
-                  "kylin"
+                  "kylin",
+                  "olap"
                ],
                "url": "https://github.com/Kyligence/kylin-docker",
                "user": "Kyligence"
@@ -839,6 +842,7 @@
                "site": "https://github.com",
                "tags": [
                   "java",
+                  "kylin",
                   "olap"
                ],
                "url": "https://github.com/apache/kylin",
@@ -854,7 +858,8 @@
                "site": "https://github.com",
                "tags": [
                   "docker",
-                  "kylin"
+                  "kylin",
+                  "olap"
                ],
                "url": "https://github.com/Kyligence/kylin-docker",
                "user": "Kyligence"
@@ -1495,7 +1500,8 @@
                "site": "https://github.com",
                "tags": [
                   "docker",
-                  "kylin"
+                  "kylin",
+                  "olap"
                ],
                "url": "https://github.com/Kyligence/kylin-docker",
                "user": "Kyligence"
@@ -1762,6 +1768,7 @@
                "site": "https://github.com",
                "tags": [
                   "java",
+                  "kylin",
                   "olap"
                ],
                "url": "https://github.com/apache/kylin",
@@ -1939,6 +1946,22 @@
          ],
          "kylin": [
             {
+               "alias": "kylin",
+               "forked": false,
+               "release": null,
+               "repos_name": "kylin",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "java",
+                  "kylin",
+                  "olap"
+               ],
+               "url": "https://github.com/apache/kylin",
+               "user": "apache"
+            },
+            {
                "alias": "kylin-docker",
                "forked": false,
                "release": null,
@@ -1948,7 +1971,8 @@
                "site": "https://github.com",
                "tags": [
                   "docker",
-                  "kylin"
+                  "kylin",
+                  "olap"
                ],
                "url": "https://github.com/Kyligence/kylin-docker",
                "user": "Kyligence"
@@ -2029,10 +2053,27 @@
                "site": "https://github.com",
                "tags": [
                   "java",
+                  "kylin",
                   "olap"
                ],
                "url": "https://github.com/apache/kylin",
                "user": "apache"
+            },
+            {
+               "alias": "kylin-docker",
+               "forked": false,
+               "release": null,
+               "repos_name": "kylin-docker",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "docker",
+                  "kylin",
+                  "olap"
+               ],
+               "url": "https://github.com/Kyligence/kylin-docker",
+               "user": "Kyligence"
             }
          ],
          "testing": [
