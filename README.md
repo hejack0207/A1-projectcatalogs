@@ -39,6 +39,28 @@
   [mysql](#mysql)
   [postgres](#postgres)
 
+## not in category
+  [ai](#ai)
+  [apollo](#apollo)
+  [cdh](#cdh)
+  [cpp](#cpp)
+  [cpp-tool](#cpp-tool)
+  [git](#git)
+  [impala](#impala)
+  [javascript](#javascript)
+  [jhipster](#jhipster)
+  [pentaho](#pentaho)
+  [redis](#redis)
+  [springcloud](#springcloud)
+  [ssh](#ssh)
+  [testing](#testing)
+  [tmux](#tmux)
+  [tomcat](#tomcat)
+  [travis](#travis)
+  [vim](#vim)
+  [webui](#webui)
+  [zsh](#zsh)
+
 
 # repos
 ## ai

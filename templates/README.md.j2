@@ -7,6 +7,11 @@
       {% endfor %}
 {% endfor %}
 
+## not in category
+      {% for t in check.tags_not_in_category %}
+  [{{t}}](#{{t}})
+      {% endfor %}
+
 {#
 # project tags
 {% for k,v in tags.contents | dictsort %}
