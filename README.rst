@@ -29,7 +29,7 @@ Categories
   + git https://github.com/git/git
   + vim https://github.com/vim/vim
 
-* docker-compose
+* docker_compose
 
   + docker-pdi-ce https://github.com/zhicwu/docker-pdi-ce
   + docker-gpdb5 https://github.com/bbotev01/gpdb5
@@ -102,7 +102,7 @@ Categories
 Tags
 ==========
 
-* agriculture-knowledge-graph
+* agriculture_knowledge_graph
 
   + Agriculture_KnowledgeGraph https://github.com/hejack0207/Agriculture_KnowledgeGraph
   + Agriculture-KnowledgeGraph-Data https://github.com/CrisJk/Agriculture-KnowledgeGraph-Data
@@ -151,11 +151,11 @@ Tags
 
   + graphdb-benchmarks https://github.com/socialsensor/graphdb-benchmarks
 
-* bigdata-awesome
+* bigdata_awesome
 
   + awesome-bigdata https://github.com/onurakpolat/awesome-bigdata
 
-* bigdata-usecase
+* bigdata_usecase
 
   + Movie_Recommend https://github.com/LuckyZXL2016/Movie_Recommend
 
@@ -195,9 +195,9 @@ Tags
   + ccls https://github.com/MaskRay/ccls
   + impala https://github.com/apache/impala
 
-* code-generator
+* code_generator
 
-  + plantuml-code-generator https://github.com/bafolts/plantuml-code-generator
+  + plantuml-code_generator https://github.com/bafolts/plantuml-code_generator
 
 * cpp
 
@@ -205,7 +205,7 @@ Tags
   + ccls https://github.com/MaskRay/ccls
   + SequoiaDB https://github.com/SequoiaDB/SequoiaDB
 
-* cpp-tool
+* cpp_tool
 
   + ccls https://github.com/MaskRay/ccls
 
@@ -213,7 +213,7 @@ Tags
 
   + cypher-for-apache-spark https://github.com/opencypher/cypher-for-apache-spark
 
-* datawarehouse-impl
+* datawarehouse_impl
 
   + incubator-doris https://github.com/apache/incubator-doris
 
@@ -222,9 +222,9 @@ Tags
   + DataX https://github.com/alibaba/DataX
   + datax-web https://github.com/zipingdong/datax-web
 
-* deep-learning
+* deep_learning
 
-  + spark-deep-learning https://github.com/databricks/spark-deep-learning
+  + spark-deep_learning https://github.com/databricks/spark-deep_learning
 
 * docker
 
@@ -241,7 +241,7 @@ Tags
   + mkroli-servicemix-docker https://github.com/mkroli/servicemix-docker
   + docker-presto https://github.com/zhicwu/docker-presto
 
-* docker-compose
+* docker_compose
 
   + tesseract https://github.com/tesseract-ocr/tesseract
   + docker-pdi-ce https://github.com/zhicwu/docker-pdi-ce
@@ -259,7 +259,7 @@ Tags
 
   + envelope https://github.com/cloudera-labs/envelope
 
-* etl-awesome
+* etl_awesome
 
   + awesome-pipline https://github.com/pditommaso/awesome-pipline
   + awesome-etl https://github.com/pawl/awesome-etl
@@ -279,11 +279,11 @@ Tags
 
   + flinkx https://github.com/DTStack/flinkx
 
-* gis-awesome
+* gis_awesome
 
   + awesome-gis https://github.com/sshuair/awesome-gis
 
-* gis-impl
+* gis_impl
 
   + QGIS https://github.com/qgis/QGIS
 
@@ -364,9 +364,9 @@ Tags
   + webkettle https://github.com/hejack0207/webkettle
   + pdi-cluster https://github.com/zhicwu/pdi-cluster
 
-* knn-graph
+* knn_graph
 
-  + spark-knn-graphs https://github.com/tdebatty/spark-knn-graphs
+  + spark-knn_graphs https://github.com/tdebatty/spark-knn_graphs
 
 * kubernetes
 
@@ -402,7 +402,7 @@ Tags
 
   + neo4j-mazerunner https://github.com/neo4j-contrib/neo4j-mazerunner
 
-* mpp-based
+* mpp_based
 
   + incubator-doris https://github.com/apache/incubator-doris
   + drill https://github.com/apache/drill
@@ -417,18 +417,18 @@ Tags
   + spark-neo4j https://github.com/kbastani/spark-neo4j
   + neo4j-mazerunner https://github.com/neo4j-contrib/neo4j-mazerunner
 
-* ocr-awesome
+* ocr_awesome
 
   + awesome-ocr https://github.com/kba/awesome-ocr
 
-* ocr-impl
+* ocr_impl
 
   + EasyOCR https://github.com/ushelp/EasyOCR
   + OCR https://github.com/zoso10/OCR
   + Longan https://github.com/Zarkonnen/Longan
   + NewOCR https://github.com/RubbaBoy/NewOCR
 
-* olap-impl
+* olap_impl
 
   + incubator-pinot https://github.com/apache/incubator-pinot
 
@@ -448,7 +448,7 @@ Tags
 
   + plantuml https://github.com/plantuml/plantuml
   + json-to-plantuml https://github.com/meteorbites/json-to-plantuml
-  + plantuml-code-generator https://github.com/bafolts/plantuml-code-generator
+  + plantuml-code_generator https://github.com/bafolts/plantuml-code_generator
   + dkd-plantuml https://github.com/dkd/plantuml
   + plantuml-syntax https://github.com/aklt/plantuml-syntax
   + plantuml-server https://github.com/plantuml/plantuml-server
@@ -476,11 +476,11 @@ Tags
 
   + spark-jobserver https://github.com/spark-jobserver/spark-jobserver
 
-* security-awesome
+* security_awesome
 
   + csirt https://github.com/Spacial/csirt
 
-* security-cve
+* security_cve
 
   + awesome-cve-poc https://github.com/qazbnm456/awesome-cve-poc
 
@@ -492,7 +492,7 @@ Tags
 * spark
 
   + envelope https://github.com/cloudera-labs/envelope
-  + spark-knn-graphs https://github.com/tdebatty/spark-knn-graphs
+  + spark-knn_graphs https://github.com/tdebatty/spark-knn_graphs
   + cypher-for-apache-spark https://github.com/opencypher/cypher-for-apache-spark
   + mizo https://github.com/imri/mizo
   + spark-neo4j https://github.com/kbastani/spark-neo4j
@@ -500,7 +500,7 @@ Tags
   + spark-jobserver https://github.com/spark-jobserver/spark-jobserver
   + SparkGIS https://github.com/drubbo/SparkGIS
   + Movie_Recommend https://github.com/LuckyZXL2016/Movie_Recommend
-  + spark-deep-learning https://github.com/databricks/spark-deep-learning
+  + spark-deep_learning https://github.com/databricks/spark-deep_learning
   + SparkInternals https://github.com/JerryLead/SparkInternals
 
 * sparkgis
@@ -511,7 +511,7 @@ Tags
 
   + SpringCloud https://github.com/hejack0207/SpringCloud
 
-* sql-support
+* sql_support
 
   + incubator-doris https://github.com/apache/incubator-doris
   + drill https://github.com/apache/drill
@@ -529,7 +529,7 @@ Tags
   + angular2-swagger-apiclient-generator https://github.com/zemacik/angular2-swagger-apiclient-generator
   + ng-swagger-gen https://github.com/cyclosproject/ng-swagger-gen
 
-* swagger-angular
+* swagger_angular
 
   + angular2-swagger-apiclient-generator https://github.com/zemacik/angular2-swagger-apiclient-generator
   + ng-swagger-gen https://github.com/cyclosproject/ng-swagger-gen
@@ -561,15 +561,15 @@ Tags
   + ccls https://github.com/MaskRay/ccls
   + vim https://github.com/vim/vim
 
-* vim-plugin
+* vim_plugin
 
   + plantuml-syntax https://github.com/aklt/plantuml-syntax
 
-* vscode-plugin
+* vscode_plugin
 
   + vscode-plantuml https://github.com/qjebbs/vscode-plantuml
 
-* websecurity-awesome
+* websecurity_awesome
 
   + awesome-web-security https://github.com/qazbnm456/awesome-web-security
 

@@ -23,7 +23,7 @@ Categories
   + git https://github.com/git/git
   + vim https://github.com/vim/vim
 
-* docker-compose
+* docker_compose
 
   + docker-pdi-ce https://github.com/zhicwu/docker-pdi-ce
   + docker-gpdb5 https://github.com/bbotev01/gpdb5

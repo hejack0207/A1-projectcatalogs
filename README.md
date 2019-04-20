@@ -6,13 +6,13 @@
   [impala](#impala)
   [flink](#flink)
   [spark](#spark)
-  [bigdata-awesome](#bigdata-awesome)
-  [bigdata-usecase](#bigdata-usecase)
-  [mpp-based](#mpp-based)
+  [bigdata_awesome](#bigdata_awesome)
+  [bigdata_usecase](#bigdata_usecase)
+  [mpp_based](#mpp_based)
 ## bigdata_dw
 
   [greenplum](#greenplum)
-  [datawarehouse-impl](#datawarehouse-impl)
+  [datawarehouse_impl](#datawarehouse_impl)
   [drill](#drill)
   [pinot](#pinot)
   [presto](#presto)
@@ -27,8 +27,8 @@
   [kylin](#kylin)
   [clickhouse](#clickhouse)
   [mandrian](#mandrian)
-  [olap-impl](#olap-impl)
-  [sql-support](#sql-support)
+  [olap_impl](#olap_impl)
+  [sql_support](#sql_support)
 ## bigdata_rdb
 
   [sqlite](#sqlite)
@@ -42,8 +42,8 @@
   [maven](#maven)
 ## business
 
-  [agriculture-knowledge-graph](#agriculture-knowledge-graph)
-  [knn-graph](#knn-graph)
+  [agriculture_knowledge_graph](#agriculture_knowledge_graph)
+  [knn_graph](#knn_graph)
 ## data_generator
 
   [jsonnet](#jsonnet)
@@ -51,7 +51,7 @@
 
   [ansible](#ansible)
   [docker](#docker)
-  [docker-compose](#docker-compose)
+  [docker_compose](#docker_compose)
   [helm](#helm)
   [kubernetes](#kubernetes)
 ## design
@@ -63,9 +63,9 @@
 ## editor
 
   [vim](#vim)
-  [vim-plugin](#vim-plugin)
-  [vscode-plugin](#vscode-plugin)
-  [cpp-tool](#cpp-tool)
+  [vim_plugin](#vim_plugin)
+  [vscode_plugin](#vscode_plugin)
+  [cpp_tool](#cpp_tool)
 ## esb
 
   [camel](#camel)
@@ -77,7 +77,7 @@
   [envelope](#envelope)
   [datax](#datax)
   [flinkx](#flinkx)
-  [etl-awesome](#etl-awesome)
+  [etl_awesome](#etl_awesome)
 ## frontend
 
   [angular](#angular)
@@ -85,8 +85,8 @@
 
   [impalagis](#impalagis)
   [sparkgis](#sparkgis)
-  [gis-awesome](#gis-awesome)
-  [gis-impl](#gis-impl)
+  [gis_awesome](#gis_awesome)
+  [gis_impl](#gis_impl)
 ## infra
 
   [tomcat](#tomcat)
@@ -104,20 +104,20 @@
 ## ocr
 
   [tesseract](#tesseract)
-  [ocr-impl](#ocr-impl)
-  [ocr-awesome](#ocr-awesome)
+  [ocr_impl](#ocr_impl)
+  [ocr_awesome](#ocr_awesome)
 ## scaffold
 
   [jhipster](#jhipster)
   [springcloud](#springcloud)
   [archetype](#archetype)
-  [swagger-angular](#swagger-angular)
-  [code-generator](#code-generator)
+  [swagger_angular](#swagger_angular)
+  [code_generator](#code_generator)
 ## security
 
-  [security-awesome](#security-awesome)
-  [websecurity-awesome](#websecurity-awesome)
-  [security-cve](#security-cve)
+  [security_awesome](#security_awesome)
+  [websecurity_awesome](#websecurity_awesome)
+  [security_cve](#security_cve)
 ## terminal
 
   [zsh](#zsh)
@@ -135,7 +135,7 @@
 ## not in category
   [ai](#ai)
   [apollo](#apollo)
-  [deep-learning](#deep-learning)
+  [deep_learning](#deep_learning)
   [graph-ui](#graph-ui)
   [json](#json)
   [mazerunner](#mazerunner)
@@ -145,16 +145,16 @@
 
 
 # repos
-## agriculture-knowledge-graph
+## agriculture_knowledge_graph
   + Agriculture_KnowledgeGraph <https://github.com/hejack0207/Agriculture_KnowledgeGraph> 
 
       [
-  [agriculture-knowledge-graph](#agriculture-knowledge-graph)
+  [agriculture_knowledge_graph](#agriculture_knowledge_graph)
       ]
   + Agriculture-KnowledgeGraph-Data <https://github.com/CrisJk/Agriculture-KnowledgeGraph-Data> 
 
       [
-  [agriculture-knowledge-graph](#agriculture-knowledge-graph)
+  [agriculture_knowledge_graph](#agriculture_knowledge_graph)
       ]
 
 ## ai
@@ -178,14 +178,14 @@
       [
   [angular](#angular)
   [swagger](#swagger)
-  [swagger-angular](#swagger-angular)
+  [swagger_angular](#swagger_angular)
       ]
   + ng-swagger-gen <https://github.com/cyclosproject/ng-swagger-gen> 
 
       [
   [angular](#angular)
   [swagger](#swagger)
-  [swagger-angular](#swagger-angular)
+  [swagger_angular](#swagger_angular)
       ]
 
 ## ansible
@@ -236,7 +236,7 @@
   + apollo-build-scripts <https://github.com/nobodyiam/apollo-build-scripts> 
 
       [
-  [docker-compose](#docker-compose)
+  [docker_compose](#docker_compose)
   [apollo](#apollo)
       ]
 
@@ -258,7 +258,7 @@
   [travis](#travis)
   [asciidoc](#asciidoc)
   [docker](#docker)
-  [docker-compose](#docker-compose)
+  [docker_compose](#docker_compose)
   [tesseract](#tesseract)
       ]
 
@@ -306,19 +306,19 @@
   [benchmark](#benchmark)
       ]
 
-## bigdata-awesome
+## bigdata_awesome
   + awesome-bigdata <https://github.com/onurakpolat/awesome-bigdata> 
 
       [
-  [bigdata-awesome](#bigdata-awesome)
+  [bigdata_awesome](#bigdata_awesome)
       ]
 
-## bigdata-usecase
+## bigdata_usecase
   + Movie_Recommend <https://github.com/LuckyZXL2016/Movie_Recommend> 
 
       [
   [spark](#spark)
-  [bigdata-usecase](#bigdata-usecase)
+  [bigdata_usecase](#bigdata_usecase)
       ]
 
 ## c
@@ -443,7 +443,7 @@
   [travis](#travis)
   [asciidoc](#asciidoc)
   [docker](#docker)
-  [docker-compose](#docker-compose)
+  [docker_compose](#docker_compose)
   [tesseract](#tesseract)
       ]
   + Paddle <https://github.com/PaddlePaddle/Paddle> 
@@ -465,7 +465,7 @@
       [
   [cpp](#cpp)
   [cmake](#cmake)
-  [cpp-tool](#cpp-tool)
+  [cpp_tool](#cpp_tool)
   [vim](#vim)
       ]
   + impala <https://github.com/apache/impala> 
@@ -476,12 +476,12 @@
   [impala](#impala)
       ]
 
-## code-generator
-  + plantuml-code-generator <https://github.com/bafolts/plantuml-code-generator> 
+## code_generator
+  + plantuml-code_generator <https://github.com/bafolts/plantuml-code_generator> 
 
       [
   [plantuml](#plantuml)
-  [code-generator](#code-generator)
+  [code_generator](#code_generator)
       ]
 
 ## cpp
@@ -493,7 +493,7 @@
   [travis](#travis)
   [asciidoc](#asciidoc)
   [docker](#docker)
-  [docker-compose](#docker-compose)
+  [docker_compose](#docker_compose)
   [tesseract](#tesseract)
       ]
   + ccls <https://github.com/MaskRay/ccls> 
@@ -501,7 +501,7 @@
       [
   [cpp](#cpp)
   [cmake](#cmake)
-  [cpp-tool](#cpp-tool)
+  [cpp_tool](#cpp_tool)
   [vim](#vim)
       ]
   + SequoiaDB <https://github.com/SequoiaDB/SequoiaDB> 
@@ -510,13 +510,13 @@
   [cpp](#cpp)
       ]
 
-## cpp-tool
+## cpp_tool
   + ccls <https://github.com/MaskRay/ccls> 
 
       [
   [cpp](#cpp)
   [cmake](#cmake)
-  [cpp-tool](#cpp-tool)
+  [cpp_tool](#cpp_tool)
   [vim](#vim)
       ]
 
@@ -528,13 +528,13 @@
   [cypher](#cypher)
       ]
 
-## datawarehouse-impl
+## datawarehouse_impl
   + incubator-doris <https://github.com/apache/incubator-doris> 
 
       [
-  [mpp-based](#mpp-based)
-  [sql-support](#sql-support)
-  [datawarehouse-impl](#datawarehouse-impl)
+  [mpp_based](#mpp_based)
+  [sql_support](#sql_support)
+  [datawarehouse_impl](#datawarehouse_impl)
       ]
 
 ## datax
@@ -549,12 +549,12 @@
   [datax](#datax)
       ]
 
-## deep-learning
-  + spark-deep-learning <https://github.com/databricks/spark-deep-learning> 
+## deep_learning
+  + spark-deep_learning <https://github.com/databricks/spark-deep_learning> 
 
       [
   [spark](#spark)
-  [deep-learning](#deep-learning)
+  [deep_learning](#deep_learning)
       ]
 
 ## docker
@@ -566,7 +566,7 @@
   [travis](#travis)
   [asciidoc](#asciidoc)
   [docker](#docker)
-  [docker-compose](#docker-compose)
+  [docker_compose](#docker_compose)
   [tesseract](#tesseract)
       ]
   + docker-gpdb5 <https://github.com/bbotev01/gpdb5> 
@@ -636,7 +636,7 @@
   [presto](#presto)
       ]
 
-## docker-compose
+## docker_compose
   + tesseract <https://github.com/tesseract-ocr/tesseract> 
 
       [
@@ -645,26 +645,26 @@
   [travis](#travis)
   [asciidoc](#asciidoc)
   [docker](#docker)
-  [docker-compose](#docker-compose)
+  [docker_compose](#docker_compose)
   [tesseract](#tesseract)
       ]
   + docker-pdi-ce <https://github.com/zhicwu/docker-pdi-ce> 
 
       [
-  [docker-compose](#docker-compose)
+  [docker_compose](#docker_compose)
   [kettle](#kettle)
       ]
   + ansible.pentaho-biserver-ce <https://github.com/oggers/ansible.pentaho-biserver-ce> 
 
       [
-  [docker-compose](#docker-compose)
+  [docker_compose](#docker_compose)
   [pentaho](#pentaho)
       ]
   + webkettle <https://github.com/hejack0207/webkettle> 
 
       [
   [java](#java)
-  [docker-compose](#docker-compose)
+  [docker_compose](#docker_compose)
   [webui](#webui)
   [kettle](#kettle)
       ]
@@ -672,13 +672,13 @@
 
       [
   [java](#java)
-  [docker-compose](#docker-compose)
+  [docker_compose](#docker_compose)
   [springcloud](#springcloud)
       ]
   + apollo-build-scripts <https://github.com/nobodyiam/apollo-build-scripts> 
 
       [
-  [docker-compose](#docker-compose)
+  [docker_compose](#docker_compose)
   [apollo](#apollo)
       ]
 
@@ -686,8 +686,8 @@
   + drill <https://github.com/apache/drill> 
 
       [
-  [mpp-based](#mpp-based)
-  [sql-support](#sql-support)
+  [mpp_based](#mpp_based)
+  [sql_support](#sql_support)
   [hadoop](#hadoop)
   [drill](#drill)
       ]
@@ -707,16 +707,16 @@
   [spark](#spark)
       ]
 
-## etl-awesome
+## etl_awesome
   + awesome-pipline <https://github.com/pditommaso/awesome-pipline> 
 
       [
-  [etl-awesome](#etl-awesome)
+  [etl_awesome](#etl_awesome)
       ]
   + awesome-etl <https://github.com/pawl/awesome-etl> 
 
       [
-  [etl-awesome](#etl-awesome)
+  [etl_awesome](#etl_awesome)
       ]
 
 ## f2etest
@@ -757,18 +757,18 @@
   [flinkx](#flinkx)
       ]
 
-## gis-awesome
+## gis_awesome
   + awesome-gis <https://github.com/sshuair/awesome-gis> 
 
       [
-  [gis-awesome](#gis-awesome)
+  [gis_awesome](#gis_awesome)
       ]
 
-## gis-impl
+## gis_impl
   + QGIS <https://github.com/qgis/QGIS> 
 
       [
-  [gis-impl](#gis-impl)
+  [gis_impl](#gis_impl)
       ]
 
 ## git
@@ -837,8 +837,8 @@
   + drill <https://github.com/apache/drill> 
 
       [
-  [mpp-based](#mpp-based)
-  [sql-support](#sql-support)
+  [mpp_based](#mpp_based)
+  [sql_support](#sql_support)
   [hadoop](#hadoop)
   [drill](#drill)
       ]
@@ -912,7 +912,7 @@
 
       [
   [java](#java)
-  [docker-compose](#docker-compose)
+  [docker_compose](#docker_compose)
   [webui](#webui)
   [kettle](#kettle)
       ]
@@ -920,7 +920,7 @@
 
       [
   [java](#java)
-  [docker-compose](#docker-compose)
+  [docker_compose](#docker_compose)
   [springcloud](#springcloud)
       ]
 
@@ -990,7 +990,7 @@
   + docker-pdi-ce <https://github.com/zhicwu/docker-pdi-ce> 
 
       [
-  [docker-compose](#docker-compose)
+  [docker_compose](#docker_compose)
   [kettle](#kettle)
       ]
   + pentaho-kettle <https://github.com/pentaho/pentaho-kettle> 
@@ -1010,7 +1010,7 @@
 
       [
   [java](#java)
-  [docker-compose](#docker-compose)
+  [docker_compose](#docker_compose)
   [webui](#webui)
   [kettle](#kettle)
       ]
@@ -1020,12 +1020,12 @@
   [kettle](#kettle)
       ]
 
-## knn-graph
-  + spark-knn-graphs <https://github.com/tdebatty/spark-knn-graphs> 
+## knn_graph
+  + spark-knn_graphs <https://github.com/tdebatty/spark-knn_graphs> 
 
       [
   [spark](#spark)
-  [knn-graph](#knn-graph)
+  [knn_graph](#knn_graph)
       ]
 
 ## kubernetes
@@ -1137,19 +1137,19 @@
   [spark](#spark)
       ]
 
-## mpp-based
+## mpp_based
   + incubator-doris <https://github.com/apache/incubator-doris> 
 
       [
-  [mpp-based](#mpp-based)
-  [sql-support](#sql-support)
-  [datawarehouse-impl](#datawarehouse-impl)
+  [mpp_based](#mpp_based)
+  [sql_support](#sql_support)
+  [datawarehouse_impl](#datawarehouse_impl)
       ]
   + drill <https://github.com/apache/drill> 
 
       [
-  [mpp-based](#mpp-based)
-  [sql-support](#sql-support)
+  [mpp_based](#mpp_based)
+  [sql_support](#sql_support)
   [hadoop](#hadoop)
   [drill](#drill)
       ]
@@ -1184,40 +1184,40 @@
   [spark](#spark)
       ]
 
-## ocr-awesome
+## ocr_awesome
   + awesome-ocr <https://github.com/kba/awesome-ocr> 
 
       [
-  [ocr-awesome](#ocr-awesome)
+  [ocr_awesome](#ocr_awesome)
       ]
 
-## ocr-impl
+## ocr_impl
   + EasyOCR <https://github.com/ushelp/EasyOCR> 
 
       [
-  [ocr-impl](#ocr-impl)
+  [ocr_impl](#ocr_impl)
       ]
   + OCR <https://github.com/zoso10/OCR> 
 
       [
-  [ocr-impl](#ocr-impl)
+  [ocr_impl](#ocr_impl)
       ]
   + Longan <https://github.com/Zarkonnen/Longan> 
 
       [
-  [ocr-impl](#ocr-impl)
+  [ocr_impl](#ocr_impl)
       ]
   + NewOCR <https://github.com/RubbaBoy/NewOCR> 
 
       [
-  [ocr-impl](#ocr-impl)
+  [ocr_impl](#ocr_impl)
       ]
 
-## olap-impl
+## olap_impl
   + incubator-pinot <https://github.com/apache/incubator-pinot> 
 
       [
-  [olap-impl](#olap-impl)
+  [olap_impl](#olap_impl)
   [pinot](#pinot)
       ]
 
@@ -1232,7 +1232,7 @@
   + ansible.pentaho-biserver-ce <https://github.com/oggers/ansible.pentaho-biserver-ce> 
 
       [
-  [docker-compose](#docker-compose)
+  [docker_compose](#docker_compose)
   [pentaho](#pentaho)
       ]
 
@@ -1240,7 +1240,7 @@
   + incubator-pinot <https://github.com/apache/incubator-pinot> 
 
       [
-  [olap-impl](#olap-impl)
+  [olap_impl](#olap_impl)
   [pinot](#pinot)
       ]
 
@@ -1256,11 +1256,11 @@
   [plantuml](#plantuml)
   [json](#json)
       ]
-  + plantuml-code-generator <https://github.com/bafolts/plantuml-code-generator> 
+  + plantuml-code_generator <https://github.com/bafolts/plantuml-code_generator> 
 
       [
   [plantuml](#plantuml)
-  [code-generator](#code-generator)
+  [code_generator](#code_generator)
       ]
   + dkd-plantuml <https://github.com/dkd/plantuml> 
 
@@ -1272,7 +1272,7 @@
 
       [
   [plantuml](#plantuml)
-  [vim-plugin](#vim-plugin)
+  [vim_plugin](#vim_plugin)
       ]
   + plantuml-server <https://github.com/plantuml/plantuml-server> 
 
@@ -1284,7 +1284,7 @@
 
       [
   [plantuml](#plantuml)
-  [vscode-plugin](#vscode-plugin)
+  [vscode_plugin](#vscode_plugin)
       ]
 
 ## postgres
@@ -1341,18 +1341,18 @@
   [restful](#restful)
       ]
 
-## security-awesome
+## security_awesome
   + csirt <https://github.com/Spacial/csirt> 
 
       [
-  [security-awesome](#security-awesome)
+  [security_awesome](#security_awesome)
       ]
 
-## security-cve
+## security_cve
   + awesome-cve-poc <https://github.com/qazbnm456/awesome-cve-poc> 
 
       [
-  [security-cve](#security-cve)
+  [security_cve](#security_cve)
       ]
 
 ## servicemix
@@ -1377,11 +1377,11 @@
   [envelope](#envelope)
   [spark](#spark)
       ]
-  + spark-knn-graphs <https://github.com/tdebatty/spark-knn-graphs> 
+  + spark-knn_graphs <https://github.com/tdebatty/spark-knn_graphs> 
 
       [
   [spark](#spark)
-  [knn-graph](#knn-graph)
+  [knn_graph](#knn_graph)
       ]
   + cypher-for-apache-spark <https://github.com/opencypher/cypher-for-apache-spark> 
 
@@ -1424,13 +1424,13 @@
 
       [
   [spark](#spark)
-  [bigdata-usecase](#bigdata-usecase)
+  [bigdata_usecase](#bigdata_usecase)
       ]
-  + spark-deep-learning <https://github.com/databricks/spark-deep-learning> 
+  + spark-deep_learning <https://github.com/databricks/spark-deep_learning> 
 
       [
   [spark](#spark)
-  [deep-learning](#deep-learning)
+  [deep_learning](#deep_learning)
       ]
   + SparkInternals <https://github.com/JerryLead/SparkInternals> 
 
@@ -1451,23 +1451,23 @@
 
       [
   [java](#java)
-  [docker-compose](#docker-compose)
+  [docker_compose](#docker_compose)
   [springcloud](#springcloud)
       ]
 
-## sql-support
+## sql_support
   + incubator-doris <https://github.com/apache/incubator-doris> 
 
       [
-  [mpp-based](#mpp-based)
-  [sql-support](#sql-support)
-  [datawarehouse-impl](#datawarehouse-impl)
+  [mpp_based](#mpp_based)
+  [sql_support](#sql_support)
+  [datawarehouse_impl](#datawarehouse_impl)
       ]
   + drill <https://github.com/apache/drill> 
 
       [
-  [mpp-based](#mpp-based)
-  [sql-support](#sql-support)
+  [mpp_based](#mpp_based)
+  [sql_support](#sql_support)
   [hadoop](#hadoop)
   [drill](#drill)
       ]
@@ -1496,30 +1496,30 @@
       [
   [angular](#angular)
   [swagger](#swagger)
-  [swagger-angular](#swagger-angular)
+  [swagger_angular](#swagger_angular)
       ]
   + ng-swagger-gen <https://github.com/cyclosproject/ng-swagger-gen> 
 
       [
   [angular](#angular)
   [swagger](#swagger)
-  [swagger-angular](#swagger-angular)
+  [swagger_angular](#swagger_angular)
       ]
 
-## swagger-angular
+## swagger_angular
   + angular2-swagger-apiclient-generator <https://github.com/zemacik/angular2-swagger-apiclient-generator> 
 
       [
   [angular](#angular)
   [swagger](#swagger)
-  [swagger-angular](#swagger-angular)
+  [swagger_angular](#swagger_angular)
       ]
   + ng-swagger-gen <https://github.com/cyclosproject/ng-swagger-gen> 
 
       [
   [angular](#angular)
   [swagger](#swagger)
-  [swagger-angular](#swagger-angular)
+  [swagger_angular](#swagger_angular)
       ]
 
 ## tesseract
@@ -1531,7 +1531,7 @@
   [travis](#travis)
   [asciidoc](#asciidoc)
   [docker](#docker)
-  [docker-compose](#docker-compose)
+  [docker_compose](#docker_compose)
   [tesseract](#tesseract)
       ]
   + tess4j <https://github.com/nguyenq/tess4j> 
@@ -1581,7 +1581,7 @@
   [travis](#travis)
   [asciidoc](#asciidoc)
   [docker](#docker)
-  [docker-compose](#docker-compose)
+  [docker_compose](#docker_compose)
   [tesseract](#tesseract)
       ]
 
@@ -1591,7 +1591,7 @@
       [
   [cpp](#cpp)
   [cmake](#cmake)
-  [cpp-tool](#cpp-tool)
+  [cpp_tool](#cpp_tool)
   [vim](#vim)
       ]
   + vim <https://github.com/vim/vim> 
@@ -1602,27 +1602,27 @@
   [vim](#vim)
       ]
 
-## vim-plugin
+## vim_plugin
   + plantuml-syntax <https://github.com/aklt/plantuml-syntax> 
 
       [
   [plantuml](#plantuml)
-  [vim-plugin](#vim-plugin)
+  [vim_plugin](#vim_plugin)
       ]
 
-## vscode-plugin
+## vscode_plugin
   + vscode-plantuml <https://github.com/qjebbs/vscode-plantuml> 
 
       [
   [plantuml](#plantuml)
-  [vscode-plugin](#vscode-plugin)
+  [vscode_plugin](#vscode_plugin)
       ]
 
-## websecurity-awesome
+## websecurity_awesome
   + awesome-web-security <https://github.com/qazbnm456/awesome-web-security> 
 
       [
-  [websecurity-awesome](#websecurity-awesome)
+  [websecurity_awesome](#websecurity_awesome)
       ]
 
 ## webui
@@ -1637,7 +1637,7 @@
 
       [
   [java](#java)
-  [docker-compose](#docker-compose)
+  [docker_compose](#docker_compose)
   [webui](#webui)
   [kettle](#kettle)
       ]

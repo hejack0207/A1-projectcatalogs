@@ -141,7 +141,7 @@ local tpl=import 'tpl.jsn';
             topics: $.topics.dev.build.make,
         },
         {
-            name: "docker-compose",
+            name: "docker_compose",
             topics: $.topics.dev.deploy.docker_compose +
                 [tpl.repos_sep] +
                 $.topics.dev.deploy.docker,
@@ -187,28 +187,28 @@ local tpl=import 'tpl.jsn';
         },
     ],
     tag_categories: {
-        bigdata: [ "hadoop","cdh","impala","flink","spark","bigdata-awesome","bigdata-usecase","mpp-based" ],
-        bigdata_dw: [ "greenplum","datawarehouse-impl","drill","pinot","presto" ],
+        bigdata: [ "hadoop","cdh","impala","flink","spark","bigdata_awesome","bigdata_usecase","mpp_based" ],
+        bigdata_dw: [ "greenplum","datawarehouse_impl","drill","pinot","presto" ],
         bigdata_graphdb: [ "neo4j","orientdb","titan","cypher" ],
-        bigdata_olap: [ "kylin","clickhouse","mandrian","olap-impl","sql-support" ],
+        bigdata_olap: [ "kylin","clickhouse","mandrian","olap_impl","sql_support" ],
         bigdata_rdb: [ "sqlite","mysql","postgres" ],
         build: [ "autotools","cmake","make","maven" ],
-        business: [ "agriculture-knowledge-graph","knn-graph" ],
+        business: [ "agriculture_knowledge_graph","knn_graph" ],
         data_generator: [ "jsonnet" ],
-        deploy: [ "ansible","docker","docker-compose","helm","kubernetes" ],
+        deploy: [ "ansible","docker","docker_compose","helm","kubernetes" ],
         design: [ "plantuml" ],
         documentation: [ "asciidoc" ],
-        editor: [ "vim","vim-plugin","vscode-plugin","cpp-tool" ],
+        editor: [ "vim","vim_plugin","vscode_plugin","cpp_tool" ],
         esb: [ "camel","servicemix" ],
-        etl: [ "kettle","pentaho","envelope","datax","flinkx","etl-awesome" ],
+        etl: [ "kettle","pentaho","envelope","datax","flinkx","etl_awesome" ],
         frontend: [ "angular" ],
-        gis: [ "impalagis","sparkgis","gis-awesome","gis-impl" ],
+        gis: [ "impalagis","sparkgis","gis_awesome","gis_impl" ],
         infra: [ "tomcat","redis","keepalived" ],
         languages: [ "c","java","cpp","javascript" ],
         management: ["redmine"],
-        ocr: [ "tesseract","ocr-impl","ocr-awesome" ],
-        scaffold: [ "jhipster","springcloud","archetype","swagger-angular","code-generator" ],
-        security: [ "security-awesome","websecurity-awesome","security-cve" ],
+        ocr: [ "tesseract","ocr_impl","ocr_awesome" ],
+        scaffold: [ "jhipster","springcloud","archetype","swagger_angular","code_generator" ],
+        security: [ "security_awesome","websecurity_awesome","security_cve" ],
         terminal: [ "zsh","ssh","tmux","git" ],
         testing: [ "f2etest","benchmark" ],
         webapp: ["webui"],
@@ -232,7 +232,7 @@ local tpl=import 'tpl.jsn';
         tpl.ghrepos + {
             user: "tesseract-ocr",
             repos_name: "tesseract",
-            tags: ["cpp","cmake","travis","asciidoc","docker","docker-compose","tesseract"],
+            tags: ["cpp","cmake","travis","asciidoc","docker","docker_compose","tesseract"],
         },
         tpl.ghrepos + {
             user: "nguyenq",
@@ -277,7 +277,7 @@ local tpl=import 'tpl.jsn';
         tpl.ghrepos + {
             user: "MaskRay",
             repos_name: "ccls",
-            tags: ["cpp","cmake","cpp-tool","vim"],
+            tags: ["cpp","cmake","cpp_tool","vim"],
         },
         tpl.ghrepos + {
             user: "apache",
@@ -302,7 +302,7 @@ local tpl=import 'tpl.jsn';
         tpl.ghrepos + {
             user: "zhicwu",
             repos_name: "docker-pdi-ce",
-            tags: ["docker-compose","kettle"],
+            tags: ["docker_compose","kettle"],
         },
         tpl.ghrepos + {
             user: "pentaho",
@@ -334,7 +334,7 @@ local tpl=import 'tpl.jsn';
         tpl.ghrepos + {
             user: "oggers",
             repos_name: "ansible.pentaho-biserver-ce",
-            tags: ["docker-compose","pentaho"],
+            tags: ["docker_compose","pentaho"],
             score: 2,
         },
         tpl.ghrepos + {
@@ -356,7 +356,7 @@ local tpl=import 'tpl.jsn';
         tpl.ghrepos + {
             user: "JoeyBling",
             repos_name: "webkettle",
-            tags: ["java","docker-compose","webui","kettle"],
+            tags: ["java","docker_compose","webui","kettle"],
             forked: true,
         },
         tpl.ghrepos + {
@@ -380,12 +380,12 @@ local tpl=import 'tpl.jsn';
             user: "zhoutaoo",
             repos_name: "SpringCloud",
             forked: true,
-            tags: ["java","docker-compose","springcloud"],
+            tags: ["java","docker_compose","springcloud"],
         },
         tpl.ghrepos + {
             user: "nobodyiam",
             repos_name: "apollo-build-scripts",
-            tags: ["docker-compose","apollo"],
+            tags: ["docker_compose","apollo"],
         },
         tpl.ghrepos + {
             user: "docker-library",
@@ -472,8 +472,8 @@ local tpl=import 'tpl.jsn';
         },
         tpl.ghrepos + {
             user: "tdebatty",
-            repos_name: "spark-knn-graphs",
-            tags: ["spark","knn-graph"],
+            repos_name: "spark-knn_graphs",
+            tags: ["spark","knn_graph"],
         },
         tpl.ghrepos + {
             user: "opencypher",
@@ -544,12 +544,12 @@ local tpl=import 'tpl.jsn';
         tpl.ghrepos + {
             user: "hejack0207",
             repos_name: "Agriculture_KnowledgeGraph",
-            tags: ["agriculture-knowledge-graph"],
+            tags: ["agriculture_knowledge_graph"],
         },
         tpl.ghrepos + {
             user: "CrisJk",
             repos_name: "Agriculture-KnowledgeGraph-Data",
-            tags: ["agriculture-knowledge-graph"],
+            tags: ["agriculture_knowledge_graph"],
         },
         tpl.ghrepos + {
             user: "orientechnologies",
@@ -610,12 +610,12 @@ local tpl=import 'tpl.jsn';
         tpl.ghrepos + {
             user: "zemacik",
             repos_name: "angular2-swagger-apiclient-generator",
-            tags: ["angular","swagger","swagger-angular"],
+            tags: ["angular","swagger","swagger_angular"],
         },
         tpl.ghrepos + {
             user: "cyclosproject",
             repos_name: "ng-swagger-gen",
-            tags: ["angular","swagger","swagger-angular"],
+            tags: ["angular","swagger","swagger_angular"],
         },
         tpl.ghrepos + {
             user: "drubbo",
@@ -625,22 +625,22 @@ local tpl=import 'tpl.jsn';
         tpl.ghrepos + {
             user: "ushelp",
             repos_name: "EasyOCR",
-            tags: ["ocr-impl"],
+            tags: ["ocr_impl"],
         },
         tpl.ghrepos + {
             user: "zoso10",
             repos_name: "OCR",
-            tags: ["ocr-impl"],
+            tags: ["ocr_impl"],
         },
         tpl.ghrepos + {
             user: "Zarkonnen",
             repos_name: "Longan",
-            tags: ["ocr-impl"],
+            tags: ["ocr_impl"],
         },
         tpl.ghrepos + {
             user: "RubbaBoy",
             repos_name: "NewOCR",
-            tags: ["ocr-impl"],
+            tags: ["ocr_impl"],
         },
         tpl.ghrepos + {
             user: "SequoiaDB",
@@ -655,12 +655,12 @@ local tpl=import 'tpl.jsn';
         tpl.ghrepos + {
             user: "LuckyZXL2016",
             repos_name: "Movie_Recommend",
-            tags: ["spark","bigdata-usecase"],
+            tags: ["spark","bigdata_usecase"],
         },
         tpl.ghrepos + {
             user: "databricks",
-            repos_name: "spark-deep-learning",
-            tags: ["spark","deep-learning"],
+            repos_name: "spark-deep_learning",
+            tags: ["spark","deep_learning"],
         },
         tpl.ghrepos + {
             user: "JerryLead",
@@ -675,42 +675,42 @@ local tpl=import 'tpl.jsn';
         tpl.ghrepos + {
             user: "apache",
             repos_name: "incubator-doris",
-            tags: ["mpp-based","sql-support","datawarehouse-impl"],
+            tags: ["mpp_based","sql_support","datawarehouse_impl"],
         },
         tpl.ghrepos + {
             user: "apache",
             repos_name: "incubator-pinot",
-            tags: ["olap-impl","pinot"],
+            tags: ["olap_impl","pinot"],
         },
         tpl.ghrepos + {
             user: "apache",
             repos_name: "drill",
-            tags: ["mpp-based","sql-support","hadoop","drill"],
+            tags: ["mpp_based","sql_support","hadoop","drill"],
         },
         tpl.ghrepos + {
             user: "kba",
             repos_name: "awesome-ocr",
-            tags: ["ocr-awesome"],
+            tags: ["ocr_awesome"],
         },
         tpl.ghrepos + {
             user: "qgis",
             repos_name: "QGIS",
-            tags: ["gis-impl"],
+            tags: ["gis_impl"],
         },
         tpl.ghrepos + {
             user: "Spacial",
             repos_name: "csirt",
-            tags: ["security-awesome"],
+            tags: ["security_awesome"],
         },
         tpl.ghrepos + {
             user: "qazbnm456",
             repos_name: "awesome-web-security",
-            tags: ["websecurity-awesome"],
+            tags: ["websecurity_awesome"],
         },
         tpl.ghrepos + {
             user: "qazbnm456",
             repos_name: "awesome-cve-poc",
-            tags: ["security-cve"],
+            tags: ["security_cve"],
         },
         tpl.ghrepos + {
             user: "acassen",
@@ -725,17 +725,17 @@ local tpl=import 'tpl.jsn';
         tpl.ghrepos + {
             user: "onurakpolat",
             repos_name: "awesome-bigdata",
-            tags: ["bigdata-awesome"],
+            tags: ["bigdata_awesome"],
         },
         tpl.ghrepos + {
             user: "pditommaso",
             repos_name: "awesome-pipline",
-            tags: ["etl-awesome"],
+            tags: ["etl_awesome"],
         },
         tpl.ghrepos + {
             user: "pawl",
             repos_name: "awesome-etl",
-            tags: ["etl-awesome"],
+            tags: ["etl_awesome"],
         },
         tpl.ghrepos + {
             user: "meteorbites",
@@ -744,8 +744,8 @@ local tpl=import 'tpl.jsn';
         },
         tpl.ghrepos + {
             user: "bafolts",
-            repos_name: "plantuml-code-generator",
-            tags: ["plantuml","code-generator"],
+            repos_name: "plantuml-code_generator",
+            tags: ["plantuml","code_generator"],
         },
         tpl.ghrepos + {
             user: "dkd",
@@ -756,7 +756,7 @@ local tpl=import 'tpl.jsn';
         tpl.ghrepos + {
             user: "aklt",
             repos_name: "plantuml-syntax",
-            tags: ["plantuml","vim-plugin"],
+            tags: ["plantuml","vim_plugin"],
         },
         tpl.ghrepos + {
             user: "plantuml",
@@ -771,12 +771,12 @@ local tpl=import 'tpl.jsn';
         tpl.ghrepos + {
             user: "sshuair",
             repos_name: "awesome-gis",
-            tags: ["gis-awesome"],
+            tags: ["gis_awesome"],
         },
         tpl.ghrepos + {
             user: "qjebbs",
             repos_name: "vscode-plantuml",
-            tags: ["plantuml","vscode-plugin"],
+            tags: ["plantuml","vscode_plugin"],
         },
     ],
 

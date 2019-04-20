@@ -2,36 +2,36 @@
    "check": {
       "tags_also_category": [ ],
       "tags_in_category": [
-         "agriculture-knowledge-graph",
+         "agriculture_knowledge_graph",
          "angular",
          "ansible",
          "archetype",
          "asciidoc",
          "autotools",
          "benchmark",
-         "bigdata-awesome",
-         "bigdata-usecase",
+         "bigdata_awesome",
+         "bigdata_usecase",
          "c",
          "camel",
          "cdh",
          "clickhouse",
          "cmake",
-         "code-generator",
+         "code_generator",
          "cpp",
-         "cpp-tool",
+         "cpp_tool",
          "cypher",
-         "datawarehouse-impl",
+         "datawarehouse_impl",
          "datax",
          "docker",
-         "docker-compose",
+         "docker_compose",
          "drill",
          "envelope",
-         "etl-awesome",
+         "etl_awesome",
          "f2etest",
          "flink",
          "flinkx",
-         "gis-awesome",
-         "gis-impl",
+         "gis_awesome",
+         "gis_impl",
          "git",
          "greenplum",
          "hadoop",
@@ -44,18 +44,18 @@
          "jsonnet",
          "keepalived",
          "kettle",
-         "knn-graph",
+         "knn_graph",
          "kubernetes",
          "kylin",
          "make",
          "mandrian",
          "maven",
-         "mpp-based",
+         "mpp_based",
          "mysql",
          "neo4j",
-         "ocr-awesome",
-         "ocr-impl",
-         "olap-impl",
+         "ocr_awesome",
+         "ocr_impl",
+         "olap_impl",
          "orientdb",
          "pentaho",
          "pinot",
@@ -64,31 +64,31 @@
          "presto",
          "redis",
          "redmine",
-         "security-awesome",
-         "security-cve",
+         "security_awesome",
+         "security_cve",
          "servicemix",
          "spark",
          "sparkgis",
          "springcloud",
-         "sql-support",
+         "sql_support",
          "sqlite",
          "ssh",
-         "swagger-angular",
+         "swagger_angular",
          "tesseract",
          "titan",
          "tmux",
          "tomcat",
          "vim",
-         "vim-plugin",
-         "vscode-plugin",
-         "websecurity-awesome",
+         "vim_plugin",
+         "vscode_plugin",
+         "websecurity_awesome",
          "webui",
          "zsh"
       ],
       "tags_not_in_category": [
          "ai",
          "apollo",
-         "deep-learning",
+         "deep_learning",
          "graph-ui",
          "json",
          "mazerunner",
@@ -115,7 +115,7 @@
                   "travis",
                   "asciidoc",
                   "docker",
-                  "docker-compose",
+                  "docker_compose",
                   "tesseract"
                ],
                "url": "https://github.com/tesseract-ocr/tesseract",
@@ -265,7 +265,7 @@
                "tags": [
                   "cpp",
                   "cmake",
-                  "cpp-tool",
+                  "cpp_tool",
                   "vim"
                ],
                "url": "https://github.com/MaskRay/ccls",
@@ -327,7 +327,7 @@
          ]
       },
       {
-         "name": "docker-compose",
+         "name": "docker_compose",
          "topics": [
             {
                "alias": "docker-pdi-ce",
@@ -338,7 +338,7 @@
                "shallow": false,
                "site": "https://github.com",
                "tags": [
-                  "docker-compose",
+                  "docker_compose",
                   "kettle"
                ],
                "url": "https://github.com/zhicwu/docker-pdi-ce",
@@ -368,7 +368,7 @@
                "shallow": false,
                "site": "https://github.com",
                "tags": [
-                  "docker-compose",
+                  "docker_compose",
                   "apollo"
                ],
                "url": "https://github.com/nobodyiam/apollo-build-scripts",
@@ -505,7 +505,7 @@
                "shallow": false,
                "site": "https://github.com",
                "tags": [
-                  "docker-compose",
+                  "docker_compose",
                   "pentaho"
                ],
                "url": "https://github.com/oggers/ansible.pentaho-biserver-ce",
@@ -650,7 +650,7 @@
                "shallow": false,
                "site": "https://github.com",
                "tags": [
-                  "docker-compose",
+                  "docker_compose",
                   "kettle"
                ],
                "url": "https://github.com/zhicwu/docker-pdi-ce",
@@ -665,7 +665,7 @@
                "shallow": false,
                "site": "https://github.com",
                "tags": [
-                  "docker-compose",
+                  "docker_compose",
                   "pentaho"
                ],
                "url": "https://github.com/oggers/ansible.pentaho-biserver-ce",
@@ -681,7 +681,7 @@
                "site": "https://github.com",
                "tags": [
                   "java",
-                  "docker-compose",
+                  "docker_compose",
                   "webui",
                   "kettle"
                ],
@@ -898,7 +898,7 @@
                "site": "https://github.com",
                "tags": [
                   "java",
-                  "docker-compose",
+                  "docker_compose",
                   "springcloud"
                ],
                "url": "https://github.com/hejack0207/SpringCloud",
@@ -1015,13 +1015,13 @@
          "impala",
          "flink",
          "spark",
-         "bigdata-awesome",
-         "bigdata-usecase",
-         "mpp-based"
+         "bigdata_awesome",
+         "bigdata_usecase",
+         "mpp_based"
       ],
       "bigdata_dw": [
          "greenplum",
-         "datawarehouse-impl",
+         "datawarehouse_impl",
          "drill",
          "pinot",
          "presto"
@@ -1036,8 +1036,8 @@
          "kylin",
          "clickhouse",
          "mandrian",
-         "olap-impl",
-         "sql-support"
+         "olap_impl",
+         "sql_support"
       ],
       "bigdata_rdb": [
          "sqlite",
@@ -1051,8 +1051,8 @@
          "maven"
       ],
       "business": [
-         "agriculture-knowledge-graph",
-         "knn-graph"
+         "agriculture_knowledge_graph",
+         "knn_graph"
       ],
       "data_generator": [
          "jsonnet"
@@ -1060,7 +1060,7 @@
       "deploy": [
          "ansible",
          "docker",
-         "docker-compose",
+         "docker_compose",
          "helm",
          "kubernetes"
       ],
@@ -1072,9 +1072,9 @@
       ],
       "editor": [
          "vim",
-         "vim-plugin",
-         "vscode-plugin",
-         "cpp-tool"
+         "vim_plugin",
+         "vscode_plugin",
+         "cpp_tool"
       ],
       "esb": [
          "camel",
@@ -1086,7 +1086,7 @@
          "envelope",
          "datax",
          "flinkx",
-         "etl-awesome"
+         "etl_awesome"
       ],
       "frontend": [
          "angular"
@@ -1094,8 +1094,8 @@
       "gis": [
          "impalagis",
          "sparkgis",
-         "gis-awesome",
-         "gis-impl"
+         "gis_awesome",
+         "gis_impl"
       ],
       "infra": [
          "tomcat",
@@ -1113,20 +1113,20 @@
       ],
       "ocr": [
          "tesseract",
-         "ocr-impl",
-         "ocr-awesome"
+         "ocr_impl",
+         "ocr_awesome"
       ],
       "scaffold": [
          "jhipster",
          "springcloud",
          "archetype",
-         "swagger-angular",
-         "code-generator"
+         "swagger_angular",
+         "code_generator"
       ],
       "security": [
-         "security-awesome",
-         "websecurity-awesome",
-         "security-cve"
+         "security_awesome",
+         "websecurity_awesome",
+         "security_cve"
       ],
       "terminal": [
          "zsh",
@@ -1144,7 +1144,7 @@
    },
    "tags": {
       "contents": {
-         "agriculture-knowledge-graph": [
+         "agriculture_knowledge_graph": [
             {
                "alias": "Agriculture_KnowledgeGraph",
                "forked": false,
@@ -1154,7 +1154,7 @@
                "shallow": false,
                "site": "https://github.com",
                "tags": [
-                  "agriculture-knowledge-graph"
+                  "agriculture_knowledge_graph"
                ],
                "url": "https://github.com/hejack0207/Agriculture_KnowledgeGraph",
                "user": "hejack0207"
@@ -1168,7 +1168,7 @@
                "shallow": false,
                "site": "https://github.com",
                "tags": [
-                  "agriculture-knowledge-graph"
+                  "agriculture_knowledge_graph"
                ],
                "url": "https://github.com/CrisJk/Agriculture-KnowledgeGraph-Data",
                "user": "CrisJk"
@@ -1219,7 +1219,7 @@
                "tags": [
                   "angular",
                   "swagger",
-                  "swagger-angular"
+                  "swagger_angular"
                ],
                "url": "https://github.com/zemacik/angular2-swagger-apiclient-generator",
                "user": "zemacik"
@@ -1235,7 +1235,7 @@
                "tags": [
                   "angular",
                   "swagger",
-                  "swagger-angular"
+                  "swagger_angular"
                ],
                "url": "https://github.com/cyclosproject/ng-swagger-gen",
                "user": "cyclosproject"
@@ -1358,7 +1358,7 @@
                "shallow": false,
                "site": "https://github.com",
                "tags": [
-                  "docker-compose",
+                  "docker_compose",
                   "apollo"
                ],
                "url": "https://github.com/nobodyiam/apollo-build-scripts",
@@ -1398,7 +1398,7 @@
                   "travis",
                   "asciidoc",
                   "docker",
-                  "docker-compose",
+                  "docker_compose",
                   "tesseract"
                ],
                "url": "https://github.com/tesseract-ocr/tesseract",
@@ -1503,7 +1503,7 @@
                "user": "socialsensor"
             }
          ],
-         "bigdata-awesome": [
+         "bigdata_awesome": [
             {
                "alias": "awesome-bigdata",
                "forked": false,
@@ -1513,13 +1513,13 @@
                "shallow": false,
                "site": "https://github.com",
                "tags": [
-                  "bigdata-awesome"
+                  "bigdata_awesome"
                ],
                "url": "https://github.com/onurakpolat/awesome-bigdata",
                "user": "onurakpolat"
             }
          ],
-         "bigdata-usecase": [
+         "bigdata_usecase": [
             {
                "alias": "Movie_Recommend",
                "forked": false,
@@ -1530,7 +1530,7 @@
                "site": "https://github.com",
                "tags": [
                   "spark",
-                  "bigdata-usecase"
+                  "bigdata_usecase"
                ],
                "url": "https://github.com/LuckyZXL2016/Movie_Recommend",
                "user": "LuckyZXL2016"
@@ -1808,7 +1808,7 @@
                   "travis",
                   "asciidoc",
                   "docker",
-                  "docker-compose",
+                  "docker_compose",
                   "tesseract"
                ],
                "url": "https://github.com/tesseract-ocr/tesseract",
@@ -1857,7 +1857,7 @@
                "tags": [
                   "cpp",
                   "cmake",
-                  "cpp-tool",
+                  "cpp_tool",
                   "vim"
                ],
                "url": "https://github.com/MaskRay/ccls",
@@ -1880,20 +1880,20 @@
                "user": "apache"
             }
          ],
-         "code-generator": [
+         "code_generator": [
             {
-               "alias": "plantuml-code-generator",
+               "alias": "plantuml-code_generator",
                "forked": false,
                "release": null,
-               "repos_name": "plantuml-code-generator",
+               "repos_name": "plantuml-code_generator",
                "score": 3,
                "shallow": false,
                "site": "https://github.com",
                "tags": [
                   "plantuml",
-                  "code-generator"
+                  "code_generator"
                ],
-               "url": "https://github.com/bafolts/plantuml-code-generator",
+               "url": "https://github.com/bafolts/plantuml-code_generator",
                "user": "bafolts"
             }
          ],
@@ -1912,7 +1912,7 @@
                   "travis",
                   "asciidoc",
                   "docker",
-                  "docker-compose",
+                  "docker_compose",
                   "tesseract"
                ],
                "url": "https://github.com/tesseract-ocr/tesseract",
@@ -1929,7 +1929,7 @@
                "tags": [
                   "cpp",
                   "cmake",
-                  "cpp-tool",
+                  "cpp_tool",
                   "vim"
                ],
                "url": "https://github.com/MaskRay/ccls",
@@ -1950,7 +1950,7 @@
                "user": "SequoiaDB"
             }
          ],
-         "cpp-tool": [
+         "cpp_tool": [
             {
                "alias": "ccls",
                "forked": false,
@@ -1962,7 +1962,7 @@
                "tags": [
                   "cpp",
                   "cmake",
-                  "cpp-tool",
+                  "cpp_tool",
                   "vim"
                ],
                "url": "https://github.com/MaskRay/ccls",
@@ -1986,7 +1986,7 @@
                "user": "opencypher"
             }
          ],
-         "datawarehouse-impl": [
+         "datawarehouse_impl": [
             {
                "alias": "incubator-doris",
                "forked": false,
@@ -1996,9 +1996,9 @@
                "shallow": false,
                "site": "https://github.com",
                "tags": [
-                  "mpp-based",
-                  "sql-support",
-                  "datawarehouse-impl"
+                  "mpp_based",
+                  "sql_support",
+                  "datawarehouse_impl"
                ],
                "url": "https://github.com/apache/incubator-doris",
                "user": "apache"
@@ -2034,20 +2034,20 @@
                "user": "zipingdong"
             }
          ],
-         "deep-learning": [
+         "deep_learning": [
             {
-               "alias": "spark-deep-learning",
+               "alias": "spark-deep_learning",
                "forked": false,
                "release": null,
-               "repos_name": "spark-deep-learning",
+               "repos_name": "spark-deep_learning",
                "score": 3,
                "shallow": false,
                "site": "https://github.com",
                "tags": [
                   "spark",
-                  "deep-learning"
+                  "deep_learning"
                ],
-               "url": "https://github.com/databricks/spark-deep-learning",
+               "url": "https://github.com/databricks/spark-deep_learning",
                "user": "databricks"
             }
          ],
@@ -2066,7 +2066,7 @@
                   "travis",
                   "asciidoc",
                   "docker",
-                  "docker-compose",
+                  "docker_compose",
                   "tesseract"
                ],
                "url": "https://github.com/tesseract-ocr/tesseract",
@@ -2238,7 +2238,7 @@
                "user": "zhicwu"
             }
          ],
-         "docker-compose": [
+         "docker_compose": [
             {
                "alias": "tesseract",
                "forked": false,
@@ -2253,7 +2253,7 @@
                   "travis",
                   "asciidoc",
                   "docker",
-                  "docker-compose",
+                  "docker_compose",
                   "tesseract"
                ],
                "url": "https://github.com/tesseract-ocr/tesseract",
@@ -2268,7 +2268,7 @@
                "shallow": false,
                "site": "https://github.com",
                "tags": [
-                  "docker-compose",
+                  "docker_compose",
                   "kettle"
                ],
                "url": "https://github.com/zhicwu/docker-pdi-ce",
@@ -2283,7 +2283,7 @@
                "shallow": false,
                "site": "https://github.com",
                "tags": [
-                  "docker-compose",
+                  "docker_compose",
                   "pentaho"
                ],
                "url": "https://github.com/oggers/ansible.pentaho-biserver-ce",
@@ -2299,7 +2299,7 @@
                "site": "https://github.com",
                "tags": [
                   "java",
-                  "docker-compose",
+                  "docker_compose",
                   "webui",
                   "kettle"
                ],
@@ -2316,7 +2316,7 @@
                "site": "https://github.com",
                "tags": [
                   "java",
-                  "docker-compose",
+                  "docker_compose",
                   "springcloud"
                ],
                "url": "https://github.com/hejack0207/SpringCloud",
@@ -2331,7 +2331,7 @@
                "shallow": false,
                "site": "https://github.com",
                "tags": [
-                  "docker-compose",
+                  "docker_compose",
                   "apollo"
                ],
                "url": "https://github.com/nobodyiam/apollo-build-scripts",
@@ -2348,8 +2348,8 @@
                "shallow": false,
                "site": "https://github.com",
                "tags": [
-                  "mpp-based",
-                  "sql-support",
+                  "mpp_based",
+                  "sql_support",
                   "hadoop",
                   "drill"
                ],
@@ -2390,7 +2390,7 @@
                "user": "cloudera-labs"
             }
          ],
-         "etl-awesome": [
+         "etl_awesome": [
             {
                "alias": "awesome-pipline",
                "forked": false,
@@ -2400,7 +2400,7 @@
                "shallow": false,
                "site": "https://github.com",
                "tags": [
-                  "etl-awesome"
+                  "etl_awesome"
                ],
                "url": "https://github.com/pditommaso/awesome-pipline",
                "user": "pditommaso"
@@ -2414,7 +2414,7 @@
                "shallow": false,
                "site": "https://github.com",
                "tags": [
-                  "etl-awesome"
+                  "etl_awesome"
                ],
                "url": "https://github.com/pawl/awesome-etl",
                "user": "pawl"
@@ -2512,7 +2512,7 @@
                "user": "DTStack"
             }
          ],
-         "gis-awesome": [
+         "gis_awesome": [
             {
                "alias": "awesome-gis",
                "forked": false,
@@ -2522,13 +2522,13 @@
                "shallow": false,
                "site": "https://github.com",
                "tags": [
-                  "gis-awesome"
+                  "gis_awesome"
                ],
                "url": "https://github.com/sshuair/awesome-gis",
                "user": "sshuair"
             }
          ],
-         "gis-impl": [
+         "gis_impl": [
             {
                "alias": "QGIS",
                "forked": false,
@@ -2538,7 +2538,7 @@
                "shallow": false,
                "site": "https://github.com",
                "tags": [
-                  "gis-impl"
+                  "gis_impl"
                ],
                "url": "https://github.com/qgis/QGIS",
                "user": "qgis"
@@ -2697,8 +2697,8 @@
                "shallow": false,
                "site": "https://github.com",
                "tags": [
-                  "mpp-based",
-                  "sql-support",
+                  "mpp_based",
+                  "sql_support",
                   "hadoop",
                   "drill"
                ],
@@ -2862,7 +2862,7 @@
                "site": "https://github.com",
                "tags": [
                   "java",
-                  "docker-compose",
+                  "docker_compose",
                   "webui",
                   "kettle"
                ],
@@ -2879,7 +2879,7 @@
                "site": "https://github.com",
                "tags": [
                   "java",
-                  "docker-compose",
+                  "docker_compose",
                   "springcloud"
                ],
                "url": "https://github.com/hejack0207/SpringCloud",
@@ -3039,7 +3039,7 @@
                "shallow": false,
                "site": "https://github.com",
                "tags": [
-                  "docker-compose",
+                  "docker_compose",
                   "kettle"
                ],
                "url": "https://github.com/zhicwu/docker-pdi-ce",
@@ -3086,7 +3086,7 @@
                "site": "https://github.com",
                "tags": [
                   "java",
-                  "docker-compose",
+                  "docker_compose",
                   "webui",
                   "kettle"
                ],
@@ -3108,20 +3108,20 @@
                "user": "zhicwu"
             }
          ],
-         "knn-graph": [
+         "knn_graph": [
             {
-               "alias": "spark-knn-graphs",
+               "alias": "spark-knn_graphs",
                "forked": false,
                "release": null,
-               "repos_name": "spark-knn-graphs",
+               "repos_name": "spark-knn_graphs",
                "score": 3,
                "shallow": false,
                "site": "https://github.com",
                "tags": [
                   "spark",
-                  "knn-graph"
+                  "knn_graph"
                ],
-               "url": "https://github.com/tdebatty/spark-knn-graphs",
+               "url": "https://github.com/tdebatty/spark-knn_graphs",
                "user": "tdebatty"
             }
          ],
@@ -3378,7 +3378,7 @@
                "user": "neo4j-contrib"
             }
          ],
-         "mpp-based": [
+         "mpp_based": [
             {
                "alias": "incubator-doris",
                "forked": false,
@@ -3388,9 +3388,9 @@
                "shallow": false,
                "site": "https://github.com",
                "tags": [
-                  "mpp-based",
-                  "sql-support",
-                  "datawarehouse-impl"
+                  "mpp_based",
+                  "sql_support",
+                  "datawarehouse_impl"
                ],
                "url": "https://github.com/apache/incubator-doris",
                "user": "apache"
@@ -3404,8 +3404,8 @@
                "shallow": false,
                "site": "https://github.com",
                "tags": [
-                  "mpp-based",
-                  "sql-support",
+                  "mpp_based",
+                  "sql_support",
                   "hadoop",
                   "drill"
                ],
@@ -3479,7 +3479,7 @@
                "user": "neo4j-contrib"
             }
          ],
-         "ocr-awesome": [
+         "ocr_awesome": [
             {
                "alias": "awesome-ocr",
                "forked": false,
@@ -3489,13 +3489,13 @@
                "shallow": false,
                "site": "https://github.com",
                "tags": [
-                  "ocr-awesome"
+                  "ocr_awesome"
                ],
                "url": "https://github.com/kba/awesome-ocr",
                "user": "kba"
             }
          ],
-         "ocr-impl": [
+         "ocr_impl": [
             {
                "alias": "EasyOCR",
                "forked": false,
@@ -3505,7 +3505,7 @@
                "shallow": false,
                "site": "https://github.com",
                "tags": [
-                  "ocr-impl"
+                  "ocr_impl"
                ],
                "url": "https://github.com/ushelp/EasyOCR",
                "user": "ushelp"
@@ -3519,7 +3519,7 @@
                "shallow": false,
                "site": "https://github.com",
                "tags": [
-                  "ocr-impl"
+                  "ocr_impl"
                ],
                "url": "https://github.com/zoso10/OCR",
                "user": "zoso10"
@@ -3533,7 +3533,7 @@
                "shallow": false,
                "site": "https://github.com",
                "tags": [
-                  "ocr-impl"
+                  "ocr_impl"
                ],
                "url": "https://github.com/Zarkonnen/Longan",
                "user": "Zarkonnen"
@@ -3547,13 +3547,13 @@
                "shallow": false,
                "site": "https://github.com",
                "tags": [
-                  "ocr-impl"
+                  "ocr_impl"
                ],
                "url": "https://github.com/RubbaBoy/NewOCR",
                "user": "RubbaBoy"
             }
          ],
-         "olap-impl": [
+         "olap_impl": [
             {
                "alias": "incubator-pinot",
                "forked": false,
@@ -3563,7 +3563,7 @@
                "shallow": false,
                "site": "https://github.com",
                "tags": [
-                  "olap-impl",
+                  "olap_impl",
                   "pinot"
                ],
                "url": "https://github.com/apache/incubator-pinot",
@@ -3596,7 +3596,7 @@
                "shallow": false,
                "site": "https://github.com",
                "tags": [
-                  "docker-compose",
+                  "docker_compose",
                   "pentaho"
                ],
                "url": "https://github.com/oggers/ansible.pentaho-biserver-ce",
@@ -3613,7 +3613,7 @@
                "shallow": false,
                "site": "https://github.com",
                "tags": [
-                  "olap-impl",
+                  "olap_impl",
                   "pinot"
                ],
                "url": "https://github.com/apache/incubator-pinot",
@@ -3651,18 +3651,18 @@
                "user": "meteorbites"
             },
             {
-               "alias": "plantuml-code-generator",
+               "alias": "plantuml-code_generator",
                "forked": false,
                "release": null,
-               "repos_name": "plantuml-code-generator",
+               "repos_name": "plantuml-code_generator",
                "score": 3,
                "shallow": false,
                "site": "https://github.com",
                "tags": [
                   "plantuml",
-                  "code-generator"
+                  "code_generator"
                ],
-               "url": "https://github.com/bafolts/plantuml-code-generator",
+               "url": "https://github.com/bafolts/plantuml-code_generator",
                "user": "bafolts"
             },
             {
@@ -3690,7 +3690,7 @@
                "site": "https://github.com",
                "tags": [
                   "plantuml",
-                  "vim-plugin"
+                  "vim_plugin"
                ],
                "url": "https://github.com/aklt/plantuml-syntax",
                "user": "aklt"
@@ -3720,7 +3720,7 @@
                "site": "https://github.com",
                "tags": [
                   "plantuml",
-                  "vscode-plugin"
+                  "vscode_plugin"
                ],
                "url": "https://github.com/qjebbs/vscode-plantuml",
                "user": "qjebbs"
@@ -3843,7 +3843,7 @@
                "user": "spark-jobserver"
             }
          ],
-         "security-awesome": [
+         "security_awesome": [
             {
                "alias": "csirt",
                "forked": false,
@@ -3853,13 +3853,13 @@
                "shallow": false,
                "site": "https://github.com",
                "tags": [
-                  "security-awesome"
+                  "security_awesome"
                ],
                "url": "https://github.com/Spacial/csirt",
                "user": "Spacial"
             }
          ],
-         "security-cve": [
+         "security_cve": [
             {
                "alias": "awesome-cve-poc",
                "forked": false,
@@ -3869,7 +3869,7 @@
                "shallow": false,
                "site": "https://github.com",
                "tags": [
-                  "security-cve"
+                  "security_cve"
                ],
                "url": "https://github.com/qazbnm456/awesome-cve-poc",
                "user": "qazbnm456"
@@ -3925,18 +3925,18 @@
                "user": "cloudera-labs"
             },
             {
-               "alias": "spark-knn-graphs",
+               "alias": "spark-knn_graphs",
                "forked": false,
                "release": null,
-               "repos_name": "spark-knn-graphs",
+               "repos_name": "spark-knn_graphs",
                "score": 3,
                "shallow": false,
                "site": "https://github.com",
                "tags": [
                   "spark",
-                  "knn-graph"
+                  "knn_graph"
                ],
-               "url": "https://github.com/tdebatty/spark-knn-graphs",
+               "url": "https://github.com/tdebatty/spark-knn_graphs",
                "user": "tdebatty"
             },
             {
@@ -4040,24 +4040,24 @@
                "site": "https://github.com",
                "tags": [
                   "spark",
-                  "bigdata-usecase"
+                  "bigdata_usecase"
                ],
                "url": "https://github.com/LuckyZXL2016/Movie_Recommend",
                "user": "LuckyZXL2016"
             },
             {
-               "alias": "spark-deep-learning",
+               "alias": "spark-deep_learning",
                "forked": false,
                "release": null,
-               "repos_name": "spark-deep-learning",
+               "repos_name": "spark-deep_learning",
                "score": 3,
                "shallow": false,
                "site": "https://github.com",
                "tags": [
                   "spark",
-                  "deep-learning"
+                  "deep_learning"
                ],
-               "url": "https://github.com/databricks/spark-deep-learning",
+               "url": "https://github.com/databricks/spark-deep_learning",
                "user": "databricks"
             },
             {
@@ -4103,14 +4103,14 @@
                "site": "https://github.com",
                "tags": [
                   "java",
-                  "docker-compose",
+                  "docker_compose",
                   "springcloud"
                ],
                "url": "https://github.com/hejack0207/SpringCloud",
                "user": "zhoutaoo"
             }
          ],
-         "sql-support": [
+         "sql_support": [
             {
                "alias": "incubator-doris",
                "forked": false,
@@ -4120,9 +4120,9 @@
                "shallow": false,
                "site": "https://github.com",
                "tags": [
-                  "mpp-based",
-                  "sql-support",
-                  "datawarehouse-impl"
+                  "mpp_based",
+                  "sql_support",
+                  "datawarehouse_impl"
                ],
                "url": "https://github.com/apache/incubator-doris",
                "user": "apache"
@@ -4136,8 +4136,8 @@
                "shallow": false,
                "site": "https://github.com",
                "tags": [
-                  "mpp-based",
-                  "sql-support",
+                  "mpp_based",
+                  "sql_support",
                   "hadoop",
                   "drill"
                ],
@@ -4193,7 +4193,7 @@
                "tags": [
                   "angular",
                   "swagger",
-                  "swagger-angular"
+                  "swagger_angular"
                ],
                "url": "https://github.com/zemacik/angular2-swagger-apiclient-generator",
                "user": "zemacik"
@@ -4209,13 +4209,13 @@
                "tags": [
                   "angular",
                   "swagger",
-                  "swagger-angular"
+                  "swagger_angular"
                ],
                "url": "https://github.com/cyclosproject/ng-swagger-gen",
                "user": "cyclosproject"
             }
          ],
-         "swagger-angular": [
+         "swagger_angular": [
             {
                "alias": "angular2-swagger-apiclient-generator",
                "forked": false,
@@ -4227,7 +4227,7 @@
                "tags": [
                   "angular",
                   "swagger",
-                  "swagger-angular"
+                  "swagger_angular"
                ],
                "url": "https://github.com/zemacik/angular2-swagger-apiclient-generator",
                "user": "zemacik"
@@ -4243,7 +4243,7 @@
                "tags": [
                   "angular",
                   "swagger",
-                  "swagger-angular"
+                  "swagger_angular"
                ],
                "url": "https://github.com/cyclosproject/ng-swagger-gen",
                "user": "cyclosproject"
@@ -4264,7 +4264,7 @@
                   "travis",
                   "asciidoc",
                   "docker",
-                  "docker-compose",
+                  "docker_compose",
                   "tesseract"
                ],
                "url": "https://github.com/tesseract-ocr/tesseract",
@@ -4368,7 +4368,7 @@
                   "travis",
                   "asciidoc",
                   "docker",
-                  "docker-compose",
+                  "docker_compose",
                   "tesseract"
                ],
                "url": "https://github.com/tesseract-ocr/tesseract",
@@ -4387,7 +4387,7 @@
                "tags": [
                   "cpp",
                   "cmake",
-                  "cpp-tool",
+                  "cpp_tool",
                   "vim"
                ],
                "url": "https://github.com/MaskRay/ccls",
@@ -4410,7 +4410,7 @@
                "user": "vim"
             }
          ],
-         "vim-plugin": [
+         "vim_plugin": [
             {
                "alias": "plantuml-syntax",
                "forked": false,
@@ -4421,13 +4421,13 @@
                "site": "https://github.com",
                "tags": [
                   "plantuml",
-                  "vim-plugin"
+                  "vim_plugin"
                ],
                "url": "https://github.com/aklt/plantuml-syntax",
                "user": "aklt"
             }
          ],
-         "vscode-plugin": [
+         "vscode_plugin": [
             {
                "alias": "vscode-plantuml",
                "forked": false,
@@ -4438,13 +4438,13 @@
                "site": "https://github.com",
                "tags": [
                   "plantuml",
-                  "vscode-plugin"
+                  "vscode_plugin"
                ],
                "url": "https://github.com/qjebbs/vscode-plantuml",
                "user": "qjebbs"
             }
          ],
-         "websecurity-awesome": [
+         "websecurity_awesome": [
             {
                "alias": "awesome-web-security",
                "forked": false,
@@ -4454,7 +4454,7 @@
                "shallow": false,
                "site": "https://github.com",
                "tags": [
-                  "websecurity-awesome"
+                  "websecurity_awesome"
                ],
                "url": "https://github.com/qazbnm456/awesome-web-security",
                "user": "qazbnm456"
@@ -4487,7 +4487,7 @@
                "site": "https://github.com",
                "tags": [
                   "java",
-                  "docker-compose",
+                  "docker_compose",
                   "webui",
                   "kettle"
                ],
