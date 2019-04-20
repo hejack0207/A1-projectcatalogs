@@ -1017,7 +1017,7 @@
       [
   [ocr-impl](#ocr-impl)
       ]
-  + Longan <https://github.com/Zarknonnen/Longan> 
+  + Longan <https://github.com/Zarkonnen/Longan> 
 
       [
   [ocr-impl](#ocr-impl)

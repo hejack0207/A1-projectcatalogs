@@ -674,7 +674,7 @@ local tpl=import 'tpl.jsn';
             tags: ["ocr-impl"],
         },
         tpl.ghrepos + {
-            user: "Zarknonnen",
+            user: "Zarkonnen",
             repos_name: "Longan",
             tags: ["ocr-impl"],
         },

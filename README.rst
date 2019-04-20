@@ -364,7 +364,7 @@ Tags
 
   + EasyOCR https://github.com/ushelp/EasyOCR
   + OCR https://github.com/zoso10/OCR
-  + Longan https://github.com/Zarknonnen/Longan
+  + Longan https://github.com/Zarkonnen/Longan
   + NewOCR https://github.com/RubbaBoy/NewOCR
 
 * orientdb
