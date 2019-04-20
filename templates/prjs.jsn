@@ -208,6 +208,15 @@ local tpl=import 'tpl.jsn';
         documentation: [
             "asciidoc"
         ],
+        rdb: [
+            "sqlite","mysql","postgres"
+        ],
+        datawarehouse: [
+            "greenplum"
+        ],
+        bigdata: [
+            "hadoop"
+        ],
     },
     tags: {
         names:: std.foldl((function (r,i) std.setUnion(r,i)),[ r.tags for r in $.repos_ ],[]),

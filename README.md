@@ -1,9 +1,15 @@
 # category
+## bigdata
+
+  [hadoop](#hadoop)
 ## build
 
   [autotools](#autotools)
   [cmake](#cmake)
   [make](#make)
+## datawarehouse
+
+  [greenplum](#greenplum)
 ## deploy
 
   [ansible](#ansible)
@@ -27,6 +33,11 @@
 ## olap
 
   [kylin](#kylin)
+## rdb
+
+  [sqlite](#sqlite)
+  [mysql](#mysql)
+  [postgres](#postgres)
 
 # project tags
   [ai](#ai)

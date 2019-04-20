@@ -914,10 +914,16 @@
       }
    ],
    "tag_categories": {
+      "bigdata": [
+         "hadoop"
+      ],
       "build": [
          "autotools",
          "cmake",
          "make"
+      ],
+      "datawarehouse": [
+         "greenplum"
       ],
       "deploy": [
          "ansible",
@@ -941,6 +947,11 @@
       ],
       "olap": [
          "kylin"
+      ],
+      "rdb": [
+         "sqlite",
+         "mysql",
+         "postgres"
       ]
    },
    "tags": {
