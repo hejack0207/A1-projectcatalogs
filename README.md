@@ -8,6 +8,25 @@
   [spark](#spark)
   [bigdata-awesome](#bigdata-awesome)
   [bigdata-usecase](#bigdata-usecase)
+## bigdata_dw
+
+  [greenplum](#greenplum)
+  [datawarehouse-impl](#datawarehouse-impl)
+  [drill](#drill)
+  [pinot](#pinot)
+  [presto](#presto)
+## bigdata_olap
+
+  [kylin](#kylin)
+  [clickhouse](#clickhouse)
+  [mandrian](#mandrian)
+  [olap-impl](#olap-impl)
+  [sql-support](#sql-support)
+## bigdata_rdb
+
+  [sqlite](#sqlite)
+  [mysql](#mysql)
+  [postgres](#postgres)
 ## build
 
   [autotools](#autotools)
@@ -21,13 +40,6 @@
 ## data_generator
 
   [jsonnet](#jsonnet)
-## datawarehouse
-
-  [greenplum](#greenplum)
-  [datawarehouse-impl](#datawarehouse-impl)
-  [drill](#drill)
-  [pinot](#pinot)
-  [presto](#presto)
 ## deploy
 
   [ansible](#ansible)
@@ -96,18 +108,6 @@
   [tesseract](#tesseract)
   [ocr-impl](#ocr-impl)
   [ocr-awesome](#ocr-awesome)
-## olap
-
-  [kylin](#kylin)
-  [clickhouse](#clickhouse)
-  [mandrian](#mandrian)
-  [olap-impl](#olap-impl)
-  [sql-support](#sql-support)
-## rdb
-
-  [sqlite](#sqlite)
-  [mysql](#mysql)
-  [postgres](#postgres)
 ## scaffold
 
   [jhipster](#jhipster)

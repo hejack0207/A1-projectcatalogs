@@ -1018,6 +1018,25 @@
          "bigdata-awesome",
          "bigdata-usecase"
       ],
+      "bigdata_dw": [
+         "greenplum",
+         "datawarehouse-impl",
+         "drill",
+         "pinot",
+         "presto"
+      ],
+      "bigdata_olap": [
+         "kylin",
+         "clickhouse",
+         "mandrian",
+         "olap-impl",
+         "sql-support"
+      ],
+      "bigdata_rdb": [
+         "sqlite",
+         "mysql",
+         "postgres"
+      ],
       "build": [
          "autotools",
          "cmake",
@@ -1030,13 +1049,6 @@
       ],
       "data_generator": [
          "jsonnet"
-      ],
-      "datawarehouse": [
-         "greenplum",
-         "datawarehouse-impl",
-         "drill",
-         "pinot",
-         "presto"
       ],
       "deploy": [
          "ansible",
@@ -1105,18 +1117,6 @@
          "tesseract",
          "ocr-impl",
          "ocr-awesome"
-      ],
-      "olap": [
-         "kylin",
-         "clickhouse",
-         "mandrian",
-         "olap-impl",
-         "sql-support"
-      ],
-      "rdb": [
-         "sqlite",
-         "mysql",
-         "postgres"
       ],
       "scaffold": [
          "jhipster",
