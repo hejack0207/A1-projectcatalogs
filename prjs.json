@@ -1016,7 +1016,8 @@
          "flink",
          "spark",
          "bigdata-awesome",
-         "bigdata-usecase"
+         "bigdata-usecase",
+         "mpp-based"
       ],
       "bigdata_dw": [
          "greenplum",
@@ -1109,9 +1110,6 @@
       ],
       "management": [
          "redmine"
-      ],
-      "mpp": [
-         "mpp-based"
       ],
       "ocr": [
          "tesseract",

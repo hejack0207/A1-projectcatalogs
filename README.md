@@ -8,6 +8,7 @@
   [spark](#spark)
   [bigdata-awesome](#bigdata-awesome)
   [bigdata-usecase](#bigdata-usecase)
+  [mpp-based](#mpp-based)
 ## bigdata_dw
 
   [greenplum](#greenplum)
@@ -100,9 +101,6 @@
 ## management
 
   [redmine](#redmine)
-## mpp
-
-  [mpp-based](#mpp-based)
 ## ocr
 
   [tesseract](#tesseract)

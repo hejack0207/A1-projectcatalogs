@@ -187,7 +187,7 @@ local tpl=import 'tpl.jsn';
         },
     ],
     tag_categories: {
-        bigdata: [ "hadoop","cdh","impala","flink","spark","bigdata-awesome","bigdata-usecase" ],
+        bigdata: [ "hadoop","cdh","impala","flink","spark","bigdata-awesome","bigdata-usecase","mpp-based" ],
         bigdata_dw: [ "greenplum","datawarehouse-impl","drill","pinot","presto" ],
         bigdata_graphdb: [ "neo4j","orientdb","titan","cypher" ],
         bigdata_olap: [ "kylin","clickhouse","mandrian","olap-impl","sql-support" ],
@@ -206,7 +206,6 @@ local tpl=import 'tpl.jsn';
         infra: [ "tomcat","redis","keepalived" ],
         languages: [ "c","java","cpp","javascript" ],
         management: ["redmine"],
-        mpp: [ "mpp-based" ],
         ocr: [ "tesseract","ocr-impl","ocr-awesome" ],
         scaffold: [ "jhipster","springcloud","archetype","swagger-angular","code-generator" ],
         security: [ "security-awesome","websecurity-awesome","security-cve" ],
