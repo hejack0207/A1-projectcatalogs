@@ -22,10 +22,18 @@
 ## documentation
 
   [asciidoc](#asciidoc)
+## editor
+
+  [vim](#vim)
+  [cpp-tool](#cpp-tool)
 ## etl
 
   [kettle](#kettle)
   [pentaho](#pentaho)
+## infra
+
+  [tomcat](#tomcat)
+  [redis](#redis)
 ## languages
 
   [c](#c)
@@ -47,17 +55,13 @@
 ## not in category
   [ai](#ai)
   [apollo](#apollo)
-  [cpp-tool](#cpp-tool)
   [git](#git)
   [jhipster](#jhipster)
-  [redis](#redis)
   [springcloud](#springcloud)
   [ssh](#ssh)
   [testing](#testing)
   [tmux](#tmux)
-  [tomcat](#tomcat)
   [travis](#travis)
-  [vim](#vim)
   [webui](#webui)
   [zsh](#zsh)
 

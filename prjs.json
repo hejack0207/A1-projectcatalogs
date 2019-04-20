@@ -9,6 +9,7 @@
          "cdh",
          "cmake",
          "cpp",
+         "cpp-tool",
          "docker",
          "docker-compose",
          "greenplum",
@@ -24,23 +25,22 @@
          "mysql",
          "pentaho",
          "postgres",
+         "redis",
          "sqlite",
-         "tesseract"
+         "tesseract",
+         "tomcat",
+         "vim"
       ],
       "tags_not_in_category": [
          "ai",
          "apollo",
-         "cpp-tool",
          "git",
          "jhipster",
-         "redis",
          "springcloud",
          "ssh",
          "testing",
          "tmux",
-         "tomcat",
          "travis",
-         "vim",
          "webui",
          "zsh"
       ]
@@ -979,9 +979,17 @@
       "documentation": [
          "asciidoc"
       ],
+      "editor": [
+         "vim",
+         "cpp-tool"
+      ],
       "etl": [
          "kettle",
          "pentaho"
+      ],
+      "infra": [
+         "tomcat",
+         "redis"
       ],
       "languages": [
          "c",

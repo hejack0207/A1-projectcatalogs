@@ -217,6 +217,12 @@ local tpl=import 'tpl.jsn';
         bigdata: [
             "hadoop","cdh","impala"
         ],
+        infra: [
+            "tomcat","redis"
+        ],
+        editor: [
+            "vim","cpp-tool"
+        ],
     },
     check: {
         tags_also_category: std.setInter(std.set(std.objectFields($.tag_categories)),
