@@ -7,10 +7,12 @@
       {% endfor %}
 {% endfor %}
 
+{#
 # project tags
 {% for k,v in tags.contents | dictsort %}
   [{{k}}](#{{k}})
 {% endfor %}
+#}
 
 # repos
 {% for k,v in tags.contents | dictsort %}
