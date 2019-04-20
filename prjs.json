@@ -8,6 +8,7 @@
          "archetype",
          "asciidoc",
          "autotools",
+         "benchmark",
          "c",
          "camel",
          "cdh",
@@ -15,6 +16,7 @@
          "cmake",
          "cpp",
          "cpp-tool",
+         "cypher",
          "datax",
          "docker",
          "docker-compose",
@@ -41,6 +43,7 @@
          "maven",
          "mysql",
          "neo4j",
+         "ocr-impl",
          "orientdb",
          "pentaho",
          "plantuml",
@@ -48,9 +51,11 @@
          "redis",
          "servicemix",
          "spark",
+         "sparkgis",
          "springcloud",
          "sqlite",
          "ssh",
+         "swagger-angular",
          "tesseract",
          "titan",
          "tmux",
@@ -64,6 +69,7 @@
          "graph-ui",
          "mazerunner",
          "restful",
+         "swagger",
          "travis",
          "webui"
       ]
@@ -1035,12 +1041,14 @@
          "angular"
       ],
       "gis": [
-         "impalagis"
+         "impalagis",
+         "sparkgis"
       ],
       "graph_db": [
          "neo4j",
          "orientdb",
-         "titan"
+         "titan",
+         "cypher"
       ],
       "infra": [
          "tomcat",
@@ -1053,7 +1061,8 @@
          "javascript"
       ],
       "ocr": [
-         "tesseract"
+         "tesseract",
+         "ocr-impl"
       ],
       "olap": [
          "kylin",
@@ -1068,7 +1077,8 @@
       "scaffold": [
          "jhipster",
          "springcloud",
-         "archetype"
+         "archetype",
+         "swagger-angular"
       ],
       "terminal": [
          "zsh",
@@ -1077,7 +1087,8 @@
          "git"
       ],
       "testing": [
-         "f2etest"
+         "f2etest",
+         "benchmark"
       ]
    },
    "tags": {
@@ -1145,6 +1156,38 @@
                ],
                "url": "https://github.com/swimlane/ngx-graph",
                "user": "swimlane"
+            },
+            {
+               "alias": "angular2-swagger-apiclient-generator",
+               "forked": false,
+               "release": null,
+               "repos_name": "angular2-swagger-apiclient-generator",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "angular",
+                  "swagger",
+                  "swagger-angular"
+               ],
+               "url": "https://github.com/zemacik/angular2-swagger-apiclient-generator",
+               "user": "zemacik"
+            },
+            {
+               "alias": "ng-swagger-gen",
+               "forked": false,
+               "release": null,
+               "repos_name": "ng-swagger-gen",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "angular",
+                  "swagger",
+                  "swagger-angular"
+               ],
+               "url": "https://github.com/cyclosproject/ng-swagger-gen",
+               "user": "cyclosproject"
             }
          ],
          "ansible": [
@@ -1376,6 +1419,22 @@
                ],
                "url": "https://github.com/postgres/postgres",
                "user": "postgres"
+            }
+         ],
+         "benchmark": [
+            {
+               "alias": "graphdb-benchmarks",
+               "forked": false,
+               "release": null,
+               "repos_name": "graphdb-benchmarks",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "benchmark"
+               ],
+               "url": "https://github.com/socialsensor/graphdb-benchmarks",
+               "user": "socialsensor"
             }
          ],
          "c": [
@@ -1778,6 +1837,23 @@
                ],
                "url": "https://github.com/MaskRay/ccls",
                "user": "MaskRay"
+            }
+         ],
+         "cypher": [
+            {
+               "alias": "cypher-for-apache-spark",
+               "forked": false,
+               "release": null,
+               "repos_name": "cypher-for-apache-spark",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "spark",
+                  "cypher"
+               ],
+               "url": "https://github.com/opencypher/cypher-for-apache-spark",
+               "user": "opencypher"
             }
          ],
          "datax": [
@@ -2520,6 +2596,21 @@
                "user": "jhipster"
             },
             {
+               "alias": "jhipster-uml",
+               "forked": false,
+               "release": null,
+               "repos_name": "jhipster-uml",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "javascript",
+                  "jhipster"
+               ],
+               "url": "https://github.com/jhipster/jhipster-uml",
+               "user": "jhipster"
+            },
+            {
                "alias": "lb-2-jhipster",
                "forked": true,
                "release": null,
@@ -2549,6 +2640,21 @@
                   "jhipster"
                ],
                "url": "https://github.com/hejack0207/generator-jhipster",
+               "user": "jhipster"
+            },
+            {
+               "alias": "jhipster-uml",
+               "forked": false,
+               "release": null,
+               "repos_name": "jhipster-uml",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "javascript",
+                  "jhipster"
+               ],
+               "url": "https://github.com/jhipster/jhipster-uml",
                "user": "jhipster"
             },
             {
@@ -2984,6 +3090,64 @@
                "user": "neo4j-contrib"
             }
          ],
+         "ocr-impl": [
+            {
+               "alias": "EasyOCR",
+               "forked": false,
+               "release": null,
+               "repos_name": "EasyOCR",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "ocr-impl"
+               ],
+               "url": "https://github.com/ushelp/EasyOCR",
+               "user": "ushelp"
+            },
+            {
+               "alias": "OCR",
+               "forked": false,
+               "release": null,
+               "repos_name": "OCR",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "ocr-impl"
+               ],
+               "url": "https://github.com/zoso10/OCR",
+               "user": "zoso10"
+            },
+            {
+               "alias": "Longan",
+               "forked": false,
+               "release": null,
+               "repos_name": "Longan",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "ocr-impl"
+               ],
+               "url": "https://github.com/Zarknonnen/Longan",
+               "user": "Zarknonnen"
+            },
+            {
+               "alias": "NewOCR",
+               "forked": false,
+               "release": null,
+               "repos_name": "NewOCR",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "ocr-impl"
+               ],
+               "url": "https://github.com/RubbaBoy/NewOCR",
+               "user": "RubbaBoy"
+            }
+         ],
          "orientdb": [
             {
                "alias": "orientdb",
@@ -3181,6 +3345,21 @@
                "user": "tdebatty"
             },
             {
+               "alias": "cypher-for-apache-spark",
+               "forked": false,
+               "release": null,
+               "repos_name": "cypher-for-apache-spark",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "spark",
+                  "cypher"
+               ],
+               "url": "https://github.com/opencypher/cypher-for-apache-spark",
+               "user": "opencypher"
+            },
+            {
                "alias": "mizo",
                "forked": false,
                "release": null,
@@ -3240,6 +3419,38 @@
                ],
                "url": "https://github.com/spark-jobserver/spark-jobserver",
                "user": "spark-jobserver"
+            },
+            {
+               "alias": "SparkGIS",
+               "forked": false,
+               "release": null,
+               "repos_name": "SparkGIS",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "spark",
+                  "sparkgis"
+               ],
+               "url": "https://github.com/drubbo/SparkGIS",
+               "user": "drubbo"
+            }
+         ],
+         "sparkgis": [
+            {
+               "alias": "SparkGIS",
+               "forked": false,
+               "release": null,
+               "repos_name": "SparkGIS",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "spark",
+                  "sparkgis"
+               ],
+               "url": "https://github.com/drubbo/SparkGIS",
+               "user": "drubbo"
             }
          ],
          "springcloud": [
@@ -3294,6 +3505,74 @@
                ],
                "url": "https://github.com/antonyantony/openssh",
                "user": "antonyantony"
+            }
+         ],
+         "swagger": [
+            {
+               "alias": "angular2-swagger-apiclient-generator",
+               "forked": false,
+               "release": null,
+               "repos_name": "angular2-swagger-apiclient-generator",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "angular",
+                  "swagger",
+                  "swagger-angular"
+               ],
+               "url": "https://github.com/zemacik/angular2-swagger-apiclient-generator",
+               "user": "zemacik"
+            },
+            {
+               "alias": "ng-swagger-gen",
+               "forked": false,
+               "release": null,
+               "repos_name": "ng-swagger-gen",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "angular",
+                  "swagger",
+                  "swagger-angular"
+               ],
+               "url": "https://github.com/cyclosproject/ng-swagger-gen",
+               "user": "cyclosproject"
+            }
+         ],
+         "swagger-angular": [
+            {
+               "alias": "angular2-swagger-apiclient-generator",
+               "forked": false,
+               "release": null,
+               "repos_name": "angular2-swagger-apiclient-generator",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "angular",
+                  "swagger",
+                  "swagger-angular"
+               ],
+               "url": "https://github.com/zemacik/angular2-swagger-apiclient-generator",
+               "user": "zemacik"
+            },
+            {
+               "alias": "ng-swagger-gen",
+               "forked": false,
+               "release": null,
+               "repos_name": "ng-swagger-gen",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "angular",
+                  "swagger",
+                  "swagger-angular"
+               ],
+               "url": "https://github.com/cyclosproject/ng-swagger-gen",
+               "user": "cyclosproject"
             }
          ],
          "tesseract": [

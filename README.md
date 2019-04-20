@@ -56,11 +56,13 @@
 ## gis
 
   [impalagis](#impalagis)
+  [sparkgis](#sparkgis)
 ## graph_db
 
   [neo4j](#neo4j)
   [orientdb](#orientdb)
   [titan](#titan)
+  [cypher](#cypher)
 ## infra
 
   [tomcat](#tomcat)
@@ -74,6 +76,7 @@
 ## ocr
 
   [tesseract](#tesseract)
+  [ocr-impl](#ocr-impl)
 ## olap
 
   [kylin](#kylin)
@@ -89,6 +92,7 @@
   [jhipster](#jhipster)
   [springcloud](#springcloud)
   [archetype](#archetype)
+  [swagger-angular](#swagger-angular)
 ## terminal
 
   [zsh](#zsh)
@@ -98,6 +102,7 @@
 ## testing
 
   [f2etest](#f2etest)
+  [benchmark](#benchmark)
 
 ## not in category
   [ai](#ai)
@@ -105,6 +110,7 @@
   [graph-ui](#graph-ui)
   [mazerunner](#mazerunner)
   [restful](#restful)
+  [swagger](#swagger)
   [travis](#travis)
   [webui](#webui)
 
@@ -137,6 +143,20 @@
       [
   [angular](#angular)
   [graph-ui](#graph-ui)
+      ]
+  + angular2-swagger-apiclient-generator <https://github.com/zemacik/angular2-swagger-apiclient-generator> 
+
+      [
+  [angular](#angular)
+  [swagger](#swagger)
+  [swagger-angular](#swagger-angular)
+      ]
+  + ng-swagger-gen <https://github.com/cyclosproject/ng-swagger-gen> 
+
+      [
+  [angular](#angular)
+  [swagger](#swagger)
+  [swagger-angular](#swagger-angular)
       ]
 
 ## ansible
@@ -242,6 +262,13 @@
   [c](#c)
   [autotools](#autotools)
   [postgres](#postgres)
+      ]
+
+## benchmark
+  + graphdb-benchmarks <https://github.com/socialsensor/graphdb-benchmarks> 
+
+      [
+  [benchmark](#benchmark)
       ]
 
 ## c
@@ -428,6 +455,14 @@
   [cmake](#cmake)
   [cpp-tool](#cpp-tool)
   [vim](#vim)
+      ]
+
+## cypher
+  + cypher-for-apache-spark <https://github.com/opencypher/cypher-for-apache-spark> 
+
+      [
+  [spark](#spark)
+  [cypher](#cypher)
       ]
 
 ## datax
@@ -755,6 +790,12 @@
   [javascript](#javascript)
   [jhipster](#jhipster)
       ]
+  + jhipster-uml <https://github.com/jhipster/jhipster-uml> 
+
+      [
+  [javascript](#javascript)
+  [jhipster](#jhipster)
+      ]
   + lb-2-jhipster <https://github.com/hejack0207/lb-2-jhipster> 
 
       [
@@ -764,6 +805,12 @@
 
 ## jhipster
   + generator-jhipster <https://github.com/hejack0207/generator-jhipster> 
+
+      [
+  [javascript](#javascript)
+  [jhipster](#jhipster)
+      ]
+  + jhipster-uml <https://github.com/jhipster/jhipster-uml> 
 
       [
   [javascript](#javascript)
@@ -959,6 +1006,28 @@
   [spark](#spark)
       ]
 
+## ocr-impl
+  + EasyOCR <https://github.com/ushelp/EasyOCR> 
+
+      [
+  [ocr-impl](#ocr-impl)
+      ]
+  + OCR <https://github.com/zoso10/OCR> 
+
+      [
+  [ocr-impl](#ocr-impl)
+      ]
+  + Longan <https://github.com/Zarknonnen/Longan> 
+
+      [
+  [ocr-impl](#ocr-impl)
+      ]
+  + NewOCR <https://github.com/RubbaBoy/NewOCR> 
+
+      [
+  [ocr-impl](#ocr-impl)
+      ]
+
 ## orientdb
   + orientdb <https://github.com/orientechnologies/orientdb> 
 
@@ -1047,6 +1116,12 @@
   [spark](#spark)
   [knn-graph](#knn-graph)
       ]
+  + cypher-for-apache-spark <https://github.com/opencypher/cypher-for-apache-spark> 
+
+      [
+  [spark](#spark)
+  [cypher](#cypher)
+      ]
   + mizo <https://github.com/imri/mizo> 
 
       [
@@ -1071,6 +1146,20 @@
       [
   [spark](#spark)
   [restful](#restful)
+      ]
+  + SparkGIS <https://github.com/drubbo/SparkGIS> 
+
+      [
+  [spark](#spark)
+  [sparkgis](#sparkgis)
+      ]
+
+## sparkgis
+  + SparkGIS <https://github.com/drubbo/SparkGIS> 
+
+      [
+  [spark](#spark)
+  [sparkgis](#sparkgis)
       ]
 
 ## springcloud
@@ -1098,6 +1187,38 @@
   [c](#c)
   [autotools](#autotools)
   [ssh](#ssh)
+      ]
+
+## swagger
+  + angular2-swagger-apiclient-generator <https://github.com/zemacik/angular2-swagger-apiclient-generator> 
+
+      [
+  [angular](#angular)
+  [swagger](#swagger)
+  [swagger-angular](#swagger-angular)
+      ]
+  + ng-swagger-gen <https://github.com/cyclosproject/ng-swagger-gen> 
+
+      [
+  [angular](#angular)
+  [swagger](#swagger)
+  [swagger-angular](#swagger-angular)
+      ]
+
+## swagger-angular
+  + angular2-swagger-apiclient-generator <https://github.com/zemacik/angular2-swagger-apiclient-generator> 
+
+      [
+  [angular](#angular)
+  [swagger](#swagger)
+  [swagger-angular](#swagger-angular)
+      ]
+  + ng-swagger-gen <https://github.com/cyclosproject/ng-swagger-gen> 
+
+      [
+  [angular](#angular)
+  [swagger](#swagger)
+  [swagger-angular](#swagger-angular)
       ]
 
 ## tesseract

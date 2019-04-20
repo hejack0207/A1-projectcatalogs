@@ -13,6 +13,8 @@ Tags
 * angular
 
   + ngx-graph https://github.com/swimlane/ngx-graph
+  + angular2-swagger-apiclient-generator https://github.com/zemacik/angular2-swagger-apiclient-generator
+  + ng-swagger-gen https://github.com/cyclosproject/ng-swagger-gen
 
 * ansible
 
@@ -42,6 +44,10 @@ Tags
   + openssh https://github.com/antonyantony/openssh
   + tmux https://github.com/tmux/tmux
   + postgres https://github.com/postgres/postgres
+
+* benchmark
+
+  + graphdb-benchmarks https://github.com/socialsensor/graphdb-benchmarks
 
 * c
 
@@ -87,6 +93,10 @@ Tags
 * cpp-tool
 
   + ccls https://github.com/MaskRay/ccls
+
+* cypher
+
+  + cypher-for-apache-spark https://github.com/opencypher/cypher-for-apache-spark
 
 * datax
 
@@ -181,11 +191,13 @@ Tags
 * javascript
 
   + generator-jhipster https://github.com/hejack0207/generator-jhipster
+  + jhipster-uml https://github.com/jhipster/jhipster-uml
   + lb-2-jhipster https://github.com/hejack0207/lb-2-jhipster
 
 * jhipster
 
   + generator-jhipster https://github.com/hejack0207/generator-jhipster
+  + jhipster-uml https://github.com/jhipster/jhipster-uml
   + lb-2-jhipster https://github.com/hejack0207/lb-2-jhipster
 
 * jsonnet
@@ -247,6 +259,13 @@ Tags
   + spark-neo4j https://github.com/kbastani/spark-neo4j
   + neo4j-mazerunner https://github.com/neo4j-contrib/neo4j-mazerunner
 
+* ocr-impl
+
+  + EasyOCR https://github.com/ushelp/EasyOCR
+  + OCR https://github.com/zoso10/OCR
+  + Longan https://github.com/Zarknonnen/Longan
+  + NewOCR https://github.com/RubbaBoy/NewOCR
+
 * orientdb
 
   + orientdb https://github.com/orientechnologies/orientdb
@@ -282,10 +301,16 @@ Tags
 
   + envelope https://github.com/cloudera-labs/envelope
   + spark-knn-graphs https://github.com/tdebatty/spark-knn-graphs
+  + cypher-for-apache-spark https://github.com/opencypher/cypher-for-apache-spark
   + mizo https://github.com/imri/mizo
   + spark-neo4j https://github.com/kbastani/spark-neo4j
   + neo4j-mazerunner https://github.com/neo4j-contrib/neo4j-mazerunner
   + spark-jobserver https://github.com/spark-jobserver/spark-jobserver
+  + SparkGIS https://github.com/drubbo/SparkGIS
+
+* sparkgis
+
+  + SparkGIS https://github.com/drubbo/SparkGIS
 
 * springcloud
 
@@ -298,6 +323,16 @@ Tags
 * ssh
 
   + openssh https://github.com/antonyantony/openssh
+
+* swagger
+
+  + angular2-swagger-apiclient-generator https://github.com/zemacik/angular2-swagger-apiclient-generator
+  + ng-swagger-gen https://github.com/cyclosproject/ng-swagger-gen
+
+* swagger-angular
+
+  + angular2-swagger-apiclient-generator https://github.com/zemacik/angular2-swagger-apiclient-generator
+  + ng-swagger-gen https://github.com/cyclosproject/ng-swagger-gen
 
 * tesseract
 

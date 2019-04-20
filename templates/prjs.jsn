@@ -191,7 +191,7 @@ local tpl=import 'tpl.jsn';
             "kylin","clickhouse","mandrian"
         ],
         ocr: [
-            "tesseract"
+            "tesseract","ocr-impl"
         ],
         build: [
             "autotools","cmake","make","maven"
@@ -227,19 +227,19 @@ local tpl=import 'tpl.jsn';
             "zsh","ssh","tmux","git"
         ],
         scaffold: [
-            "jhipster","springcloud","archetype"
+            "jhipster","springcloud","archetype","swagger-angular"
         ],
         esb: [
             "camel","servicemix"
         ],
         testing: [
-            "f2etest"
+            "f2etest","benchmark"
         ],
         data_generator: [
             "jsonnet"
         ],
         graph_db: [
-            "neo4j","orientdb","titan"
+            "neo4j","orientdb","titan","cypher"
         ],
         design: [
             "plantuml"
@@ -248,7 +248,7 @@ local tpl=import 'tpl.jsn';
             "agriculture-knowledge-graph","knn-graph"
         ],
         gis: [
-            "impalagis"
+            "impalagis","sparkgis"
         ],
         frontend: [
             "angular"
@@ -407,6 +407,11 @@ local tpl=import 'tpl.jsn';
             tags: ["javascript","jhipster"],
         },
         tpl.ghrepos + {
+            user: "jhipster",
+            repos_name: "jhipster-uml",
+            tags: ["javascript","jhipster"],
+        },
+        tpl.ghrepos + {
             user: "ziogiugno",
             repos_name: "lb-2-jhipster",
             forked: true,
@@ -510,6 +515,11 @@ local tpl=import 'tpl.jsn';
             user: "tdebatty",
             repos_name: "spark-knn-graphs",
             tags: ["spark","knn-graph"],
+        },
+        tpl.ghrepos + {
+            user: "opencypher",
+            repos_name: "cypher-for-apache-spark",
+            tags: ["spark","cypher"],
         },
         tpl.ghrepos + {
             user: "imri",
@@ -632,6 +642,46 @@ local tpl=import 'tpl.jsn';
             user: "fzn0268",
             repos_name: "ImpalaGIS",
             tags: ["impalagis","impala"],
+        },
+        tpl.ghrepos + {
+            user: "socialsensor",
+            repos_name: "graphdb-benchmarks",
+            tags: ["benchmark"],
+        },
+        tpl.ghrepos + {
+            user: "zemacik",
+            repos_name: "angular2-swagger-apiclient-generator",
+            tags: ["angular","swagger","swagger-angular"],
+        },
+        tpl.ghrepos + {
+            user: "cyclosproject",
+            repos_name: "ng-swagger-gen",
+            tags: ["angular","swagger","swagger-angular"],
+        },
+        tpl.ghrepos + {
+            user: "drubbo",
+            repos_name: "SparkGIS",
+            tags: ["spark","sparkgis"],
+        },
+        tpl.ghrepos + {
+            user: "ushelp",
+            repos_name: "EasyOCR",
+            tags: ["ocr-impl"],
+        },
+        tpl.ghrepos + {
+            user: "zoso10",
+            repos_name: "OCR",
+            tags: ["ocr-impl"],
+        },
+        tpl.ghrepos + {
+            user: "Zarknonnen",
+            repos_name: "Longan",
+            tags: ["ocr-impl"],
+        },
+        tpl.ghrepos + {
+            user: "RubbaBoy",
+            repos_name: "NewOCR",
+            tags: ["ocr-impl"],
         },
     ],
 
