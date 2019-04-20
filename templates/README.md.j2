@@ -1,12 +1,10 @@
 # category
 {% for c,ts in tag_categories | dictsort %}
-  ## [{{c}}]
+## {{c}}
 
-      [
       {% for t in ts %}
   [{{t}}](#{{t}})
       {% endfor %}
-      ]
 {% endfor %}
 
 # project tags

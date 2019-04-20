@@ -1,46 +1,32 @@
 # category
-  ## [build]
+## build
 
-      [
   [autotools](#autotools)
   [cmake](#cmake)
   [make](#make)
-      ]
-  ## [deploy]
+## deploy
 
-      [
   [ansible](#ansible)
   [docker](#docker)
   [docker-compose](#docker-compose)
   [helm](#helm)
   [kubernetes](#kubernetes)
-      ]
-  ## [documentation]
+## documentation
 
-      [
   [asciidoc](#asciidoc)
-      ]
-  ## [etl]
+## etl
 
-      [
   [kettle](#kettle)
-      ]
-  ## [languages]
+## languages
 
-      [
   [c](#c)
   [java](#java)
-      ]
-  ## [ocr]
+## ocr
 
-      [
   [tesseract](#tesseract)
-      ]
-  ## [olap]
+## olap
 
-      [
   [kylin](#kylin)
-      ]
 
 # project tags
   [ai](#ai)
