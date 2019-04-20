@@ -1,7 +1,9 @@
-# TOC
-* [Tags](#tags)
+# project tags
+{% for k,v in tags.contents | dictsort %}
+  [{{k}}](#{{k}})
+{% endfor %}
 
-# tags
+# repos
 {% for k,v in tags.contents | dictsort %}
 ## {{ k }}
     {% for repo in v %}

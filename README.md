@@ -1,7 +1,29 @@
-# TOC
-* [Tags](#tags)
+# project tags
+  [ansible](#ansible)
+  [asciidoc](#asciidoc)
+  [autotools](#autotools)
+  [c](#c)
+  [cdh](#cdh)
+  [cmake](#cmake)
+  [cpp](#cpp)
+  [docker](#docker)
+  [docker-compose](#docker-compose)
+  [greenplum](#greenplum)
+  [hadoop](#hadoop)
+  [helm](#helm)
+  [java](#java)
+  [javascript](#javascript)
+  [jhipster](#jhipster)
+  [kubernetes](#kubernetes)
+  [kylin](#kylin)
+  [make](#make)
+  [mysql](#mysql)
+  [olap](#olap)
+  [testing](#testing)
+  [tomcat](#tomcat)
+  [travis](#travis)
 
-# tags
+# repos
 ## ansible
   + gpdb-ansible <https://github.com/andreasscherbaum/gpdb-ansible>
   + greenplum-ansible <https://github.com/faer615/greenplum>
