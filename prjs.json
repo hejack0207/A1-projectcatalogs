@@ -1025,6 +1025,12 @@
          "pinot",
          "presto"
       ],
+      "bigdata_graphdb": [
+         "neo4j",
+         "orientdb",
+         "titan",
+         "cypher"
+      ],
       "bigdata_olap": [
          "kylin",
          "clickhouse",
@@ -1089,12 +1095,6 @@
          "sparkgis",
          "gis-awesome",
          "gis-impl"
-      ],
-      "graph_db": [
-         "neo4j",
-         "orientdb",
-         "titan",
-         "cypher"
       ],
       "infra": [
          "tomcat",

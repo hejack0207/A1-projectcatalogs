@@ -15,6 +15,12 @@
   [drill](#drill)
   [pinot](#pinot)
   [presto](#presto)
+## bigdata_graphdb
+
+  [neo4j](#neo4j)
+  [orientdb](#orientdb)
+  [titan](#titan)
+  [cypher](#cypher)
 ## bigdata_olap
 
   [kylin](#kylin)
@@ -80,12 +86,6 @@
   [sparkgis](#sparkgis)
   [gis-awesome](#gis-awesome)
   [gis-impl](#gis-impl)
-## graph_db
-
-  [neo4j](#neo4j)
-  [orientdb](#orientdb)
-  [titan](#titan)
-  [cypher](#cypher)
 ## infra
 
   [tomcat](#tomcat)
