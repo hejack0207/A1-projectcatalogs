@@ -197,13 +197,13 @@ local tpl=import 'tpl.jsn';
             "autotools","cmake","make"
         ],
         etl: [
-            "kettle"
+            "kettle","pentaho"
         ],
         deploy: [
             "ansible","docker","docker-compose","helm","kubernetes"
         ],
         languages: [
-            "c","java"
+            "c","java","cpp","javascript"
         ],
         documentation: [
             "asciidoc"
@@ -215,7 +215,7 @@ local tpl=import 'tpl.jsn';
             "greenplum"
         ],
         bigdata: [
-            "hadoop"
+            "hadoop","cdh","impala"
         ],
     },
     check: {

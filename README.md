@@ -2,6 +2,8 @@
 ## bigdata
 
   [hadoop](#hadoop)
+  [cdh](#cdh)
+  [impala](#impala)
 ## build
 
   [autotools](#autotools)
@@ -23,10 +25,13 @@
 ## etl
 
   [kettle](#kettle)
+  [pentaho](#pentaho)
 ## languages
 
   [c](#c)
   [java](#java)
+  [cpp](#cpp)
+  [javascript](#javascript)
 ## ocr
 
   [tesseract](#tesseract)
@@ -42,14 +47,9 @@
 ## not in category
   [ai](#ai)
   [apollo](#apollo)
-  [cdh](#cdh)
-  [cpp](#cpp)
   [cpp-tool](#cpp-tool)
   [git](#git)
-  [impala](#impala)
-  [javascript](#javascript)
   [jhipster](#jhipster)
-  [pentaho](#pentaho)
   [redis](#redis)
   [springcloud](#springcloud)
   [ssh](#ssh)

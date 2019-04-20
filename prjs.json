@@ -6,18 +6,23 @@
          "asciidoc",
          "autotools",
          "c",
+         "cdh",
          "cmake",
+         "cpp",
          "docker",
          "docker-compose",
          "greenplum",
          "hadoop",
          "helm",
+         "impala",
          "java",
+         "javascript",
          "kettle",
          "kubernetes",
          "kylin",
          "make",
          "mysql",
+         "pentaho",
          "postgres",
          "sqlite",
          "tesseract"
@@ -25,14 +30,9 @@
       "tags_not_in_category": [
          "ai",
          "apollo",
-         "cdh",
-         "cpp",
          "cpp-tool",
          "git",
-         "impala",
-         "javascript",
          "jhipster",
-         "pentaho",
          "redis",
          "springcloud",
          "ssh",
@@ -957,7 +957,9 @@
    ],
    "tag_categories": {
       "bigdata": [
-         "hadoop"
+         "hadoop",
+         "cdh",
+         "impala"
       ],
       "build": [
          "autotools",
@@ -978,11 +980,14 @@
          "asciidoc"
       ],
       "etl": [
-         "kettle"
+         "kettle",
+         "pentaho"
       ],
       "languages": [
          "c",
-         "java"
+         "java",
+         "cpp",
+         "javascript"
       ],
       "ocr": [
          "tesseract"
