@@ -154,6 +154,7 @@ Tags
 
 * java
 
+  + tess4j https://github.com/nguyenq/tess4j
   + pentaho-kettle https://github.com/pentaho/pentaho-kettle
   + kylin https://github.com/apache/kylin
   + envelope https://github.com/cloudera-labs/envelope
@@ -274,6 +275,7 @@ Tags
 * tesseract
 
   + tesseract https://github.com/tesseract-ocr/tesseract
+  + tess4j https://github.com/nguyenq/tess4j
 
 * titan
 

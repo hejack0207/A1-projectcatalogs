@@ -2272,6 +2272,21 @@
          ],
          "java": [
             {
+               "alias": "tess4j",
+               "forked": false,
+               "release": null,
+               "repos_name": "tess4j",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "tesseract",
+                  "java"
+               ],
+               "url": "https://github.com/nguyenq/tess4j",
+               "user": "nguyenq"
+            },
+            {
                "alias": "pentaho-kettle",
                "forked": false,
                "release": null,
@@ -3102,6 +3117,21 @@
                ],
                "url": "https://github.com/tesseract-ocr/tesseract",
                "user": "tesseract-ocr"
+            },
+            {
+               "alias": "tess4j",
+               "forked": false,
+               "release": null,
+               "repos_name": "tess4j",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "tesseract",
+                  "java"
+               ],
+               "url": "https://github.com/nguyenq/tess4j",
+               "user": "nguyenq"
             }
          ],
          "titan": [

@@ -270,6 +270,11 @@ local tpl=import 'tpl.jsn';
             tags: ["cpp","cmake","travis","asciidoc","docker","docker-compose","tesseract"],
         },
         tpl.ghrepos + {
+            user: "nguyenq",
+            repos_name: "tess4j",
+            tags: ["tesseract","java"],
+        },
+        tpl.ghrepos + {
             user: "zsh-users",
             repos_name: "zsh",
             tags: ["c","autotools","zsh"],

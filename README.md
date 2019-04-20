@@ -645,6 +645,12 @@
       ]
 
 ## java
+  + tess4j <https://github.com/nguyenq/tess4j> 
+
+      [
+  [tesseract](#tesseract)
+  [java](#java)
+      ]
   + pentaho-kettle <https://github.com/pentaho/pentaho-kettle> 
 
       [
@@ -1017,6 +1023,12 @@
   [docker](#docker)
   [docker-compose](#docker-compose)
   [tesseract](#tesseract)
+      ]
+  + tess4j <https://github.com/nguyenq/tess4j> 
+
+      [
+  [tesseract](#tesseract)
+  [java](#java)
       ]
 
 ## titan
