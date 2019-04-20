@@ -120,7 +120,7 @@ Tags
 * deep_learning
 
   + Paddle https://github.com/PaddlePaddle/Paddle
-  + spark-deep_learning https://github.com/databricks/spark-deep_learning
+  + spark-deep-learning https://github.com/databricks/spark-deep-learning
 
 * docker
 
@@ -396,7 +396,7 @@ Tags
   + spark-jobserver https://github.com/spark-jobserver/spark-jobserver
   + SparkGIS https://github.com/drubbo/SparkGIS
   + Movie_Recommend https://github.com/LuckyZXL2016/Movie_Recommend
-  + spark-deep_learning https://github.com/databricks/spark-deep_learning
+  + spark-deep-learning https://github.com/databricks/spark-deep-learning
   + SparkInternals https://github.com/JerryLead/SparkInternals
 
 * sparkgis

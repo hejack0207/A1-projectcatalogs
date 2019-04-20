@@ -476,7 +476,7 @@ local tpl=import 'tpl.jsn';
         },
         tpl.ghrepos + {
             user: "databricks",
-            repos_name: "spark-deep_learning",
+            repos_name: "spark-deep-learning",
             tags: ["spark","deep_learning"],
         },
         tpl.ghrepos + {

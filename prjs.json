@@ -1128,10 +1128,10 @@
                "user": "PaddlePaddle"
             },
             {
-               "alias": "spark-deep_learning",
+               "alias": "spark-deep-learning",
                "forked": false,
                "release": null,
-               "repos_name": "spark-deep_learning",
+               "repos_name": "spark-deep-learning",
                "score": 3,
                "shallow": false,
                "site": "https://github.com",
@@ -1139,7 +1139,7 @@
                   "spark",
                   "deep_learning"
                ],
-               "url": "https://github.com/databricks/spark-deep_learning",
+               "url": "https://github.com/databricks/spark-deep-learning",
                "user": "databricks"
             }
          ],
@@ -3138,10 +3138,10 @@
                "user": "LuckyZXL2016"
             },
             {
-               "alias": "spark-deep_learning",
+               "alias": "spark-deep-learning",
                "forked": false,
                "release": null,
-               "repos_name": "spark-deep_learning",
+               "repos_name": "spark-deep-learning",
                "score": 3,
                "shallow": false,
                "site": "https://github.com",
@@ -3149,7 +3149,7 @@
                   "spark",
                   "deep_learning"
                ],
-               "url": "https://github.com/databricks/spark-deep_learning",
+               "url": "https://github.com/databricks/spark-deep-learning",
                "user": "databricks"
             },
             {

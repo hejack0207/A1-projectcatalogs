@@ -551,7 +551,7 @@
   [cmake](#cmake)
   [deep_learning](#deep_learning)
       ]
-  + spark-deep_learning <https://github.com/databricks/spark-deep_learning> 
+  + spark-deep-learning <https://github.com/databricks/spark-deep-learning> 
 
       [
   [spark](#spark)
@@ -1427,7 +1427,7 @@
   [spark](#spark)
   [bigdata_usecase](#bigdata_usecase)
       ]
-  + spark-deep_learning <https://github.com/databricks/spark-deep_learning> 
+  + spark-deep-learning <https://github.com/databricks/spark-deep-learning> 
 
       [
   [spark](#spark)
