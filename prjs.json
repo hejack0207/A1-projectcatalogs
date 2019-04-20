@@ -12,6 +12,7 @@
          "cpp-tool",
          "docker",
          "docker-compose",
+         "envelope",
          "git",
          "greenplum",
          "hadoop",
@@ -40,6 +41,7 @@
       "tags_not_in_category": [
          "ai",
          "apollo",
+         "spark",
          "testing",
          "travis",
          "webui"
@@ -674,7 +676,8 @@
                "site": "https://github.com",
                "tags": [
                   "java",
-                  "kettle"
+                  "envelope",
+                  "spark"
                ],
                "url": "https://github.com/cloudera-labs/envelope",
                "user": "cloudera-labs"
@@ -985,7 +988,8 @@
       ],
       "etl": [
          "kettle",
-         "pentaho"
+         "pentaho",
+         "envelope"
       ],
       "infra": [
          "tomcat",
@@ -1834,6 +1838,24 @@
                "user": "nobodyiam"
             }
          ],
+         "envelope": [
+            {
+               "alias": "envelope",
+               "forked": false,
+               "release": null,
+               "repos_name": "envelope",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "java",
+                  "envelope",
+                  "spark"
+               ],
+               "url": "https://github.com/cloudera-labs/envelope",
+               "user": "cloudera-labs"
+            }
+         ],
          "git": [
             {
                "alias": "git",
@@ -2039,7 +2061,8 @@
                "site": "https://github.com",
                "tags": [
                   "java",
-                  "kettle"
+                  "envelope",
+                  "spark"
                ],
                "url": "https://github.com/cloudera-labs/envelope",
                "user": "cloudera-labs"
@@ -2188,21 +2211,6 @@
                ],
                "url": "https://github.com/pentaho/pentaho-kettle",
                "user": "pentaho"
-            },
-            {
-               "alias": "envelope",
-               "forked": false,
-               "release": null,
-               "repos_name": "envelope",
-               "score": 3,
-               "shallow": false,
-               "site": "https://github.com",
-               "tags": [
-                  "java",
-                  "kettle"
-               ],
-               "url": "https://github.com/cloudera-labs/envelope",
-               "user": "cloudera-labs"
             },
             {
                "alias": "kettle-manager",
@@ -2451,6 +2459,24 @@
                ],
                "url": "https://github.com/antirez/redis",
                "user": "antirez"
+            }
+         ],
+         "spark": [
+            {
+               "alias": "envelope",
+               "forked": false,
+               "release": null,
+               "repos_name": "envelope",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "java",
+                  "envelope",
+                  "spark"
+               ],
+               "url": "https://github.com/cloudera-labs/envelope",
+               "user": "cloudera-labs"
             }
          ],
          "springcloud": [

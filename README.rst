@@ -187,6 +187,10 @@ Tags
   + SpringCloud https://github.com/hejack0207/SpringCloud
   + apollo-build-scripts https://github.com/nobodyiam/apollo-build-scripts
 
+* envelope
+
+  + envelope https://github.com/cloudera-labs/envelope
+
 * git
 
   + git https://github.com/git/git
@@ -235,7 +239,6 @@ Tags
 
   + docker-pdi-ce https://github.com/zhicwu/docker-pdi-ce
   + pentaho-kettle https://github.com/pentaho/pentaho-kettle
-  + envelope https://github.com/cloudera-labs/envelope
   + kettle-manager https://github.com/majinju/kettle-manager
   + webkettle https://github.com/hejack0207/webkettle
 
@@ -272,6 +275,10 @@ Tags
 * redis
 
   + redis https://github.com/antirez/redis
+
+* spark
+
+  + envelope https://github.com/cloudera-labs/envelope
 
 * springcloud
 

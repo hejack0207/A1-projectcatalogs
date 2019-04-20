@@ -30,6 +30,7 @@
 
   [kettle](#kettle)
   [pentaho](#pentaho)
+  [envelope](#envelope)
 ## infra
 
   [tomcat](#tomcat)
@@ -65,6 +66,7 @@
 ## not in category
   [ai](#ai)
   [apollo](#apollo)
+  [spark](#spark)
   [testing](#testing)
   [travis](#travis)
   [webui](#webui)
@@ -443,6 +445,15 @@
   [apollo](#apollo)
       ]
 
+## envelope
+  + envelope <https://github.com/cloudera-labs/envelope> 
+
+      [
+  [java](#java)
+  [envelope](#envelope)
+  [spark](#spark)
+      ]
+
 ## git
   + git <https://github.com/git/git> 
 
@@ -534,7 +545,8 @@
 
       [
   [java](#java)
-  [kettle](#kettle)
+  [envelope](#envelope)
+  [spark](#spark)
       ]
   + kettle-manager <https://github.com/majinju/kettle-manager> 
 
@@ -595,12 +607,6 @@
   [kettle](#kettle)
       ]
   + pentaho-kettle <https://github.com/pentaho/pentaho-kettle> 
-
-      [
-  [java](#java)
-  [kettle](#kettle)
-      ]
-  + envelope <https://github.com/cloudera-labs/envelope> 
 
       [
   [java](#java)
@@ -718,6 +724,15 @@
   [c](#c)
   [make](#make)
   [redis](#redis)
+      ]
+
+## spark
+  + envelope <https://github.com/cloudera-labs/envelope> 
+
+      [
+  [java](#java)
+  [envelope](#envelope)
+  [spark](#spark)
       ]
 
 ## springcloud

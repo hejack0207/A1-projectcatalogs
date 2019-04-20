@@ -197,7 +197,7 @@ local tpl=import 'tpl.jsn';
             "autotools","cmake","make"
         ],
         etl: [
-            "kettle","pentaho"
+            "kettle","pentaho","envelope"
         ],
         deploy: [
             "ansible","docker","docker-compose","helm","kubernetes"
@@ -357,7 +357,7 @@ local tpl=import 'tpl.jsn';
         tpl.ghrepos + {
             user: "cloudera-labs",
             repos_name: "envelope",
-            tags: ["java","kettle"],
+            tags: ["java","envelope","spark"],
         },
         tpl.ghrepos + {
             user: "majinju",
