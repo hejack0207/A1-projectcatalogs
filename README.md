@@ -9,6 +9,9 @@
 
   [camel](#camel)
   [servicemix](#servicemix)
+## arch_backend_microservice_impl
+
+  [springcloud](#springcloud)
 ## arch_bigdata
 
   [hadoop](#hadoop)
@@ -39,17 +42,15 @@
   [mandrian](#mandrian)
   [olap_impl](#olap_impl)
   [sql_support](#sql_support)
-## arch_etl
-
-  [kettle](#kettle)
-  [pentaho](#pentaho)
-  [envelope](#envelope)
-  [datax](#datax)
-  [flinkx](#flinkx)
-  [etl_awesome](#etl_awesome)
 ## arch_frontend
 
   [angular](#angular)
+## arch_kernel
+
+## arch_platform_chrome
+
+## arch_platform_firefox
+
 ## arch_security
 
   [security_awesome](#security_awesome)
@@ -59,6 +60,14 @@
 
   [agriculture_knowledge_graph](#agriculture_knowledge_graph)
   [knn_graph](#knn_graph)
+## business_etl
+
+  [kettle](#kettle)
+  [pentaho](#pentaho)
+  [envelope](#envelope)
+  [datax](#datax)
+  [flinkx](#flinkx)
+  [etl_awesome](#etl_awesome)
 ## business_gis
 
   [impalagis](#impalagis)
@@ -76,6 +85,8 @@
   [cmake](#cmake)
   [make](#make)
   [maven](#maven)
+## dev_ci
+
 ## dev_deploy
 
   [ansible](#ansible)
@@ -89,6 +100,9 @@
 ## dev_documentation
 
   [asciidoc](#asciidoc)
+## dev_language_tool
+
+  [cpp_tool](#cpp_tool)
 ## dev_languages
 
   [c](#c)
@@ -106,6 +120,9 @@
 
   [f2etest](#f2etest)
   [benchmark](#benchmark)
+## dev_vc
+
+  [git](#git)
 ## infra
 
   [tomcat](#tomcat)
@@ -130,13 +147,16 @@
   [vim](#vim)
   [vim_plugin](#vim_plugin)
   [vscode_plugin](#vscode_plugin)
-  [cpp_tool](#cpp_tool)
 ## tool_terminal
 
   [zsh](#zsh)
   [ssh](#ssh)
   [tmux](#tmux)
-  [git](#git)
+## tool_ui
+
+  [gui](#gui)
+  [tui](#tui)
+  [wui](#wui)
 
 ## not in category
   [apollo](#apollo)
