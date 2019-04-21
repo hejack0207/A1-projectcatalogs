@@ -3,7 +3,7 @@ local tpl=import 'tpl.jsn';
 {
     tag_categories: {
         arch_ai: ["deep_learning"],
-        arch_api: ["swagger"],
+        arch_api: ["swagger", "graphql"],
         arch_backend_esb: [ "camel","servicemix" ],
         arch_backend_microservice_impl: [ "springcloud" ],
         arch_bigdata: [ "hadoop","cdh","impala","flink","spark"],
