@@ -2,6 +2,7 @@ local tpl=import 'tpl.jsn';
 
 {
     tag_categories: {
+        arch_agrithom: [],
         arch_ai: ["deep_learning"],
         arch_api: ["swagger", "graphql"],
         arch_backend_esb: [ "camel","servicemix" ],
