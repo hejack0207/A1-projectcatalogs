@@ -34,6 +34,7 @@
          "gis_awesome",
          "gis_impl",
          "git",
+         "graphql",
          "greenplum",
          "gui",
          "hadoop",
@@ -104,7 +105,8 @@
          "deep_learning"
       ],
       "arch_api": [
-         "swagger"
+         "swagger",
+         "graphql"
       ],
       "arch_backend_esb": [
          "camel",
@@ -123,7 +125,8 @@
       "arch_bigdata_category": [
          "bigdata_awesome",
          "bigdata_usecase",
-         "mpp_based"
+         "mpp_based",
+         "sql_support"
       ],
       "arch_bigdata_dw": [
          "greenplum",
@@ -142,8 +145,7 @@
          "kylin",
          "clickhouse",
          "mandrian",
-         "olap_impl",
-         "sql_support"
+         "olap_impl"
       ],
       "arch_frontend": [
          "angular"

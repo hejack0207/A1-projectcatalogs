@@ -5,6 +5,7 @@
 ## arch_api
 
   [swagger](#swagger)
+  [graphql](#graphql)
 ## arch_backend_esb
 
   [camel](#camel)
@@ -24,6 +25,7 @@
   [bigdata_awesome](#bigdata_awesome)
   [bigdata_usecase](#bigdata_usecase)
   [mpp_based](#mpp_based)
+  [sql_support](#sql_support)
 ## arch_bigdata_dw
 
   [greenplum](#greenplum)
@@ -43,7 +45,6 @@
   [clickhouse](#clickhouse)
   [mandrian](#mandrian)
   [olap_impl](#olap_impl)
-  [sql_support](#sql_support)
 ## arch_frontend
 
   [angular](#angular)
