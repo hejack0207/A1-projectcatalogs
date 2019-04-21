@@ -118,7 +118,9 @@
          "cdh",
          "impala",
          "flink",
-         "spark",
+         "spark"
+      ],
+      "arch_bigdata_category": [
          "bigdata_awesome",
          "bigdata_usecase",
          "mpp_based"
