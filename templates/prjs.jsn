@@ -24,7 +24,7 @@ local tpl=import 'tpl.jsn';
         dev_build: [ "autotools","cmake","make","maven" ],
         dev_deploy: [ "ansible","docker","docker_compose","helm","kubernetes" ],
         dev_design: [ "plantuml" ],
-        dev_documentation: [ "asciidoc" ],
+        dev_documentation: [ "asciidoc","markdown","restructured" ],
         dev_languages: [ "c","java","cpp","javascript" ],
         dev_language_tool: ["cpp_tool"],
         dev_scaffold: [ "jhipster","springcloud","archetype","swagger_angular","code_generator" ],

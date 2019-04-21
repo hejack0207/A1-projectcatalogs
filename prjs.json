@@ -52,6 +52,7 @@
          "kylin",
          "make",
          "mandrian",
+         "markdown",
          "maven",
          "mpp_based",
          "mysql",
@@ -67,6 +68,7 @@
          "presto",
          "redis",
          "redmine",
+         "restructured",
          "security_awesome",
          "security_cve",
          "servicemix",
@@ -199,7 +201,9 @@
          "plantuml"
       ],
       "dev_documentation": [
-         "asciidoc"
+         "asciidoc",
+         "markdown",
+         "restructured"
       ],
       "dev_language_tool": [
          "cpp_tool"

@@ -103,6 +103,8 @@
 ## dev_documentation
 
   [asciidoc](#asciidoc)
+  [markdown](#markdown)
+  [restructured](#restructured)
 ## dev_language_tool
 
   [cpp_tool](#cpp_tool)
