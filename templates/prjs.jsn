@@ -55,7 +55,7 @@ local tpl=import 'tpl.jsn';
         }
     },
 
-    repos_:: [
+    repos_: [
         tpl.ghrepos + {
             user: "tesseract-ocr",
             repos_name: "tesseract",
