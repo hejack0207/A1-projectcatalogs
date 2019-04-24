@@ -153,8 +153,8 @@ Tags
   + tesseract https://github.com/tesseract-ocr/tesseract
   + docker-pdi-ce https://github.com/zhicwu/docker-pdi-ce
   + ansible.pentaho-biserver-ce https://github.com/oggers/ansible.pentaho-biserver-ce
-  + webkettle https://github.com/hejack0207/webkettle
-  + SpringCloud https://github.com/hejack0207/SpringCloud
+  + webkettle https://github.com/JoeyBling/webkettle
+  + SpringCloud https://github.com/zhoutaoo/SpringCloud
   + apollo-build-scripts https://github.com/nobodyiam/apollo-build-scripts
 
 * drill
@@ -236,20 +236,20 @@ Tags
   + kylin https://github.com/apache/kylin
   + envelope https://github.com/cloudera-labs/envelope
   + kettle-manager https://github.com/majinju/kettle-manager
-  + webkettle https://github.com/hejack0207/webkettle
-  + SpringCloud https://github.com/hejack0207/SpringCloud
+  + webkettle https://github.com/JoeyBling/webkettle
+  + SpringCloud https://github.com/zhoutaoo/SpringCloud
 
 * javascript
 
-  + generator-jhipster https://github.com/hejack0207/generator-jhipster
+  + generator-jhipster https://github.com/jhipster/generator-jhipster
   + jhipster-uml https://github.com/jhipster/jhipster-uml
-  + lb-2-jhipster https://github.com/hejack0207/lb-2-jhipster
+  + lb-2-jhipster https://github.com/ziogiugno/lb-2-jhipster
 
 * jhipster
 
-  + generator-jhipster https://github.com/hejack0207/generator-jhipster
+  + generator-jhipster https://github.com/jhipster/generator-jhipster
   + jhipster-uml https://github.com/jhipster/jhipster-uml
-  + lb-2-jhipster https://github.com/hejack0207/lb-2-jhipster
+  + lb-2-jhipster https://github.com/ziogiugno/lb-2-jhipster
 
 * json
 
@@ -268,7 +268,7 @@ Tags
   + docker-pdi-ce https://github.com/zhicwu/docker-pdi-ce
   + pentaho-kettle https://github.com/pentaho/pentaho-kettle
   + kettle-manager https://github.com/majinju/kettle-manager
-  + webkettle https://github.com/hejack0207/webkettle
+  + webkettle https://github.com/JoeyBling/webkettle
   + pdi-cluster https://github.com/zhicwu/pdi-cluster
 
 * knn_graph
@@ -416,7 +416,7 @@ Tags
 
 * springcloud
 
-  + SpringCloud https://github.com/hejack0207/SpringCloud
+  + SpringCloud https://github.com/zhoutaoo/SpringCloud
 
 * sql_support
 
@@ -483,7 +483,7 @@ Tags
 * webui
 
   + kettle-manager https://github.com/majinju/kettle-manager
-  + webkettle https://github.com/hejack0207/webkettle
+  + webkettle https://github.com/JoeyBling/webkettle
   + plantuml-server https://github.com/plantuml/plantuml-server
 
 * zsh

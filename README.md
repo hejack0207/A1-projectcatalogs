@@ -688,7 +688,7 @@
   [docker_compose](#docker_compose)
   [pentaho](#pentaho)
       ]
-  + webkettle <https://github.com/hejack0207/webkettle> 
+  + webkettle <https://github.com/JoeyBling/webkettle> 
 
       [
   [java](#java)
@@ -696,7 +696,7 @@
   [webui](#webui)
   [kettle](#kettle)
       ]
-  + SpringCloud <https://github.com/hejack0207/SpringCloud> 
+  + SpringCloud <https://github.com/zhoutaoo/SpringCloud> 
 
       [
   [java](#java)
@@ -936,7 +936,7 @@
   [webui](#webui)
   [kettle](#kettle)
       ]
-  + webkettle <https://github.com/hejack0207/webkettle> 
+  + webkettle <https://github.com/JoeyBling/webkettle> 
 
       [
   [java](#java)
@@ -944,7 +944,7 @@
   [webui](#webui)
   [kettle](#kettle)
       ]
-  + SpringCloud <https://github.com/hejack0207/SpringCloud> 
+  + SpringCloud <https://github.com/zhoutaoo/SpringCloud> 
 
       [
   [java](#java)
@@ -953,7 +953,7 @@
       ]
 
 ## javascript
-  + generator-jhipster <https://github.com/hejack0207/generator-jhipster> 
+  + generator-jhipster <https://github.com/jhipster/generator-jhipster> 
 
       [
   [javascript](#javascript)
@@ -965,7 +965,7 @@
   [javascript](#javascript)
   [jhipster](#jhipster)
       ]
-  + lb-2-jhipster <https://github.com/hejack0207/lb-2-jhipster> 
+  + lb-2-jhipster <https://github.com/ziogiugno/lb-2-jhipster> 
 
       [
   [javascript](#javascript)
@@ -973,7 +973,7 @@
       ]
 
 ## jhipster
-  + generator-jhipster <https://github.com/hejack0207/generator-jhipster> 
+  + generator-jhipster <https://github.com/jhipster/generator-jhipster> 
 
       [
   [javascript](#javascript)
@@ -985,7 +985,7 @@
   [javascript](#javascript)
   [jhipster](#jhipster)
       ]
-  + lb-2-jhipster <https://github.com/hejack0207/lb-2-jhipster> 
+  + lb-2-jhipster <https://github.com/ziogiugno/lb-2-jhipster> 
 
       [
   [javascript](#javascript)
@@ -1034,7 +1034,7 @@
   [webui](#webui)
   [kettle](#kettle)
       ]
-  + webkettle <https://github.com/hejack0207/webkettle> 
+  + webkettle <https://github.com/JoeyBling/webkettle> 
 
       [
   [java](#java)
@@ -1475,7 +1475,7 @@
       ]
 
 ## springcloud
-  + SpringCloud <https://github.com/hejack0207/SpringCloud> 
+  + SpringCloud <https://github.com/zhoutaoo/SpringCloud> 
 
       [
   [java](#java)
@@ -1661,7 +1661,7 @@
   [webui](#webui)
   [kettle](#kettle)
       ]
-  + webkettle <https://github.com/hejack0207/webkettle> 
+  + webkettle <https://github.com/JoeyBling/webkettle> 
 
       [
   [java](#java)
