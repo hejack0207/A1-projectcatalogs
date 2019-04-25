@@ -1396,6 +1396,11 @@
   [servicemix](#servicemix)
   [docker](#docker)
       ]
+  + servicemix <https://github.com/apache/servicemix> 
+
+      [
+  [servicemix](#servicemix)
+      ]
 
 ## spark
   + envelope <https://github.com/cloudera-labs/envelope> 

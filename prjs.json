@@ -1701,6 +1701,20 @@
          ],
          "url": "https://github.com/qjebbs/vscode-plantuml",
          "user": "qjebbs"
+      },
+      {
+         "alias": "servicemix",
+         "forked": false,
+         "release": null,
+         "repos_name": "servicemix",
+         "score": 3,
+         "shallow": false,
+         "site": "https://github.com",
+         "tags": [
+            "servicemix"
+         ],
+         "url": "https://github.com/apache/servicemix",
+         "user": "apache"
       }
    ],
    "tag_categories": {
@@ -4626,6 +4640,20 @@
                ],
                "url": "https://github.com/mkroli/servicemix-docker",
                "user": "mkroli"
+            },
+            {
+               "alias": "servicemix",
+               "forked": false,
+               "release": null,
+               "repos_name": "servicemix",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "servicemix"
+               ],
+               "url": "https://github.com/apache/servicemix",
+               "user": "apache"
             }
          ],
          "spark": [

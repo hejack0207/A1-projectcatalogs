@@ -395,6 +395,7 @@ Tags
 
   + servicemix-docker https://github.com/mzipay/servicemix-docker
   + mkroli-servicemix-docker https://github.com/mkroli/servicemix-docker
+  + servicemix https://github.com/apache/servicemix
 
 * spark
 
