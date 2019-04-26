@@ -329,6 +329,7 @@ Tags
 * ocr_awesome
 
   + awesome-ocr https://github.com/kba/awesome-ocr
+  + awesome-deep-text-detection-recognition https://github.com/hwalsuklee/awesome-deep-text-detection-recognition
 
 * ocr_impl
 

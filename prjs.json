@@ -1717,6 +1717,20 @@
          ],
          "url": "https://github.com/apache/servicemix",
          "user": "apache"
+      },
+      {
+         "alias": "awesome-deep-text-detection-recognition",
+         "forked": false,
+         "release": null,
+         "repos_name": "awesome-deep-text-detection-recognition",
+         "score": 3,
+         "shallow": false,
+         "site": "https://github.com",
+         "tags": [
+            "ocr_awesome"
+         ],
+         "url": "https://github.com/hwalsuklee/awesome-deep-text-detection-recognition",
+         "user": "hwalsuklee"
       }
    ],
    "tag_categories": {
@@ -4261,6 +4275,20 @@
                ],
                "url": "https://github.com/kba/awesome-ocr",
                "user": "kba"
+            },
+            {
+               "alias": "awesome-deep-text-detection-recognition",
+               "forked": false,
+               "release": null,
+               "repos_name": "awesome-deep-text-detection-recognition",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "ocr_awesome"
+               ],
+               "url": "https://github.com/hwalsuklee/awesome-deep-text-detection-recognition",
+               "user": "hwalsuklee"
             }
          ],
          "ocr_impl": [

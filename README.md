@@ -1231,6 +1231,11 @@
       [
   [ocr_awesome](#ocr_awesome)
       ]
+  + awesome-deep-text-detection-recognition <https://github.com/hwalsuklee/awesome-deep-text-detection-recognition> 
+
+      [
+  [ocr_awesome](#ocr_awesome)
+      ]
 
 ## ocr_impl
   + EasyOCR <https://github.com/ushelp/EasyOCR> 
