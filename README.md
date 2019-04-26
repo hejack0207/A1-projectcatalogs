@@ -282,6 +282,12 @@
   [docker_compose](#docker_compose)
   [tesseract](#tesseract)
       ]
+  + camel <https://github.com/apache/camel> 
+
+      [
+  [camel](#camel)
+  [asciidoc](#asciidoc)
+      ]
 
 ## autotools
   + zsh <https://github.com/zsh-users/zsh> 
@@ -432,6 +438,7 @@
 
       [
   [camel](#camel)
+  [asciidoc](#asciidoc)
       ]
 
 ## cdh

@@ -33,6 +33,7 @@ Tags
 * asciidoc
 
   + tesseract https://github.com/tesseract-ocr/tesseract
+  + camel https://github.com/apache/camel
 
 * autotools
 

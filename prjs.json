@@ -898,7 +898,8 @@
          "shallow": false,
          "site": "https://github.com",
          "tags": [
-            "camel"
+            "camel",
+            "asciidoc"
          ],
          "url": "https://github.com/apache/camel",
          "user": "apache"
@@ -2122,6 +2123,21 @@
                ],
                "url": "https://github.com/tesseract-ocr/tesseract",
                "user": "tesseract-ocr"
+            },
+            {
+               "alias": "camel",
+               "forked": false,
+               "release": null,
+               "repos_name": "camel",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "camel",
+                  "asciidoc"
+               ],
+               "url": "https://github.com/apache/camel",
+               "user": "apache"
             }
          ],
          "autotools": [
@@ -2458,7 +2474,8 @@
                "shallow": false,
                "site": "https://github.com",
                "tags": [
-                  "camel"
+                  "camel",
+                  "asciidoc"
                ],
                "url": "https://github.com/apache/camel",
                "user": "apache"
