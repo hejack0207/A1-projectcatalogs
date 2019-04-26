@@ -34,6 +34,7 @@ Tags
 
   + tesseract https://github.com/tesseract-ocr/tesseract
   + camel https://github.com/apache/camel
+  + servicemix https://github.com/apache/servicemix
 
 * autotools
 

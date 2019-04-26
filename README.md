@@ -288,6 +288,12 @@
   [camel](#camel)
   [asciidoc](#asciidoc)
       ]
+  + servicemix <https://github.com/apache/servicemix> 
+
+      [
+  [servicemix](#servicemix)
+  [asciidoc](#asciidoc)
+      ]
 
 ## autotools
   + zsh <https://github.com/zsh-users/zsh> 
@@ -1407,6 +1413,7 @@
 
       [
   [servicemix](#servicemix)
+  [asciidoc](#asciidoc)
       ]
 
 ## spark

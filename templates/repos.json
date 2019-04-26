@@ -965,7 +965,8 @@
       "user": "apache",
       "repos_name": "servicemix",
       "tags": [
-        "servicemix"
+        "servicemix",
+        "asciidoc"
       ]
     }
   ]

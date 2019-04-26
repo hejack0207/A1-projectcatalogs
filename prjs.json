@@ -1712,7 +1712,8 @@
          "shallow": false,
          "site": "https://github.com",
          "tags": [
-            "servicemix"
+            "servicemix",
+            "asciidoc"
          ],
          "url": "https://github.com/apache/servicemix",
          "user": "apache"
@@ -2137,6 +2138,21 @@
                   "asciidoc"
                ],
                "url": "https://github.com/apache/camel",
+               "user": "apache"
+            },
+            {
+               "alias": "servicemix",
+               "forked": false,
+               "release": null,
+               "repos_name": "servicemix",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "servicemix",
+                  "asciidoc"
+               ],
+               "url": "https://github.com/apache/servicemix",
                "user": "apache"
             }
          ],
@@ -4667,7 +4683,8 @@
                "shallow": false,
                "site": "https://github.com",
                "tags": [
-                  "servicemix"
+                  "servicemix",
+                  "asciidoc"
                ],
                "url": "https://github.com/apache/servicemix",
                "user": "apache"
