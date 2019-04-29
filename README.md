@@ -862,9 +862,21 @@
   [graphql](#graphql)
   [graphql_java](#graphql_java)
       ]
+  + graphql-java-tools <https://github.com/graphql-java-kickstart/graphql-java-tools> 
+
+      [
+  [graphql](#graphql)
+  [graphql_java](#graphql_java)
+      ]
 
 ## graphql_java
   + graphql-jpa <https://github.com/jcrygier/graphql-jpa> 
+
+      [
+  [graphql](#graphql)
+  [graphql_java](#graphql_java)
+      ]
+  + graphql-java-tools <https://github.com/graphql-java-kickstart/graphql-java-tools> 
 
       [
   [graphql](#graphql)

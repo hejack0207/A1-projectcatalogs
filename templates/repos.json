@@ -692,6 +692,11 @@
       "user": "jcrygier", 
       "repos_name": "graphql-jpa", 
       "tags": ["graphql", "graphql_java"]
+    }, 
+    {
+      "user": "graphql-java-kickstart", 
+      "repos_name": "graphql-java-tools", 
+      "tags": ["graphql", "graphql_java"]
     }
   ]
 }

@@ -1820,6 +1820,21 @@
          ],
          "url": "https://github.com/jcrygier/graphql-jpa",
          "user": "jcrygier"
+      },
+      {
+         "alias": "graphql-java-tools",
+         "forked": false,
+         "release": null,
+         "repos_name": "graphql-java-tools",
+         "score": 3,
+         "shallow": false,
+         "site": "https://github.com",
+         "tags": [
+            "graphql",
+            "graphql_java"
+         ],
+         "url": "https://github.com/graphql-java-kickstart/graphql-java-tools",
+         "user": "graphql-java-kickstart"
       }
    ],
    "tag_categories": {
@@ -3524,6 +3539,21 @@
                ],
                "url": "https://github.com/jcrygier/graphql-jpa",
                "user": "jcrygier"
+            },
+            {
+               "alias": "graphql-java-tools",
+               "forked": false,
+               "release": null,
+               "repos_name": "graphql-java-tools",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "graphql",
+                  "graphql_java"
+               ],
+               "url": "https://github.com/graphql-java-kickstart/graphql-java-tools",
+               "user": "graphql-java-kickstart"
             }
          ],
          "graphql_java": [
@@ -3541,6 +3571,21 @@
                ],
                "url": "https://github.com/jcrygier/graphql-jpa",
                "user": "jcrygier"
+            },
+            {
+               "alias": "graphql-java-tools",
+               "forked": false,
+               "release": null,
+               "repos_name": "graphql-java-tools",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "graphql",
+                  "graphql_java"
+               ],
+               "url": "https://github.com/graphql-java-kickstart/graphql-java-tools",
+               "user": "graphql-java-kickstart"
             }
          ],
          "greenplum": [
