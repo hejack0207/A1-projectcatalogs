@@ -202,7 +202,7 @@ Tags
   + graphql-config https://github.com/prisma/graphql-config
   + awesome-graphql https://github.com/chentsulin/awesome-graphql
 
-* graphql-fe
+* graphql_fe
 
   + awesome-react-graphql https://github.com/hasura/awesome-react-graphql
   + awesome-angular-graphql https://github.com/hasura/awesome-angular-graphql

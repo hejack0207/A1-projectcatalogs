@@ -20,7 +20,7 @@
 ## arch_api_graphql
 
   [graph](#graph)
-  [graphql-fe](#graphql-fe)
+  [graphql_fe](#graphql_fe)
   [graphql_java](#graphql_java)
   [prisma](#prisma)
 ## arch_backend_esb
@@ -855,21 +855,21 @@
   [graphql](#graphql)
       ]
 
-## graphql-fe
+## graphql_fe
   + awesome-react-graphql <https://github.com/hasura/awesome-react-graphql> 
 
       [
-  [graphql-fe](#graphql-fe)
+  [graphql_fe](#graphql_fe)
       ]
   + awesome-angular-graphql <https://github.com/hasura/awesome-angular-graphql> 
 
       [
-  [graphql-fe](#graphql-fe)
+  [graphql_fe](#graphql_fe)
       ]
   + apollo-client <https://github.com/apollographql/apollo-client> 
 
       [
-  [graphql-fe](#graphql-fe)
+  [graphql_fe](#graphql_fe)
       ]
 
 ## graphql_java

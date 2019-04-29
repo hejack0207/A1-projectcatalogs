@@ -410,7 +410,7 @@
     {
       "alias": "ngx-graph", 
       "repos_name": "ngx-graph", 
-      "tags": ["angular", "graph-ui"], 
+      "tags": ["angular", "graph_ui"], 
       "user": "swimlane"
     }, 
     {
@@ -716,12 +716,12 @@
     {
       "user": "hasura", 
       "repos_name": "awesome-react-graphql", 
-      "tags": ["graphql-fe"]
+      "tags": ["graphql_fe"]
     }, 
     {
       "user": "hasura", 
       "repos_name": "awesome-angular-graphql", 
-      "tags": ["graphql-fe"]
+      "tags": ["graphql_fe"]
     }, 
     {
       "user": "Alejandromndza", 
@@ -731,7 +731,7 @@
     {
       "user": "apollographql", 
       "repos_name": "apollo-client", 
-      "tags": ["graphql-fe"]
+      "tags": ["graphql_fe"]
     }
   ]
 }
