@@ -1910,6 +1910,20 @@
          ],
          "url": "https://github.com/hasura/awesome-angular-graphql",
          "user": "hasura"
+      },
+      {
+         "alias": "SpringGraphQLMybatis",
+         "forked": false,
+         "release": null,
+         "repos_name": "SpringGraphQLMybatis",
+         "score": 3,
+         "shallow": false,
+         "site": "https://github.com",
+         "tags": [
+            "graphql_java"
+         ],
+         "url": "https://github.com/Alejandromndza/SpringGraphQLMybatis",
+         "user": "Alejandromndza"
       }
    ],
    "tag_categories": {
@@ -3786,6 +3800,20 @@
                ],
                "url": "https://github.com/graphql-java/graphql-java-spring",
                "user": "graphql-java"
+            },
+            {
+               "alias": "SpringGraphQLMybatis",
+               "forked": false,
+               "release": null,
+               "repos_name": "SpringGraphQLMybatis",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "graphql_java"
+               ],
+               "url": "https://github.com/Alejandromndza/SpringGraphQLMybatis",
+               "user": "Alejandromndza"
             }
          ],
          "greenplum": [

@@ -220,6 +220,7 @@ Tags
   + graphql-java https://github.com/graphql-java/graphql-java
   + awesome-graphql-java https://github.com/graphql-java/awesome-graphql-java
   + graphql-java-spring https://github.com/graphql-java/graphql-java-spring
+  + SpringGraphQLMybatis https://github.com/Alejandromndza/SpringGraphQLMybatis
 
 * greenplum
 

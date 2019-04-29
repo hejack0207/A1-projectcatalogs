@@ -934,6 +934,11 @@
   [graphql](#graphql)
   [graphql_java](#graphql_java)
       ]
+  + SpringGraphQLMybatis <https://github.com/Alejandromndza/SpringGraphQLMybatis> 
+
+      [
+  [graphql_java](#graphql_java)
+      ]
 
 ## greenplum
   + docker-gpdb5 <https://github.com/bbotev01/gpdb5> 

@@ -722,6 +722,11 @@
       "user": "hasura", 
       "repos_name": "awesome-angular-graphql", 
       "tags": ["graphql-fe"]
+    }, 
+    {
+      "user": "Alejandromndza", 
+      "repos_name": "SpringGraphQLMybatis", 
+      "tags": ["graphql_java"]
     }
   ]
 }
