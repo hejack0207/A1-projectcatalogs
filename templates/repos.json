@@ -757,6 +757,11 @@
       "user": "fishjam", 
       "repos_name": "xmlstarlet", 
       "tags": ["xml_tool"]
+    }, 
+    {
+      "user": "kislyuk", 
+      "repos_name": "yq", 
+      "tags": ["yml_tool"]
     }
   ]
 }

@@ -10,6 +10,7 @@
   [restful](#restful)
   [travis](#travis)
   [xml_tool](#xml_tool)
+  [yml_tool](#yml_tool)
 
 ## arch_agrithom
 
@@ -1826,6 +1827,13 @@
 
       [
   [xml_tool](#xml_tool)
+      ]
+
+## yml_tool
+  + yq <https://github.com/kislyuk/yq> 
+
+      [
+  [yml_tool](#yml_tool)
       ]
 
 ## zsh

@@ -534,6 +534,10 @@ Tags
 
   + xmlstarlet https://github.com/fishjam/xmlstarlet
 
+* yml_tool
+
+  + yq https://github.com/kislyuk/yq
+
 * zsh
 
   + zsh https://github.com/zsh-users/zsh

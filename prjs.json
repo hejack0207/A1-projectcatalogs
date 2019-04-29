@@ -106,7 +106,8 @@
          "mazerunner",
          "restful",
          "travis",
-         "xml_tool"
+         "xml_tool",
+         "yml_tool"
       ]
    },
    "repos_": [
@@ -2005,6 +2006,20 @@
          ],
          "url": "https://github.com/fishjam/xmlstarlet",
          "user": "fishjam"
+      },
+      {
+         "alias": "yq",
+         "forked": false,
+         "release": null,
+         "repos_name": "yq",
+         "score": 3,
+         "shallow": false,
+         "site": "https://github.com",
+         "tags": [
+            "yml_tool"
+         ],
+         "url": "https://github.com/kislyuk/yq",
+         "user": "kislyuk"
       }
    ],
    "tag_categories": {
@@ -5897,6 +5912,22 @@
                ],
                "url": "https://github.com/fishjam/xmlstarlet",
                "user": "fishjam"
+            }
+         ],
+         "yml_tool": [
+            {
+               "alias": "yq",
+               "forked": false,
+               "release": null,
+               "repos_name": "yq",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "yml_tool"
+               ],
+               "url": "https://github.com/kislyuk/yq",
+               "user": "kislyuk"
             }
          ],
          "zsh": [
