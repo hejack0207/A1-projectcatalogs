@@ -94,6 +94,7 @@
          "zsh"
       ],
       "tags_not_in_category": [
+         "android_app",
          "apollo",
          "graph-ui",
          "json",
@@ -898,7 +899,8 @@
          "shallow": false,
          "site": "https://github.com",
          "tags": [
-            "camel"
+            "camel",
+            "asciidoc"
          ],
          "url": "https://github.com/apache/camel",
          "user": "apache"
@@ -1701,6 +1703,49 @@
          ],
          "url": "https://github.com/qjebbs/vscode-plantuml",
          "user": "qjebbs"
+      },
+      {
+         "alias": "servicemix",
+         "forked": false,
+         "release": null,
+         "repos_name": "servicemix",
+         "score": 3,
+         "shallow": false,
+         "site": "https://github.com",
+         "tags": [
+            "servicemix",
+            "asciidoc"
+         ],
+         "url": "https://github.com/apache/servicemix",
+         "user": "apache"
+      },
+      {
+         "alias": "awesome-deep-text-detection-recognition",
+         "forked": false,
+         "release": null,
+         "repos_name": "awesome-deep-text-detection-recognition",
+         "score": 3,
+         "shallow": false,
+         "site": "https://github.com",
+         "tags": [
+            "ocr_awesome"
+         ],
+         "url": "https://github.com/hwalsuklee/awesome-deep-text-detection-recognition",
+         "user": "hwalsuklee"
+      },
+      {
+         "alias": "OpenHub",
+         "forked": false,
+         "release": null,
+         "repos_name": "OpenHub",
+         "score": 3,
+         "shallow": false,
+         "site": "https://github.com",
+         "tags": [
+            "android_app"
+         ],
+         "url": "https://github.com/ThirtyDegreesRay/OpenHub",
+         "user": "ThirtyDegreesRay"
       }
    ],
    "tag_categories": {
@@ -1895,6 +1940,22 @@
                ],
                "url": "https://github.com/CrisJk/Agriculture-KnowledgeGraph-Data",
                "user": "CrisJk"
+            }
+         ],
+         "android_app": [
+            {
+               "alias": "OpenHub",
+               "forked": false,
+               "release": null,
+               "repos_name": "OpenHub",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "android_app"
+               ],
+               "url": "https://github.com/ThirtyDegreesRay/OpenHub",
+               "user": "ThirtyDegreesRay"
             }
          ],
          "angular": [
@@ -2108,6 +2169,36 @@
                ],
                "url": "https://github.com/tesseract-ocr/tesseract",
                "user": "tesseract-ocr"
+            },
+            {
+               "alias": "camel",
+               "forked": false,
+               "release": null,
+               "repos_name": "camel",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "camel",
+                  "asciidoc"
+               ],
+               "url": "https://github.com/apache/camel",
+               "user": "apache"
+            },
+            {
+               "alias": "servicemix",
+               "forked": false,
+               "release": null,
+               "repos_name": "servicemix",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "servicemix",
+                  "asciidoc"
+               ],
+               "url": "https://github.com/apache/servicemix",
+               "user": "apache"
             }
          ],
          "autotools": [
@@ -2444,7 +2535,8 @@
                "shallow": false,
                "site": "https://github.com",
                "tags": [
-                  "camel"
+                  "camel",
+                  "asciidoc"
                ],
                "url": "https://github.com/apache/camel",
                "user": "apache"
@@ -4214,6 +4306,20 @@
                ],
                "url": "https://github.com/kba/awesome-ocr",
                "user": "kba"
+            },
+            {
+               "alias": "awesome-deep-text-detection-recognition",
+               "forked": false,
+               "release": null,
+               "repos_name": "awesome-deep-text-detection-recognition",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "ocr_awesome"
+               ],
+               "url": "https://github.com/hwalsuklee/awesome-deep-text-detection-recognition",
+               "user": "hwalsuklee"
             }
          ],
          "ocr_impl": [
@@ -4626,6 +4732,21 @@
                ],
                "url": "https://github.com/mkroli/servicemix-docker",
                "user": "mkroli"
+            },
+            {
+               "alias": "servicemix",
+               "forked": false,
+               "release": null,
+               "repos_name": "servicemix",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "servicemix",
+                  "asciidoc"
+               ],
+               "url": "https://github.com/apache/servicemix",
+               "user": "apache"
             }
          ],
          "spark": [

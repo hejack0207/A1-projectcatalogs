@@ -53,7 +53,7 @@ Categories
 
   + pentaho-kettle https://github.com/pentaho/pentaho-kettle
   + docker-pdi-ce https://github.com/zhicwu/docker-pdi-ce
-  + webkettle https://github.com/hejack0207/webkettle
+  + webkettle https://github.com/JoeyBling/webkettle
   + -------------------------- 
   + envelope https://github.com/cloudera-labs/envelope
 
@@ -72,12 +72,12 @@ Categories
 
 * scaffold
 
-  + generator-jhipster https://github.com/hejack0207/generator-jhipster
-  + lb-2-jhipster https://github.com/hejack0207/lb-2-jhipster
+  + generator-jhipster https://github.com/jhipster/generator-jhipster
+  + lb-2-jhipster https://github.com/ziogiugno/lb-2-jhipster
 
 * template projects
 
-  + SpringCloud https://github.com/hejack0207/SpringCloud
+  + SpringCloud https://github.com/zhoutaoo/SpringCloud
 
 * big data
 
@@ -89,5 +89,5 @@ Categories
 
 * documentation
 
-  + lb-2-jhipster https://github.com/hejack0207/lb-2-jhipster
+  + lb-2-jhipster https://github.com/ziogiugno/lb-2-jhipster
 

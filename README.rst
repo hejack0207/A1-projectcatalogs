@@ -17,6 +17,10 @@ Tags
   + Agriculture_KnowledgeGraph https://github.com/hejack0207/Agriculture_KnowledgeGraph
   + Agriculture-KnowledgeGraph-Data https://github.com/CrisJk/Agriculture-KnowledgeGraph-Data
 
+* android_app
+
+  + OpenHub https://github.com/ThirtyDegreesRay/OpenHub
+
 * angular
 
   + ngx-graph https://github.com/swimlane/ngx-graph
@@ -44,6 +48,8 @@ Tags
 * asciidoc
 
   + tesseract https://github.com/tesseract-ocr/tesseract
+  + camel https://github.com/apache/camel
+  + servicemix https://github.com/apache/servicemix
 
 * autotools
 
@@ -327,6 +333,7 @@ Tags
 * ocr_awesome
 
   + awesome-ocr https://github.com/kba/awesome-ocr
+  + awesome-deep-text-detection-recognition https://github.com/hwalsuklee/awesome-deep-text-detection-recognition
 
 * ocr_impl
 
@@ -395,6 +402,7 @@ Tags
 
   + servicemix-docker https://github.com/mzipay/servicemix-docker
   + mkroli-servicemix-docker https://github.com/mkroli/servicemix-docker
+  + servicemix https://github.com/apache/servicemix
 
 * spark
 

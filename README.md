@@ -1,5 +1,6 @@
 # category
 ## not in category
+  [android_app](#android_app)
   [apollo](#apollo)
   [graph-ui](#graph-ui)
   [json](#json)
@@ -187,6 +188,13 @@
   [agriculture_knowledge_graph](#agriculture_knowledge_graph)
       ]
 
+## android_app
+  + OpenHub <https://github.com/ThirtyDegreesRay/OpenHub> 
+
+      [
+  [android_app](#android_app)
+      ]
+
 ## angular
   + ngx-graph <https://github.com/swimlane/ngx-graph> 
 
@@ -281,6 +289,18 @@
   [docker](#docker)
   [docker_compose](#docker_compose)
   [tesseract](#tesseract)
+      ]
+  + camel <https://github.com/apache/camel> 
+
+      [
+  [camel](#camel)
+  [asciidoc](#asciidoc)
+      ]
+  + servicemix <https://github.com/apache/servicemix> 
+
+      [
+  [servicemix](#servicemix)
+  [asciidoc](#asciidoc)
       ]
 
 ## autotools
@@ -432,6 +452,7 @@
 
       [
   [camel](#camel)
+  [asciidoc](#asciidoc)
       ]
 
 ## cdh
@@ -1218,6 +1239,11 @@
       [
   [ocr_awesome](#ocr_awesome)
       ]
+  + awesome-deep-text-detection-recognition <https://github.com/hwalsuklee/awesome-deep-text-detection-recognition> 
+
+      [
+  [ocr_awesome](#ocr_awesome)
+      ]
 
 ## ocr_impl
   + EasyOCR <https://github.com/ushelp/EasyOCR> 
@@ -1395,6 +1421,12 @@
       [
   [servicemix](#servicemix)
   [docker](#docker)
+      ]
+  + servicemix <https://github.com/apache/servicemix> 
+
+      [
+  [servicemix](#servicemix)
+  [asciidoc](#asciidoc)
       ]
 
 ## spark
