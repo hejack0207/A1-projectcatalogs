@@ -26,6 +26,7 @@ Tags
   + ngx-graph https://github.com/swimlane/ngx-graph
   + angular2-swagger-apiclient-generator https://github.com/zemacik/angular2-swagger-apiclient-generator
   + ng-swagger-gen https://github.com/cyclosproject/ng-swagger-gen
+  + awesome-angular-components https://github.com/brillout/awesome-angular-components
 
 * ansible
 

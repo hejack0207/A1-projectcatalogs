@@ -676,7 +676,7 @@
     {
       "user": "prisma", 
       "repos_name": "prisma", 
-      "tags": [ "prisma"]
+      "tags": ["prisma"]
     }, 
     {
       "user": "catalinmiron", 
@@ -691,27 +691,27 @@
     {
       "user": "jcrygier", 
       "repos_name": "graphql-jpa", 
-      "tags": [ "graphql_java"]
+      "tags": ["graphql_java"]
     }, 
     {
       "user": "graphql-java-kickstart", 
       "repos_name": "graphql-java-tools", 
-      "tags": [ "graphql_java"]
+      "tags": ["graphql_java"]
     }, 
     {
       "user": "graphql-java", 
       "repos_name": "graphql-java", 
-      "tags": [ "graphql_java"]
+      "tags": ["graphql_java"]
     }, 
     {
       "user": "graphql-java", 
       "repos_name": "awesome-graphql-java", 
-      "tags": [ "graphql_java"]
+      "tags": ["graphql_java"]
     }, 
     {
       "user": "graphql-java", 
       "repos_name": "graphql-java-spring", 
-      "tags": [ "graphql_java"]
+      "tags": ["graphql_java"]
     }, 
     {
       "user": "hasura", 
@@ -732,6 +732,11 @@
       "user": "apollographql", 
       "repos_name": "apollo-client", 
       "tags": ["graphql_fe"]
+    }, 
+    {
+      "user": "brillout", 
+      "repos_name": "awesome-angular-components", 
+      "tags": ["angular"]
     }
   ]
 }

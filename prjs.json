@@ -1931,6 +1931,20 @@
          ],
          "url": "https://github.com/apollographql/apollo-client",
          "user": "apollographql"
+      },
+      {
+         "alias": "awesome-angular-components",
+         "forked": false,
+         "release": null,
+         "repos_name": "awesome-angular-components",
+         "score": 3,
+         "shallow": false,
+         "site": "https://github.com",
+         "tags": [
+            "angular"
+         ],
+         "url": "https://github.com/brillout/awesome-angular-components",
+         "user": "brillout"
       }
    ],
    "tag_categories": {
@@ -2196,6 +2210,20 @@
                ],
                "url": "https://github.com/cyclosproject/ng-swagger-gen",
                "user": "cyclosproject"
+            },
+            {
+               "alias": "awesome-angular-components",
+               "forked": false,
+               "release": null,
+               "repos_name": "awesome-angular-components",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "angular"
+               ],
+               "url": "https://github.com/brillout/awesome-angular-components",
+               "user": "brillout"
             }
          ],
          "ansible": [

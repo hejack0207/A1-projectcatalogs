@@ -222,6 +222,11 @@
   [swagger](#swagger)
   [swagger_angular](#swagger_angular)
       ]
+  + awesome-angular-components <https://github.com/brillout/awesome-angular-components> 
+
+      [
+  [angular](#angular)
+      ]
 
 ## ansible
   + gpdb-ansible <https://github.com/andreasscherbaum/gpdb-ansible> 
