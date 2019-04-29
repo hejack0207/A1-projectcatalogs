@@ -897,6 +897,11 @@
       [
   [graphql-fe](#graphql-fe)
       ]
+  + awesome-angular-graphql <https://github.com/hasura/awesome-angular-graphql> 
+
+      [
+  [graphql-fe](#graphql-fe)
+      ]
 
 ## graphql_java
   + graphql-jpa <https://github.com/jcrygier/graphql-jpa> 

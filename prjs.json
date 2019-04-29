@@ -1896,6 +1896,20 @@
          ],
          "url": "https://github.com/hasura/awesome-react-graphql",
          "user": "hasura"
+      },
+      {
+         "alias": "awesome-angular-graphql",
+         "forked": false,
+         "release": null,
+         "repos_name": "awesome-angular-graphql",
+         "score": 3,
+         "shallow": false,
+         "site": "https://github.com",
+         "tags": [
+            "graphql-fe"
+         ],
+         "url": "https://github.com/hasura/awesome-angular-graphql",
+         "user": "hasura"
       }
    ],
    "tag_categories": {
@@ -3680,6 +3694,20 @@
                   "graphql-fe"
                ],
                "url": "https://github.com/hasura/awesome-react-graphql",
+               "user": "hasura"
+            },
+            {
+               "alias": "awesome-angular-graphql",
+               "forked": false,
+               "release": null,
+               "repos_name": "awesome-angular-graphql",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "graphql-fe"
+               ],
+               "url": "https://github.com/hasura/awesome-angular-graphql",
                "user": "hasura"
             }
          ],

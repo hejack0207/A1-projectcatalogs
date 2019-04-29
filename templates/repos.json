@@ -717,6 +717,11 @@
       "user": "hasura", 
       "repos_name": "awesome-react-graphql", 
       "tags": ["graphql-fe"]
+    }, 
+    {
+      "user": "hasura", 
+      "repos_name": "awesome-angular-graphql", 
+      "tags": ["graphql-fe"]
     }
   ]
 }
