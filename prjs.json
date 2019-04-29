@@ -36,6 +36,7 @@
          "git",
          "graph",
          "graphql",
+         "graphql-fe",
          "graphql_java",
          "greenplum",
          "gui",
@@ -100,7 +101,6 @@
          "android_app",
          "apollo",
          "graph-ui",
-         "graphql-fe",
          "json",
          "mazerunner",
          "restful",
@@ -1951,8 +1951,9 @@
       ],
       "arch_api_graphql": [
          "graph",
-         "prisma",
-         "graphql_java"
+         "graphql-fe",
+         "graphql_java",
+         "prisma"
       ],
       "arch_backend_esb": [
          "camel",

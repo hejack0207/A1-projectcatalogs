@@ -162,8 +162,9 @@
     ],
     "arch_api_graphql": [
       "graph",
-      "prisma",
-      "graphql_java"
+      "graphql-fe",
+      "graphql_java",
+      "prisma"
     ]
   }
 }
