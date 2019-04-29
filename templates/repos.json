@@ -747,6 +747,11 @@
       "user": "stedolan", 
       "repos_name": "jq", 
       "tags": ["jq", "json_tool"]
+    }, 
+    {
+      "user": "fiatjaf", 
+      "repos_name": "awesome-jq", 
+      "tags": ["jq"]
     }
   ]
 }

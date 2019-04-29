@@ -282,6 +282,7 @@ Tags
 * jq
 
   + jq https://github.com/stedolan/jq
+  + awesome-jq https://github.com/fiatjaf/awesome-jq
 
 * json
 

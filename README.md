@@ -1099,6 +1099,11 @@
   [jq](#jq)
   [json_tool](#json_tool)
       ]
+  + awesome-jq <https://github.com/fiatjaf/awesome-jq> 
+
+      [
+  [jq](#jq)
+      ]
 
 ## json
   + json-to-plantuml <https://github.com/meteorbites/json-to-plantuml> 

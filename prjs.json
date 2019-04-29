@@ -1976,6 +1976,20 @@
          ],
          "url": "https://github.com/stedolan/jq",
          "user": "stedolan"
+      },
+      {
+         "alias": "awesome-jq",
+         "forked": false,
+         "release": null,
+         "repos_name": "awesome-jq",
+         "score": 3,
+         "shallow": false,
+         "site": "https://github.com",
+         "tags": [
+            "jq"
+         ],
+         "url": "https://github.com/fiatjaf/awesome-jq",
+         "user": "fiatjaf"
       }
    ],
    "tag_categories": {
@@ -4232,6 +4246,20 @@
                ],
                "url": "https://github.com/stedolan/jq",
                "user": "stedolan"
+            },
+            {
+               "alias": "awesome-jq",
+               "forked": false,
+               "release": null,
+               "repos_name": "awesome-jq",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "jq"
+               ],
+               "url": "https://github.com/fiatjaf/awesome-jq",
+               "user": "fiatjaf"
             }
          ],
          "json": [
