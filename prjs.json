@@ -1835,6 +1835,21 @@
          ],
          "url": "https://github.com/graphql-java-kickstart/graphql-java-tools",
          "user": "graphql-java-kickstart"
+      },
+      {
+         "alias": "graphql-java",
+         "forked": false,
+         "release": null,
+         "repos_name": "graphql-java",
+         "score": 3,
+         "shallow": false,
+         "site": "https://github.com",
+         "tags": [
+            "graphql",
+            "graphql_java"
+         ],
+         "url": "https://github.com/graphql-java/graphql-java",
+         "user": "graphql-java"
       }
    ],
    "tag_categories": {
@@ -3554,6 +3569,21 @@
                ],
                "url": "https://github.com/graphql-java-kickstart/graphql-java-tools",
                "user": "graphql-java-kickstart"
+            },
+            {
+               "alias": "graphql-java",
+               "forked": false,
+               "release": null,
+               "repos_name": "graphql-java",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "graphql",
+                  "graphql_java"
+               ],
+               "url": "https://github.com/graphql-java/graphql-java",
+               "user": "graphql-java"
             }
          ],
          "graphql_java": [
@@ -3586,6 +3616,21 @@
                ],
                "url": "https://github.com/graphql-java-kickstart/graphql-java-tools",
                "user": "graphql-java-kickstart"
+            },
+            {
+               "alias": "graphql-java",
+               "forked": false,
+               "release": null,
+               "repos_name": "graphql-java",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "graphql",
+                  "graphql_java"
+               ],
+               "url": "https://github.com/graphql-java/graphql-java",
+               "user": "graphql-java"
             }
          ],
          "greenplum": [
