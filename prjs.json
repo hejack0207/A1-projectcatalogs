@@ -1865,6 +1865,21 @@
          ],
          "url": "https://github.com/graphql-java/awesome-graphql-java",
          "user": "graphql-java"
+      },
+      {
+         "alias": "graphql-java-spring",
+         "forked": false,
+         "release": null,
+         "repos_name": "graphql-java-spring",
+         "score": 3,
+         "shallow": false,
+         "site": "https://github.com",
+         "tags": [
+            "graphql",
+            "graphql_java"
+         ],
+         "url": "https://github.com/graphql-java/graphql-java-spring",
+         "user": "graphql-java"
       }
    ],
    "tag_categories": {
@@ -3614,6 +3629,21 @@
                ],
                "url": "https://github.com/graphql-java/awesome-graphql-java",
                "user": "graphql-java"
+            },
+            {
+               "alias": "graphql-java-spring",
+               "forked": false,
+               "release": null,
+               "repos_name": "graphql-java-spring",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "graphql",
+                  "graphql_java"
+               ],
+               "url": "https://github.com/graphql-java/graphql-java-spring",
+               "user": "graphql-java"
             }
          ],
          "graphql_java": [
@@ -3675,6 +3705,21 @@
                   "graphql_java"
                ],
                "url": "https://github.com/graphql-java/awesome-graphql-java",
+               "user": "graphql-java"
+            },
+            {
+               "alias": "graphql-java-spring",
+               "forked": false,
+               "release": null,
+               "repos_name": "graphql-java-spring",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "graphql",
+                  "graphql_java"
+               ],
+               "url": "https://github.com/graphql-java/graphql-java-spring",
                "user": "graphql-java"
             }
          ],

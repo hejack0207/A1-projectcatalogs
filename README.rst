@@ -217,6 +217,7 @@ Tags
   + graphql-java-tools https://github.com/graphql-java-kickstart/graphql-java-tools
   + graphql-java https://github.com/graphql-java/graphql-java
   + awesome-graphql-java https://github.com/graphql-java/awesome-graphql-java
+  + graphql-java-spring https://github.com/graphql-java/graphql-java-spring
 
 * graphql_java
 
@@ -224,6 +225,7 @@ Tags
   + graphql-java-tools https://github.com/graphql-java-kickstart/graphql-java-tools
   + graphql-java https://github.com/graphql-java/graphql-java
   + awesome-graphql-java https://github.com/graphql-java/awesome-graphql-java
+  + graphql-java-spring https://github.com/graphql-java/graphql-java-spring
 
 * greenplum
 
