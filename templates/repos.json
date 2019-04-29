@@ -702,6 +702,11 @@
       "user": "graphql-java", 
       "repos_name": "graphql-java", 
       "tags": ["graphql", "graphql_java"]
+    }, 
+    {
+      "user": "graphql-java", 
+      "repos_name": "awesome-graphql-java", 
+      "tags": ["graphql", "graphql_java"]
     }
   ]
 }
