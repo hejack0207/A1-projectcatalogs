@@ -662,6 +662,11 @@
       "user": "hwalsuklee", 
       "repos_name": "awesome-deep-text-detection-recognition", 
       "tags": ["ocr_awesome"]
+    }, 
+    {
+      "user": "ThirtyDegreesRay", 
+      "repos_name": "OpenHub", 
+      "tags": ["android_app"]
     }
   ]
 }

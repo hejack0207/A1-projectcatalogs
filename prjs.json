@@ -94,6 +94,7 @@
          "zsh"
       ],
       "tags_not_in_category": [
+         "android_app",
          "apollo",
          "graph-ui",
          "json",
@@ -1731,6 +1732,20 @@
          ],
          "url": "https://github.com/hwalsuklee/awesome-deep-text-detection-recognition",
          "user": "hwalsuklee"
+      },
+      {
+         "alias": "OpenHub",
+         "forked": false,
+         "release": null,
+         "repos_name": "OpenHub",
+         "score": 3,
+         "shallow": false,
+         "site": "https://github.com",
+         "tags": [
+            "android_app"
+         ],
+         "url": "https://github.com/ThirtyDegreesRay/OpenHub",
+         "user": "ThirtyDegreesRay"
       }
    ],
    "tag_categories": {
@@ -1925,6 +1940,22 @@
                ],
                "url": "https://github.com/CrisJk/Agriculture-KnowledgeGraph-Data",
                "user": "CrisJk"
+            }
+         ],
+         "android_app": [
+            {
+               "alias": "OpenHub",
+               "forked": false,
+               "release": null,
+               "repos_name": "OpenHub",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "android_app"
+               ],
+               "url": "https://github.com/ThirtyDegreesRay/OpenHub",
+               "user": "ThirtyDegreesRay"
             }
          ],
          "angular": [
