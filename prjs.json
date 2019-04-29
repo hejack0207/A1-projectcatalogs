@@ -1790,6 +1790,20 @@
          ],
          "url": "https://github.com/catalinmiron/awesome-prisma",
          "user": "catalinmiron"
+      },
+      {
+         "alias": "awesome-graphql",
+         "forked": false,
+         "release": null,
+         "repos_name": "awesome-graphql",
+         "score": 3,
+         "shallow": false,
+         "site": "https://github.com",
+         "tags": [
+            "graphql"
+         ],
+         "url": "https://github.com/chentsulin/awesome-graphql",
+         "user": "chentsulin"
       }
    ],
    "tag_categories": {
@@ -3465,6 +3479,20 @@
                ],
                "url": "https://github.com/prisma/prisma",
                "user": "prisma"
+            },
+            {
+               "alias": "awesome-graphql",
+               "forked": false,
+               "release": null,
+               "repos_name": "awesome-graphql",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "graphql"
+               ],
+               "url": "https://github.com/chentsulin/awesome-graphql",
+               "user": "chentsulin"
             }
          ],
          "greenplum": [

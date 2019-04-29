@@ -850,6 +850,11 @@
   [graphql](#graphql)
   [prisma](#prisma)
       ]
+  + awesome-graphql <https://github.com/chentsulin/awesome-graphql> 
+
+      [
+  [graphql](#graphql)
+      ]
 
 ## greenplum
   + docker-gpdb5 <https://github.com/bbotev01/gpdb5> 
