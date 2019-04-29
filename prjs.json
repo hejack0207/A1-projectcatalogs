@@ -100,7 +100,7 @@
       "tags_not_in_category": [
          "android_app",
          "apollo",
-         "graph-ui",
+         "graph_ui",
          "json",
          "mazerunner",
          "restful",
@@ -1119,7 +1119,7 @@
          "site": "https://github.com",
          "tags": [
             "angular",
-            "graph-ui"
+            "graph_ui"
          ],
          "url": "https://github.com/swimlane/ngx-graph",
          "user": "swimlane"
@@ -2161,7 +2161,7 @@
                "site": "https://github.com",
                "tags": [
                   "angular",
-                  "graph-ui"
+                  "graph_ui"
                ],
                "url": "https://github.com/swimlane/ngx-graph",
                "user": "swimlane"
@@ -3567,7 +3567,7 @@
                "user": "git"
             }
          ],
-         "graph-ui": [
+         "graph_ui": [
             {
                "alias": "ngx-graph",
                "forked": false,
@@ -3578,7 +3578,7 @@
                "site": "https://github.com",
                "tags": [
                   "angular",
-                  "graph-ui"
+                  "graph_ui"
                ],
                "url": "https://github.com/swimlane/ngx-graph",
                "user": "swimlane"

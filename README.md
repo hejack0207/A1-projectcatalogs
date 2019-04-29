@@ -2,7 +2,7 @@
 ## not in category
   [android_app](#android_app)
   [apollo](#apollo)
-  [graph-ui](#graph-ui)
+  [graph_ui](#graph_ui)
   [json](#json)
   [mazerunner](#mazerunner)
   [restful](#restful)
@@ -206,7 +206,7 @@
 
       [
   [angular](#angular)
-  [graph-ui](#graph-ui)
+  [graph_ui](#graph_ui)
       ]
   + angular2-swagger-apiclient-generator <https://github.com/zemacik/angular2-swagger-apiclient-generator> 
 
@@ -835,12 +835,12 @@
   [git](#git)
       ]
 
-## graph-ui
+## graph_ui
   + ngx-graph <https://github.com/swimlane/ngx-graph> 
 
       [
   [angular](#angular)
-  [graph-ui](#graph-ui)
+  [graph_ui](#graph_ui)
       ]
 
 ## graphql

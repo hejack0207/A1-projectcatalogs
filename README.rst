@@ -204,7 +204,7 @@ Tags
 
   + git https://github.com/git/git
 
-* graph-ui
+* graph_ui
 
   + ngx-graph https://github.com/swimlane/ngx-graph
 
