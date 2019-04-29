@@ -1776,6 +1776,20 @@
          ],
          "url": "https://github.com/prisma/prisma",
          "user": "prisma"
+      },
+      {
+         "alias": "awesome-prisma",
+         "forked": false,
+         "release": null,
+         "repos_name": "awesome-prisma",
+         "score": 3,
+         "shallow": false,
+         "site": "https://github.com",
+         "tags": [
+            "prisma"
+         ],
+         "url": "https://github.com/catalinmiron/awesome-prisma",
+         "user": "catalinmiron"
       }
    ],
    "tag_categories": {
@@ -4694,6 +4708,20 @@
                ],
                "url": "https://github.com/prisma/prisma",
                "user": "prisma"
+            },
+            {
+               "alias": "awesome-prisma",
+               "forked": false,
+               "release": null,
+               "repos_name": "awesome-prisma",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "prisma"
+               ],
+               "url": "https://github.com/catalinmiron/awesome-prisma",
+               "user": "catalinmiron"
             }
          ],
          "redis": [

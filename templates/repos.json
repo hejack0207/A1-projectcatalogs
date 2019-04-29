@@ -677,6 +677,11 @@
       "user": "prisma", 
       "repos_name": "prisma", 
       "tags": ["graphql", "prisma"]
+    }, 
+    {
+      "user": "catalinmiron", 
+      "repos_name": "awesome-prisma", 
+      "tags": ["prisma"]
     }
   ]
 }

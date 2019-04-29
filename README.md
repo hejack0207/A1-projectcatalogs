@@ -1391,6 +1391,11 @@
   [graphql](#graphql)
   [prisma](#prisma)
       ]
+  + awesome-prisma <https://github.com/catalinmiron/awesome-prisma> 
+
+      [
+  [prisma](#prisma)
+      ]
 
 ## redis
   + redis <https://github.com/antirez/redis> 

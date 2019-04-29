@@ -375,6 +375,7 @@ Tags
 * prisma
 
   + prisma https://github.com/prisma/prisma
+  + awesome-prisma https://github.com/catalinmiron/awesome-prisma
 
 * redis
 
