@@ -99,6 +99,7 @@
          "graph-ui",
          "json",
          "mazerunner",
+         "prisma",
          "restful",
          "travis"
       ]
@@ -1760,6 +1761,21 @@
          ],
          "url": "https://github.com/prisma/graphql-config",
          "user": "prisma"
+      },
+      {
+         "alias": "prisma",
+         "forked": false,
+         "release": null,
+         "repos_name": "prisma",
+         "score": 3,
+         "shallow": false,
+         "site": "https://github.com",
+         "tags": [
+            "graphql",
+            "prisma"
+         ],
+         "url": "https://github.com/prisma/prisma",
+         "user": "prisma"
       }
    ],
    "tag_categories": {
@@ -3420,6 +3436,21 @@
                ],
                "url": "https://github.com/prisma/graphql-config",
                "user": "prisma"
+            },
+            {
+               "alias": "prisma",
+               "forked": false,
+               "release": null,
+               "repos_name": "prisma",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "graphql",
+                  "prisma"
+               ],
+               "url": "https://github.com/prisma/prisma",
+               "user": "prisma"
             }
          ],
          "greenplum": [
@@ -4646,6 +4677,23 @@
                ],
                "url": "https://github.com/zhicwu/docker-presto",
                "user": "zhicwu"
+            }
+         ],
+         "prisma": [
+            {
+               "alias": "prisma",
+               "forked": false,
+               "release": null,
+               "repos_name": "prisma",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "graphql",
+                  "prisma"
+               ],
+               "url": "https://github.com/prisma/prisma",
+               "user": "prisma"
             }
          ],
          "redis": [

@@ -200,6 +200,7 @@ Tags
 * graphql
 
   + graphql-config https://github.com/prisma/graphql-config
+  + prisma https://github.com/prisma/prisma
 
 * greenplum
 
@@ -370,6 +371,10 @@ Tags
 * presto
 
   + docker-presto https://github.com/zhicwu/docker-presto
+
+* prisma
+
+  + prisma https://github.com/prisma/prisma
 
 * redis
 

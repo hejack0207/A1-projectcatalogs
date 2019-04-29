@@ -672,6 +672,11 @@
       "user": "prisma", 
       "repos_name": "graphql-config", 
       "tags": ["graphql"]
+    }, 
+    {
+      "user": "prisma", 
+      "repos_name": "prisma", 
+      "tags": ["graphql", "prisma"]
     }
   ]
 }
