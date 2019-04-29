@@ -216,12 +216,14 @@ Tags
   + graphql-jpa https://github.com/jcrygier/graphql-jpa
   + graphql-java-tools https://github.com/graphql-java-kickstart/graphql-java-tools
   + graphql-java https://github.com/graphql-java/graphql-java
+  + awesome-graphql-java https://github.com/graphql-java/awesome-graphql-java
 
 * graphql_java
 
   + graphql-jpa https://github.com/jcrygier/graphql-jpa
   + graphql-java-tools https://github.com/graphql-java-kickstart/graphql-java-tools
   + graphql-java https://github.com/graphql-java/graphql-java
+  + awesome-graphql-java https://github.com/graphql-java/awesome-graphql-java
 
 * greenplum
 

@@ -1850,6 +1850,21 @@
          ],
          "url": "https://github.com/graphql-java/graphql-java",
          "user": "graphql-java"
+      },
+      {
+         "alias": "awesome-graphql-java",
+         "forked": false,
+         "release": null,
+         "repos_name": "awesome-graphql-java",
+         "score": 3,
+         "shallow": false,
+         "site": "https://github.com",
+         "tags": [
+            "graphql",
+            "graphql_java"
+         ],
+         "url": "https://github.com/graphql-java/awesome-graphql-java",
+         "user": "graphql-java"
       }
    ],
    "tag_categories": {
@@ -3584,6 +3599,21 @@
                ],
                "url": "https://github.com/graphql-java/graphql-java",
                "user": "graphql-java"
+            },
+            {
+               "alias": "awesome-graphql-java",
+               "forked": false,
+               "release": null,
+               "repos_name": "awesome-graphql-java",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "graphql",
+                  "graphql_java"
+               ],
+               "url": "https://github.com/graphql-java/awesome-graphql-java",
+               "user": "graphql-java"
             }
          ],
          "graphql_java": [
@@ -3630,6 +3660,21 @@
                   "graphql_java"
                ],
                "url": "https://github.com/graphql-java/graphql-java",
+               "user": "graphql-java"
+            },
+            {
+               "alias": "awesome-graphql-java",
+               "forked": false,
+               "release": null,
+               "repos_name": "awesome-graphql-java",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "graphql",
+                  "graphql_java"
+               ],
+               "url": "https://github.com/graphql-java/awesome-graphql-java",
                "user": "graphql-java"
             }
          ],

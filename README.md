@@ -874,6 +874,12 @@
   [graphql](#graphql)
   [graphql_java](#graphql_java)
       ]
+  + awesome-graphql-java <https://github.com/graphql-java/awesome-graphql-java> 
+
+      [
+  [graphql](#graphql)
+  [graphql_java](#graphql_java)
+      ]
 
 ## graphql_java
   + graphql-jpa <https://github.com/jcrygier/graphql-jpa> 
@@ -889,6 +895,12 @@
   [graphql_java](#graphql_java)
       ]
   + graphql-java <https://github.com/graphql-java/graphql-java> 
+
+      [
+  [graphql](#graphql)
+  [graphql_java](#graphql_java)
+      ]
+  + awesome-graphql-java <https://github.com/graphql-java/awesome-graphql-java> 
 
       [
   [graphql](#graphql)
