@@ -737,6 +737,11 @@
       "user": "brillout", 
       "repos_name": "awesome-angular-components", 
       "tags": ["angular"]
+    }, 
+    {
+      "user": "PatrickJS", 
+      "repos_name": "awesome-angular", 
+      "tags": ["angular"]
     }
   ]
 }

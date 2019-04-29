@@ -227,6 +227,11 @@
       [
   [angular](#angular)
       ]
+  + awesome-angular <https://github.com/PatrickJS/awesome-angular> 
+
+      [
+  [angular](#angular)
+      ]
 
 ## ansible
   + gpdb-ansible <https://github.com/andreasscherbaum/gpdb-ansible> 

@@ -1945,6 +1945,20 @@
          ],
          "url": "https://github.com/brillout/awesome-angular-components",
          "user": "brillout"
+      },
+      {
+         "alias": "awesome-angular",
+         "forked": false,
+         "release": null,
+         "repos_name": "awesome-angular",
+         "score": 3,
+         "shallow": false,
+         "site": "https://github.com",
+         "tags": [
+            "angular"
+         ],
+         "url": "https://github.com/PatrickJS/awesome-angular",
+         "user": "PatrickJS"
       }
    ],
    "tag_categories": {
@@ -2224,6 +2238,20 @@
                ],
                "url": "https://github.com/brillout/awesome-angular-components",
                "user": "brillout"
+            },
+            {
+               "alias": "awesome-angular",
+               "forked": false,
+               "release": null,
+               "repos_name": "awesome-angular",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "angular"
+               ],
+               "url": "https://github.com/PatrickJS/awesome-angular",
+               "user": "PatrickJS"
             }
          ],
          "ansible": [
