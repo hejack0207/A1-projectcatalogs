@@ -200,13 +200,7 @@ Tags
 * graphql
 
   + graphql-config https://github.com/prisma/graphql-config
-  + prisma https://github.com/prisma/prisma
   + awesome-graphql https://github.com/chentsulin/awesome-graphql
-  + graphql-jpa https://github.com/jcrygier/graphql-jpa
-  + graphql-java-tools https://github.com/graphql-java-kickstart/graphql-java-tools
-  + graphql-java https://github.com/graphql-java/graphql-java
-  + awesome-graphql-java https://github.com/graphql-java/awesome-graphql-java
-  + graphql-java-spring https://github.com/graphql-java/graphql-java-spring
 
 * graphql-fe
 

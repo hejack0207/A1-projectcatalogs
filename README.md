@@ -849,46 +849,10 @@
       [
   [graphql](#graphql)
       ]
-  + prisma <https://github.com/prisma/prisma> 
-
-      [
-  [graphql](#graphql)
-  [prisma](#prisma)
-      ]
   + awesome-graphql <https://github.com/chentsulin/awesome-graphql> 
 
       [
   [graphql](#graphql)
-      ]
-  + graphql-jpa <https://github.com/jcrygier/graphql-jpa> 
-
-      [
-  [graphql](#graphql)
-  [graphql_java](#graphql_java)
-      ]
-  + graphql-java-tools <https://github.com/graphql-java-kickstart/graphql-java-tools> 
-
-      [
-  [graphql](#graphql)
-  [graphql_java](#graphql_java)
-      ]
-  + graphql-java <https://github.com/graphql-java/graphql-java> 
-
-      [
-  [graphql](#graphql)
-  [graphql_java](#graphql_java)
-      ]
-  + awesome-graphql-java <https://github.com/graphql-java/awesome-graphql-java> 
-
-      [
-  [graphql](#graphql)
-  [graphql_java](#graphql_java)
-      ]
-  + graphql-java-spring <https://github.com/graphql-java/graphql-java-spring> 
-
-      [
-  [graphql](#graphql)
-  [graphql_java](#graphql_java)
       ]
 
 ## graphql-fe
@@ -912,31 +876,26 @@
   + graphql-jpa <https://github.com/jcrygier/graphql-jpa> 
 
       [
-  [graphql](#graphql)
   [graphql_java](#graphql_java)
       ]
   + graphql-java-tools <https://github.com/graphql-java-kickstart/graphql-java-tools> 
 
       [
-  [graphql](#graphql)
   [graphql_java](#graphql_java)
       ]
   + graphql-java <https://github.com/graphql-java/graphql-java> 
 
       [
-  [graphql](#graphql)
   [graphql_java](#graphql_java)
       ]
   + awesome-graphql-java <https://github.com/graphql-java/awesome-graphql-java> 
 
       [
-  [graphql](#graphql)
   [graphql_java](#graphql_java)
       ]
   + graphql-java-spring <https://github.com/graphql-java/graphql-java-spring> 
 
       [
-  [graphql](#graphql)
   [graphql_java](#graphql_java)
       ]
   + SpringGraphQLMybatis <https://github.com/Alejandromndza/SpringGraphQLMybatis> 
@@ -1482,7 +1441,6 @@
   + prisma <https://github.com/prisma/prisma> 
 
       [
-  [graphql](#graphql)
   [prisma](#prisma)
       ]
   + awesome-prisma <https://github.com/catalinmiron/awesome-prisma> 

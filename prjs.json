@@ -1774,7 +1774,6 @@
          "shallow": false,
          "site": "https://github.com",
          "tags": [
-            "graphql",
             "prisma"
          ],
          "url": "https://github.com/prisma/prisma",
@@ -1817,7 +1816,6 @@
          "shallow": false,
          "site": "https://github.com",
          "tags": [
-            "graphql",
             "graphql_java"
          ],
          "url": "https://github.com/jcrygier/graphql-jpa",
@@ -1832,7 +1830,6 @@
          "shallow": false,
          "site": "https://github.com",
          "tags": [
-            "graphql",
             "graphql_java"
          ],
          "url": "https://github.com/graphql-java-kickstart/graphql-java-tools",
@@ -1847,7 +1844,6 @@
          "shallow": false,
          "site": "https://github.com",
          "tags": [
-            "graphql",
             "graphql_java"
          ],
          "url": "https://github.com/graphql-java/graphql-java",
@@ -1862,7 +1858,6 @@
          "shallow": false,
          "site": "https://github.com",
          "tags": [
-            "graphql",
             "graphql_java"
          ],
          "url": "https://github.com/graphql-java/awesome-graphql-java",
@@ -1877,7 +1872,6 @@
          "shallow": false,
          "site": "https://github.com",
          "tags": [
-            "graphql",
             "graphql_java"
          ],
          "url": "https://github.com/graphql-java/graphql-java-spring",
@@ -3606,21 +3600,6 @@
                "user": "prisma"
             },
             {
-               "alias": "prisma",
-               "forked": false,
-               "release": null,
-               "repos_name": "prisma",
-               "score": 3,
-               "shallow": false,
-               "site": "https://github.com",
-               "tags": [
-                  "graphql",
-                  "prisma"
-               ],
-               "url": "https://github.com/prisma/prisma",
-               "user": "prisma"
-            },
-            {
                "alias": "awesome-graphql",
                "forked": false,
                "release": null,
@@ -3633,81 +3612,6 @@
                ],
                "url": "https://github.com/chentsulin/awesome-graphql",
                "user": "chentsulin"
-            },
-            {
-               "alias": "graphql-jpa",
-               "forked": false,
-               "release": null,
-               "repos_name": "graphql-jpa",
-               "score": 3,
-               "shallow": false,
-               "site": "https://github.com",
-               "tags": [
-                  "graphql",
-                  "graphql_java"
-               ],
-               "url": "https://github.com/jcrygier/graphql-jpa",
-               "user": "jcrygier"
-            },
-            {
-               "alias": "graphql-java-tools",
-               "forked": false,
-               "release": null,
-               "repos_name": "graphql-java-tools",
-               "score": 3,
-               "shallow": false,
-               "site": "https://github.com",
-               "tags": [
-                  "graphql",
-                  "graphql_java"
-               ],
-               "url": "https://github.com/graphql-java-kickstart/graphql-java-tools",
-               "user": "graphql-java-kickstart"
-            },
-            {
-               "alias": "graphql-java",
-               "forked": false,
-               "release": null,
-               "repos_name": "graphql-java",
-               "score": 3,
-               "shallow": false,
-               "site": "https://github.com",
-               "tags": [
-                  "graphql",
-                  "graphql_java"
-               ],
-               "url": "https://github.com/graphql-java/graphql-java",
-               "user": "graphql-java"
-            },
-            {
-               "alias": "awesome-graphql-java",
-               "forked": false,
-               "release": null,
-               "repos_name": "awesome-graphql-java",
-               "score": 3,
-               "shallow": false,
-               "site": "https://github.com",
-               "tags": [
-                  "graphql",
-                  "graphql_java"
-               ],
-               "url": "https://github.com/graphql-java/awesome-graphql-java",
-               "user": "graphql-java"
-            },
-            {
-               "alias": "graphql-java-spring",
-               "forked": false,
-               "release": null,
-               "repos_name": "graphql-java-spring",
-               "score": 3,
-               "shallow": false,
-               "site": "https://github.com",
-               "tags": [
-                  "graphql",
-                  "graphql_java"
-               ],
-               "url": "https://github.com/graphql-java/graphql-java-spring",
-               "user": "graphql-java"
             }
          ],
          "graphql-fe": [
@@ -3764,7 +3668,6 @@
                "shallow": false,
                "site": "https://github.com",
                "tags": [
-                  "graphql",
                   "graphql_java"
                ],
                "url": "https://github.com/jcrygier/graphql-jpa",
@@ -3779,7 +3682,6 @@
                "shallow": false,
                "site": "https://github.com",
                "tags": [
-                  "graphql",
                   "graphql_java"
                ],
                "url": "https://github.com/graphql-java-kickstart/graphql-java-tools",
@@ -3794,7 +3696,6 @@
                "shallow": false,
                "site": "https://github.com",
                "tags": [
-                  "graphql",
                   "graphql_java"
                ],
                "url": "https://github.com/graphql-java/graphql-java",
@@ -3809,7 +3710,6 @@
                "shallow": false,
                "site": "https://github.com",
                "tags": [
-                  "graphql",
                   "graphql_java"
                ],
                "url": "https://github.com/graphql-java/awesome-graphql-java",
@@ -3824,7 +3724,6 @@
                "shallow": false,
                "site": "https://github.com",
                "tags": [
-                  "graphql",
                   "graphql_java"
                ],
                "url": "https://github.com/graphql-java/graphql-java-spring",
@@ -5081,7 +4980,6 @@
                "shallow": false,
                "site": "https://github.com",
                "tags": [
-                  "graphql",
                   "prisma"
                ],
                "url": "https://github.com/prisma/prisma",
