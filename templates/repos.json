@@ -752,6 +752,11 @@
       "user": "fiatjaf", 
       "repos_name": "awesome-jq", 
       "tags": ["jq"]
+    }, 
+    {
+      "user": "fishjam", 
+      "repos_name": "xmlstarlet", 
+      "tags": ["xml_tool"]
     }
   ]
 }

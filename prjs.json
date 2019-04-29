@@ -105,7 +105,8 @@
          "json_tool",
          "mazerunner",
          "restful",
-         "travis"
+         "travis",
+         "xml_tool"
       ]
    },
    "repos_": [
@@ -1990,6 +1991,20 @@
          ],
          "url": "https://github.com/fiatjaf/awesome-jq",
          "user": "fiatjaf"
+      },
+      {
+         "alias": "xmlstarlet",
+         "forked": false,
+         "release": null,
+         "repos_name": "xmlstarlet",
+         "score": 3,
+         "shallow": false,
+         "site": "https://github.com",
+         "tags": [
+            "xml_tool"
+         ],
+         "url": "https://github.com/fishjam/xmlstarlet",
+         "user": "fishjam"
       }
    ],
    "tag_categories": {
@@ -5866,6 +5881,22 @@
                ],
                "url": "https://github.com/plantuml/plantuml-server",
                "user": "plantuml"
+            }
+         ],
+         "xml_tool": [
+            {
+               "alias": "xmlstarlet",
+               "forked": false,
+               "release": null,
+               "repos_name": "xmlstarlet",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "xml_tool"
+               ],
+               "url": "https://github.com/fishjam/xmlstarlet",
+               "user": "fishjam"
             }
          ],
          "zsh": [

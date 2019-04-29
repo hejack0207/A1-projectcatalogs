@@ -530,6 +530,10 @@ Tags
   + webkettle https://github.com/JoeyBling/webkettle
   + plantuml-server https://github.com/plantuml/plantuml-server
 
+* xml_tool
+
+  + xmlstarlet https://github.com/fishjam/xmlstarlet
+
 * zsh
 
   + zsh https://github.com/zsh-users/zsh

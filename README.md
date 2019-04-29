@@ -9,6 +9,7 @@
   [mazerunner](#mazerunner)
   [restful](#restful)
   [travis](#travis)
+  [xml_tool](#xml_tool)
 
 ## arch_agrithom
 
@@ -1818,6 +1819,13 @@
       [
   [plantuml](#plantuml)
   [webui](#webui)
+      ]
+
+## xml_tool
+  + xmlstarlet <https://github.com/fishjam/xmlstarlet> 
+
+      [
+  [xml_tool](#xml_tool)
       ]
 
 ## zsh
