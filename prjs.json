@@ -100,6 +100,7 @@
          "android_app",
          "apollo",
          "graph-ui",
+         "graphql-fe",
          "json",
          "mazerunner",
          "restful",
@@ -1881,6 +1882,20 @@
          ],
          "url": "https://github.com/graphql-java/graphql-java-spring",
          "user": "graphql-java"
+      },
+      {
+         "alias": "awesome-react-graphql",
+         "forked": false,
+         "release": null,
+         "repos_name": "awesome-react-graphql",
+         "score": 3,
+         "shallow": false,
+         "site": "https://github.com",
+         "tags": [
+            "graphql-fe"
+         ],
+         "url": "https://github.com/hasura/awesome-react-graphql",
+         "user": "hasura"
       }
    ],
    "tag_categories": {
@@ -3650,6 +3665,22 @@
                ],
                "url": "https://github.com/graphql-java/graphql-java-spring",
                "user": "graphql-java"
+            }
+         ],
+         "graphql-fe": [
+            {
+               "alias": "awesome-react-graphql",
+               "forked": false,
+               "release": null,
+               "repos_name": "awesome-react-graphql",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "graphql-fe"
+               ],
+               "url": "https://github.com/hasura/awesome-react-graphql",
+               "user": "hasura"
             }
          ],
          "graphql_java": [

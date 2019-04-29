@@ -219,6 +219,10 @@ Tags
   + awesome-graphql-java https://github.com/graphql-java/awesome-graphql-java
   + graphql-java-spring https://github.com/graphql-java/graphql-java-spring
 
+* graphql-fe
+
+  + awesome-react-graphql https://github.com/hasura/awesome-react-graphql
+
 * graphql_java
 
   + graphql-jpa https://github.com/jcrygier/graphql-jpa

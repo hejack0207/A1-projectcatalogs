@@ -3,6 +3,7 @@
   [android_app](#android_app)
   [apollo](#apollo)
   [graph-ui](#graph-ui)
+  [graphql-fe](#graphql-fe)
   [json](#json)
   [mazerunner](#mazerunner)
   [restful](#restful)
@@ -888,6 +889,13 @@
       [
   [graphql](#graphql)
   [graphql_java](#graphql_java)
+      ]
+
+## graphql-fe
+  + awesome-react-graphql <https://github.com/hasura/awesome-react-graphql> 
+
+      [
+  [graphql-fe](#graphql-fe)
       ]
 
 ## graphql_java
