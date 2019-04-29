@@ -667,6 +667,11 @@
       "user": "ThirtyDegreesRay", 
       "repos_name": "OpenHub", 
       "tags": ["android_app"]
+    }, 
+    {
+      "user": "prisma", 
+      "repos_name": "graphql-config", 
+      "tags": ["graphql"]
     }
   ]
 }

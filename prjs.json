@@ -1746,6 +1746,20 @@
          ],
          "url": "https://github.com/ThirtyDegreesRay/OpenHub",
          "user": "ThirtyDegreesRay"
+      },
+      {
+         "alias": "graphql-config",
+         "forked": false,
+         "release": null,
+         "repos_name": "graphql-config",
+         "score": 3,
+         "shallow": false,
+         "site": "https://github.com",
+         "tags": [
+            "graphql"
+         ],
+         "url": "https://github.com/prisma/graphql-config",
+         "user": "prisma"
       }
    ],
    "tag_categories": {
@@ -3390,6 +3404,22 @@
                ],
                "url": "https://github.com/swimlane/ngx-graph",
                "user": "swimlane"
+            }
+         ],
+         "graphql": [
+            {
+               "alias": "graphql-config",
+               "forked": false,
+               "release": null,
+               "repos_name": "graphql-config",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "graphql"
+               ],
+               "url": "https://github.com/prisma/graphql-config",
+               "user": "prisma"
             }
          ],
          "greenplum": [

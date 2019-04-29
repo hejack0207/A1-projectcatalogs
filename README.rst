@@ -208,6 +208,10 @@ Tags
 
   + ngx-graph https://github.com/swimlane/ngx-graph
 
+* graphql
+
+  + graphql-config https://github.com/prisma/graphql-config
+
 * greenplum
 
   + docker-gpdb5 https://github.com/bbotev01/gpdb5

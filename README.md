@@ -837,6 +837,13 @@
   [graph-ui](#graph-ui)
       ]
 
+## graphql
+  + graphql-config <https://github.com/prisma/graphql-config> 
+
+      [
+  [graphql](#graphql)
+      ]
+
 ## greenplum
   + docker-gpdb5 <https://github.com/bbotev01/gpdb5> 
 
