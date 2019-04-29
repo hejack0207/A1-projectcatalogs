@@ -1,4 +1,9 @@
 # category
+## not in category
+      {% for t in check.tags_not_in_category %}
+  [{{t}}](#{{t}})
+      {% endfor %}
+
 {% for c,ts in tag_categories | dictsort %}
 ## {{c}}
 
@@ -6,11 +11,6 @@
   [{{t}}](#{{t}})
       {% endfor %}
 {% endfor %}
-
-## not in category
-      {% for t in check.tags_not_in_category %}
-  [{{t}}](#{{t}})
-      {% endfor %}
 
 {#
 # project tags

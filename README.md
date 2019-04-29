@@ -1,4 +1,12 @@
 # category
+## not in category
+  [apollo](#apollo)
+  [graph-ui](#graph-ui)
+  [json](#json)
+  [mazerunner](#mazerunner)
+  [restful](#restful)
+  [travis](#travis)
+
 ## arch_agrithom
 
 ## arch_ai
@@ -164,14 +172,6 @@
   [gui](#gui)
   [tui](#tui)
   [wui](#wui)
-
-## not in category
-  [apollo](#apollo)
-  [graph-ui](#graph-ui)
-  [json](#json)
-  [mazerunner](#mazerunner)
-  [restful](#restful)
-  [travis](#travis)
 
 
 # repos
