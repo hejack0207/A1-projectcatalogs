@@ -19,7 +19,7 @@
   [graphql](#graphql)
 ## arch_api_graphql
 
-  [graph](#graph)
+  [graphql](#graphql)
   [graphql_fe](#graphql_fe)
   [graphql_java](#graphql_java)
   [prisma](#prisma)

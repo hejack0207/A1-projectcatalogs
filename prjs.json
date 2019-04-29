@@ -34,7 +34,6 @@
          "gis_awesome",
          "gis_impl",
          "git",
-         "graph",
          "graphql",
          "graphql_fe",
          "graphql_java",
@@ -1944,7 +1943,7 @@
          "graphql"
       ],
       "arch_api_graphql": [
-         "graph",
+         "graphql",
          "graphql_fe",
          "graphql_java",
          "prisma"

@@ -161,7 +161,7 @@
       "wui"
     ],
     "arch_api_graphql": [
-      "graph",
+      "graphql",
       "graphql_fe",
       "graphql_java",
       "prisma"
