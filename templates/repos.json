@@ -727,6 +727,11 @@
       "user": "Alejandromndza", 
       "repos_name": "SpringGraphQLMybatis", 
       "tags": ["graphql_java"]
+    }, 
+    {
+      "user": "apollographql", 
+      "repos_name": "apollo-client", 
+      "tags": ["graphql-fe"]
     }
   ]
 }

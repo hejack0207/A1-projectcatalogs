@@ -212,6 +212,7 @@ Tags
 
   + awesome-react-graphql https://github.com/hasura/awesome-react-graphql
   + awesome-angular-graphql https://github.com/hasura/awesome-angular-graphql
+  + apollo-client https://github.com/apollographql/apollo-client
 
 * graphql_java
 

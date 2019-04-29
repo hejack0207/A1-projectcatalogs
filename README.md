@@ -902,6 +902,11 @@
       [
   [graphql-fe](#graphql-fe)
       ]
+  + apollo-client <https://github.com/apollographql/apollo-client> 
+
+      [
+  [graphql-fe](#graphql-fe)
+      ]
 
 ## graphql_java
   + graphql-jpa <https://github.com/jcrygier/graphql-jpa> 
