@@ -100,7 +100,9 @@
          "android_app",
          "apollo",
          "graph_ui",
+         "jq",
          "json",
+         "json_tool",
          "mazerunner",
          "restful",
          "travis"
@@ -1959,6 +1961,21 @@
          ],
          "url": "https://github.com/PatrickJS/awesome-angular",
          "user": "PatrickJS"
+      },
+      {
+         "alias": "jq",
+         "forked": false,
+         "release": null,
+         "repos_name": "jq",
+         "score": 3,
+         "shallow": false,
+         "site": "https://github.com",
+         "tags": [
+            "jq",
+            "json_tool"
+         ],
+         "url": "https://github.com/stedolan/jq",
+         "user": "stedolan"
       }
    ],
    "tag_categories": {
@@ -4200,6 +4217,23 @@
                "user": "ziogiugno"
             }
          ],
+         "jq": [
+            {
+               "alias": "jq",
+               "forked": false,
+               "release": null,
+               "repos_name": "jq",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "jq",
+                  "json_tool"
+               ],
+               "url": "https://github.com/stedolan/jq",
+               "user": "stedolan"
+            }
+         ],
          "json": [
             {
                "alias": "json-to-plantuml",
@@ -4215,6 +4249,23 @@
                ],
                "url": "https://github.com/meteorbites/json-to-plantuml",
                "user": "meteorbites"
+            }
+         ],
+         "json_tool": [
+            {
+               "alias": "jq",
+               "forked": false,
+               "release": null,
+               "repos_name": "jq",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "jq",
+                  "json_tool"
+               ],
+               "url": "https://github.com/stedolan/jq",
+               "user": "stedolan"
             }
          ],
          "jsonnet": [

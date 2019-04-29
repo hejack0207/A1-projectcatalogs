@@ -3,7 +3,9 @@
   [android_app](#android_app)
   [apollo](#apollo)
   [graph_ui](#graph_ui)
+  [jq](#jq)
   [json](#json)
+  [json_tool](#json_tool)
   [mazerunner](#mazerunner)
   [restful](#restful)
   [travis](#travis)
@@ -1090,12 +1092,28 @@
   [jhipster](#jhipster)
       ]
 
+## jq
+  + jq <https://github.com/stedolan/jq> 
+
+      [
+  [jq](#jq)
+  [json_tool](#json_tool)
+      ]
+
 ## json
   + json-to-plantuml <https://github.com/meteorbites/json-to-plantuml> 
 
       [
   [plantuml](#plantuml)
   [json](#json)
+      ]
+
+## json_tool
+  + jq <https://github.com/stedolan/jq> 
+
+      [
+  [jq](#jq)
+  [json_tool](#json_tool)
       ]
 
 ## jsonnet

@@ -268,9 +268,17 @@ Tags
   + jhipster-uml https://github.com/jhipster/jhipster-uml
   + lb-2-jhipster https://github.com/ziogiugno/lb-2-jhipster
 
+* jq
+
+  + jq https://github.com/stedolan/jq
+
 * json
 
   + json-to-plantuml https://github.com/meteorbites/json-to-plantuml
+
+* json_tool
+
+  + jq https://github.com/stedolan/jq
 
 * jsonnet
 

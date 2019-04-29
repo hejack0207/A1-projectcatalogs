@@ -742,6 +742,11 @@
       "user": "PatrickJS", 
       "repos_name": "awesome-angular", 
       "tags": ["angular"]
+    }, 
+    {
+      "user": "stedolan", 
+      "repos_name": "jq", 
+      "tags": ["jq", "json_tool"]
     }
   ]
 }
