@@ -34,7 +34,9 @@
          "gis_awesome",
          "gis_impl",
          "git",
+         "graph",
          "graphql",
+         "graphql_java",
          "greenplum",
          "gui",
          "hadoop",
@@ -66,6 +68,7 @@
          "plantuml",
          "postgres",
          "presto",
+         "prisma",
          "redis",
          "redmine",
          "restructured",
@@ -97,10 +100,8 @@
          "android_app",
          "apollo",
          "graph-ui",
-         "graphql_java",
          "json",
          "mazerunner",
-         "prisma",
          "restful",
          "travis"
       ]
@@ -1890,6 +1891,11 @@
       "arch_api": [
          "swagger",
          "graphql"
+      ],
+      "arch_api_graphql": [
+         "graph",
+         "prisma",
+         "graphql_java"
       ],
       "arch_backend_esb": [
          "camel",

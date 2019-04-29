@@ -19,7 +19,7 @@ templates/README.md: templates/README.md.j2 prjs.json
 README.html: README.md
 	pandoc -f markdown -t html -o $@ $<
 
-prjs.json: templates/prjs.jsn templates/repos.json
+prjs.json: templates/prjs.jsn templates/repos.json templates/tag-category.json
 	jsonnet $< -o $@
 
 prjs-catalog.json: templates/prjs-catalog.jsn

@@ -3,10 +3,8 @@
   [android_app](#android_app)
   [apollo](#apollo)
   [graph-ui](#graph-ui)
-  [graphql_java](#graphql_java)
   [json](#json)
   [mazerunner](#mazerunner)
-  [prisma](#prisma)
   [restful](#restful)
   [travis](#travis)
 
@@ -19,6 +17,11 @@
 
   [swagger](#swagger)
   [graphql](#graphql)
+## arch_api_graphql
+
+  [graph](#graph)
+  [prisma](#prisma)
+  [graphql_java](#graphql_java)
 ## arch_backend_esb
 
   [camel](#camel)
