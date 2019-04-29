@@ -97,6 +97,7 @@
          "android_app",
          "apollo",
          "graph-ui",
+         "graphql_java",
          "json",
          "mazerunner",
          "prisma",
@@ -1804,6 +1805,21 @@
          ],
          "url": "https://github.com/chentsulin/awesome-graphql",
          "user": "chentsulin"
+      },
+      {
+         "alias": "graphql-jpa",
+         "forked": false,
+         "release": null,
+         "repos_name": "graphql-jpa",
+         "score": 3,
+         "shallow": false,
+         "site": "https://github.com",
+         "tags": [
+            "graphql",
+            "graphql_java"
+         ],
+         "url": "https://github.com/jcrygier/graphql-jpa",
+         "user": "jcrygier"
       }
    ],
    "tag_categories": {
@@ -3493,6 +3509,38 @@
                ],
                "url": "https://github.com/chentsulin/awesome-graphql",
                "user": "chentsulin"
+            },
+            {
+               "alias": "graphql-jpa",
+               "forked": false,
+               "release": null,
+               "repos_name": "graphql-jpa",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "graphql",
+                  "graphql_java"
+               ],
+               "url": "https://github.com/jcrygier/graphql-jpa",
+               "user": "jcrygier"
+            }
+         ],
+         "graphql_java": [
+            {
+               "alias": "graphql-jpa",
+               "forked": false,
+               "release": null,
+               "repos_name": "graphql-jpa",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "graphql",
+                  "graphql_java"
+               ],
+               "url": "https://github.com/jcrygier/graphql-jpa",
+               "user": "jcrygier"
             }
          ],
          "greenplum": [

@@ -687,6 +687,11 @@
       "user": "chentsulin", 
       "repos_name": "awesome-graphql", 
       "tags": ["graphql"]
+    }, 
+    {
+      "user": "jcrygier", 
+      "repos_name": "graphql-jpa", 
+      "tags": ["graphql", "graphql_java"]
     }
   ]
 }

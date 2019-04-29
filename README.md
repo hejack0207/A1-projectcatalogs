@@ -3,6 +3,7 @@
   [android_app](#android_app)
   [apollo](#apollo)
   [graph-ui](#graph-ui)
+  [graphql_java](#graphql_java)
   [json](#json)
   [mazerunner](#mazerunner)
   [prisma](#prisma)
@@ -854,6 +855,20 @@
 
       [
   [graphql](#graphql)
+      ]
+  + graphql-jpa <https://github.com/jcrygier/graphql-jpa> 
+
+      [
+  [graphql](#graphql)
+  [graphql_java](#graphql_java)
+      ]
+
+## graphql_java
+  + graphql-jpa <https://github.com/jcrygier/graphql-jpa> 
+
+      [
+  [graphql](#graphql)
+  [graphql_java](#graphql_java)
       ]
 
 ## greenplum

@@ -213,6 +213,11 @@ Tags
   + graphql-config https://github.com/prisma/graphql-config
   + prisma https://github.com/prisma/prisma
   + awesome-graphql https://github.com/chentsulin/awesome-graphql
+  + graphql-jpa https://github.com/jcrygier/graphql-jpa
+
+* graphql_java
+
+  + graphql-jpa https://github.com/jcrygier/graphql-jpa
 
 * greenplum
 
