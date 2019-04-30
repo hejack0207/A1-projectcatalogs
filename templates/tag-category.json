@@ -164,8 +164,7 @@
       "graphql",
       "graphql_dbview",
       "graphql_fe",
-      "graphql_java",
-      "prisma"
+      "graphql_java"
     ]
   }
 }

@@ -27,7 +27,6 @@
   [graphql_dbview](#graphql_dbview)
   [graphql_fe](#graphql_fe)
   [graphql_java](#graphql_java)
-  [prisma](#prisma)
 ## arch_backend_esb
 
   [camel](#camel)

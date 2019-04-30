@@ -69,7 +69,6 @@
          "plantuml",
          "postgres",
          "presto",
-         "prisma",
          "redis",
          "redmine",
          "restructured",
@@ -2065,8 +2064,7 @@
          "graphql",
          "graphql_dbview",
          "graphql_fe",
-         "graphql_java",
-         "prisma"
+         "graphql_java"
       ],
       "arch_backend_esb": [
          "camel",
