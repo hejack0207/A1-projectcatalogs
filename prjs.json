@@ -100,6 +100,7 @@
          "android_app",
          "apollo",
          "graph_ui",
+         "graphql_dbview",
          "jq",
          "json",
          "json_tool",
@@ -2034,6 +2035,20 @@
          ],
          "url": "https://github.com/neo4j/neo4j",
          "user": "neo4j"
+      },
+      {
+         "alias": "graphql-engine",
+         "forked": false,
+         "release": null,
+         "repos_name": "graphql-engine",
+         "score": 3,
+         "shallow": false,
+         "site": "https://github.com",
+         "tags": [
+            "graphql_dbview"
+         ],
+         "url": "https://github.com/hasura/graphql-engine",
+         "user": "hasura"
       }
    ],
    "tag_categories": {
@@ -3742,6 +3757,22 @@
                ],
                "url": "https://github.com/chentsulin/awesome-graphql",
                "user": "chentsulin"
+            }
+         ],
+         "graphql_dbview": [
+            {
+               "alias": "graphql-engine",
+               "forked": false,
+               "release": null,
+               "repos_name": "graphql-engine",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "graphql_dbview"
+               ],
+               "url": "https://github.com/hasura/graphql-engine",
+               "user": "hasura"
             }
          ],
          "graphql_fe": [

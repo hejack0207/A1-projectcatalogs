@@ -215,6 +215,10 @@ Tags
   + graphql-config https://github.com/prisma/graphql-config
   + awesome-graphql https://github.com/chentsulin/awesome-graphql
 
+* graphql_dbview
+
+  + graphql-engine https://github.com/hasura/graphql-engine
+
 * graphql_fe
 
   + awesome-react-graphql https://github.com/hasura/awesome-react-graphql

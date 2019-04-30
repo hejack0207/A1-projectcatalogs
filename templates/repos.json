@@ -767,6 +767,11 @@
       "user": "neo4j", 
       "repos_name": "neo4j", 
       "tags": ["neo4j"]
+    }, 
+    {
+      "user": "hasura", 
+      "repos_name": "graphql-engine", 
+      "tags": ["graphql_dbview"]
     }
   ]
 }
