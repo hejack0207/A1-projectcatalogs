@@ -10,6 +10,7 @@
   [mazerunner](#mazerunner)
   [nutch](#nutch)
   [restful](#restful)
+  [spider](#spider)
   [travis](#travis)
   [xml_tool](#xml_tool)
   [yml_tool](#yml_tool)
@@ -111,7 +112,6 @@
   [cmake](#cmake)
   [make](#make)
   [maven](#maven)
-  [spider](#spider)
 ## dev_ci
 
 ## dev_deploy

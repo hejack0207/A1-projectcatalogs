@@ -85,8 +85,7 @@
       "autotools",
       "cmake",
       "make",
-      "maven",
-      "spider"
+      "maven"
     ],
     "dev_ci": [],
     "dev_deploy": [

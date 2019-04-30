@@ -77,7 +77,6 @@
          "servicemix",
          "spark",
          "sparkgis",
-         "spider",
          "springcloud",
          "sql_support",
          "sqlite",
@@ -108,6 +107,7 @@
          "mazerunner",
          "nutch",
          "restful",
+         "spider",
          "travis",
          "xml_tool",
          "yml_tool"
@@ -2162,8 +2162,7 @@
          "autotools",
          "cmake",
          "make",
-         "maven",
-         "spider"
+         "maven"
       ],
       "dev_ci": [ ],
       "dev_deploy": [
