@@ -39,6 +39,10 @@ Tags
   + ansible-playbooks-cdh6 https://github.com/bjddd192/ansible-playbooks-cdh6
   + ansible-role-drill https://github.com/futuresystems/ansible-role-drill
 
+* ant
+
+  + nutch https://github.com/apache/nutch
+
 * apollo
 
   + apollo-build-scripts https://github.com/nobodyiam/apollo-build-scripts

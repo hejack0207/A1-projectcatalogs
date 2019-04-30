@@ -98,6 +98,7 @@
       ],
       "tags_not_in_category": [
          "android_app",
+         "ant",
          "apollo",
          "graph_ui",
          "jq",
@@ -2060,7 +2061,8 @@
          "shallow": false,
          "site": "https://github.com",
          "tags": [
-            "spider"
+            "spider",
+            "ant"
          ],
          "url": "https://github.com/apache/nutch",
          "user": "apache"
@@ -2464,6 +2466,23 @@
                ],
                "url": "https://github.com/futuresystems/ansible-role-drill",
                "user": "futuresystems"
+            }
+         ],
+         "ant": [
+            {
+               "alias": "nutch",
+               "forked": false,
+               "release": null,
+               "repos_name": "nutch",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "spider",
+                  "ant"
+               ],
+               "url": "https://github.com/apache/nutch",
+               "user": "apache"
             }
          ],
          "apollo": [
@@ -5563,7 +5582,8 @@
                "shallow": false,
                "site": "https://github.com",
                "tags": [
-                  "spider"
+                  "spider",
+                  "ant"
                ],
                "url": "https://github.com/apache/nutch",
                "user": "apache"
