@@ -1793,7 +1793,8 @@
          "shallow": false,
          "site": "https://github.com",
          "tags": [
-            "prisma"
+            "graphql_dbview",
+            "graphql_dbview"
          ],
          "url": "https://github.com/catalinmiron/awesome-prisma",
          "user": "catalinmiron"
@@ -3778,6 +3779,21 @@
                "user": "prisma"
             },
             {
+               "alias": "awesome-prisma",
+               "forked": false,
+               "release": null,
+               "repos_name": "awesome-prisma",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "graphql_dbview",
+                  "graphql_dbview"
+               ],
+               "url": "https://github.com/catalinmiron/awesome-prisma",
+               "user": "catalinmiron"
+            },
+            {
                "alias": "graphql-engine",
                "forked": false,
                "release": null,
@@ -5225,20 +5241,6 @@
                ],
                "url": "https://github.com/prisma/prisma",
                "user": "prisma"
-            },
-            {
-               "alias": "awesome-prisma",
-               "forked": false,
-               "release": null,
-               "repos_name": "awesome-prisma",
-               "score": 3,
-               "shallow": false,
-               "site": "https://github.com",
-               "tags": [
-                  "prisma"
-               ],
-               "url": "https://github.com/catalinmiron/awesome-prisma",
-               "user": "catalinmiron"
             }
          ],
          "redis": [

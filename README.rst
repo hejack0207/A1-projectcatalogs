@@ -218,6 +218,7 @@ Tags
 * graphql_dbview
 
   + prisma https://github.com/prisma/prisma
+  + awesome-prisma https://github.com/catalinmiron/awesome-prisma
   + graphql-engine https://github.com/hasura/graphql-engine
 
 * graphql_fe
@@ -418,7 +419,6 @@ Tags
 * prisma
 
   + prisma https://github.com/prisma/prisma
-  + awesome-prisma https://github.com/catalinmiron/awesome-prisma
 
 * redis
 
