@@ -1137,7 +1137,8 @@
       "repos_name": "nutch",
       "tags": [
         "spider",
-        "ant"
+        "ant",
+        "nutch"
       ]
     }
   ]

@@ -372,6 +372,10 @@ Tags
   + neo4j-mazerunner https://github.com/neo4j-contrib/neo4j-mazerunner
   + neo4j https://github.com/neo4j/neo4j
 
+* nutch
+
+  + nutch https://github.com/apache/nutch
+
 * ocr_awesome
 
   + awesome-ocr https://github.com/kba/awesome-ocr
