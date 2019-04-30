@@ -96,6 +96,7 @@
          "webui",
          "wui",
          "xml_tool",
+         "yml_tool",
          "zsh"
       ],
       "tags_not_in_category": [
@@ -109,8 +110,7 @@
          "mazerunner",
          "nutch",
          "restful",
-         "travis",
-         "yml_tool"
+         "travis"
       ]
    },
    "repos_": [
@@ -2224,7 +2224,8 @@
          "jsonnet"
       ],
       "tool_data_process": [
-         "xml_tool"
+         "xml_tool",
+         "yml_tool"
       ],
       "tool_editor": [
          "vim",
