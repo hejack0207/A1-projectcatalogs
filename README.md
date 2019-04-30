@@ -3,7 +3,6 @@
   [android_app](#android_app)
   [apollo](#apollo)
   [graph_ui](#graph_ui)
-  [graphql_dbview](#graphql_dbview)
   [jq](#jq)
   [json](#json)
   [json_tool](#json_tool)
@@ -25,6 +24,7 @@
 ## arch_api_graphql
 
   [graphql](#graphql)
+  [graphql_dbview](#graphql_dbview)
   [graphql_fe](#graphql_fe)
   [graphql_java](#graphql_java)
   [prisma](#prisma)

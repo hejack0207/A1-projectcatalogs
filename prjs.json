@@ -35,6 +35,7 @@
          "gis_impl",
          "git",
          "graphql",
+         "graphql_dbview",
          "graphql_fe",
          "graphql_java",
          "greenplum",
@@ -100,7 +101,6 @@
          "android_app",
          "apollo",
          "graph_ui",
-         "graphql_dbview",
          "jq",
          "json",
          "json_tool",
@@ -2064,6 +2064,7 @@
       ],
       "arch_api_graphql": [
          "graphql",
+         "graphql_dbview",
          "graphql_fe",
          "graphql_java",
          "prisma"

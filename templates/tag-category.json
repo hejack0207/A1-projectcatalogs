@@ -162,6 +162,7 @@
     ],
     "arch_api_graphql": [
       "graphql",
+      "graphql_dbview",
       "graphql_fe",
       "graphql_java",
       "prisma"
