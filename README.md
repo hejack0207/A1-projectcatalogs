@@ -6,7 +6,6 @@
   [graph_ui](#graph_ui)
   [jq](#jq)
   [json](#json)
-  [json_tool](#json_tool)
   [mazerunner](#mazerunner)
   [nutch](#nutch)
   [restful](#restful)
@@ -171,6 +170,7 @@
   [jsonnet](#jsonnet)
 ## tool_data_process
 
+  [json_tool](#json_tool)
   [xml_tool](#xml_tool)
   [yml_tool](#yml_tool)
 ## tool_editor

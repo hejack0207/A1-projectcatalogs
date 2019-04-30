@@ -47,6 +47,7 @@
          "java",
          "javascript",
          "jhipster",
+         "json_tool",
          "jsonnet",
          "keepalived",
          "kettle",
@@ -106,7 +107,6 @@
          "graph_ui",
          "jq",
          "json",
-         "json_tool",
          "mazerunner",
          "nutch",
          "restful",
@@ -2224,6 +2224,7 @@
          "jsonnet"
       ],
       "tool_data_process": [
+         "json_tool",
          "xml_tool",
          "yml_tool"
       ],

@@ -168,6 +168,7 @@
       "graphql_java"
     ],
     "tool_data_process": [
+      "json_tool",
       "xml_tool",
       "yml_tool"
     ]
