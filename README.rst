@@ -460,6 +460,10 @@ Tags
 
   + SparkGIS https://github.com/drubbo/SparkGIS
 
+* spider
+
+  + nutch https://github.com/apache/nutch
+
 * springcloud
 
   + SpringCloud https://github.com/zhoutaoo/SpringCloud

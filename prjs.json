@@ -105,6 +105,7 @@
          "json_tool",
          "mazerunner",
          "restful",
+         "spider",
          "travis",
          "xml_tool",
          "yml_tool"
@@ -2049,6 +2050,20 @@
          ],
          "url": "https://github.com/hasura/graphql-engine",
          "user": "hasura"
+      },
+      {
+         "alias": "nutch",
+         "forked": false,
+         "release": null,
+         "repos_name": "nutch",
+         "score": 3,
+         "shallow": false,
+         "site": "https://github.com",
+         "tags": [
+            "spider"
+         ],
+         "url": "https://github.com/apache/nutch",
+         "user": "apache"
       }
    ],
    "tag_categories": {
@@ -5536,6 +5551,22 @@
                ],
                "url": "https://github.com/drubbo/SparkGIS",
                "user": "drubbo"
+            }
+         ],
+         "spider": [
+            {
+               "alias": "nutch",
+               "forked": false,
+               "release": null,
+               "repos_name": "nutch",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "spider"
+               ],
+               "url": "https://github.com/apache/nutch",
+               "user": "apache"
             }
          ],
          "springcloud": [
