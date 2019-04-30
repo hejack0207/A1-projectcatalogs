@@ -166,6 +166,9 @@
       "graphql_dbview",
       "graphql_fe",
       "graphql_java"
+    ],
+    "tool_data_process": [
+      "xml_tool"
     ]
   }
 }

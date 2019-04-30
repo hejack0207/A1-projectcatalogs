@@ -11,7 +11,6 @@
   [nutch](#nutch)
   [restful](#restful)
   [travis](#travis)
-  [xml_tool](#xml_tool)
   [yml_tool](#yml_tool)
 
 ## arch_agrithom
@@ -171,6 +170,9 @@
 ## tool_data_generator
 
   [jsonnet](#jsonnet)
+## tool_data_process
+
+  [xml_tool](#xml_tool)
 ## tool_editor
 
   [vim](#vim)
