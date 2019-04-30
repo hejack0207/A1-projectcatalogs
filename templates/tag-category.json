@@ -60,7 +60,8 @@
     ],
     "business": [
       "agriculture_knowledge_graph",
-      "knn_graph"
+      "knn_graph",
+      "spider"
     ],
     "business_etl": [
       "kettle",

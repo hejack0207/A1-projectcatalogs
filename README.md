@@ -10,7 +10,6 @@
   [mazerunner](#mazerunner)
   [nutch](#nutch)
   [restful](#restful)
-  [spider](#spider)
   [travis](#travis)
   [xml_tool](#xml_tool)
   [yml_tool](#yml_tool)
@@ -87,6 +86,7 @@
 
   [agriculture_knowledge_graph](#agriculture_knowledge_graph)
   [knn_graph](#knn_graph)
+  [spider](#spider)
 ## business_etl
 
   [kettle](#kettle)
