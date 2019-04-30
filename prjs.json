@@ -1778,7 +1778,8 @@
          "shallow": false,
          "site": "https://github.com",
          "tags": [
-            "prisma"
+            "prisma",
+            "graphql_dbview"
          ],
          "url": "https://github.com/prisma/prisma",
          "user": "prisma"
@@ -3761,6 +3762,21 @@
          ],
          "graphql_dbview": [
             {
+               "alias": "prisma",
+               "forked": false,
+               "release": null,
+               "repos_name": "prisma",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "prisma",
+                  "graphql_dbview"
+               ],
+               "url": "https://github.com/prisma/prisma",
+               "user": "prisma"
+            },
+            {
                "alias": "graphql-engine",
                "forked": false,
                "release": null,
@@ -5203,7 +5219,8 @@
                "shallow": false,
                "site": "https://github.com",
                "tags": [
-                  "prisma"
+                  "prisma",
+                  "graphql_dbview"
                ],
                "url": "https://github.com/prisma/prisma",
                "user": "prisma"

@@ -206,6 +206,7 @@ Tags
 
 * graphql_dbview
 
+  + prisma https://github.com/prisma/prisma
   + graphql-engine https://github.com/hasura/graphql-engine
 
 * graphql_fe
