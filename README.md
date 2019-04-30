@@ -877,6 +877,12 @@
   [prisma](#prisma)
   [graphql_dbview](#graphql_dbview)
       ]
+  + awesome-prisma <https://github.com/catalinmiron/awesome-prisma> 
+
+      [
+  [prisma](#prisma)
+  [graphql_dbview](#graphql_dbview)
+      ]
   + graphql-engine <https://github.com/hasura/graphql-engine> 
 
       [
@@ -1502,6 +1508,7 @@
 
       [
   [prisma](#prisma)
+  [graphql_dbview](#graphql_dbview)
       ]
 
 ## redis
