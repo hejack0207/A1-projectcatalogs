@@ -405,10 +405,6 @@ Tags
 
   + docker-presto https://github.com/zhicwu/docker-presto
 
-* prisma
-
-  + prisma https://github.com/prisma/prisma
-
 * redis
 
   + redis https://github.com/antirez/redis

@@ -1778,7 +1778,6 @@
          "shallow": false,
          "site": "https://github.com",
          "tags": [
-            "prisma",
             "graphql_dbview"
          ],
          "url": "https://github.com/prisma/prisma",
@@ -3772,7 +3771,6 @@
                "shallow": false,
                "site": "https://github.com",
                "tags": [
-                  "prisma",
                   "graphql_dbview"
                ],
                "url": "https://github.com/prisma/prisma",
@@ -5224,23 +5222,6 @@
                ],
                "url": "https://github.com/zhicwu/docker-presto",
                "user": "zhicwu"
-            }
-         ],
-         "prisma": [
-            {
-               "alias": "prisma",
-               "forked": false,
-               "release": null,
-               "repos_name": "prisma",
-               "score": 3,
-               "shallow": false,
-               "site": "https://github.com",
-               "tags": [
-                  "prisma",
-                  "graphql_dbview"
-               ],
-               "url": "https://github.com/prisma/prisma",
-               "user": "prisma"
             }
          ],
          "redis": [

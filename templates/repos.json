@@ -994,7 +994,6 @@
       "user": "prisma",
       "repos_name": "prisma",
       "tags": [
-        "prisma",
         "graphql_dbview"
       ]
     },
