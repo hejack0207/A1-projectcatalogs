@@ -762,6 +762,11 @@
       "user": "kislyuk", 
       "repos_name": "yq", 
       "tags": ["yml_tool"]
+    }, 
+    {
+      "user": "neo4j", 
+      "repos_name": "neo4j", 
+      "tags": ["neo4j"]
     }
   ]
 }

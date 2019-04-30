@@ -1334,6 +1334,11 @@
   [mazerunner](#mazerunner)
   [spark](#spark)
       ]
+  + neo4j <https://github.com/neo4j/neo4j> 
+
+      [
+  [neo4j](#neo4j)
+      ]
 
 ## ocr_awesome
   + awesome-ocr <https://github.com/kba/awesome-ocr> 
