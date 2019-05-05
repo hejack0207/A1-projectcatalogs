@@ -108,6 +108,7 @@
       "restructured"
     ],
     "dev_language_tool": [
+      "bash_ast",
       "cpp_tool",
       "python_ast",
       "sql_ast"

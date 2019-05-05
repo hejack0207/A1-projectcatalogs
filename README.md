@@ -2,7 +2,6 @@
 ## not in category
   [android_app](#android_app)
   [apollo](#apollo)
-  [bash_ast](#bash_ast)
   [go](#go)
   [graph_ui](#graph_ui)
   [mazerunner](#mazerunner)
@@ -130,6 +129,7 @@
   [restructured](#restructured)
 ## dev_language_tool
 
+  [bash_ast](#bash_ast)
   [cpp_tool](#cpp_tool)
   [python_ast](#python_ast)
   [sql_ast](#sql_ast)
