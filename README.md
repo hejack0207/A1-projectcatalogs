@@ -3,7 +3,6 @@
   [android_app](#android_app)
   [ant](#ant)
   [apollo](#apollo)
-  [build_tool](#build_tool)
   [cookiecutter](#cookiecutter)
   [graph_ui](#graph_ui)
   [jekyll](#jekyll)
@@ -110,6 +109,7 @@
 ## dev_build
 
   [autotools](#autotools)
+  [build_tool](#build_tool)
   [cmake](#cmake)
   [make](#make)
   [maven](#maven)
