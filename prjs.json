@@ -1611,8 +1611,7 @@
          "shallow": false,
          "site": "https://github.com",
          "tags": [
-            "plantuml",
-            "json"
+            "plantuml"
          ],
          "url": "https://github.com/meteorbites/json-to-plantuml",
          "user": "meteorbites"
@@ -4834,21 +4833,6 @@
          ],
          "json": [
             {
-               "alias": "json-to-plantuml",
-               "forked": false,
-               "release": null,
-               "repos_name": "json-to-plantuml",
-               "score": 3,
-               "shallow": false,
-               "site": "https://github.com",
-               "tags": [
-                  "plantuml",
-                  "json"
-               ],
-               "url": "https://github.com/meteorbites/json-to-plantuml",
-               "user": "meteorbites"
-            },
-            {
                "alias": "jsonquery",
                "forked": false,
                "release": null,
@@ -5588,8 +5572,7 @@
                "shallow": false,
                "site": "https://github.com",
                "tags": [
-                  "plantuml",
-                  "json"
+                  "plantuml"
                ],
                "url": "https://github.com/meteorbites/json-to-plantuml",
                "user": "meteorbites"

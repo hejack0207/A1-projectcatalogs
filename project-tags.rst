@@ -308,7 +308,6 @@ Tags
 
 * json
 
-  + json-to-plantuml https://github.com/meteorbites/json-to-plantuml
   + jsonquery https://github.com/antchfx/jsonquery
 
 * json_tool

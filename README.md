@@ -1216,12 +1216,6 @@
       ]
 
 ## json
-  + json-to-plantuml <https://github.com/meteorbites/json-to-plantuml> 
-
-      [
-  [plantuml](#plantuml)
-  [json](#json)
-      ]
   + jsonquery <https://github.com/antchfx/jsonquery> 
 
       [
@@ -1543,7 +1537,6 @@
 
       [
   [plantuml](#plantuml)
-  [json](#json)
       ]
   + plantuml-code-generator <https://github.com/bafolts/plantuml-code-generator> 
 
