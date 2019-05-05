@@ -104,6 +104,7 @@
          "android_app",
          "ant",
          "apollo",
+         "build_tool",
          "graph_ui",
          "jq",
          "json",
@@ -2068,6 +2069,20 @@
          ],
          "url": "https://github.com/apache/nutch",
          "user": "apache"
+      },
+      {
+         "alias": "shovel",
+         "forked": false,
+         "release": null,
+         "repos_name": "shovel",
+         "score": 3,
+         "shallow": false,
+         "site": "https://github.com",
+         "tags": [
+            "build_tool"
+         ],
+         "url": "https://github.com/seomoz/shovel",
+         "user": "seomoz"
       }
    ],
    "tag_categories": {
@@ -2710,6 +2725,22 @@
                ],
                "url": "https://github.com/LuckyZXL2016/Movie_Recommend",
                "user": "LuckyZXL2016"
+            }
+         ],
+         "build_tool": [
+            {
+               "alias": "shovel",
+               "forked": false,
+               "release": null,
+               "repos_name": "shovel",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "build_tool"
+               ],
+               "url": "https://github.com/seomoz/shovel",
+               "user": "seomoz"
             }
          ],
          "c": [
