@@ -1,7 +1,6 @@
 # category
 ## not in category
   [android_app](#android_app)
-  [ant](#ant)
   [apollo](#apollo)
   [cookiecutter](#cookiecutter)
   [graph_ui](#graph_ui)
@@ -104,6 +103,7 @@
   [ocr_awesome](#ocr_awesome)
 ## dev_build
 
+  [ant](#ant)
   [autotools](#autotools)
   [build_tool](#build_tool)
   [cmake](#cmake)

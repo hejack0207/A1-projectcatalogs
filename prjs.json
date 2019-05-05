@@ -5,6 +5,7 @@
          "agriculture_knowledge_graph",
          "angular",
          "ansible",
+         "ant",
          "archetype",
          "asciidoc",
          "autotools",
@@ -108,7 +109,6 @@
       ],
       "tags_not_in_category": [
          "android_app",
-         "ant",
          "apollo",
          "cookiecutter",
          "graph_ui",
@@ -2391,6 +2391,7 @@
          "ocr_awesome"
       ],
       "dev_build": [
+         "ant",
          "autotools",
          "build_tool",
          "cmake",

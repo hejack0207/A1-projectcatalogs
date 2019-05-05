@@ -83,6 +83,7 @@
       "ocr_awesome"
     ],
     "dev_build": [
+      "ant",
       "autotools",
       "build_tool",
       "cmake",
