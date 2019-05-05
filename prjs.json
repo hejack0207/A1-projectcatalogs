@@ -111,6 +111,7 @@
          "json",
          "mazerunner",
          "nutch",
+         "python_ast",
          "restful",
          "travis"
       ]
@@ -2198,6 +2199,20 @@
          ],
          "url": "https://github.com/rothgar/awesome-tmux",
          "user": "rothgar"
+      },
+      {
+         "alias": "python-astexport",
+         "forked": false,
+         "release": null,
+         "repos_name": "python-astexport",
+         "score": 3,
+         "shallow": false,
+         "site": "https://github.com",
+         "tags": [
+            "python_ast"
+         ],
+         "url": "https://github.com/fpoli/python-astexport",
+         "user": "fpoli"
       }
    ],
    "tag_categories": {
@@ -5519,6 +5534,22 @@
                ],
                "url": "https://github.com/zhicwu/docker-presto",
                "user": "zhicwu"
+            }
+         ],
+         "python_ast": [
+            {
+               "alias": "python-astexport",
+               "forked": false,
+               "release": null,
+               "repos_name": "python-astexport",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "python_ast"
+               ],
+               "url": "https://github.com/fpoli/python-astexport",
+               "user": "fpoli"
             }
          ],
          "redis": [

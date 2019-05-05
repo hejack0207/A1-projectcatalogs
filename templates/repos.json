@@ -822,6 +822,11 @@
       "user": "rothgar", 
       "repos_name": "awesome-tmux", 
       "tags": ["tmux"]
+    }, 
+    {
+      "user": "fpoli", 
+      "repos_name": "python-astexport", 
+      "tags": ["python_ast"]
     }
   ]
 }
