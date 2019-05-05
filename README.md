@@ -2,7 +2,6 @@
 ## not in category
   [android_app](#android_app)
   [apollo](#apollo)
-  [cookiecutter](#cookiecutter)
   [go](#go)
   [graph_ui](#graph_ui)
   [mazerunner](#mazerunner)
@@ -141,11 +140,12 @@
   [javascript](#javascript)
 ## dev_scaffold
 
+  [archetype](#archetype)
+  [code_generator](#code_generator)
+  [cookiecutter](#cookiecutter)
   [jhipster](#jhipster)
   [springcloud](#springcloud)
-  [archetype](#archetype)
   [swagger_angular](#swagger_angular)
-  [code_generator](#code_generator)
 ## dev_testing
 
   [f2etest](#f2etest)

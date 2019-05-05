@@ -19,6 +19,7 @@
          "clickhouse",
          "cmake",
          "code_generator",
+         "cookiecutter",
          "cpp",
          "cpp_tool",
          "cypher",
@@ -110,7 +111,6 @@
       "tags_not_in_category": [
          "android_app",
          "apollo",
-         "cookiecutter",
          "go",
          "graph_ui",
          "mazerunner",
@@ -2443,11 +2443,12 @@
          "javascript"
       ],
       "dev_scaffold": [
+         "archetype",
+         "code_generator",
+         "cookiecutter",
          "jhipster",
          "springcloud",
-         "archetype",
-         "swagger_angular",
-         "code_generator"
+         "swagger_angular"
       ],
       "dev_testing": [
          "f2etest",

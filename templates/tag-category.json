@@ -119,11 +119,12 @@
       "javascript"
     ],
     "dev_scaffold": [
+      "archetype",
+      "code_generator",
+      "cookiecutter",
       "jhipster",
       "springcloud",
-      "archetype",
-      "swagger_angular",
-      "code_generator"
+      "swagger_angular"
     ],
     "dev_testing": [
       "f2etest",
