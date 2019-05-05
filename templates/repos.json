@@ -847,6 +847,11 @@
       "user": "drbild", 
       "repos_name": "json2yaml", 
       "tags": ["json_tool"]
+    }, 
+    {
+      "user": "godmodelabs", 
+      "repos_name": "flora-sql-parser", 
+      "tags": ["sql_ast"]
     }
   ]
 }

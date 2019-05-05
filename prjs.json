@@ -114,6 +114,7 @@
          "nutch",
          "python_ast",
          "restful",
+         "sql_ast",
          "travis"
       ]
    },
@@ -2270,6 +2271,20 @@
          ],
          "url": "https://github.com/drbild/json2yaml",
          "user": "drbild"
+      },
+      {
+         "alias": "flora-sql-parser",
+         "forked": false,
+         "release": null,
+         "repos_name": "flora-sql-parser",
+         "score": 3,
+         "shallow": false,
+         "site": "https://github.com",
+         "tags": [
+            "sql_ast"
+         ],
+         "url": "https://github.com/godmodelabs/flora-sql-parser",
+         "user": "godmodelabs"
       }
    ],
    "tag_categories": {
@@ -6018,6 +6033,22 @@
                ],
                "url": "https://github.com/zhoutaoo/SpringCloud",
                "user": "zhoutaoo"
+            }
+         ],
+         "sql_ast": [
+            {
+               "alias": "flora-sql-parser",
+               "forked": false,
+               "release": null,
+               "repos_name": "flora-sql-parser",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "sql_ast"
+               ],
+               "url": "https://github.com/godmodelabs/flora-sql-parser",
+               "user": "godmodelabs"
             }
          ],
          "sql_support": [

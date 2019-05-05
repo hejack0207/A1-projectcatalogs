@@ -500,6 +500,10 @@ Tags
 
   + SpringCloud https://github.com/zhoutaoo/SpringCloud
 
+* sql_ast
+
+  + flora-sql-parser https://github.com/godmodelabs/flora-sql-parser
+
 * sql_support
 
   + incubator-doris https://github.com/apache/incubator-doris
