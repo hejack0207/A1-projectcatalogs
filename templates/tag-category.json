@@ -94,6 +94,7 @@
     "dev_deploy": [
       "ansible",
       "docker",
+      "use_docker",
       "docker_compose",
       "use_docker_compose",
       "helm",
