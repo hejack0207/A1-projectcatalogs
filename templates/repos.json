@@ -842,6 +842,11 @@
       "user": "audreyr", 
       "repos_name": "cookiecutter", 
       "tags": ["cookiecutter"]
+    }, 
+    {
+      "user": "drbild", 
+      "repos_name": "json2yaml", 
+      "tags": ["json_tool"]
     }
   ]
 }

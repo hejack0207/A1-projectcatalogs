@@ -309,6 +309,7 @@ Tags
 * json_tool
 
   + jq https://github.com/stedolan/jq
+  + json2yaml https://github.com/drbild/json2yaml
 
 * jsonnet
 
