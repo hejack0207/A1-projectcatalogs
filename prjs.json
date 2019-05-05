@@ -111,6 +111,7 @@
          "android_app",
          "apollo",
          "cookiecutter",
+         "go",
          "graph_ui",
          "mazerunner",
          "nutch",
@@ -2299,6 +2300,21 @@
          ],
          "url": "https://github.com/taozhi8833998/node-sql-parser",
          "user": "taozhi8833998"
+      },
+      {
+         "alias": "jsonquery",
+         "forked": false,
+         "release": null,
+         "repos_name": "jsonquery",
+         "score": 3,
+         "shallow": false,
+         "site": "https://github.com",
+         "tags": [
+            "json",
+            "go"
+         ],
+         "url": "https://github.com/antchfx/jsonquery",
+         "user": "antchfx"
       }
    ],
    "tag_categories": {
@@ -4099,6 +4115,23 @@
                "user": "git"
             }
          ],
+         "go": [
+            {
+               "alias": "jsonquery",
+               "forked": false,
+               "release": null,
+               "repos_name": "jsonquery",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "json",
+                  "go"
+               ],
+               "url": "https://github.com/antchfx/jsonquery",
+               "user": "antchfx"
+            }
+         ],
          "graph_ui": [
             {
                "alias": "ngx-graph",
@@ -4814,6 +4847,21 @@
                ],
                "url": "https://github.com/meteorbites/json-to-plantuml",
                "user": "meteorbites"
+            },
+            {
+               "alias": "jsonquery",
+               "forked": false,
+               "release": null,
+               "repos_name": "jsonquery",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "json",
+                  "go"
+               ],
+               "url": "https://github.com/antchfx/jsonquery",
+               "user": "antchfx"
             }
          ],
          "json_tool": [

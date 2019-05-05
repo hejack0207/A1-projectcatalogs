@@ -212,6 +212,10 @@ Tags
 
   + git https://github.com/git/git
 
+* go
+
+  + jsonquery https://github.com/antchfx/jsonquery
+
 * graph_ui
 
   + ngx-graph https://github.com/swimlane/ngx-graph
@@ -305,6 +309,7 @@ Tags
 * json
 
   + json-to-plantuml https://github.com/meteorbites/json-to-plantuml
+  + jsonquery https://github.com/antchfx/jsonquery
 
 * json_tool
 

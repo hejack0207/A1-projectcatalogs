@@ -857,6 +857,11 @@
       "user": "taozhi8833998", 
       "repos_name": "node-sql-parser", 
       "tags": ["sql_ast"]
+    }, 
+    {
+      "user": "antchfx", 
+      "repos_name": "jsonquery", 
+      "tags": ["json", "go"]
     }
   ]
 }
