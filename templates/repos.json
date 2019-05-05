@@ -95,7 +95,7 @@
     {
       "alias": "docker-pdi-ce", 
       "repos_name": "docker-pdi-ce", 
-      "tags": ["docker_compose", "kettle"], 
+      "tags": ["use_docker_compose", "kettle"], 
       "user": "zhicwu"
     }, 
     {
@@ -132,7 +132,7 @@
       "alias": "ansible.pentaho-biserver-ce", 
       "repos_name": "ansible.pentaho-biserver-ce", 
       "score": 2, 
-      "tags": ["docker_compose", "pentaho"], 
+      "tags": ["use_docker_compose", "pentaho"], 
       "user": "oggers"
     }, 
     {
@@ -157,7 +157,7 @@
     {
       "alias": "webkettle", 
       "repos_name": "webkettle", 
-      "tags": ["java", "docker_compose", "webui", "kettle"], 
+      "tags": ["java", "use_docker_compose", "webui", "kettle"], 
       "user": "JoeyBling"
     }, 
     {
@@ -181,13 +181,13 @@
     {
       "alias": "SpringCloud", 
       "repos_name": "SpringCloud", 
-      "tags": ["java", "docker_compose", "springcloud"], 
+      "tags": ["java", "use_docker_compose", "springcloud"], 
       "user": "zhoutaoo"
     }, 
     {
       "alias": "apollo-build-scripts", 
       "repos_name": "apollo-build-scripts", 
-      "tags": ["docker_compose", "apollo"], 
+      "tags": ["use_docker_compose", "apollo"], 
       "user": "nobodyiam"
     }, 
     {

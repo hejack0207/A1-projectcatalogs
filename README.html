@@ -24,7 +24,7 @@
 <p><a href="#tesseract">tesseract</a> <a href="#ocr_impl">ocr_impl</a> <a href="#ocr_awesome">ocr_awesome</a> ## dev_build</p>
 <p><a href="#ant">ant</a> <a href="#autotools">autotools</a> <a href="#build_tool">build_tool</a> <a href="#cmake">cmake</a> <a href="#make">make</a> <a href="#maven">maven</a> ## dev_ci</p>
 <h2 id="dev_deploy">dev_deploy</h2>
-<p><a href="#ansible">ansible</a> <a href="#docker">docker</a> <a href="#docker_compose">docker_compose</a> <a href="#helm">helm</a> <a href="#kubernetes">kubernetes</a> ## dev_design</p>
+<p><a href="#ansible">ansible</a> <a href="#docker">docker</a> <a href="#docker_compose">docker_compose</a> <a href="#use_docker_compose">use_docker_compose</a> <a href="#helm">helm</a> <a href="#kubernetes">kubernetes</a> ## dev_design</p>
 <p><a href="#plantuml">plantuml</a> ## dev_documentation</p>
 <p><a href="#asciidoc">asciidoc</a> <a href="#jekyll">jekyll</a> <a href="#markdown">markdown</a> <a href="#restructured">restructured</a> ## dev_language_tool</p>
 <p><a href="#bash_ast">bash_ast</a> <a href="#cpp_tool">cpp_tool</a> <a href="#python_ast">python_ast</a> <a href="#sql_ast">sql_ast</a> ## dev_languages</p>
@@ -92,7 +92,7 @@
 <h2 id="apollo">apollo</h2>
 <ul>
 <li><p>apollo-build-scripts <a href="https://github.com/nobodyiam/apollo-build-scripts" class="uri">https://github.com/nobodyiam/apollo-build-scripts</a></p>
-<p>[ <a href="#docker_compose">docker_compose</a> <a href="#apollo">apollo</a> ]</p></li>
+<p>[ <a href="#use_docker_compose">use_docker_compose</a> <a href="#apollo">apollo</a> ]</p></li>
 </ul>
 <h2 id="archetype">archetype</h2>
 <ul>
@@ -295,16 +295,6 @@
 <ul>
 <li><p>tesseract <a href="https://github.com/tesseract-ocr/tesseract" class="uri">https://github.com/tesseract-ocr/tesseract</a></p>
 [ <a href="#cpp">cpp</a> <a href="#cmake">cmake</a> <a href="#travis">travis</a> <a href="#asciidoc">asciidoc</a> <a href="#docker">docker</a> <a href="#docker_compose">docker_compose</a> <a href="#tesseract">tesseract</a> ]</li>
-<li><p>docker-pdi-ce <a href="https://github.com/zhicwu/docker-pdi-ce" class="uri">https://github.com/zhicwu/docker-pdi-ce</a></p>
-[ <a href="#docker_compose">docker_compose</a> <a href="#kettle">kettle</a> ]</li>
-<li><p>ansible.pentaho-biserver-ce <a href="https://github.com/oggers/ansible.pentaho-biserver-ce" class="uri">https://github.com/oggers/ansible.pentaho-biserver-ce</a></p>
-[ <a href="#docker_compose">docker_compose</a> <a href="#pentaho">pentaho</a> ]</li>
-<li><p>webkettle <a href="https://github.com/JoeyBling/webkettle" class="uri">https://github.com/JoeyBling/webkettle</a></p>
-[ <a href="#java">java</a> <a href="#docker_compose">docker_compose</a> <a href="#webui">webui</a> <a href="#kettle">kettle</a> ]</li>
-<li><p>SpringCloud <a href="https://github.com/zhoutaoo/SpringCloud" class="uri">https://github.com/zhoutaoo/SpringCloud</a></p>
-[ <a href="#java">java</a> <a href="#docker_compose">docker_compose</a> <a href="#springcloud">springcloud</a> ]</li>
-<li><p>apollo-build-scripts <a href="https://github.com/nobodyiam/apollo-build-scripts" class="uri">https://github.com/nobodyiam/apollo-build-scripts</a></p>
-[ <a href="#docker_compose">docker_compose</a> <a href="#apollo">apollo</a> ]</li>
 <li><p>docker.github.io <a href="https://github.com/docker/docker.github.io" class="uri">https://github.com/docker/docker.github.io</a></p>
 [ <a href="#docker">docker</a> <a href="#jekyll">jekyll</a> <a href="#docker_compose">docker_compose</a> ]</li>
 <li><p>compose <a href="https://github.com/docker/compose" class="uri">https://github.com/docker/compose</a></p>
@@ -467,9 +457,9 @@
 <li><p>kettle-manager <a href="https://github.com/majinju/kettle-manager" class="uri">https://github.com/majinju/kettle-manager</a></p>
 [ <a href="#java">java</a> <a href="#webui">webui</a> <a href="#kettle">kettle</a> ]</li>
 <li><p>webkettle <a href="https://github.com/JoeyBling/webkettle" class="uri">https://github.com/JoeyBling/webkettle</a></p>
-[ <a href="#java">java</a> <a href="#docker_compose">docker_compose</a> <a href="#webui">webui</a> <a href="#kettle">kettle</a> ]</li>
+[ <a href="#java">java</a> <a href="#use_docker_compose">use_docker_compose</a> <a href="#webui">webui</a> <a href="#kettle">kettle</a> ]</li>
 <li><p>SpringCloud <a href="https://github.com/zhoutaoo/SpringCloud" class="uri">https://github.com/zhoutaoo/SpringCloud</a></p>
-<p>[ <a href="#java">java</a> <a href="#docker_compose">docker_compose</a> <a href="#springcloud">springcloud</a> ]</p></li>
+<p>[ <a href="#java">java</a> <a href="#use_docker_compose">use_docker_compose</a> <a href="#springcloud">springcloud</a> ]</p></li>
 </ul>
 <h2 id="java_ast">java_ast</h2>
 <ul>
@@ -537,13 +527,13 @@
 <h2 id="kettle">kettle</h2>
 <ul>
 <li><p>docker-pdi-ce <a href="https://github.com/zhicwu/docker-pdi-ce" class="uri">https://github.com/zhicwu/docker-pdi-ce</a></p>
-[ <a href="#docker_compose">docker_compose</a> <a href="#kettle">kettle</a> ]</li>
+[ <a href="#use_docker_compose">use_docker_compose</a> <a href="#kettle">kettle</a> ]</li>
 <li><p>pentaho-kettle <a href="https://github.com/pentaho/pentaho-kettle" class="uri">https://github.com/pentaho/pentaho-kettle</a></p>
 [ <a href="#java">java</a> <a href="#kettle">kettle</a> ]</li>
 <li><p>kettle-manager <a href="https://github.com/majinju/kettle-manager" class="uri">https://github.com/majinju/kettle-manager</a></p>
 [ <a href="#java">java</a> <a href="#webui">webui</a> <a href="#kettle">kettle</a> ]</li>
 <li><p>webkettle <a href="https://github.com/JoeyBling/webkettle" class="uri">https://github.com/JoeyBling/webkettle</a></p>
-[ <a href="#java">java</a> <a href="#docker_compose">docker_compose</a> <a href="#webui">webui</a> <a href="#kettle">kettle</a> ]</li>
+[ <a href="#java">java</a> <a href="#use_docker_compose">use_docker_compose</a> <a href="#webui">webui</a> <a href="#kettle">kettle</a> ]</li>
 <li><p>pdi-cluster <a href="https://github.com/zhicwu/pdi-cluster" class="uri">https://github.com/zhicwu/pdi-cluster</a></p>
 <p>[ <a href="#kettle">kettle</a> ]</p></li>
 </ul>
@@ -665,7 +655,7 @@
 <h2 id="pentaho">pentaho</h2>
 <ul>
 <li><p>ansible.pentaho-biserver-ce <a href="https://github.com/oggers/ansible.pentaho-biserver-ce" class="uri">https://github.com/oggers/ansible.pentaho-biserver-ce</a></p>
-<p>[ <a href="#docker_compose">docker_compose</a> <a href="#pentaho">pentaho</a> ]</p></li>
+<p>[ <a href="#use_docker_compose">use_docker_compose</a> <a href="#pentaho">pentaho</a> ]</p></li>
 </ul>
 <h2 id="pinot">pinot</h2>
 <ul>
@@ -784,7 +774,7 @@
 <h2 id="springcloud">springcloud</h2>
 <ul>
 <li><p>SpringCloud <a href="https://github.com/zhoutaoo/SpringCloud" class="uri">https://github.com/zhoutaoo/SpringCloud</a></p>
-<p>[ <a href="#java">java</a> <a href="#docker_compose">docker_compose</a> <a href="#springcloud">springcloud</a> ]</p></li>
+<p>[ <a href="#java">java</a> <a href="#use_docker_compose">use_docker_compose</a> <a href="#springcloud">springcloud</a> ]</p></li>
 </ul>
 <h2 id="sql_ast">sql_ast</h2>
 <ul>
@@ -861,6 +851,19 @@
 <li><p>tesseract <a href="https://github.com/tesseract-ocr/tesseract" class="uri">https://github.com/tesseract-ocr/tesseract</a></p>
 <p>[ <a href="#cpp">cpp</a> <a href="#cmake">cmake</a> <a href="#travis">travis</a> <a href="#asciidoc">asciidoc</a> <a href="#docker">docker</a> <a href="#docker_compose">docker_compose</a> <a href="#tesseract">tesseract</a> ]</p></li>
 </ul>
+<h2 id="use_docker_compose">use_docker_compose</h2>
+<ul>
+<li><p>docker-pdi-ce <a href="https://github.com/zhicwu/docker-pdi-ce" class="uri">https://github.com/zhicwu/docker-pdi-ce</a></p>
+[ <a href="#use_docker_compose">use_docker_compose</a> <a href="#kettle">kettle</a> ]</li>
+<li><p>ansible.pentaho-biserver-ce <a href="https://github.com/oggers/ansible.pentaho-biserver-ce" class="uri">https://github.com/oggers/ansible.pentaho-biserver-ce</a></p>
+[ <a href="#use_docker_compose">use_docker_compose</a> <a href="#pentaho">pentaho</a> ]</li>
+<li><p>webkettle <a href="https://github.com/JoeyBling/webkettle" class="uri">https://github.com/JoeyBling/webkettle</a></p>
+[ <a href="#java">java</a> <a href="#use_docker_compose">use_docker_compose</a> <a href="#webui">webui</a> <a href="#kettle">kettle</a> ]</li>
+<li><p>SpringCloud <a href="https://github.com/zhoutaoo/SpringCloud" class="uri">https://github.com/zhoutaoo/SpringCloud</a></p>
+[ <a href="#java">java</a> <a href="#use_docker_compose">use_docker_compose</a> <a href="#springcloud">springcloud</a> ]</li>
+<li><p>apollo-build-scripts <a href="https://github.com/nobodyiam/apollo-build-scripts" class="uri">https://github.com/nobodyiam/apollo-build-scripts</a></p>
+<p>[ <a href="#use_docker_compose">use_docker_compose</a> <a href="#apollo">apollo</a> ]</p></li>
+</ul>
 <h2 id="vim">vim</h2>
 <ul>
 <li><p>ccls <a href="https://github.com/MaskRay/ccls" class="uri">https://github.com/MaskRay/ccls</a></p>
@@ -888,7 +891,7 @@
 <li><p>kettle-manager <a href="https://github.com/majinju/kettle-manager" class="uri">https://github.com/majinju/kettle-manager</a></p>
 [ <a href="#java">java</a> <a href="#webui">webui</a> <a href="#kettle">kettle</a> ]</li>
 <li><p>webkettle <a href="https://github.com/JoeyBling/webkettle" class="uri">https://github.com/JoeyBling/webkettle</a></p>
-[ <a href="#java">java</a> <a href="#docker_compose">docker_compose</a> <a href="#webui">webui</a> <a href="#kettle">kettle</a> ]</li>
+[ <a href="#java">java</a> <a href="#use_docker_compose">use_docker_compose</a> <a href="#webui">webui</a> <a href="#kettle">kettle</a> ]</li>
 <li><p>plantuml-server <a href="https://github.com/plantuml/plantuml-server" class="uri">https://github.com/plantuml/plantuml-server</a></p>
 <p>[ <a href="#plantuml">plantuml</a> <a href="#webui">webui</a> ]</p></li>
 </ul>

@@ -118,6 +118,7 @@
   [ansible](#ansible)
   [docker](#docker)
   [docker_compose](#docker_compose)
+  [use_docker_compose](#use_docker_compose)
   [helm](#helm)
   [kubernetes](#kubernetes)
 ## dev_design
@@ -308,7 +309,7 @@
   + apollo-build-scripts <https://github.com/nobodyiam/apollo-build-scripts> 
 
       [
-  [docker_compose](#docker_compose)
+  [use_docker_compose](#use_docker_compose)
   [apollo](#apollo)
       ]
 
@@ -790,39 +791,6 @@
   [docker_compose](#docker_compose)
   [tesseract](#tesseract)
       ]
-  + docker-pdi-ce <https://github.com/zhicwu/docker-pdi-ce> 
-
-      [
-  [docker_compose](#docker_compose)
-  [kettle](#kettle)
-      ]
-  + ansible.pentaho-biserver-ce <https://github.com/oggers/ansible.pentaho-biserver-ce> 
-
-      [
-  [docker_compose](#docker_compose)
-  [pentaho](#pentaho)
-      ]
-  + webkettle <https://github.com/JoeyBling/webkettle> 
-
-      [
-  [java](#java)
-  [docker_compose](#docker_compose)
-  [webui](#webui)
-  [kettle](#kettle)
-      ]
-  + SpringCloud <https://github.com/zhoutaoo/SpringCloud> 
-
-      [
-  [java](#java)
-  [docker_compose](#docker_compose)
-  [springcloud](#springcloud)
-      ]
-  + apollo-build-scripts <https://github.com/nobodyiam/apollo-build-scripts> 
-
-      [
-  [docker_compose](#docker_compose)
-  [apollo](#apollo)
-      ]
   + docker.github.io <https://github.com/docker/docker.github.io> 
 
       [
@@ -1153,7 +1121,7 @@
 
       [
   [java](#java)
-  [docker_compose](#docker_compose)
+  [use_docker_compose](#use_docker_compose)
   [webui](#webui)
   [kettle](#kettle)
       ]
@@ -1161,7 +1129,7 @@
 
       [
   [java](#java)
-  [docker_compose](#docker_compose)
+  [use_docker_compose](#use_docker_compose)
   [springcloud](#springcloud)
       ]
 
@@ -1289,7 +1257,7 @@
   + docker-pdi-ce <https://github.com/zhicwu/docker-pdi-ce> 
 
       [
-  [docker_compose](#docker_compose)
+  [use_docker_compose](#use_docker_compose)
   [kettle](#kettle)
       ]
   + pentaho-kettle <https://github.com/pentaho/pentaho-kettle> 
@@ -1309,7 +1277,7 @@
 
       [
   [java](#java)
-  [docker_compose](#docker_compose)
+  [use_docker_compose](#use_docker_compose)
   [webui](#webui)
   [kettle](#kettle)
       ]
@@ -1560,7 +1528,7 @@
   + ansible.pentaho-biserver-ce <https://github.com/oggers/ansible.pentaho-biserver-ce> 
 
       [
-  [docker_compose](#docker_compose)
+  [use_docker_compose](#use_docker_compose)
   [pentaho](#pentaho)
       ]
 
@@ -1811,7 +1779,7 @@
 
       [
   [java](#java)
-  [docker_compose](#docker_compose)
+  [use_docker_compose](#use_docker_compose)
   [springcloud](#springcloud)
       ]
 
@@ -1977,6 +1945,41 @@
   [tesseract](#tesseract)
       ]
 
+## use_docker_compose
+  + docker-pdi-ce <https://github.com/zhicwu/docker-pdi-ce> 
+
+      [
+  [use_docker_compose](#use_docker_compose)
+  [kettle](#kettle)
+      ]
+  + ansible.pentaho-biserver-ce <https://github.com/oggers/ansible.pentaho-biserver-ce> 
+
+      [
+  [use_docker_compose](#use_docker_compose)
+  [pentaho](#pentaho)
+      ]
+  + webkettle <https://github.com/JoeyBling/webkettle> 
+
+      [
+  [java](#java)
+  [use_docker_compose](#use_docker_compose)
+  [webui](#webui)
+  [kettle](#kettle)
+      ]
+  + SpringCloud <https://github.com/zhoutaoo/SpringCloud> 
+
+      [
+  [java](#java)
+  [use_docker_compose](#use_docker_compose)
+  [springcloud](#springcloud)
+      ]
+  + apollo-build-scripts <https://github.com/nobodyiam/apollo-build-scripts> 
+
+      [
+  [use_docker_compose](#use_docker_compose)
+  [apollo](#apollo)
+      ]
+
 ## vim
   + ccls <https://github.com/MaskRay/ccls> 
 
@@ -2029,7 +2032,7 @@
 
       [
   [java](#java)
-  [docker_compose](#docker_compose)
+  [use_docker_compose](#use_docker_compose)
   [webui](#webui)
   [kettle](#kettle)
       ]
