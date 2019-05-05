@@ -47,6 +47,7 @@
          "impalagis",
          "java",
          "javascript",
+         "jekyll",
          "jhipster",
          "json_tool",
          "jsonnet",
@@ -107,7 +108,6 @@
          "apollo",
          "cookiecutter",
          "graph_ui",
-         "jekyll",
          "jq",
          "json",
          "mazerunner",
@@ -2410,6 +2410,7 @@
       ],
       "dev_documentation": [
          "asciidoc",
+         "jekyll",
          "markdown",
          "restructured"
       ],

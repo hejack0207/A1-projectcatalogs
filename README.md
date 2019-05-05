@@ -5,7 +5,6 @@
   [apollo](#apollo)
   [cookiecutter](#cookiecutter)
   [graph_ui](#graph_ui)
-  [jekyll](#jekyll)
   [jq](#jq)
   [json](#json)
   [mazerunner](#mazerunner)
@@ -129,6 +128,7 @@
 ## dev_documentation
 
   [asciidoc](#asciidoc)
+  [jekyll](#jekyll)
   [markdown](#markdown)
   [restructured](#restructured)
 ## dev_language_tool
