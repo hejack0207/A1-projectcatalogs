@@ -1126,6 +1126,11 @@
       [
   [jekyll](#jekyll)
       ]
+  + jekyll-pdf <https://github.com/abeMedia/jekyll-pdf> 
+
+      [
+  [jekyll](#jekyll)
+      ]
 
 ## jhipster
   + generator-jhipster <https://github.com/jhipster/generator-jhipster> 

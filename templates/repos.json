@@ -797,6 +797,11 @@
       "user": "jekyll", 
       "repos_name": "jekyll", 
       "tags": ["jekyll"]
+    }, 
+    {
+      "user": "abeMedia", 
+      "repos_name": "jekyll-pdf", 
+      "tags": ["jekyll"]
     }
   ]
 }

@@ -280,6 +280,7 @@ Tags
 * jekyll
 
   + jekyll https://github.com/jekyll/jekyll
+  + jekyll-pdf https://github.com/abeMedia/jekyll-pdf
 
 * jhipster
 

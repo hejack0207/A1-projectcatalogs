@@ -2126,6 +2126,20 @@
          ],
          "url": "https://github.com/jekyll/jekyll",
          "user": "jekyll"
+      },
+      {
+         "alias": "jekyll-pdf",
+         "forked": false,
+         "release": null,
+         "repos_name": "jekyll-pdf",
+         "score": 3,
+         "shallow": false,
+         "site": "https://github.com",
+         "tags": [
+            "jekyll"
+         ],
+         "url": "https://github.com/abeMedia/jekyll-pdf",
+         "user": "abeMedia"
       }
    ],
    "tag_categories": {
@@ -4433,6 +4447,20 @@
                ],
                "url": "https://github.com/jekyll/jekyll",
                "user": "jekyll"
+            },
+            {
+               "alias": "jekyll-pdf",
+               "forked": false,
+               "release": null,
+               "repos_name": "jekyll-pdf",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "jekyll"
+               ],
+               "url": "https://github.com/abeMedia/jekyll-pdf",
+               "user": "abeMedia"
             }
          ],
          "jhipster": [
