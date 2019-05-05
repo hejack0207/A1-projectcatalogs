@@ -178,6 +178,7 @@
       "graphql_java"
     ],
     "tool_data_process": [
+      "csv_tool",
       "jq",
       "json",
       "json_tool",
