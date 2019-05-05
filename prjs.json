@@ -2170,6 +2170,20 @@
          ],
          "url": "https://github.com/tmux-plugins/tmux-sessionist",
          "user": "tmux-plugins"
+      },
+      {
+         "alias": "tmux-continuum",
+         "forked": false,
+         "release": null,
+         "repos_name": "tmux-continuum",
+         "score": 3,
+         "shallow": false,
+         "site": "https://github.com",
+         "tags": [
+            "tmux"
+         ],
+         "url": "https://github.com/tmux-plugins/tmux-continuum",
+         "user": "tmux-plugins"
       }
    ],
    "tag_categories": {
@@ -6081,6 +6095,20 @@
                   "tmux"
                ],
                "url": "https://github.com/tmux-plugins/tmux-sessionist",
+               "user": "tmux-plugins"
+            },
+            {
+               "alias": "tmux-continuum",
+               "forked": false,
+               "release": null,
+               "repos_name": "tmux-continuum",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "tmux"
+               ],
+               "url": "https://github.com/tmux-plugins/tmux-continuum",
                "user": "tmux-plugins"
             }
          ],

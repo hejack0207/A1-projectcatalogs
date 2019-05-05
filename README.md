@@ -1831,6 +1831,11 @@
       [
   [tmux](#tmux)
       ]
+  + tmux-continuum <https://github.com/tmux-plugins/tmux-continuum> 
+
+      [
+  [tmux](#tmux)
+      ]
 
 ## tomcat
   + docker-tomcat <https://github.com/docker-library/tomcat> 

@@ -526,6 +526,7 @@ Tags
   + tmux https://github.com/tmux/tmux
   + tmux-resurrect https://github.com/tmux-plugins/tmux-resurrect
   + tmux-sessionist https://github.com/tmux-plugins/tmux-sessionist
+  + tmux-continuum https://github.com/tmux-plugins/tmux-continuum
 
 * tomcat
 

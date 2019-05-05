@@ -812,6 +812,11 @@
       "user": "tmux-plugins", 
       "repos_name": "tmux-sessionist", 
       "tags": ["tmux"]
+    }, 
+    {
+      "user": "tmux-plugins", 
+      "repos_name": "tmux-continuum", 
+      "tags": ["tmux"]
     }
   ]
 }
