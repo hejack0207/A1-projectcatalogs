@@ -395,6 +395,7 @@ Tags
   + neo4j-mazerunner https://github.com/neo4j-contrib/neo4j-mazerunner
   + neo4j https://github.com/neo4j/neo4j
   + docker-neo4j https://github.com/neo4j/docker-neo4j
+  + docker-neo4j https://github.com/kbastani/docker-neo4j
 
 * nutch
 

@@ -892,6 +892,11 @@
       "user": "neo4j", 
       "repos_name": "docker-neo4j", 
       "tags": ["neo4j"]
+    }, 
+    {
+      "user": "kbastani", 
+      "repos_name": "docker-neo4j", 
+      "tags": ["neo4j"]
     }
   ]
 }
