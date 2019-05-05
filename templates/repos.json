@@ -817,6 +817,11 @@
       "user": "tmux-plugins", 
       "repos_name": "tmux-continuum", 
       "tags": ["tmux"]
+    }, 
+    {
+      "user": "rothgar", 
+      "repos_name": "awesome-tmux", 
+      "tags": ["tmux"]
     }
   ]
 }

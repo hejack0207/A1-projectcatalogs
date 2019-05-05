@@ -1836,6 +1836,11 @@
       [
   [tmux](#tmux)
       ]
+  + awesome-tmux <https://github.com/rothgar/awesome-tmux> 
+
+      [
+  [tmux](#tmux)
+      ]
 
 ## tomcat
   + docker-tomcat <https://github.com/docker-library/tomcat> 

@@ -2184,6 +2184,20 @@
          ],
          "url": "https://github.com/tmux-plugins/tmux-continuum",
          "user": "tmux-plugins"
+      },
+      {
+         "alias": "awesome-tmux",
+         "forked": false,
+         "release": null,
+         "repos_name": "awesome-tmux",
+         "score": 3,
+         "shallow": false,
+         "site": "https://github.com",
+         "tags": [
+            "tmux"
+         ],
+         "url": "https://github.com/rothgar/awesome-tmux",
+         "user": "rothgar"
       }
    ],
    "tag_categories": {
@@ -6110,6 +6124,20 @@
                ],
                "url": "https://github.com/tmux-plugins/tmux-continuum",
                "user": "tmux-plugins"
+            },
+            {
+               "alias": "awesome-tmux",
+               "forked": false,
+               "release": null,
+               "repos_name": "awesome-tmux",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "tmux"
+               ],
+               "url": "https://github.com/rothgar/awesome-tmux",
+               "user": "rothgar"
             }
          ],
          "tomcat": [
