@@ -70,6 +70,7 @@ Tags
 
   + shovel https://github.com/seomoz/shovel
   + rake https://github.com/ruby/rake
+  + drake https://github.com/Factual/drake
 
 * c
 
