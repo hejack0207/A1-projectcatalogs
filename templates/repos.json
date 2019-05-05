@@ -887,6 +887,11 @@
       "user": "google", 
       "repos_name": "pasta", 
       "tags": ["python_ast"]
+    }, 
+    {
+      "user": "neo4j", 
+      "repos_name": "docker-neo4j", 
+      "tags": ["neo4j"]
     }
   ]
 }

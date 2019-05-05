@@ -405,6 +405,7 @@ Tags
   + spark-neo4j https://github.com/kbastani/spark-neo4j
   + neo4j-mazerunner https://github.com/neo4j-contrib/neo4j-mazerunner
   + neo4j https://github.com/neo4j/neo4j
+  + docker-neo4j https://github.com/neo4j/docker-neo4j
 
 * nutch
 
