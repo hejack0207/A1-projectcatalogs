@@ -895,7 +895,8 @@
       "alias": "json-to-plantuml",
       "repos_name": "json-to-plantuml",
       "tags": [
-        "plantuml"
+        "plantuml",
+        "json_tool"
       ],
       "user": "meteorbites"
     },

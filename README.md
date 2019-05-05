@@ -1224,6 +1224,12 @@
       ]
 
 ## json_tool
+  + json-to-plantuml <https://github.com/meteorbites/json-to-plantuml> 
+
+      [
+  [plantuml](#plantuml)
+  [json_tool](#json_tool)
+      ]
   + jq <https://github.com/stedolan/jq> 
 
       [
@@ -1537,6 +1543,7 @@
 
       [
   [plantuml](#plantuml)
+  [json_tool](#json_tool)
       ]
   + plantuml-code-generator <https://github.com/bafolts/plantuml-code-generator> 
 
