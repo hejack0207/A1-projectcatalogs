@@ -852,6 +852,11 @@
       "user": "godmodelabs", 
       "repos_name": "flora-sql-parser", 
       "tags": ["sql_ast"]
+    }, 
+    {
+      "user": "taozhi8833998", 
+      "repos_name": "node-sql-parser", 
+      "tags": ["sql_ast"]
     }
   ]
 }

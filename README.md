@@ -1757,6 +1757,11 @@
       [
   [sql_ast](#sql_ast)
       ]
+  + node-sql-parser <https://github.com/taozhi8833998/node-sql-parser> 
+
+      [
+  [sql_ast](#sql_ast)
+      ]
 
 ## sql_support
   + incubator-doris <https://github.com/apache/incubator-doris> 

@@ -2285,6 +2285,20 @@
          ],
          "url": "https://github.com/godmodelabs/flora-sql-parser",
          "user": "godmodelabs"
+      },
+      {
+         "alias": "node-sql-parser",
+         "forked": false,
+         "release": null,
+         "repos_name": "node-sql-parser",
+         "score": 3,
+         "shallow": false,
+         "site": "https://github.com",
+         "tags": [
+            "sql_ast"
+         ],
+         "url": "https://github.com/taozhi8833998/node-sql-parser",
+         "user": "taozhi8833998"
       }
    ],
    "tag_categories": {
@@ -6049,6 +6063,20 @@
                ],
                "url": "https://github.com/godmodelabs/flora-sql-parser",
                "user": "godmodelabs"
+            },
+            {
+               "alias": "node-sql-parser",
+               "forked": false,
+               "release": null,
+               "repos_name": "node-sql-parser",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "sql_ast"
+               ],
+               "url": "https://github.com/taozhi8833998/node-sql-parser",
+               "user": "taozhi8833998"
             }
          ],
          "sql_support": [

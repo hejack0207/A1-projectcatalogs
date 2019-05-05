@@ -503,6 +503,7 @@ Tags
 * sql_ast
 
   + flora-sql-parser https://github.com/godmodelabs/flora-sql-parser
+  + node-sql-parser https://github.com/taozhi8833998/node-sql-parser
 
 * sql_support
 
