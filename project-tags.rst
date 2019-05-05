@@ -288,6 +288,10 @@ Tags
   + webkettle https://github.com/JoeyBling/webkettle
   + SpringCloud https://github.com/zhoutaoo/SpringCloud
 
+* java_ast
+
+  + rewrite https://github.com/Netflix-Skunkworks/rewrite
+
 * javascript
 
   + generator-jhipster https://github.com/jhipster/generator-jhipster

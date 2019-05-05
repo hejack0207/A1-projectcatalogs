@@ -114,6 +114,7 @@
          "apollo",
          "go",
          "graph_ui",
+         "java_ast",
          "mazerunner",
          "nutch",
          "restful",
@@ -2358,6 +2359,20 @@
          ],
          "url": "https://github.com/YoloSwagTeam/ast2json",
          "user": "YoloSwagTeam"
+      },
+      {
+         "alias": "rewrite",
+         "forked": false,
+         "release": null,
+         "repos_name": "rewrite",
+         "score": 3,
+         "shallow": false,
+         "site": "https://github.com",
+         "tags": [
+            "java_ast"
+         ],
+         "url": "https://github.com/Netflix-Skunkworks/rewrite",
+         "user": "Netflix-Skunkworks"
       }
    ],
    "tag_categories": {
@@ -4734,6 +4749,22 @@
                ],
                "url": "https://github.com/zhoutaoo/SpringCloud",
                "user": "zhoutaoo"
+            }
+         ],
+         "java_ast": [
+            {
+               "alias": "rewrite",
+               "forked": false,
+               "release": null,
+               "repos_name": "rewrite",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "java_ast"
+               ],
+               "url": "https://github.com/Netflix-Skunkworks/rewrite",
+               "user": "Netflix-Skunkworks"
             }
          ],
          "javascript": [

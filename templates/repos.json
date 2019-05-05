@@ -877,6 +877,11 @@
       "user": "YoloSwagTeam", 
       "repos_name": "ast2json", 
       "tags": ["python_ast"]
+    }, 
+    {
+      "user": "Netflix-Skunkworks", 
+      "repos_name": "rewrite", 
+      "tags": ["java_ast"]
     }
   ]
 }
