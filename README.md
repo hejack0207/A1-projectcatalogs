@@ -5,8 +5,6 @@
   [apollo](#apollo)
   [cookiecutter](#cookiecutter)
   [graph_ui](#graph_ui)
-  [jq](#jq)
-  [json](#json)
   [mazerunner](#mazerunner)
   [nutch](#nutch)
   [python_ast](#python_ast)
@@ -175,6 +173,8 @@
   [jsonnet](#jsonnet)
 ## tool_data_process
 
+  [jq](#jq)
+  [json](#json)
   [json_tool](#json_tool)
   [xml_tool](#xml_tool)
   [yml_tool](#yml_tool)

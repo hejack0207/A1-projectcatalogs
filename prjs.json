@@ -49,6 +49,8 @@
          "javascript",
          "jekyll",
          "jhipster",
+         "jq",
+         "json",
          "json_tool",
          "jsonnet",
          "keepalived",
@@ -108,8 +110,6 @@
          "apollo",
          "cookiecutter",
          "graph_ui",
-         "jq",
-         "json",
          "mazerunner",
          "nutch",
          "python_ast",
@@ -2457,6 +2457,8 @@
          "jsonnet"
       ],
       "tool_data_process": [
+         "jq",
+         "json",
          "json_tool",
          "xml_tool",
          "yml_tool"
