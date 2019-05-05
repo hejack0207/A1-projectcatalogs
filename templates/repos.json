@@ -807,6 +807,11 @@
       "user": "docker", 
       "repos_name": "docker.github.io", 
       "tags": ["docker", "jekyll", "docker_compose"]
+    }, 
+    {
+      "user": "tmux-plugins", 
+      "repos_name": "tmux-sessionist", 
+      "tags": ["tmux"]
     }
   ]
 }

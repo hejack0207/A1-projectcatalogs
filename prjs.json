@@ -2156,6 +2156,20 @@
          ],
          "url": "https://github.com/docker/docker.github.io",
          "user": "docker"
+      },
+      {
+         "alias": "tmux-sessionist",
+         "forked": false,
+         "release": null,
+         "repos_name": "tmux-sessionist",
+         "score": 3,
+         "shallow": false,
+         "site": "https://github.com",
+         "tags": [
+            "tmux"
+         ],
+         "url": "https://github.com/tmux-plugins/tmux-sessionist",
+         "user": "tmux-plugins"
       }
    ],
    "tag_categories": {
@@ -6053,6 +6067,20 @@
                   "tmux"
                ],
                "url": "https://github.com/tmux-plugins/tmux-resurrect",
+               "user": "tmux-plugins"
+            },
+            {
+               "alias": "tmux-sessionist",
+               "forked": false,
+               "release": null,
+               "repos_name": "tmux-sessionist",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "tmux"
+               ],
+               "url": "https://github.com/tmux-plugins/tmux-sessionist",
                "user": "tmux-plugins"
             }
          ],

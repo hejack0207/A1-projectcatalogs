@@ -1826,6 +1826,11 @@
       [
   [tmux](#tmux)
       ]
+  + tmux-sessionist <https://github.com/tmux-plugins/tmux-sessionist> 
+
+      [
+  [tmux](#tmux)
+      ]
 
 ## tomcat
   + docker-tomcat <https://github.com/docker-library/tomcat> 
