@@ -74,6 +74,7 @@
          "plantuml",
          "postgres",
          "presto",
+         "python_ast",
          "redis",
          "redmine",
          "restructured",
@@ -84,6 +85,7 @@
          "sparkgis",
          "spider",
          "springcloud",
+         "sql_ast",
          "sql_support",
          "sqlite",
          "ssh",
@@ -112,9 +114,7 @@
          "graph_ui",
          "mazerunner",
          "nutch",
-         "python_ast",
          "restful",
-         "sql_ast",
          "travis"
       ]
    },
@@ -2415,7 +2415,9 @@
          "restructured"
       ],
       "dev_language_tool": [
-         "cpp_tool"
+         "cpp_tool",
+         "python_ast",
+         "sql_ast"
       ],
       "dev_languages": [
          "c",

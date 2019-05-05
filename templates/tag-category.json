@@ -107,7 +107,9 @@
       "restructured"
     ],
     "dev_language_tool": [
-      "cpp_tool"
+      "cpp_tool",
+      "python_ast",
+      "sql_ast"
     ],
     "dev_languages": [
       "c",

@@ -7,9 +7,7 @@
   [graph_ui](#graph_ui)
   [mazerunner](#mazerunner)
   [nutch](#nutch)
-  [python_ast](#python_ast)
   [restful](#restful)
-  [sql_ast](#sql_ast)
   [travis](#travis)
 
 ## arch_agrithom
@@ -132,6 +130,8 @@
 ## dev_language_tool
 
   [cpp_tool](#cpp_tool)
+  [python_ast](#python_ast)
+  [sql_ast](#sql_ast)
 ## dev_languages
 
   [c](#c)
