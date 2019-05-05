@@ -112,6 +112,10 @@ Tags
 
   + plantuml-code-generator https://github.com/bafolts/plantuml-code-generator
 
+* cookiecutter
+
+  + cookiecutter https://github.com/audreyr/cookiecutter
+
 * cpp
 
   + tesseract https://github.com/tesseract-ocr/tesseract

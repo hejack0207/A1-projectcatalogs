@@ -105,6 +105,7 @@
          "ant",
          "apollo",
          "build_tool",
+         "cookiecutter",
          "graph_ui",
          "jekyll",
          "jq",
@@ -2241,6 +2242,20 @@
          ],
          "url": "https://github.com/docker/compose",
          "user": "docker"
+      },
+      {
+         "alias": "cookiecutter",
+         "forked": false,
+         "release": null,
+         "repos_name": "cookiecutter",
+         "score": 3,
+         "shallow": false,
+         "site": "https://github.com",
+         "tags": [
+            "cookiecutter"
+         ],
+         "url": "https://github.com/audreyr/cookiecutter",
+         "user": "audreyr"
       }
    ],
    "tag_categories": {
@@ -3289,6 +3304,22 @@
                ],
                "url": "https://github.com/bafolts/plantuml-code-generator",
                "user": "bafolts"
+            }
+         ],
+         "cookiecutter": [
+            {
+               "alias": "cookiecutter",
+               "forked": false,
+               "release": null,
+               "repos_name": "cookiecutter",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "cookiecutter"
+               ],
+               "url": "https://github.com/audreyr/cookiecutter",
+               "user": "audreyr"
             }
          ],
          "cpp": [

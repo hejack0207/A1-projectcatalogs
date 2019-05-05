@@ -837,6 +837,11 @@
       "user": "docker", 
       "repos_name": "compose", 
       "tags": ["docker_compose"]
+    }, 
+    {
+      "user": "audreyr", 
+      "repos_name": "cookiecutter", 
+      "tags": ["cookiecutter"]
     }
   ]
 }
