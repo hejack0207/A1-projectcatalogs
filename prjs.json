@@ -2373,6 +2373,20 @@
          ],
          "url": "https://github.com/Netflix-Skunkworks/rewrite",
          "user": "Netflix-Skunkworks"
+      },
+      {
+         "alias": "pasta",
+         "forked": false,
+         "release": null,
+         "repos_name": "pasta",
+         "score": 3,
+         "shallow": false,
+         "site": "https://github.com",
+         "tags": [
+            "python_ast"
+         ],
+         "url": "https://github.com/google/pasta",
+         "user": "google"
       }
    ],
    "tag_categories": {
@@ -5869,6 +5883,20 @@
                ],
                "url": "https://github.com/YoloSwagTeam/ast2json",
                "user": "YoloSwagTeam"
+            },
+            {
+               "alias": "pasta",
+               "forked": false,
+               "release": null,
+               "repos_name": "pasta",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "python_ast"
+               ],
+               "url": "https://github.com/google/pasta",
+               "user": "google"
             }
          ],
          "redis": [

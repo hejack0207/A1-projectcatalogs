@@ -882,6 +882,11 @@
       "user": "Netflix-Skunkworks", 
       "repos_name": "rewrite", 
       "tags": ["java_ast"]
+    }, 
+    {
+      "user": "google", 
+      "repos_name": "pasta", 
+      "tags": ["python_ast"]
     }
   ]
 }
