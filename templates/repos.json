@@ -897,6 +897,11 @@
       "user": "kbastani", 
       "repos_name": "docker-neo4j", 
       "tags": ["neo4j"]
+    }, 
+    {
+      "user": "vividvilla", 
+      "repos_name": "csvtotable", 
+      "tags": ["csv_tool"]
     }
   ]
 }

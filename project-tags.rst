@@ -131,6 +131,10 @@ Tags
 
   + ccls https://github.com/MaskRay/ccls
 
+* csv_tool
+
+  + csvtotable https://github.com/vividvilla/csvtotable
+
 * cypher
 
   + cypher-for-apache-spark https://github.com/opencypher/cypher-for-apache-spark

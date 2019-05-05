@@ -112,6 +112,7 @@
       "tags_not_in_category": [
          "android_app",
          "apollo",
+         "csv_tool",
          "go",
          "graph_ui",
          "java_ast",
@@ -2415,6 +2416,20 @@
          ],
          "url": "https://github.com/kbastani/docker-neo4j",
          "user": "kbastani"
+      },
+      {
+         "alias": "csvtotable",
+         "forked": false,
+         "release": null,
+         "repos_name": "csvtotable",
+         "score": 3,
+         "shallow": false,
+         "site": "https://github.com",
+         "tags": [
+            "csv_tool"
+         ],
+         "url": "https://github.com/vividvilla/csvtotable",
+         "user": "vividvilla"
       }
    ],
    "tag_categories": {
@@ -3590,6 +3605,22 @@
                ],
                "url": "https://github.com/MaskRay/ccls",
                "user": "MaskRay"
+            }
+         ],
+         "csv_tool": [
+            {
+               "alias": "csvtotable",
+               "forked": false,
+               "release": null,
+               "repos_name": "csvtotable",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "csv_tool"
+               ],
+               "url": "https://github.com/vividvilla/csvtotable",
+               "user": "vividvilla"
             }
          ],
          "cypher": [
