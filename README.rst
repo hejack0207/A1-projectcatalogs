@@ -80,6 +80,7 @@ Tags
 * build_tool
 
   + shovel https://github.com/seomoz/shovel
+  + rake https://github.com/ruby/rake
 
 * c
 

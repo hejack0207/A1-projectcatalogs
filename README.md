@@ -403,6 +403,11 @@
       [
   [build_tool](#build_tool)
       ]
+  + rake <https://github.com/ruby/rake> 
+
+      [
+  [build_tool](#build_tool)
+      ]
 
 ## c
   + zsh <https://github.com/zsh-users/zsh> 

@@ -782,6 +782,11 @@
       "user": "seomoz", 
       "repos_name": "shovel", 
       "tags": ["build_tool"]
+    }, 
+    {
+      "user": "ruby", 
+      "repos_name": "rake", 
+      "tags": ["build_tool"]
     }
   ]
 }
