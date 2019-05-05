@@ -8,7 +8,6 @@
   [nutch](#nutch)
   [restful](#restful)
   [travis](#travis)
-  [use_ansible](#use_ansible)
 
 ## arch_agrithom
 
@@ -116,11 +115,12 @@
 
   [ansible](#ansible)
   [docker](#docker)
-  [use_docker](#use_docker)
   [docker_compose](#docker_compose)
-  [use_docker_compose](#use_docker_compose)
   [helm](#helm)
   [kubernetes](#kubernetes)
+  [use_ansible](#use_ansible)
+  [use_docker](#use_docker)
+  [use_docker_compose](#use_docker_compose)
 ## dev_design
 
   [plantuml](#plantuml)

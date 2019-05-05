@@ -94,11 +94,12 @@
     "dev_deploy": [
       "ansible",
       "docker",
-      "use_docker",
       "docker_compose",
-      "use_docker_compose",
       "helm",
-      "kubernetes"
+      "kubernetes",
+      "use_ansible",
+      "use_docker",
+      "use_docker_compose"
     ],
     "dev_design": [
       "plantuml"
