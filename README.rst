@@ -65,6 +65,10 @@ Tags
   + tmux https://github.com/tmux/tmux
   + postgres https://github.com/postgres/postgres
 
+* bash_ast
+
+  + bash-parser https://github.com/vorpaljs/bash-parser
+
 * benchmark
 
   + graphdb-benchmarks https://github.com/socialsensor/graphdb-benchmarks

@@ -2,6 +2,7 @@
 ## not in category
   [android_app](#android_app)
   [apollo](#apollo)
+  [bash_ast](#bash_ast)
   [go](#go)
   [graph_ui](#graph_ui)
   [mazerunner](#mazerunner)
@@ -378,6 +379,13 @@
   [c](#c)
   [autotools](#autotools)
   [postgres](#postgres)
+      ]
+
+## bash_ast
+  + bash-parser <https://github.com/vorpaljs/bash-parser> 
+
+      [
+  [bash_ast](#bash_ast)
       ]
 
 ## benchmark
