@@ -8,6 +8,7 @@
   [nutch](#nutch)
   [restful](#restful)
   [travis](#travis)
+  [use_ansible](#use_ansible)
 
 ## arch_agrithom
 
@@ -253,50 +254,6 @@
   [angular](#angular)
       ]
 
-## ansible
-  + gpdb-ansible <https://github.com/andreasscherbaum/gpdb-ansible> 
-
-      [
-  [ansible](#ansible)
-  [greenplum](#greenplum)
-      ]
-  + greenplum-ansible <https://github.com/faer615/greenplum> 
-
-      [
-  [ansible](#ansible)
-  [greenplum](#greenplum)
-      ]
-  + hadoop-ansible <https://github.com/analytically/hadoop-ansible> 
-
-      [
-  [ansible](#ansible)
-  [hadoop](#hadoop)
-      ]
-  + kubespray <https://github.com/kubernetes-sigs/kubespray> 
-
-      [
-  [kubernetes](#kubernetes)
-  [ansible](#ansible)
-      ]
-  + ansible-playbooks-cdh5 <https://github.com/mcsrainbow/ansible-playbooks-cdh5> 
-
-      [
-  [ansible](#ansible)
-  [cdh](#cdh)
-      ]
-  + ansible-playbooks-cdh6 <https://github.com/bjddd192/ansible-playbooks-cdh6> 
-
-      [
-  [ansible](#ansible)
-  [cdh](#cdh)
-      ]
-  + ansible-role-drill <https://github.com/futuresystems/ansible-role-drill> 
-
-      [
-  [ansible](#ansible)
-  [drill](#drill)
-      ]
-
 ## ant
   + nutch <https://github.com/apache/nutch> 
 
@@ -533,13 +490,13 @@
   + ansible-playbooks-cdh5 <https://github.com/mcsrainbow/ansible-playbooks-cdh5> 
 
       [
-  [ansible](#ansible)
+  [use_ansible](#use_ansible)
   [cdh](#cdh)
       ]
   + ansible-playbooks-cdh6 <https://github.com/bjddd192/ansible-playbooks-cdh6> 
 
       [
-  [ansible](#ansible)
+  [use_ansible](#use_ansible)
   [cdh](#cdh)
       ]
 
@@ -730,7 +687,7 @@
   + ansible-role-drill <https://github.com/futuresystems/ansible-role-drill> 
 
       [
-  [ansible](#ansible)
+  [use_ansible](#use_ansible)
   [drill](#drill)
       ]
 
@@ -921,13 +878,13 @@
   + gpdb-ansible <https://github.com/andreasscherbaum/gpdb-ansible> 
 
       [
-  [ansible](#ansible)
+  [use_ansible](#use_ansible)
   [greenplum](#greenplum)
       ]
   + greenplum-ansible <https://github.com/faer615/greenplum> 
 
       [
-  [ansible](#ansible)
+  [use_ansible](#use_ansible)
   [greenplum](#greenplum)
       ]
   + gpdb <https://github.com/greenplum-db/gpdb> 
@@ -947,7 +904,7 @@
   + hadoop-ansible <https://github.com/analytically/hadoop-ansible> 
 
       [
-  [ansible](#ansible)
+  [use_ansible](#use_ansible)
   [hadoop](#hadoop)
       ]
   + hadoop-kerberos-helm <https://github.com/ifilonenko/hadoop-kerberos-helm> 
@@ -1221,7 +1178,7 @@
 
       [
   [kubernetes](#kubernetes)
-  [ansible](#ansible)
+  [use_ansible](#use_ansible)
       ]
   + kubekit <https://github.com/Orientsoft/kubekit> 
 
@@ -1857,6 +1814,50 @@
   [use_docker](#use_docker)
   [use_docker_compose](#use_docker_compose)
   [tesseract](#tesseract)
+      ]
+
+## use_ansible
+  + gpdb-ansible <https://github.com/andreasscherbaum/gpdb-ansible> 
+
+      [
+  [use_ansible](#use_ansible)
+  [greenplum](#greenplum)
+      ]
+  + greenplum-ansible <https://github.com/faer615/greenplum> 
+
+      [
+  [use_ansible](#use_ansible)
+  [greenplum](#greenplum)
+      ]
+  + hadoop-ansible <https://github.com/analytically/hadoop-ansible> 
+
+      [
+  [use_ansible](#use_ansible)
+  [hadoop](#hadoop)
+      ]
+  + kubespray <https://github.com/kubernetes-sigs/kubespray> 
+
+      [
+  [kubernetes](#kubernetes)
+  [use_ansible](#use_ansible)
+      ]
+  + ansible-playbooks-cdh5 <https://github.com/mcsrainbow/ansible-playbooks-cdh5> 
+
+      [
+  [use_ansible](#use_ansible)
+  [cdh](#cdh)
+      ]
+  + ansible-playbooks-cdh6 <https://github.com/bjddd192/ansible-playbooks-cdh6> 
+
+      [
+  [use_ansible](#use_ansible)
+  [cdh](#cdh)
+      ]
+  + ansible-role-drill <https://github.com/futuresystems/ansible-role-drill> 
+
+      [
+  [use_ansible](#use_ansible)
+  [drill](#drill)
       ]
 
 ## use_docker

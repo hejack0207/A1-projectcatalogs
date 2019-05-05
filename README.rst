@@ -29,16 +29,6 @@ Tags
   + awesome-angular-components https://github.com/brillout/awesome-angular-components
   + awesome-angular https://github.com/PatrickJS/awesome-angular
 
-* ansible
-
-  + gpdb-ansible https://github.com/andreasscherbaum/gpdb-ansible
-  + greenplum-ansible https://github.com/faer615/greenplum
-  + hadoop-ansible https://github.com/analytically/hadoop-ansible
-  + kubespray https://github.com/kubernetes-sigs/kubespray
-  + ansible-playbooks-cdh5 https://github.com/mcsrainbow/ansible-playbooks-cdh5
-  + ansible-playbooks-cdh6 https://github.com/bjddd192/ansible-playbooks-cdh6
-  + ansible-role-drill https://github.com/futuresystems/ansible-role-drill
-
 * ant
 
   + nutch https://github.com/apache/nutch
@@ -557,6 +547,16 @@ Tags
 * travis
 
   + tesseract https://github.com/tesseract-ocr/tesseract
+
+* use_ansible
+
+  + gpdb-ansible https://github.com/andreasscherbaum/gpdb-ansible
+  + greenplum-ansible https://github.com/faer615/greenplum
+  + hadoop-ansible https://github.com/analytically/hadoop-ansible
+  + kubespray https://github.com/kubernetes-sigs/kubespray
+  + ansible-playbooks-cdh5 https://github.com/mcsrainbow/ansible-playbooks-cdh5
+  + ansible-playbooks-cdh6 https://github.com/bjddd192/ansible-playbooks-cdh6
+  + ansible-role-drill https://github.com/futuresystems/ansible-role-drill
 
 * use_docker
 
