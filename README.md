@@ -732,6 +732,13 @@
   [docker](#docker)
   [presto](#presto)
       ]
+  + docker.github.io <https://github.com/docker/docker.github.io> 
+
+      [
+  [docker](#docker)
+  [jekyll](#jekyll)
+  [docker_compose](#docker_compose)
+      ]
 
 ## docker_compose
   + tesseract <https://github.com/tesseract-ocr/tesseract> 
@@ -777,6 +784,13 @@
       [
   [docker_compose](#docker_compose)
   [apollo](#apollo)
+      ]
+  + docker.github.io <https://github.com/docker/docker.github.io> 
+
+      [
+  [docker](#docker)
+  [jekyll](#jekyll)
+  [docker_compose](#docker_compose)
       ]
 
 ## drill
@@ -1130,6 +1144,13 @@
 
       [
   [jekyll](#jekyll)
+      ]
+  + docker.github.io <https://github.com/docker/docker.github.io> 
+
+      [
+  [docker](#docker)
+  [jekyll](#jekyll)
+  [docker_compose](#docker_compose)
       ]
 
 ## jhipster

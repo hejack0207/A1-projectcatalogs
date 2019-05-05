@@ -153,6 +153,7 @@ Tags
   + servicemix-docker https://github.com/mzipay/servicemix-docker
   + mkroli-servicemix-docker https://github.com/mkroli/servicemix-docker
   + docker-presto https://github.com/zhicwu/docker-presto
+  + docker.github.io https://github.com/docker/docker.github.io
 
 * docker_compose
 
@@ -162,6 +163,7 @@ Tags
   + webkettle https://github.com/JoeyBling/webkettle
   + SpringCloud https://github.com/zhoutaoo/SpringCloud
   + apollo-build-scripts https://github.com/nobodyiam/apollo-build-scripts
+  + docker.github.io https://github.com/docker/docker.github.io
 
 * drill
 
@@ -281,6 +283,7 @@ Tags
 
   + jekyll https://github.com/jekyll/jekyll
   + jekyll-pdf https://github.com/abeMedia/jekyll-pdf
+  + docker.github.io https://github.com/docker/docker.github.io
 
 * jhipster
 

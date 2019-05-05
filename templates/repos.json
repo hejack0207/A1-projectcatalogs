@@ -802,6 +802,11 @@
       "user": "abeMedia", 
       "repos_name": "jekyll-pdf", 
       "tags": ["jekyll"]
+    }, 
+    {
+      "user": "docker", 
+      "repos_name": "docker.github.io", 
+      "tags": ["docker", "jekyll", "docker_compose"]
     }
   ]
 }

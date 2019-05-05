@@ -2140,6 +2140,22 @@
          ],
          "url": "https://github.com/abeMedia/jekyll-pdf",
          "user": "abeMedia"
+      },
+      {
+         "alias": "docker.github.io",
+         "forked": false,
+         "release": null,
+         "repos_name": "docker.github.io",
+         "score": 3,
+         "shallow": false,
+         "site": "https://github.com",
+         "tags": [
+            "docker",
+            "jekyll",
+            "docker_compose"
+         ],
+         "url": "https://github.com/docker/docker.github.io",
+         "user": "docker"
       }
    ],
    "tag_categories": {
@@ -3531,6 +3547,22 @@
                ],
                "url": "https://github.com/zhicwu/docker-presto",
                "user": "zhicwu"
+            },
+            {
+               "alias": "docker.github.io",
+               "forked": false,
+               "release": null,
+               "repos_name": "docker.github.io",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "docker",
+                  "jekyll",
+                  "docker_compose"
+               ],
+               "url": "https://github.com/docker/docker.github.io",
+               "user": "docker"
             }
          ],
          "docker_compose": [
@@ -3631,6 +3663,22 @@
                ],
                "url": "https://github.com/nobodyiam/apollo-build-scripts",
                "user": "nobodyiam"
+            },
+            {
+               "alias": "docker.github.io",
+               "forked": false,
+               "release": null,
+               "repos_name": "docker.github.io",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "docker",
+                  "jekyll",
+                  "docker_compose"
+               ],
+               "url": "https://github.com/docker/docker.github.io",
+               "user": "docker"
             }
          ],
          "drill": [
@@ -4461,6 +4509,22 @@
                ],
                "url": "https://github.com/abeMedia/jekyll-pdf",
                "user": "abeMedia"
+            },
+            {
+               "alias": "docker.github.io",
+               "forked": false,
+               "release": null,
+               "repos_name": "docker.github.io",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "docker",
+                  "jekyll",
+                  "docker_compose"
+               ],
+               "url": "https://github.com/docker/docker.github.io",
+               "user": "docker"
             }
          ],
          "jhipster": [
