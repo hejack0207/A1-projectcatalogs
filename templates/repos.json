@@ -787,6 +787,11 @@
       "user": "ruby", 
       "repos_name": "rake", 
       "tags": ["build_tool"]
+    }, 
+    {
+      "user": "tmux-plugins", 
+      "repos_name": "tmux-resurrect", 
+      "tags": ["tmux"]
     }
   ]
 }

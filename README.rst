@@ -516,6 +516,7 @@ Tags
 * tmux
 
   + tmux https://github.com/tmux/tmux
+  + tmux-resurrect https://github.com/tmux-plugins/tmux-resurrect
 
 * tomcat
 

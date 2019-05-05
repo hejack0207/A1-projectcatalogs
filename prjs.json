@@ -2097,6 +2097,20 @@
          ],
          "url": "https://github.com/ruby/rake",
          "user": "ruby"
+      },
+      {
+         "alias": "tmux-resurrect",
+         "forked": false,
+         "release": null,
+         "repos_name": "tmux-resurrect",
+         "score": 3,
+         "shallow": false,
+         "site": "https://github.com",
+         "tags": [
+            "tmux"
+         ],
+         "url": "https://github.com/tmux-plugins/tmux-resurrect",
+         "user": "tmux-plugins"
       }
    ],
    "tag_categories": {
@@ -5903,6 +5917,20 @@
                ],
                "url": "https://github.com/tmux/tmux",
                "user": "tmux"
+            },
+            {
+               "alias": "tmux-resurrect",
+               "forked": false,
+               "release": null,
+               "repos_name": "tmux-resurrect",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "tmux"
+               ],
+               "url": "https://github.com/tmux-plugins/tmux-resurrect",
+               "user": "tmux-plugins"
             }
          ],
          "tomcat": [

@@ -1787,6 +1787,11 @@
   [autotools](#autotools)
   [tmux](#tmux)
       ]
+  + tmux-resurrect <https://github.com/tmux-plugins/tmux-resurrect> 
+
+      [
+  [tmux](#tmux)
+      ]
 
 ## tomcat
   + docker-tomcat <https://github.com/docker-library/tomcat> 
