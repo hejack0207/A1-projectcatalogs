@@ -288,6 +288,10 @@ Tags
   + jhipster-uml https://github.com/jhipster/jhipster-uml
   + lb-2-jhipster https://github.com/ziogiugno/lb-2-jhipster
 
+* jekyll
+
+  + jekyll https://github.com/jekyll/jekyll
+
 * jhipster
 
   + generator-jhipster https://github.com/jhipster/generator-jhipster

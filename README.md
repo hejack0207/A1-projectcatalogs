@@ -5,6 +5,7 @@
   [apollo](#apollo)
   [build_tool](#build_tool)
   [graph_ui](#graph_ui)
+  [jekyll](#jekyll)
   [jq](#jq)
   [json](#json)
   [mazerunner](#mazerunner)
@@ -1117,6 +1118,13 @@
       [
   [javascript](#javascript)
   [jhipster](#jhipster)
+      ]
+
+## jekyll
+  + jekyll <https://github.com/jekyll/jekyll> 
+
+      [
+  [jekyll](#jekyll)
       ]
 
 ## jhipster

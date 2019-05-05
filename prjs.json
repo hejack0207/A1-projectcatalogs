@@ -106,6 +106,7 @@
          "apollo",
          "build_tool",
          "graph_ui",
+         "jekyll",
          "jq",
          "json",
          "mazerunner",
@@ -2111,6 +2112,20 @@
          ],
          "url": "https://github.com/tmux-plugins/tmux-resurrect",
          "user": "tmux-plugins"
+      },
+      {
+         "alias": "jekyll",
+         "forked": false,
+         "release": null,
+         "repos_name": "jekyll",
+         "score": 3,
+         "shallow": false,
+         "site": "https://github.com",
+         "tags": [
+            "jekyll"
+         ],
+         "url": "https://github.com/jekyll/jekyll",
+         "user": "jekyll"
       }
    ],
    "tag_categories": {
@@ -4402,6 +4417,22 @@
                ],
                "url": "https://github.com/ziogiugno/lb-2-jhipster",
                "user": "ziogiugno"
+            }
+         ],
+         "jekyll": [
+            {
+               "alias": "jekyll",
+               "forked": false,
+               "release": null,
+               "repos_name": "jekyll",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "jekyll"
+               ],
+               "url": "https://github.com/jekyll/jekyll",
+               "user": "jekyll"
             }
          ],
          "jhipster": [

@@ -792,6 +792,11 @@
       "user": "tmux-plugins", 
       "repos_name": "tmux-resurrect", 
       "tags": ["tmux"]
+    }, 
+    {
+      "user": "jekyll", 
+      "repos_name": "jekyll", 
+      "tags": ["jekyll"]
     }
   ]
 }
