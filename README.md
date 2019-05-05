@@ -798,6 +798,11 @@
   [jekyll](#jekyll)
   [docker_compose](#docker_compose)
       ]
+  + compose <https://github.com/docker/compose> 
+
+      [
+  [docker_compose](#docker_compose)
+      ]
 
 ## drill
   + drill <https://github.com/apache/drill> 

@@ -832,6 +832,11 @@
       "user": "Factual", 
       "repos_name": "drake", 
       "tags": ["build_tool"]
+    }, 
+    {
+      "user": "docker", 
+      "repos_name": "compose", 
+      "tags": ["docker_compose"]
     }
   ]
 }

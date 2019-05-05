@@ -2227,6 +2227,20 @@
          ],
          "url": "https://github.com/Factual/drake",
          "user": "Factual"
+      },
+      {
+         "alias": "compose",
+         "forked": false,
+         "release": null,
+         "repos_name": "compose",
+         "score": 3,
+         "shallow": false,
+         "site": "https://github.com",
+         "tags": [
+            "docker_compose"
+         ],
+         "url": "https://github.com/docker/compose",
+         "user": "docker"
       }
    ],
    "tag_categories": {
@@ -3763,6 +3777,20 @@
                   "docker_compose"
                ],
                "url": "https://github.com/docker/docker.github.io",
+               "user": "docker"
+            },
+            {
+               "alias": "compose",
+               "forked": false,
+               "release": null,
+               "repos_name": "compose",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "docker_compose"
+               ],
+               "url": "https://github.com/docker/compose",
                "user": "docker"
             }
          ],

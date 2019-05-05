@@ -176,6 +176,7 @@ Tags
   + SpringCloud https://github.com/zhoutaoo/SpringCloud
   + apollo-build-scripts https://github.com/nobodyiam/apollo-build-scripts
   + docker.github.io https://github.com/docker/docker.github.io
+  + compose https://github.com/docker/compose
 
 * drill
 
