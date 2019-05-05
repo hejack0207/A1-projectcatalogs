@@ -2428,7 +2428,8 @@
          "shallow": false,
          "site": "https://github.com",
          "tags": [
-            "csv_tool"
+            "csv_tool",
+            "wui"
          ],
          "url": "https://github.com/vividvilla/csvtotable",
          "user": "vividvilla"
@@ -3622,7 +3623,8 @@
                "shallow": false,
                "site": "https://github.com",
                "tags": [
-                  "csv_tool"
+                  "csv_tool",
+                  "wui"
                ],
                "url": "https://github.com/vividvilla/csvtotable",
                "user": "vividvilla"
@@ -6831,6 +6833,23 @@
                ],
                "url": "https://github.com/plantuml/plantuml-server",
                "user": "plantuml"
+            }
+         ],
+         "wui": [
+            {
+               "alias": "csvtotable",
+               "forked": false,
+               "release": null,
+               "repos_name": "csvtotable",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "csv_tool",
+                  "wui"
+               ],
+               "url": "https://github.com/vividvilla/csvtotable",
+               "user": "vividvilla"
             }
          ],
          "xml_tool": [

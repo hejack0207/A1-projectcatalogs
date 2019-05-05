@@ -605,6 +605,10 @@ Tags
   + webkettle https://github.com/JoeyBling/webkettle
   + plantuml-server https://github.com/plantuml/plantuml-server
 
+* wui
+
+  + csvtotable https://github.com/vividvilla/csvtotable
+
 * xml_tool
 
   + xmlstarlet https://github.com/fishjam/xmlstarlet

@@ -648,6 +648,7 @@
 
       [
   [csv_tool](#csv_tool)
+  [wui](#wui)
       ]
 
 ## cypher
@@ -2044,6 +2045,14 @@
       [
   [plantuml](#plantuml)
   [webui](#webui)
+      ]
+
+## wui
+  + csvtotable <https://github.com/vividvilla/csvtotable> 
+
+      [
+  [csv_tool](#csv_tool)
+  [wui](#wui)
       ]
 
 ## xml_tool
