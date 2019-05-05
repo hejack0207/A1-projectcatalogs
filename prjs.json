@@ -49,6 +49,7 @@
          "impala",
          "impalagis",
          "java",
+         "java_ast",
          "javascript",
          "jekyll",
          "jhipster",
@@ -117,7 +118,6 @@
          "csv_tool",
          "go",
          "graph_ui",
-         "java_ast",
          "mazerunner",
          "nutch",
          "restful",
@@ -2553,6 +2553,7 @@
       "dev_language_tool": [
          "bash_ast",
          "cpp_tool",
+         "java_ast",
          "python_ast",
          "sql_ast"
       ],

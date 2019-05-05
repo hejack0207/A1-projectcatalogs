@@ -112,6 +112,7 @@
     "dev_language_tool": [
       "bash_ast",
       "cpp_tool",
+      "java_ast",
       "python_ast",
       "sql_ast"
     ],

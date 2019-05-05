@@ -5,7 +5,6 @@
   [csv_tool](#csv_tool)
   [go](#go)
   [graph_ui](#graph_ui)
-  [java_ast](#java_ast)
   [mazerunner](#mazerunner)
   [nutch](#nutch)
   [restful](#restful)
@@ -135,6 +134,7 @@
 
   [bash_ast](#bash_ast)
   [cpp_tool](#cpp_tool)
+  [java_ast](#java_ast)
   [python_ast](#python_ast)
   [sql_ast](#sql_ast)
 ## dev_languages
