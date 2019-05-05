@@ -872,6 +872,11 @@
       "user": "substack", 
       "repos_name": "falafel-bash", 
       "tags": ["bash_ast"]
+    }, 
+    {
+      "user": "YoloSwagTeam", 
+      "repos_name": "ast2json", 
+      "tags": ["python_ast"]
     }
   ]
 }

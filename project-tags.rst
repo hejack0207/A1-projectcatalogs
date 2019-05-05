@@ -446,6 +446,7 @@ Tags
 * python_ast
 
   + python-astexport https://github.com/fpoli/python-astexport
+  + ast2json https://github.com/YoloSwagTeam/ast2json
 
 * redis
 

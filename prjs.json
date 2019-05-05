@@ -2344,6 +2344,20 @@
          ],
          "url": "https://github.com/substack/falafel-bash",
          "user": "substack"
+      },
+      {
+         "alias": "ast2json",
+         "forked": false,
+         "release": null,
+         "repos_name": "ast2json",
+         "score": 3,
+         "shallow": false,
+         "site": "https://github.com",
+         "tags": [
+            "python_ast"
+         ],
+         "url": "https://github.com/YoloSwagTeam/ast2json",
+         "user": "YoloSwagTeam"
       }
    ],
    "tag_categories": {
@@ -5809,6 +5823,20 @@
                ],
                "url": "https://github.com/fpoli/python-astexport",
                "user": "fpoli"
+            },
+            {
+               "alias": "ast2json",
+               "forked": false,
+               "release": null,
+               "repos_name": "ast2json",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "python_ast"
+               ],
+               "url": "https://github.com/YoloSwagTeam/ast2json",
+               "user": "YoloSwagTeam"
             }
          ],
          "redis": [
