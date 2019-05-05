@@ -867,6 +867,11 @@
       "user": "vorpaljs", 
       "repos_name": "bash-parser", 
       "tags": ["bash_ast"]
+    }, 
+    {
+      "user": "substack", 
+      "repos_name": "falafel-bash", 
+      "tags": ["bash_ast"]
     }
   ]
 }

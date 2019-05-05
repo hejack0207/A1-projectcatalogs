@@ -2330,6 +2330,20 @@
          ],
          "url": "https://github.com/vorpaljs/bash-parser",
          "user": "vorpaljs"
+      },
+      {
+         "alias": "falafel-bash",
+         "forked": false,
+         "release": null,
+         "repos_name": "falafel-bash",
+         "score": 3,
+         "shallow": false,
+         "site": "https://github.com",
+         "tags": [
+            "bash_ast"
+         ],
+         "url": "https://github.com/substack/falafel-bash",
+         "user": "substack"
       }
    ],
    "tag_categories": {
@@ -2947,6 +2961,20 @@
                ],
                "url": "https://github.com/vorpaljs/bash-parser",
                "user": "vorpaljs"
+            },
+            {
+               "alias": "falafel-bash",
+               "forked": false,
+               "release": null,
+               "repos_name": "falafel-bash",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "bash_ast"
+               ],
+               "url": "https://github.com/substack/falafel-bash",
+               "user": "substack"
             }
          ],
          "benchmark": [

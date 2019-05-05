@@ -57,6 +57,7 @@ Tags
 * bash_ast
 
   + bash-parser https://github.com/vorpaljs/bash-parser
+  + falafel-bash https://github.com/substack/falafel-bash
 
 * benchmark
 

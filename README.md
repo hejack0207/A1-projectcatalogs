@@ -387,6 +387,11 @@
       [
   [bash_ast](#bash_ast)
       ]
+  + falafel-bash <https://github.com/substack/falafel-bash> 
+
+      [
+  [bash_ast](#bash_ast)
+      ]
 
 ## benchmark
   + graphdb-benchmarks <https://github.com/socialsensor/graphdb-benchmarks> 
