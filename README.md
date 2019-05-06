@@ -660,6 +660,11 @@
   [jekyll](#jekyll)
   [docker_compose](#docker_compose)
       ]
+  + docker-ce <https://github.com/docker/docker-ce> 
+
+      [
+  [docker](#docker)
+      ]
 
 ## docker_compose
   + docker.github.io <https://github.com/docker/docker.github.io> 

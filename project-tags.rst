@@ -146,6 +146,7 @@ Tags
 * docker
 
   + docker.github.io https://github.com/docker/docker.github.io
+  + docker-ce https://github.com/docker/docker-ce
 
 * docker_compose
 

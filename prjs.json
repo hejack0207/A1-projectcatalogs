@@ -2434,6 +2434,20 @@
          ],
          "url": "https://github.com/vividvilla/csvtotable",
          "user": "vividvilla"
+      },
+      {
+         "alias": "docker-ce",
+         "forked": false,
+         "release": null,
+         "repos_name": "docker-ce",
+         "score": 3,
+         "shallow": false,
+         "site": "https://github.com",
+         "tags": [
+            "docker"
+         ],
+         "url": "https://github.com/docker/docker-ce",
+         "user": "docker"
       }
    ],
    "tag_categories": {
@@ -3639,6 +3653,20 @@
                   "docker_compose"
                ],
                "url": "https://github.com/docker/docker.github.io",
+               "user": "docker"
+            },
+            {
+               "alias": "docker-ce",
+               "forked": false,
+               "release": null,
+               "repos_name": "docker-ce",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "docker"
+               ],
+               "url": "https://github.com/docker/docker-ce",
                "user": "docker"
             }
          ],
