@@ -664,6 +664,7 @@
 
       [
   [docker](#docker)
+  [go](#go)
       ]
 
 ## docker_compose
@@ -783,6 +784,12 @@
 
       [
   [json](#json)
+  [go](#go)
+      ]
+  + docker-ce <https://github.com/docker/docker-ce> 
+
+      [
+  [docker](#docker)
   [go](#go)
       ]
   + kubernetes <https://github.com/kubernetes/kubernetes> 

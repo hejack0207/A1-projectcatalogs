@@ -197,6 +197,7 @@ Tags
 * go
 
   + jsonquery https://github.com/antchfx/jsonquery
+  + docker-ce https://github.com/docker/docker-ce
   + kubernetes https://github.com/kubernetes/kubernetes
 
 * graph_ui

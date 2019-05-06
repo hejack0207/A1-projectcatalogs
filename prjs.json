@@ -2444,7 +2444,8 @@
          "shallow": false,
          "site": "https://github.com",
          "tags": [
-            "docker"
+            "docker",
+            "go"
          ],
          "url": "https://github.com/docker/docker-ce",
          "user": "docker"
@@ -3679,7 +3680,8 @@
                "shallow": false,
                "site": "https://github.com",
                "tags": [
-                  "docker"
+                  "docker",
+                  "go"
                ],
                "url": "https://github.com/docker/docker-ce",
                "user": "docker"
@@ -3956,6 +3958,21 @@
                ],
                "url": "https://github.com/antchfx/jsonquery",
                "user": "antchfx"
+            },
+            {
+               "alias": "docker-ce",
+               "forked": false,
+               "release": null,
+               "repos_name": "docker-ce",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "docker",
+                  "go"
+               ],
+               "url": "https://github.com/docker/docker-ce",
+               "user": "docker"
             },
             {
                "alias": "kubernetes",
