@@ -2448,6 +2448,21 @@
          ],
          "url": "https://github.com/docker/docker-ce",
          "user": "docker"
+      },
+      {
+         "alias": "kubernetes",
+         "forked": false,
+         "release": null,
+         "repos_name": "kubernetes",
+         "score": 3,
+         "shallow": false,
+         "site": "https://github.com",
+         "tags": [
+            "kubernetes",
+            "go"
+         ],
+         "url": "https://github.com/kubernetes/kubernetes",
+         "user": "kubernetes"
       }
    ],
    "tag_categories": {
@@ -3941,6 +3956,21 @@
                ],
                "url": "https://github.com/antchfx/jsonquery",
                "user": "antchfx"
+            },
+            {
+               "alias": "kubernetes",
+               "forked": false,
+               "release": null,
+               "repos_name": "kubernetes",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "kubernetes",
+                  "go"
+               ],
+               "url": "https://github.com/kubernetes/kubernetes",
+               "user": "kubernetes"
             }
          ],
          "graph_ui": [
@@ -4895,6 +4925,21 @@
                ],
                "url": "https://github.com/Orientsoft/kubekit",
                "user": "Orientsoft"
+            },
+            {
+               "alias": "kubernetes",
+               "forked": false,
+               "release": null,
+               "repos_name": "kubernetes",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "kubernetes",
+                  "go"
+               ],
+               "url": "https://github.com/kubernetes/kubernetes",
+               "user": "kubernetes"
             }
          ],
          "kylin": [

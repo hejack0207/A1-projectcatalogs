@@ -208,6 +208,7 @@ Tags
 * go
 
   + jsonquery https://github.com/antchfx/jsonquery
+  + kubernetes https://github.com/kubernetes/kubernetes
 
 * graph_ui
 
@@ -338,6 +339,7 @@ Tags
   + hadoop-kerberos-helm https://github.com/ifilonenko/hadoop-kerberos-helm
   + kubespray https://github.com/kubernetes-sigs/kubespray
   + kubekit https://github.com/Orientsoft/kubekit
+  + kubernetes https://github.com/kubernetes/kubernetes
 
 * kylin
 

@@ -907,6 +907,11 @@
       "user": "docker", 
       "repos_name": "docker-ce", 
       "tags": ["docker"]
+    }, 
+    {
+      "user": "kubernetes", 
+      "repos_name": "kubernetes", 
+      "tags": ["kubernetes", "go"]
     }
   ]
 }
