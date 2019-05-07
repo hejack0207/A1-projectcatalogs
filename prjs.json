@@ -19,6 +19,7 @@
          "c",
          "camel",
          "cdh",
+         "chromium",
          "clickhouse",
          "cmake",
          "code_generator",
@@ -120,7 +121,6 @@
       ],
       "tags_not_in_category": [
          "apollo",
-         "chromium",
          "graph_ui",
          "mazerunner",
          "nutch",
@@ -2573,7 +2573,9 @@
          "android",
          "android_app"
       ],
-      "arch_platform_chrome": [ ],
+      "arch_platform_chrome": [
+         "chromium"
+      ],
       "arch_platform_firefox": [ ],
       "arch_platform_raspberry": [
          "raspberry"

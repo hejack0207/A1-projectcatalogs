@@ -1,7 +1,6 @@
 # category
 ## not in category
   [apollo](#apollo)
-  [chromium](#chromium)
   [graph_ui](#graph_ui)
   [mazerunner](#mazerunner)
   [nutch](#nutch)
@@ -73,6 +72,7 @@
   [android_app](#android_app)
 ## arch_platform_chrome
 
+  [chromium](#chromium)
 ## arch_platform_firefox
 
 ## arch_platform_raspberry
