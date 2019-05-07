@@ -1,6 +1,7 @@
 # category
 ## not in category
   [apollo](#apollo)
+  [chromium](#chromium)
   [graph_ui](#graph_ui)
   [mazerunner](#mazerunner)
   [nutch](#nutch)
@@ -513,6 +514,13 @@
       [
   [use_ansible](#use_ansible)
   [cdh](#cdh)
+      ]
+
+## chromium
+  + chromium <https://github.com/chromium/chromium> 
+
+      [
+  [chromium](#chromium)
       ]
 
 ## clickhouse

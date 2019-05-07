@@ -922,6 +922,11 @@
       "user": "s-matyukevich", 
       "repos_name": "raspberry-pi-os", 
       "tags": ["raspberry"]
+    }, 
+    {
+      "user": "chromium", 
+      "repos_name": "chromium", 
+      "tags": ["chromium"]
     }
   ]
 }

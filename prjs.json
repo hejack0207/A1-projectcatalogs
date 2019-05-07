@@ -120,6 +120,7 @@
       ],
       "tags_not_in_category": [
          "apollo",
+         "chromium",
          "graph_ui",
          "mazerunner",
          "nutch",
@@ -2494,6 +2495,20 @@
          ],
          "url": "https://github.com/s-matyukevich/raspberry-pi-os",
          "user": "s-matyukevich"
+      },
+      {
+         "alias": "chromium",
+         "forked": false,
+         "release": null,
+         "repos_name": "chromium",
+         "score": 3,
+         "shallow": false,
+         "site": "https://github.com",
+         "tags": [
+            "chromium"
+         ],
+         "url": "https://github.com/chromium/chromium",
+         "user": "chromium"
       }
    ],
    "tag_categories": {
@@ -3385,6 +3400,22 @@
                ],
                "url": "https://github.com/bjddd192/ansible-playbooks-cdh6",
                "user": "bjddd192"
+            }
+         ],
+         "chromium": [
+            {
+               "alias": "chromium",
+               "forked": false,
+               "release": null,
+               "repos_name": "chromium",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "chromium"
+               ],
+               "url": "https://github.com/chromium/chromium",
+               "user": "chromium"
             }
          ],
          "clickhouse": [

@@ -106,6 +106,10 @@ Tags
   + ansible-playbooks-cdh5 https://github.com/mcsrainbow/ansible-playbooks-cdh5
   + ansible-playbooks-cdh6 https://github.com/bjddd192/ansible-playbooks-cdh6
 
+* chromium
+
+  + chromium https://github.com/chromium/chromium
+
 * clickhouse
 
   + ClickHouse https://github.com/yandex/ClickHouse
