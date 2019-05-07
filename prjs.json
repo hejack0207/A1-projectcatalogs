@@ -116,6 +116,7 @@
          "zsh"
       ],
       "tags_not_in_category": [
+         "android",
          "apollo",
          "go",
          "graph_ui",
@@ -2464,6 +2465,20 @@
          ],
          "url": "https://github.com/kubernetes/kubernetes",
          "user": "kubernetes"
+      },
+      {
+         "alias": "AndroidSDK",
+         "forked": false,
+         "release": null,
+         "repos_name": "AndroidSDK",
+         "score": 3,
+         "shallow": false,
+         "site": "https://github.com",
+         "tags": [
+            "android"
+         ],
+         "url": "https://github.com/thyrlian/AndroidSDK",
+         "user": "thyrlian"
       }
    ],
    "tag_categories": {
@@ -2687,6 +2702,22 @@
                ],
                "url": "https://github.com/CrisJk/Agriculture-KnowledgeGraph-Data",
                "user": "CrisJk"
+            }
+         ],
+         "android": [
+            {
+               "alias": "AndroidSDK",
+               "forked": false,
+               "release": null,
+               "repos_name": "AndroidSDK",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "android"
+               ],
+               "url": "https://github.com/thyrlian/AndroidSDK",
+               "user": "thyrlian"
             }
          ],
          "android_app": [
