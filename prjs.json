@@ -82,6 +82,7 @@
          "postgres",
          "presto",
          "python_ast",
+         "raspberry",
          "redis",
          "redmine",
          "restructured",
@@ -122,7 +123,6 @@
          "graph_ui",
          "mazerunner",
          "nutch",
-         "raspberry",
          "restful",
          "travis"
       ]
@@ -2560,6 +2560,9 @@
       ],
       "arch_platform_chrome": [ ],
       "arch_platform_firefox": [ ],
+      "arch_platform_raspberry": [
+         "raspberry"
+      ],
       "arch_security": [
          "security_awesome",
          "websecurity_awesome",

@@ -189,6 +189,9 @@
     "arch_platform_android": [
       "android",
       "android_app"
+    ],
+    "arch_platform_raspberry": [
+      "raspberry"
     ]
   }
 }

@@ -5,7 +5,6 @@
   [graph_ui](#graph_ui)
   [mazerunner](#mazerunner)
   [nutch](#nutch)
-  [raspberry](#raspberry)
   [restful](#restful)
   [travis](#travis)
 
@@ -76,6 +75,9 @@
 
 ## arch_platform_firefox
 
+## arch_platform_raspberry
+
+  [raspberry](#raspberry)
 ## arch_security
 
   [security_awesome](#security_awesome)
