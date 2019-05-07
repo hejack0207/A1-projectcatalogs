@@ -1,7 +1,6 @@
 # category
 ## not in category
   [apollo](#apollo)
-  [go](#go)
   [graph_ui](#graph_ui)
   [mazerunner](#mazerunner)
   [nutch](#nutch)
@@ -136,6 +135,9 @@
   [jekyll](#jekyll)
   [markdown](#markdown)
   [restructured](#restructured)
+## dev_language
+
+  [go](#go)
 ## dev_language_tool
 
   [bash_ast](#bash_ast)

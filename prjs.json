@@ -41,6 +41,7 @@
          "gis_awesome",
          "gis_impl",
          "git",
+         "go",
          "graphql",
          "graphql_dbview",
          "graphql_fe",
@@ -119,7 +120,6 @@
       ],
       "tags_not_in_category": [
          "apollo",
-         "go",
          "graph_ui",
          "mazerunner",
          "nutch",
@@ -2619,6 +2619,9 @@
          "jekyll",
          "markdown",
          "restructured"
+      ],
+      "dev_language": [
+         "go"
       ],
       "dev_language_tool": [
          "bash_ast",

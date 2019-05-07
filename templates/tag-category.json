@@ -192,6 +192,9 @@
     ],
     "arch_platform_raspberry": [
       "raspberry"
+    ],
+    "dev_language": [
+      "go"
     ]
   }
 }
