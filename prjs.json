@@ -122,6 +122,7 @@
          "graph_ui",
          "mazerunner",
          "nutch",
+         "raspberry",
          "restful",
          "travis"
       ]
@@ -2479,6 +2480,20 @@
          ],
          "url": "https://github.com/thyrlian/AndroidSDK",
          "user": "thyrlian"
+      },
+      {
+         "alias": "raspberry-pi-os",
+         "forked": false,
+         "release": null,
+         "repos_name": "raspberry-pi-os",
+         "score": 3,
+         "shallow": false,
+         "site": "https://github.com",
+         "tags": [
+            "raspberry"
+         ],
+         "url": "https://github.com/s-matyukevich/raspberry-pi-os",
+         "user": "s-matyukevich"
       }
    ],
    "tag_categories": {
@@ -5729,6 +5744,22 @@
                ],
                "url": "https://github.com/google/pasta",
                "user": "google"
+            }
+         ],
+         "raspberry": [
+            {
+               "alias": "raspberry-pi-os",
+               "forked": false,
+               "release": null,
+               "repos_name": "raspberry-pi-os",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "raspberry"
+               ],
+               "url": "https://github.com/s-matyukevich/raspberry-pi-os",
+               "user": "s-matyukevich"
             }
          ],
          "redis": [

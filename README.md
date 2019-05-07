@@ -5,6 +5,7 @@
   [graph_ui](#graph_ui)
   [mazerunner](#mazerunner)
   [nutch](#nutch)
+  [raspberry](#raspberry)
   [restful](#restful)
   [travis](#travis)
 
@@ -1532,6 +1533,13 @@
 
       [
   [python_ast](#python_ast)
+      ]
+
+## raspberry
+  + raspberry-pi-os <https://github.com/s-matyukevich/raspberry-pi-os> 
+
+      [
+  [raspberry](#raspberry)
       ]
 
 ## redis

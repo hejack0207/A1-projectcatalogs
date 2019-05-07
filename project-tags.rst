@@ -439,6 +439,10 @@ Tags
   + ast2json https://github.com/YoloSwagTeam/ast2json
   + pasta https://github.com/google/pasta
 
+* raspberry
+
+  + raspberry-pi-os https://github.com/s-matyukevich/raspberry-pi-os
+
 * redis
 
   + redis https://github.com/antirez/redis

@@ -917,6 +917,11 @@
       "user": "thyrlian", 
       "repos_name": "AndroidSDK", 
       "tags": ["android"]
+    }, 
+    {
+      "user": "s-matyukevich", 
+      "repos_name": "raspberry-pi-os", 
+      "tags": ["raspberry"]
     }
   ]
 }
