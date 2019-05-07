@@ -1,6 +1,5 @@
 # category
 ## not in category
-  [android](#android)
   [apollo](#apollo)
   [go](#go)
   [graph_ui](#graph_ui)
@@ -70,6 +69,7 @@
 
 ## arch_platform_android
 
+  [android](#android)
   [android_app](#android_app)
 ## arch_platform_chrome
 

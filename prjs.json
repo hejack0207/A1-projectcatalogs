@@ -3,6 +3,7 @@
       "tags_also_category": [ ],
       "tags_in_category": [
          "agriculture_knowledge_graph",
+         "android",
          "android_app",
          "angular",
          "ansible",
@@ -116,7 +117,6 @@
          "zsh"
       ],
       "tags_not_in_category": [
-         "android",
          "apollo",
          "go",
          "graph_ui",
@@ -2540,6 +2540,7 @@
       ],
       "arch_kernel": [ ],
       "arch_platform_android": [
+         "android",
          "android_app"
       ],
       "arch_platform_chrome": [ ],

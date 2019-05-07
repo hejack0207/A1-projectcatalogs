@@ -187,6 +187,7 @@
       "yml_tool"
     ],
     "arch_platform_android": [
+      "android",
       "android_app"
     ]
   }
