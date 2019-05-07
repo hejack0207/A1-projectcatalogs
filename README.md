@@ -1,6 +1,5 @@
 # category
 ## not in category
-  [android_app](#android_app)
   [apollo](#apollo)
   [go](#go)
   [graph_ui](#graph_ui)
@@ -68,6 +67,9 @@
   [angular](#angular)
 ## arch_kernel
 
+## arch_platform_android
+
+  [android_app](#android_app)
 ## arch_platform_chrome
 
 ## arch_platform_firefox

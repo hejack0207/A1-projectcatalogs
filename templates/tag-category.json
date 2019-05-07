@@ -185,6 +185,9 @@
       "json_tool",
       "xml_tool",
       "yml_tool"
+    ],
+    "arch_platform_android": [
+      "android_app"
     ]
   }
 }
