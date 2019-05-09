@@ -1794,6 +1794,11 @@
       [
   [tensorflow](#tensorflow)
       ]
+  + docs <https://github.com/tensorflow/docs> 
+
+      [
+  [tensorflow](#tensorflow)
+      ]
 
 ## tesseract
   + tesseract <https://github.com/tesseract-ocr/tesseract> 

@@ -2524,6 +2524,20 @@
          ],
          "url": "https://github.com/tensorflow/tensorflow",
          "user": "tensorflow"
+      },
+      {
+         "alias": "docs",
+         "forked": false,
+         "release": null,
+         "repos_name": "docs",
+         "score": 3,
+         "shallow": false,
+         "site": "https://github.com",
+         "tags": [
+            "tensorflow"
+         ],
+         "url": "https://github.com/tensorflow/docs",
+         "user": "tensorflow"
       }
    ],
    "tag_categories": {
@@ -6350,6 +6364,20 @@
                   "tensorflow"
                ],
                "url": "https://github.com/tensorflow/tensorflow",
+               "user": "tensorflow"
+            },
+            {
+               "alias": "docs",
+               "forked": false,
+               "release": null,
+               "repos_name": "docs",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "tensorflow"
+               ],
+               "url": "https://github.com/tensorflow/docs",
                "user": "tensorflow"
             }
          ],

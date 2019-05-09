@@ -530,6 +530,7 @@ Tags
 * tensorflow
 
   + tensorflow https://github.com/tensorflow/tensorflow
+  + docs https://github.com/tensorflow/docs
 
 * tesseract
 
