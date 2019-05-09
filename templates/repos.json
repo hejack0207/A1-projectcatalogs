@@ -927,6 +927,11 @@
       "user": "chromium", 
       "repos_name": "chromium", 
       "tags": ["chromium"]
+    }, 
+    {
+      "user": "tensorflow", 
+      "repos_name": "tensorflow", 
+      "tags": ["tensorflow"]
     }
   ]
 }

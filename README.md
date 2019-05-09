@@ -5,6 +5,7 @@
   [mazerunner](#mazerunner)
   [nutch](#nutch)
   [restful](#restful)
+  [tensorflow](#tensorflow)
   [travis](#travis)
 
 ## arch_agrithom
@@ -1785,6 +1786,13 @@
   [angular](#angular)
   [swagger](#swagger)
   [swagger_angular](#swagger_angular)
+      ]
+
+## tensorflow
+  + tensorflow <https://github.com/tensorflow/tensorflow> 
+
+      [
+  [tensorflow](#tensorflow)
       ]
 
 ## tesseract

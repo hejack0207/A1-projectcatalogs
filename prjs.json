@@ -125,6 +125,7 @@
          "mazerunner",
          "nutch",
          "restful",
+         "tensorflow",
          "travis"
       ]
    },
@@ -2509,6 +2510,20 @@
          ],
          "url": "https://github.com/chromium/chromium",
          "user": "chromium"
+      },
+      {
+         "alias": "tensorflow",
+         "forked": false,
+         "release": null,
+         "repos_name": "tensorflow",
+         "score": 3,
+         "shallow": false,
+         "site": "https://github.com",
+         "tags": [
+            "tensorflow"
+         ],
+         "url": "https://github.com/tensorflow/tensorflow",
+         "user": "tensorflow"
       }
    ],
    "tag_categories": {
@@ -6320,6 +6335,22 @@
                ],
                "url": "https://github.com/cyclosproject/ng-swagger-gen",
                "user": "cyclosproject"
+            }
+         ],
+         "tensorflow": [
+            {
+               "alias": "tensorflow",
+               "forked": false,
+               "release": null,
+               "repos_name": "tensorflow",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "tensorflow"
+               ],
+               "url": "https://github.com/tensorflow/tensorflow",
+               "user": "tensorflow"
             }
          ],
          "tesseract": [
