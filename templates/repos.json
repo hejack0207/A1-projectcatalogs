@@ -937,6 +937,11 @@
       "user": "tensorflow", 
       "repos_name": "docs", 
       "tags": ["tensorflow"]
+    }, 
+    {
+      "user": "tensorflow", 
+      "repos_name": "serving", 
+      "tags": ["tensorflow"]
     }
   ]
 }

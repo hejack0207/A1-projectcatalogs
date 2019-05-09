@@ -1799,6 +1799,11 @@
       [
   [tensorflow](#tensorflow)
       ]
+  + serving <https://github.com/tensorflow/serving> 
+
+      [
+  [tensorflow](#tensorflow)
+      ]
 
 ## tesseract
   + tesseract <https://github.com/tesseract-ocr/tesseract> 

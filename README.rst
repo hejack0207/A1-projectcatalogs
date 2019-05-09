@@ -542,6 +542,7 @@ Tags
 
   + tensorflow https://github.com/tensorflow/tensorflow
   + docs https://github.com/tensorflow/docs
+  + serving https://github.com/tensorflow/serving
 
 * tesseract
 
