@@ -5,7 +5,6 @@
   [mazerunner](#mazerunner)
   [nutch](#nutch)
   [restful](#restful)
-  [tensorflow](#tensorflow)
   [travis](#travis)
 
 ## arch_agrithom
@@ -13,6 +12,7 @@
 ## arch_ai
 
   [deep_learning](#deep_learning)
+  [tensorflow](#tensorflow)
 ## arch_api
 
   [swagger](#swagger)

@@ -101,6 +101,7 @@
          "ssh",
          "swagger",
          "swagger_angular",
+         "tensorflow",
          "tesseract",
          "titan",
          "tmux",
@@ -125,7 +126,6 @@
          "mazerunner",
          "nutch",
          "restful",
-         "tensorflow",
          "travis"
       ]
    },
@@ -2557,7 +2557,8 @@
    "tag_categories": {
       "arch_agrithom": [ ],
       "arch_ai": [
-         "deep_learning"
+         "deep_learning",
+         "tensorflow"
       ],
       "arch_api": [
          "swagger",
