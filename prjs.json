@@ -2552,6 +2552,20 @@
          ],
          "url": "https://github.com/tensorflow/serving",
          "user": "tensorflow"
+      },
+      {
+         "alias": "spark",
+         "forked": false,
+         "release": null,
+         "repos_name": "spark",
+         "score": 3,
+         "shallow": false,
+         "site": "https://github.com",
+         "tags": [
+            "spark"
+         ],
+         "url": "https://github.com/apache/spark",
+         "user": "apache"
       }
    ],
    "tag_categories": {
@@ -6142,6 +6156,20 @@
                ],
                "url": "https://github.com/JerryLead/SparkInternals",
                "user": "JerryLead"
+            },
+            {
+               "alias": "spark",
+               "forked": false,
+               "release": null,
+               "repos_name": "spark",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "spark"
+               ],
+               "url": "https://github.com/apache/spark",
+               "user": "apache"
             }
          ],
          "sparkgis": [

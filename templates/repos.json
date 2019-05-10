@@ -942,6 +942,11 @@
       "user": "tensorflow", 
       "repos_name": "serving", 
       "tags": ["tensorflow"]
+    }, 
+    {
+      "user": "apache", 
+      "repos_name": "spark", 
+      "tags": ["spark"]
     }
   ]
 }

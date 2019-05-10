@@ -497,6 +497,7 @@ Tags
   + Movie_Recommend https://github.com/LuckyZXL2016/Movie_Recommend
   + spark-deep-learning https://github.com/databricks/spark-deep-learning
   + SparkInternals https://github.com/JerryLead/SparkInternals
+  + spark https://github.com/apache/spark
 
 * sparkgis
 

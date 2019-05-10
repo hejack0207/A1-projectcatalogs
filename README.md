@@ -1682,6 +1682,11 @@
       [
   [spark](#spark)
       ]
+  + spark <https://github.com/apache/spark> 
+
+      [
+  [spark](#spark)
+      ]
 
 ## sparkgis
   + SparkGIS <https://github.com/drubbo/SparkGIS> 
