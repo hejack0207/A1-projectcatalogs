@@ -144,7 +144,7 @@
     {
       "alias": "envelope", 
       "repos_name": "envelope", 
-      "tags": ["java", "envelope", "spark"], 
+      "tags": ["etl", "spark_app"], 
       "user": "cloudera-labs"
     }, 
     {
@@ -290,31 +290,31 @@
     {
       "alias": "spark-knn_graphs", 
       "repos_name": "spark-knn_graphs", 
-      "tags": ["spark", "knn_graph"], 
+      "tags": ["spark_ext", "knn_graph"], 
       "user": "tdebatty"
     }, 
     {
       "alias": "cypher-for-apache-spark", 
       "repos_name": "cypher-for-apache-spark", 
-      "tags": ["spark", "cypher"], 
+      "tags": ["spark_ext", "cypher"], 
       "user": "opencypher"
     }, 
     {
       "alias": "mizo", 
       "repos_name": "mizo", 
-      "tags": ["spark", "titan"], 
+      "tags": ["spark_ext", "titan"], 
       "user": "imri"
     }, 
     {
       "alias": "spark-neo4j", 
       "repos_name": "spark-neo4j", 
-      "tags": ["spark", "neo4j"], 
+      "tags": ["spark_ext", "neo4j"], 
       "user": "kbastani"
     }, 
     {
       "alias": "neo4j-mazerunner", 
       "repos_name": "neo4j-mazerunner", 
-      "tags": ["neo4j", "mazerunner", "spark"], 
+      "tags": ["neo4j", "mazerunner", "spark_ext"], 
       "user": "neo4j-contrib"
     }, 
     {
@@ -464,7 +464,7 @@
     {
       "alias": "SparkGIS", 
       "repos_name": "SparkGIS", 
-      "tags": ["spark", "sparkgis"], 
+      "tags": ["spark_ext", "sparkgis"], 
       "user": "drubbo"
     }, 
     {
@@ -506,13 +506,13 @@
     {
       "alias": "Movie_Recommend", 
       "repos_name": "Movie_Recommend", 
-      "tags": ["spark", "bigdata_usecase"], 
+      "tags": ["spark_app", "bigdata_usecase"], 
       "user": "LuckyZXL2016"
     }, 
     {
       "alias": "spark-deep-learning", 
       "repos_name": "spark-deep-learning", 
-      "tags": ["spark", "deep_learning"], 
+      "tags": ["spark_ext", "deep_learning"], 
       "user": "databricks"
     }, 
     {

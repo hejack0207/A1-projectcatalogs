@@ -166,7 +166,7 @@ Tags
   + drill https://github.com/apache/drill
   + ansible-role-drill https://github.com/futuresystems/ansible-role-drill
 
-* envelope
+* etl
 
   + envelope https://github.com/cloudera-labs/envelope
 
@@ -270,7 +270,6 @@ Tags
   + tess4j https://github.com/nguyenq/tess4j
   + pentaho-kettle https://github.com/pentaho/pentaho-kettle
   + kylin https://github.com/apache/kylin
-  + envelope https://github.com/cloudera-labs/envelope
   + kettle-manager https://github.com/majinju/kettle-manager
   + webkettle https://github.com/JoeyBling/webkettle
   + SpringCloud https://github.com/zhoutaoo/SpringCloud
@@ -475,19 +474,25 @@ Tags
 
 * spark
 
+  + spark-jobserver https://github.com/spark-jobserver/spark-jobserver
+  + SparkInternals https://github.com/JerryLead/SparkInternals
+  + spark https://github.com/apache/spark
+  + awesome-spark https://github.com/awesome-spark/awesome-spark
+
+* spark_app
+
   + envelope https://github.com/cloudera-labs/envelope
+  + Movie_Recommend https://github.com/LuckyZXL2016/Movie_Recommend
+
+* spark_ext
+
   + spark-knn_graphs https://github.com/tdebatty/spark-knn_graphs
   + cypher-for-apache-spark https://github.com/opencypher/cypher-for-apache-spark
   + mizo https://github.com/imri/mizo
   + spark-neo4j https://github.com/kbastani/spark-neo4j
   + neo4j-mazerunner https://github.com/neo4j-contrib/neo4j-mazerunner
-  + spark-jobserver https://github.com/spark-jobserver/spark-jobserver
   + SparkGIS https://github.com/drubbo/SparkGIS
-  + Movie_Recommend https://github.com/LuckyZXL2016/Movie_Recommend
   + spark-deep-learning https://github.com/databricks/spark-deep-learning
-  + SparkInternals https://github.com/JerryLead/SparkInternals
-  + spark https://github.com/apache/spark
-  + awesome-spark https://github.com/awesome-spark/awesome-spark
 
 * sparkgis
 

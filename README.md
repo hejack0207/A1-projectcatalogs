@@ -1,10 +1,13 @@
 # category
 ## not in category
   [apollo](#apollo)
+  [etl](#etl)
   [graph_ui](#graph_ui)
   [mazerunner](#mazerunner)
   [nutch](#nutch)
   [restful](#restful)
+  [spark_app](#spark_app)
+  [spark_ext](#spark_ext)
   [travis](#travis)
 
 ## arch_agrithom
@@ -389,7 +392,7 @@
   + Movie_Recommend <https://github.com/LuckyZXL2016/Movie_Recommend> 
 
       [
-  [spark](#spark)
+  [spark_app](#spark_app)
   [bigdata_usecase](#bigdata_usecase)
       ]
 
@@ -636,7 +639,7 @@
   + cypher-for-apache-spark <https://github.com/opencypher/cypher-for-apache-spark> 
 
       [
-  [spark](#spark)
+  [spark_ext](#spark_ext)
   [cypher](#cypher)
       ]
 
@@ -672,7 +675,7 @@
   + spark-deep-learning <https://github.com/databricks/spark-deep-learning> 
 
       [
-  [spark](#spark)
+  [spark_ext](#spark_ext)
   [deep_learning](#deep_learning)
       ]
 
@@ -721,13 +724,12 @@
   [drill](#drill)
       ]
 
-## envelope
+## etl
   + envelope <https://github.com/cloudera-labs/envelope> 
 
       [
-  [java](#java)
-  [envelope](#envelope)
-  [spark](#spark)
+  [etl](#etl)
+  [spark_app](#spark_app)
       ]
 
 ## etl_awesome
@@ -1016,13 +1018,6 @@
   [java](#java)
   [kylin](#kylin)
       ]
-  + envelope <https://github.com/cloudera-labs/envelope> 
-
-      [
-  [java](#java)
-  [envelope](#envelope)
-  [spark](#spark)
-      ]
   + kettle-manager <https://github.com/majinju/kettle-manager> 
 
       [
@@ -1204,7 +1199,7 @@
   + spark-knn_graphs <https://github.com/tdebatty/spark-knn_graphs> 
 
       [
-  [spark](#spark)
+  [spark_ext](#spark_ext)
   [knn_graph](#knn_graph)
       ]
 
@@ -1320,7 +1315,7 @@
       [
   [neo4j](#neo4j)
   [mazerunner](#mazerunner)
-  [spark](#spark)
+  [spark_ext](#spark_ext)
       ]
 
 ## mpp_based
@@ -1359,7 +1354,7 @@
   + spark-neo4j <https://github.com/kbastani/spark-neo4j> 
 
       [
-  [spark](#spark)
+  [spark_ext](#spark_ext)
   [neo4j](#neo4j)
       ]
   + neo4j-mazerunner <https://github.com/neo4j-contrib/neo4j-mazerunner> 
@@ -1367,7 +1362,7 @@
       [
   [neo4j](#neo4j)
   [mazerunner](#mazerunner)
-  [spark](#spark)
+  [spark_ext](#spark_ext)
       ]
   + neo4j <https://github.com/neo4j/neo4j> 
 
@@ -1615,67 +1610,11 @@
       ]
 
 ## spark
-  + envelope <https://github.com/cloudera-labs/envelope> 
-
-      [
-  [java](#java)
-  [envelope](#envelope)
-  [spark](#spark)
-      ]
-  + spark-knn_graphs <https://github.com/tdebatty/spark-knn_graphs> 
-
-      [
-  [spark](#spark)
-  [knn_graph](#knn_graph)
-      ]
-  + cypher-for-apache-spark <https://github.com/opencypher/cypher-for-apache-spark> 
-
-      [
-  [spark](#spark)
-  [cypher](#cypher)
-      ]
-  + mizo <https://github.com/imri/mizo> 
-
-      [
-  [spark](#spark)
-  [titan](#titan)
-      ]
-  + spark-neo4j <https://github.com/kbastani/spark-neo4j> 
-
-      [
-  [spark](#spark)
-  [neo4j](#neo4j)
-      ]
-  + neo4j-mazerunner <https://github.com/neo4j-contrib/neo4j-mazerunner> 
-
-      [
-  [neo4j](#neo4j)
-  [mazerunner](#mazerunner)
-  [spark](#spark)
-      ]
   + spark-jobserver <https://github.com/spark-jobserver/spark-jobserver> 
 
       [
   [spark](#spark)
   [restful](#restful)
-      ]
-  + SparkGIS <https://github.com/drubbo/SparkGIS> 
-
-      [
-  [spark](#spark)
-  [sparkgis](#sparkgis)
-      ]
-  + Movie_Recommend <https://github.com/LuckyZXL2016/Movie_Recommend> 
-
-      [
-  [spark](#spark)
-  [bigdata_usecase](#bigdata_usecase)
-      ]
-  + spark-deep-learning <https://github.com/databricks/spark-deep-learning> 
-
-      [
-  [spark](#spark)
-  [deep_learning](#deep_learning)
       ]
   + SparkInternals <https://github.com/JerryLead/SparkInternals> 
 
@@ -1693,11 +1632,70 @@
   [spark](#spark)
       ]
 
+## spark_app
+  + envelope <https://github.com/cloudera-labs/envelope> 
+
+      [
+  [etl](#etl)
+  [spark_app](#spark_app)
+      ]
+  + Movie_Recommend <https://github.com/LuckyZXL2016/Movie_Recommend> 
+
+      [
+  [spark_app](#spark_app)
+  [bigdata_usecase](#bigdata_usecase)
+      ]
+
+## spark_ext
+  + spark-knn_graphs <https://github.com/tdebatty/spark-knn_graphs> 
+
+      [
+  [spark_ext](#spark_ext)
+  [knn_graph](#knn_graph)
+      ]
+  + cypher-for-apache-spark <https://github.com/opencypher/cypher-for-apache-spark> 
+
+      [
+  [spark_ext](#spark_ext)
+  [cypher](#cypher)
+      ]
+  + mizo <https://github.com/imri/mizo> 
+
+      [
+  [spark_ext](#spark_ext)
+  [titan](#titan)
+      ]
+  + spark-neo4j <https://github.com/kbastani/spark-neo4j> 
+
+      [
+  [spark_ext](#spark_ext)
+  [neo4j](#neo4j)
+      ]
+  + neo4j-mazerunner <https://github.com/neo4j-contrib/neo4j-mazerunner> 
+
+      [
+  [neo4j](#neo4j)
+  [mazerunner](#mazerunner)
+  [spark_ext](#spark_ext)
+      ]
+  + SparkGIS <https://github.com/drubbo/SparkGIS> 
+
+      [
+  [spark_ext](#spark_ext)
+  [sparkgis](#sparkgis)
+      ]
+  + spark-deep-learning <https://github.com/databricks/spark-deep-learning> 
+
+      [
+  [spark_ext](#spark_ext)
+  [deep_learning](#deep_learning)
+      ]
+
 ## sparkgis
   + SparkGIS <https://github.com/drubbo/SparkGIS> 
 
       [
-  [spark](#spark)
+  [spark_ext](#spark_ext)
   [sparkgis](#sparkgis)
       ]
 
@@ -1838,7 +1836,7 @@
   + mizo <https://github.com/imri/mizo> 
 
       [
-  [spark](#spark)
+  [spark_ext](#spark_ext)
   [titan](#titan)
       ]
 

@@ -122,10 +122,13 @@
       ],
       "tags_not_in_category": [
          "apollo",
+         "etl",
          "graph_ui",
          "mazerunner",
          "nutch",
          "restful",
+         "spark_app",
+         "spark_ext",
          "travis"
       ]
    },
@@ -487,9 +490,8 @@
          "shallow": false,
          "site": "https://github.com",
          "tags": [
-            "java",
-            "envelope",
-            "spark"
+            "etl",
+            "spark_app"
          ],
          "url": "https://github.com/cloudera-labs/envelope",
          "user": "cloudera-labs"
@@ -849,7 +851,7 @@
          "shallow": false,
          "site": "https://github.com",
          "tags": [
-            "spark",
+            "spark_ext",
             "knn_graph"
          ],
          "url": "https://github.com/tdebatty/spark-knn_graphs",
@@ -864,7 +866,7 @@
          "shallow": false,
          "site": "https://github.com",
          "tags": [
-            "spark",
+            "spark_ext",
             "cypher"
          ],
          "url": "https://github.com/opencypher/cypher-for-apache-spark",
@@ -879,7 +881,7 @@
          "shallow": false,
          "site": "https://github.com",
          "tags": [
-            "spark",
+            "spark_ext",
             "titan"
          ],
          "url": "https://github.com/imri/mizo",
@@ -894,7 +896,7 @@
          "shallow": false,
          "site": "https://github.com",
          "tags": [
-            "spark",
+            "spark_ext",
             "neo4j"
          ],
          "url": "https://github.com/kbastani/spark-neo4j",
@@ -911,7 +913,7 @@
          "tags": [
             "neo4j",
             "mazerunner",
-            "spark"
+            "spark_ext"
          ],
          "url": "https://github.com/neo4j-contrib/neo4j-mazerunner",
          "user": "neo4j-contrib"
@@ -1274,7 +1276,7 @@
          "shallow": false,
          "site": "https://github.com",
          "tags": [
-            "spark",
+            "spark_ext",
             "sparkgis"
          ],
          "url": "https://github.com/drubbo/SparkGIS",
@@ -1373,7 +1375,7 @@
          "shallow": false,
          "site": "https://github.com",
          "tags": [
-            "spark",
+            "spark_app",
             "bigdata_usecase"
          ],
          "url": "https://github.com/LuckyZXL2016/Movie_Recommend",
@@ -1388,7 +1390,7 @@
          "shallow": false,
          "site": "https://github.com",
          "tags": [
-            "spark",
+            "spark_ext",
             "deep_learning"
          ],
          "url": "https://github.com/databricks/spark-deep-learning",
@@ -3183,7 +3185,7 @@
                "shallow": false,
                "site": "https://github.com",
                "tags": [
-                  "spark",
+                  "spark_app",
                   "bigdata_usecase"
                ],
                "url": "https://github.com/LuckyZXL2016/Movie_Recommend",
@@ -3727,7 +3729,7 @@
                "shallow": false,
                "site": "https://github.com",
                "tags": [
-                  "spark",
+                  "spark_ext",
                   "cypher"
                ],
                "url": "https://github.com/opencypher/cypher-for-apache-spark",
@@ -3808,7 +3810,7 @@
                "shallow": false,
                "site": "https://github.com",
                "tags": [
-                  "spark",
+                  "spark_ext",
                   "deep_learning"
                ],
                "url": "https://github.com/databricks/spark-deep-learning",
@@ -3914,7 +3916,7 @@
                "user": "futuresystems"
             }
          ],
-         "envelope": [
+         "etl": [
             {
                "alias": "envelope",
                "forked": false,
@@ -3924,9 +3926,8 @@
                "shallow": false,
                "site": "https://github.com",
                "tags": [
-                  "java",
-                  "envelope",
-                  "spark"
+                  "etl",
+                  "spark_app"
                ],
                "url": "https://github.com/cloudera-labs/envelope",
                "user": "cloudera-labs"
@@ -4615,22 +4616,6 @@
                "user": "apache"
             },
             {
-               "alias": "envelope",
-               "forked": false,
-               "release": null,
-               "repos_name": "envelope",
-               "score": 3,
-               "shallow": false,
-               "site": "https://github.com",
-               "tags": [
-                  "java",
-                  "envelope",
-                  "spark"
-               ],
-               "url": "https://github.com/cloudera-labs/envelope",
-               "user": "cloudera-labs"
-            },
-            {
                "alias": "kettle-manager",
                "forked": false,
                "release": null,
@@ -5051,7 +5036,7 @@
                "shallow": false,
                "site": "https://github.com",
                "tags": [
-                  "spark",
+                  "spark_ext",
                   "knn_graph"
                ],
                "url": "https://github.com/tdebatty/spark-knn_graphs",
@@ -5320,7 +5305,7 @@
                "tags": [
                   "neo4j",
                   "mazerunner",
-                  "spark"
+                  "spark_ext"
                ],
                "url": "https://github.com/neo4j-contrib/neo4j-mazerunner",
                "user": "neo4j-contrib"
@@ -5404,7 +5389,7 @@
                "shallow": false,
                "site": "https://github.com",
                "tags": [
-                  "spark",
+                  "spark_ext",
                   "neo4j"
                ],
                "url": "https://github.com/kbastani/spark-neo4j",
@@ -5421,7 +5406,7 @@
                "tags": [
                   "neo4j",
                   "mazerunner",
-                  "spark"
+                  "spark_ext"
                ],
                "url": "https://github.com/neo4j-contrib/neo4j-mazerunner",
                "user": "neo4j-contrib"
@@ -6006,98 +5991,6 @@
          ],
          "spark": [
             {
-               "alias": "envelope",
-               "forked": false,
-               "release": null,
-               "repos_name": "envelope",
-               "score": 3,
-               "shallow": false,
-               "site": "https://github.com",
-               "tags": [
-                  "java",
-                  "envelope",
-                  "spark"
-               ],
-               "url": "https://github.com/cloudera-labs/envelope",
-               "user": "cloudera-labs"
-            },
-            {
-               "alias": "spark-knn_graphs",
-               "forked": false,
-               "release": null,
-               "repos_name": "spark-knn_graphs",
-               "score": 3,
-               "shallow": false,
-               "site": "https://github.com",
-               "tags": [
-                  "spark",
-                  "knn_graph"
-               ],
-               "url": "https://github.com/tdebatty/spark-knn_graphs",
-               "user": "tdebatty"
-            },
-            {
-               "alias": "cypher-for-apache-spark",
-               "forked": false,
-               "release": null,
-               "repos_name": "cypher-for-apache-spark",
-               "score": 3,
-               "shallow": false,
-               "site": "https://github.com",
-               "tags": [
-                  "spark",
-                  "cypher"
-               ],
-               "url": "https://github.com/opencypher/cypher-for-apache-spark",
-               "user": "opencypher"
-            },
-            {
-               "alias": "mizo",
-               "forked": false,
-               "release": null,
-               "repos_name": "mizo",
-               "score": 3,
-               "shallow": false,
-               "site": "https://github.com",
-               "tags": [
-                  "spark",
-                  "titan"
-               ],
-               "url": "https://github.com/imri/mizo",
-               "user": "imri"
-            },
-            {
-               "alias": "spark-neo4j",
-               "forked": false,
-               "release": null,
-               "repos_name": "spark-neo4j",
-               "score": 3,
-               "shallow": false,
-               "site": "https://github.com",
-               "tags": [
-                  "spark",
-                  "neo4j"
-               ],
-               "url": "https://github.com/kbastani/spark-neo4j",
-               "user": "kbastani"
-            },
-            {
-               "alias": "neo4j-mazerunner",
-               "forked": false,
-               "release": null,
-               "repos_name": "neo4j-mazerunner",
-               "score": 3,
-               "shallow": false,
-               "site": "https://github.com",
-               "tags": [
-                  "neo4j",
-                  "mazerunner",
-                  "spark"
-               ],
-               "url": "https://github.com/neo4j-contrib/neo4j-mazerunner",
-               "user": "neo4j-contrib"
-            },
-            {
                "alias": "spark-jobserver",
                "forked": false,
                "release": null,
@@ -6111,51 +6004,6 @@
                ],
                "url": "https://github.com/spark-jobserver/spark-jobserver",
                "user": "spark-jobserver"
-            },
-            {
-               "alias": "SparkGIS",
-               "forked": false,
-               "release": null,
-               "repos_name": "SparkGIS",
-               "score": 3,
-               "shallow": false,
-               "site": "https://github.com",
-               "tags": [
-                  "spark",
-                  "sparkgis"
-               ],
-               "url": "https://github.com/drubbo/SparkGIS",
-               "user": "drubbo"
-            },
-            {
-               "alias": "Movie_Recommend",
-               "forked": false,
-               "release": null,
-               "repos_name": "Movie_Recommend",
-               "score": 3,
-               "shallow": false,
-               "site": "https://github.com",
-               "tags": [
-                  "spark",
-                  "bigdata_usecase"
-               ],
-               "url": "https://github.com/LuckyZXL2016/Movie_Recommend",
-               "user": "LuckyZXL2016"
-            },
-            {
-               "alias": "spark-deep-learning",
-               "forked": false,
-               "release": null,
-               "repos_name": "spark-deep-learning",
-               "score": 3,
-               "shallow": false,
-               "site": "https://github.com",
-               "tags": [
-                  "spark",
-                  "deep_learning"
-               ],
-               "url": "https://github.com/databricks/spark-deep-learning",
-               "user": "databricks"
             },
             {
                "alias": "SparkInternals",
@@ -6200,6 +6048,146 @@
                "user": "awesome-spark"
             }
          ],
+         "spark_app": [
+            {
+               "alias": "envelope",
+               "forked": false,
+               "release": null,
+               "repos_name": "envelope",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "etl",
+                  "spark_app"
+               ],
+               "url": "https://github.com/cloudera-labs/envelope",
+               "user": "cloudera-labs"
+            },
+            {
+               "alias": "Movie_Recommend",
+               "forked": false,
+               "release": null,
+               "repos_name": "Movie_Recommend",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "spark_app",
+                  "bigdata_usecase"
+               ],
+               "url": "https://github.com/LuckyZXL2016/Movie_Recommend",
+               "user": "LuckyZXL2016"
+            }
+         ],
+         "spark_ext": [
+            {
+               "alias": "spark-knn_graphs",
+               "forked": false,
+               "release": null,
+               "repos_name": "spark-knn_graphs",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "spark_ext",
+                  "knn_graph"
+               ],
+               "url": "https://github.com/tdebatty/spark-knn_graphs",
+               "user": "tdebatty"
+            },
+            {
+               "alias": "cypher-for-apache-spark",
+               "forked": false,
+               "release": null,
+               "repos_name": "cypher-for-apache-spark",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "spark_ext",
+                  "cypher"
+               ],
+               "url": "https://github.com/opencypher/cypher-for-apache-spark",
+               "user": "opencypher"
+            },
+            {
+               "alias": "mizo",
+               "forked": false,
+               "release": null,
+               "repos_name": "mizo",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "spark_ext",
+                  "titan"
+               ],
+               "url": "https://github.com/imri/mizo",
+               "user": "imri"
+            },
+            {
+               "alias": "spark-neo4j",
+               "forked": false,
+               "release": null,
+               "repos_name": "spark-neo4j",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "spark_ext",
+                  "neo4j"
+               ],
+               "url": "https://github.com/kbastani/spark-neo4j",
+               "user": "kbastani"
+            },
+            {
+               "alias": "neo4j-mazerunner",
+               "forked": false,
+               "release": null,
+               "repos_name": "neo4j-mazerunner",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "neo4j",
+                  "mazerunner",
+                  "spark_ext"
+               ],
+               "url": "https://github.com/neo4j-contrib/neo4j-mazerunner",
+               "user": "neo4j-contrib"
+            },
+            {
+               "alias": "SparkGIS",
+               "forked": false,
+               "release": null,
+               "repos_name": "SparkGIS",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "spark_ext",
+                  "sparkgis"
+               ],
+               "url": "https://github.com/drubbo/SparkGIS",
+               "user": "drubbo"
+            },
+            {
+               "alias": "spark-deep-learning",
+               "forked": false,
+               "release": null,
+               "repos_name": "spark-deep-learning",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "spark_ext",
+                  "deep_learning"
+               ],
+               "url": "https://github.com/databricks/spark-deep-learning",
+               "user": "databricks"
+            }
+         ],
          "sparkgis": [
             {
                "alias": "SparkGIS",
@@ -6210,7 +6198,7 @@
                "shallow": false,
                "site": "https://github.com",
                "tags": [
-                  "spark",
+                  "spark_ext",
                   "sparkgis"
                ],
                "url": "https://github.com/drubbo/SparkGIS",
@@ -6513,7 +6501,7 @@
                "shallow": false,
                "site": "https://github.com",
                "tags": [
-                  "spark",
+                  "spark_ext",
                   "titan"
                ],
                "url": "https://github.com/imri/mizo",
