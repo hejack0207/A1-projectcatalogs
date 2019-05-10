@@ -6,7 +6,6 @@
   [mazerunner](#mazerunner)
   [nutch](#nutch)
   [restful](#restful)
-  [spark_ext](#spark_ext)
   [travis](#travis)
 
 ## arch_agrithom
@@ -40,6 +39,7 @@
   [impala](#impala)
   [spark](#spark)
   [spark_app](#spark_app)
+  [spark_ext](#spark_ext)
 ## arch_bigdata_category
 
   [bigdata_awesome](#bigdata_awesome)
