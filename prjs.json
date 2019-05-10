@@ -2566,6 +2566,20 @@
          ],
          "url": "https://github.com/apache/spark",
          "user": "apache"
+      },
+      {
+         "alias": "awesome-spark",
+         "forked": false,
+         "release": null,
+         "repos_name": "awesome-spark",
+         "score": 3,
+         "shallow": false,
+         "site": "https://github.com",
+         "tags": [
+            "spark"
+         ],
+         "url": "https://github.com/awesome-spark/awesome-spark",
+         "user": "awesome-spark"
       }
    ],
    "tag_categories": {
@@ -6170,6 +6184,20 @@
                ],
                "url": "https://github.com/apache/spark",
                "user": "apache"
+            },
+            {
+               "alias": "awesome-spark",
+               "forked": false,
+               "release": null,
+               "repos_name": "awesome-spark",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "spark"
+               ],
+               "url": "https://github.com/awesome-spark/awesome-spark",
+               "user": "awesome-spark"
             }
          ],
          "sparkgis": [

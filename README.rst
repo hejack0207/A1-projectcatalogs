@@ -498,6 +498,7 @@ Tags
   + spark-deep-learning https://github.com/databricks/spark-deep-learning
   + SparkInternals https://github.com/JerryLead/SparkInternals
   + spark https://github.com/apache/spark
+  + awesome-spark https://github.com/awesome-spark/awesome-spark
 
 * sparkgis
 

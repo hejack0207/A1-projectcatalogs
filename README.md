@@ -1687,6 +1687,11 @@
       [
   [spark](#spark)
       ]
+  + awesome-spark <https://github.com/awesome-spark/awesome-spark> 
+
+      [
+  [spark](#spark)
+      ]
 
 ## sparkgis
   + SparkGIS <https://github.com/drubbo/SparkGIS> 

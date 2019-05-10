@@ -947,6 +947,11 @@
       "user": "apache", 
       "repos_name": "spark", 
       "tags": ["spark"]
+    }, 
+    {
+      "user": "awesome-spark", 
+      "repos_name": "awesome-spark", 
+      "tags": ["spark"]
     }
   ]
 }
