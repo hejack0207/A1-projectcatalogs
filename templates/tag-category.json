@@ -17,11 +17,12 @@
       "springcloud"
     ],
     "arch_bigdata": [
-      "hadoop",
       "cdh",
-      "impala",
       "flink",
-      "spark"
+      "hadoop",
+      "impala",
+      "spark",
+      "spark_app"
     ],
     "arch_bigdata_category": [
       "bigdata_awesome",

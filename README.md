@@ -6,7 +6,6 @@
   [mazerunner](#mazerunner)
   [nutch](#nutch)
   [restful](#restful)
-  [spark_app](#spark_app)
   [spark_ext](#spark_ext)
   [travis](#travis)
 
@@ -35,11 +34,12 @@
   [springcloud](#springcloud)
 ## arch_bigdata
 
-  [hadoop](#hadoop)
   [cdh](#cdh)
-  [impala](#impala)
   [flink](#flink)
+  [hadoop](#hadoop)
+  [impala](#impala)
   [spark](#spark)
+  [spark_app](#spark_app)
 ## arch_bigdata_category
 
   [bigdata_awesome](#bigdata_awesome)

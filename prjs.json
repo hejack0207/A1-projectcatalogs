@@ -92,6 +92,7 @@
          "security_cve",
          "servicemix",
          "spark",
+         "spark_app",
          "sparkgis",
          "spider",
          "springcloud",
@@ -127,7 +128,6 @@
          "mazerunner",
          "nutch",
          "restful",
-         "spark_app",
          "spark_ext",
          "travis"
       ]
@@ -2608,11 +2608,12 @@
          "springcloud"
       ],
       "arch_bigdata": [
-         "hadoop",
          "cdh",
-         "impala",
          "flink",
-         "spark"
+         "hadoop",
+         "impala",
+         "spark",
+         "spark_app"
       ],
       "arch_bigdata_category": [
          "bigdata_awesome",
