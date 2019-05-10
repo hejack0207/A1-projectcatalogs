@@ -129,7 +129,8 @@
          "mazerunner",
          "nutch",
          "restful",
-         "travis"
+         "travis",
+         "weka"
       ]
    },
    "repos_": [
@@ -2582,6 +2583,20 @@
          ],
          "url": "https://github.com/awesome-spark/awesome-spark",
          "user": "awesome-spark"
+      },
+      {
+         "alias": "weka",
+         "forked": false,
+         "release": null,
+         "repos_name": "weka",
+         "score": 3,
+         "shallow": false,
+         "site": "https://github.com",
+         "tags": [
+            "weka"
+         ],
+         "url": "https://github.com/bnjmn/weka",
+         "user": "bnjmn"
       }
    ],
    "tag_categories": {
@@ -7165,6 +7180,22 @@
                ],
                "url": "https://github.com/plantuml/plantuml-server",
                "user": "plantuml"
+            }
+         ],
+         "weka": [
+            {
+               "alias": "weka",
+               "forked": false,
+               "release": null,
+               "repos_name": "weka",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "weka"
+               ],
+               "url": "https://github.com/bnjmn/weka",
+               "user": "bnjmn"
             }
          ],
          "wui": [

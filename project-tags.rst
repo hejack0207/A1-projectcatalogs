@@ -623,6 +623,10 @@ Tags
   + webkettle https://github.com/JoeyBling/webkettle
   + plantuml-server https://github.com/plantuml/plantuml-server
 
+* weka
+
+  + weka https://github.com/bnjmn/weka
+
 * wui
 
   + csvtotable https://github.com/vividvilla/csvtotable

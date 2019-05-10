@@ -7,6 +7,7 @@
   [nutch](#nutch)
   [restful](#restful)
   [travis](#travis)
+  [weka](#weka)
 
 ## arch_agrithom
 
@@ -2126,6 +2127,13 @@
       [
   [plantuml](#plantuml)
   [webui](#webui)
+      ]
+
+## weka
+  + weka <https://github.com/bnjmn/weka> 
+
+      [
+  [weka](#weka)
       ]
 
 ## wui

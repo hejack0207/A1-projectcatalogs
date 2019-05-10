@@ -952,6 +952,11 @@
       "user": "awesome-spark", 
       "repos_name": "awesome-spark", 
       "tags": ["spark"]
+    }, 
+    {
+      "user": "bnjmn", 
+      "repos_name": "weka", 
+      "tags": ["weka"]
     }
   ]
 }
