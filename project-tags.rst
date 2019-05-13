@@ -354,10 +354,6 @@ Tags
   + git https://github.com/git/git
   + vim https://github.com/vim/vim
 
-* mandrian
-
-  + mondrian https://github.com/pentaho/mondrian
-
 * maven
 
   + kylin-archetype https://github.com/wengyingjian/kylin-archetype
@@ -365,6 +361,10 @@ Tags
 * mazerunner
 
   + neo4j-mazerunner https://github.com/neo4j-contrib/neo4j-mazerunner
+
+* mondrian
+
+  + mondrian https://github.com/pentaho/mondrian
 
 * mpp_based
 

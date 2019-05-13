@@ -68,9 +68,9 @@
          "kubernetes",
          "kylin",
          "make",
-         "mandrian",
          "markdown",
          "maven",
+         "mondrian",
          "mpp_based",
          "mysql",
          "neo4j",
@@ -1044,7 +1044,7 @@
          "shallow": false,
          "site": "https://github.com",
          "tags": [
-            "mandrian"
+            "mondrian"
          ],
          "url": "https://github.com/pentaho/mondrian",
          "user": "pentaho"
@@ -2653,7 +2653,7 @@
       "arch_bigdata_olap": [
          "kylin",
          "clickhouse",
-         "mandrian",
+         "mondrian",
          "olap_impl"
       ],
       "arch_frontend": [
@@ -5276,22 +5276,6 @@
                "user": "vim"
             }
          ],
-         "mandrian": [
-            {
-               "alias": "mondrian",
-               "forked": false,
-               "release": null,
-               "repos_name": "mondrian",
-               "score": 3,
-               "shallow": false,
-               "site": "https://github.com",
-               "tags": [
-                  "mandrian"
-               ],
-               "url": "https://github.com/pentaho/mondrian",
-               "user": "pentaho"
-            }
-         ],
          "maven": [
             {
                "alias": "kylin-archetype",
@@ -5326,6 +5310,22 @@
                ],
                "url": "https://github.com/neo4j-contrib/neo4j-mazerunner",
                "user": "neo4j-contrib"
+            }
+         ],
+         "mondrian": [
+            {
+               "alias": "mondrian",
+               "forked": false,
+               "release": null,
+               "repos_name": "mondrian",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "mondrian"
+               ],
+               "url": "https://github.com/pentaho/mondrian",
+               "user": "pentaho"
             }
          ],
          "mpp_based": [

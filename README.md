@@ -64,7 +64,7 @@
 
   [kylin](#kylin)
   [clickhouse](#clickhouse)
-  [mandrian](#mandrian)
+  [mondrian](#mondrian)
   [olap_impl](#olap_impl)
 ## arch_frontend
 
@@ -1294,13 +1294,6 @@
   [vim](#vim)
       ]
 
-## mandrian
-  + mondrian <https://github.com/pentaho/mondrian> 
-
-      [
-  [mandrian](#mandrian)
-      ]
-
 ## maven
   + kylin-archetype <https://github.com/wengyingjian/kylin-archetype> 
 
@@ -1317,6 +1310,13 @@
   [neo4j](#neo4j)
   [mazerunner](#mazerunner)
   [spark_ext](#spark_ext)
+      ]
+
+## mondrian
+  + mondrian <https://github.com/pentaho/mondrian> 
+
+      [
+  [mondrian](#mondrian)
       ]
 
 ## mpp_based
