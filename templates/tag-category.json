@@ -200,6 +200,9 @@
     ],
     "dev_language": [
       "go"
+    ],
+    "arch_dataspecific_structured_parser": [
+      "parser"
     ]
   }
 }

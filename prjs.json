@@ -78,6 +78,7 @@
          "ocr_impl",
          "olap_impl",
          "orientdb",
+         "parser",
          "pentaho",
          "pinot",
          "plantuml",
@@ -128,7 +129,6 @@
          "graph_ui",
          "mazerunner",
          "nutch",
-         "parser",
          "restful",
          "travis",
          "weka"
@@ -2684,6 +2684,9 @@
          "clickhouse",
          "mondrian",
          "olap_impl"
+      ],
+      "arch_dataspecific_structured_parser": [
+         "parser"
       ],
       "arch_frontend": [
          "angular"

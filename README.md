@@ -5,7 +5,6 @@
   [graph_ui](repos.md#graph_ui)
   [mazerunner](repos.md#mazerunner)
   [nutch](repos.md#nutch)
-  [parser](repos.md#parser)
   [restful](repos.md#restful)
   [travis](repos.md#travis)
   [weka](repos.md#weka)
@@ -67,6 +66,9 @@
   [clickhouse](repos.md#clickhouse)
   [mondrian](repos.md#mondrian)
   [olap_impl](repos.md#olap_impl)
+## arch_dataspecific_structured_parser
+
+  [parser](repos.md#parser)
 ## arch_frontend
 
   [angular](repos.md#angular)
