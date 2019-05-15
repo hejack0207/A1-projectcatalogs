@@ -1,5 +1,5 @@
 SHELL:=/usr/bin/zsh
-OUTPUTS=README.rst project-catalog.rst project-tags.rst README.md README.html
+OUTPUTS=README.rst project-catalog.rst project-tags.rst README.md README.html repos.md
 all: $(OUTPUTS)
 
 clean:
@@ -12,6 +12,9 @@ README.md: templates/README.md.j2 prjs.json
 	yasha -v prjs.json $< -o $@
 	#yasha -v prjs.json $< -o /tmp/README.md
 	#pandoc -f markdown -t markdown_strict /tmp/README.md | sponge $@
+
+repos.md: templates/repos.md.j2 prjs.json
+	yasha -v prjs.json $< -o $@
 
 templates/README.md: templates/README.md.j2 prjs.json
 	yasha -v prjs.json $< -o $@

@@ -1,14 +1,14 @@
 # category
 ## not in category
       {% for t in check.tags_not_in_category %}
-  [{{t}}](#{{t}})
+  [{{t}}](repos.md#{{t}})
       {% endfor %}
 
 {% for c,ts in tag_categories | dictsort %}
 ## {{c}}
 
       {% for t in ts %}
-  [{{t}}](#{{t}})
+  [{{t}}](repos.md#{{t}})
       {% endfor %}
 {% endfor %}
 
@@ -18,18 +18,3 @@
   [{{k}}](#{{k}})
 {% endfor %}
 #}
-
-# repos
-{% for k,v in tags.contents | dictsort %}
-## {{ k }}
-    {% for repo in v %}
-  + {{ repo.alias }} <{{ repo.url }}> 
-
-      [
-      {% for t in repo.tags %}
-  [{{t}}](#{{t}})
-      {% endfor %}
-      ]
-    {% endfor %}
-
-{% endfor %}

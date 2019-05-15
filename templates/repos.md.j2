@@ -1,0 +1,14 @@
+# repos
+{% for k,v in tags.contents | dictsort %}
+## {{ k }}
+    {% for repo in v %}
+  + {{ repo.alias }} <{{ repo.url }}> 
+
+      [
+      {%- for t in repo.tags -%}
+  [{{t}}](#{{t}})
+      {%- endfor -%}
+      ]
+    {% endfor %}
+
+{% endfor %}
