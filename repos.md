@@ -685,6 +685,9 @@
   + pyparsing <https://github.com/pyparsing/pyparsing> 
 
       [[parser](#parser)]
+  + parsimonious <https://github.com/erikrose/parsimonious> 
+
+      [[parser](#parser)]
 
 ## pentaho
   + ansible.pentaho-biserver-ce <https://github.com/oggers/ansible.pentaho-biserver-ce> 

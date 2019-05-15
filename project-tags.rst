@@ -411,6 +411,7 @@ Tags
 * parser
 
   + pyparsing https://github.com/pyparsing/pyparsing
+  + parsimonious https://github.com/erikrose/parsimonious
 
 * pentaho
 

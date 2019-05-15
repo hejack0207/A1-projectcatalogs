@@ -2612,6 +2612,20 @@
          ],
          "url": "https://github.com/pyparsing/pyparsing",
          "user": "pyparsing"
+      },
+      {
+         "alias": "parsimonious",
+         "forked": false,
+         "release": null,
+         "repos_name": "parsimonious",
+         "score": 3,
+         "shallow": false,
+         "site": "https://github.com",
+         "tags": [
+            "parser"
+         ],
+         "url": "https://github.com/erikrose/parsimonious",
+         "user": "erikrose"
       }
    ],
    "tag_categories": {
@@ -5639,6 +5653,20 @@
                ],
                "url": "https://github.com/pyparsing/pyparsing",
                "user": "pyparsing"
+            },
+            {
+               "alias": "parsimonious",
+               "forked": false,
+               "release": null,
+               "repos_name": "parsimonious",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "parser"
+               ],
+               "url": "https://github.com/erikrose/parsimonious",
+               "user": "erikrose"
             }
          ],
          "pentaho": [

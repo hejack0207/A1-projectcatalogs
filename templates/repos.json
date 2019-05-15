@@ -962,6 +962,11 @@
       "user": "pyparsing", 
       "repos_name": "pyparsing", 
       "tags": ["parser"]
+    }, 
+    {
+      "user": "erikrose", 
+      "repos_name": "parsimonious", 
+      "tags": ["parser"]
     }
   ]
 }
