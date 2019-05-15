@@ -681,6 +681,11 @@
 
       [[orientdb](#orientdb)]
 
+## parser
+  + pyparsing <https://github.com/pyparsing/pyparsing> 
+
+      [[parser](#parser)]
+
 ## pentaho
   + ansible.pentaho-biserver-ce <https://github.com/oggers/ansible.pentaho-biserver-ce> 
 

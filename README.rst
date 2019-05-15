@@ -419,6 +419,10 @@ Tags
 
   + orientdb https://github.com/orientechnologies/orientdb
 
+* parser
+
+  + pyparsing https://github.com/pyparsing/pyparsing
+
 * pentaho
 
   + ansible.pentaho-biserver-ce https://github.com/oggers/ansible.pentaho-biserver-ce

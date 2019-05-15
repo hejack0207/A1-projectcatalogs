@@ -5,6 +5,7 @@
   [graph_ui](repos.md#graph_ui)
   [mazerunner](repos.md#mazerunner)
   [nutch](repos.md#nutch)
+  [parser](repos.md#parser)
   [restful](repos.md#restful)
   [travis](repos.md#travis)
   [weka](repos.md#weka)

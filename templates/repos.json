@@ -957,6 +957,11 @@
       "user": "bnjmn", 
       "repos_name": "weka", 
       "tags": ["weka"]
+    }, 
+    {
+      "user": "pyparsing", 
+      "repos_name": "pyparsing", 
+      "tags": ["parser"]
     }
   ]
 }

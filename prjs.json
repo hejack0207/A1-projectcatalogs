@@ -128,6 +128,7 @@
          "graph_ui",
          "mazerunner",
          "nutch",
+         "parser",
          "restful",
          "travis",
          "weka"
@@ -2597,6 +2598,20 @@
          ],
          "url": "https://github.com/bnjmn/weka",
          "user": "bnjmn"
+      },
+      {
+         "alias": "pyparsing",
+         "forked": false,
+         "release": null,
+         "repos_name": "pyparsing",
+         "score": 3,
+         "shallow": false,
+         "site": "https://github.com",
+         "tags": [
+            "parser"
+         ],
+         "url": "https://github.com/pyparsing/pyparsing",
+         "user": "pyparsing"
       }
    ],
    "tag_categories": {
@@ -5608,6 +5623,22 @@
                ],
                "url": "https://github.com/orientechnologies/orientdb",
                "user": "orientechnologies"
+            }
+         ],
+         "parser": [
+            {
+               "alias": "pyparsing",
+               "forked": false,
+               "release": null,
+               "repos_name": "pyparsing",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "parser"
+               ],
+               "url": "https://github.com/pyparsing/pyparsing",
+               "user": "pyparsing"
             }
          ],
          "pentaho": [
