@@ -977,6 +977,11 @@
       "user": "shadowsocks", 
       "repos_name": "shadowsocks-android", 
       "tags": ["android_app", "kotlin"]
+    }, 
+    {
+      "user": "systemd", 
+      "repos_name": "systemd", 
+      "tags": ["systemd"]
     }
   ]
 }

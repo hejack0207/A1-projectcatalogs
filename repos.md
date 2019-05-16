@@ -1135,6 +1135,12 @@
       [[angular](#angular)[swagger](#swagger)[swagger_angular](#swagger_angular) 
       ]
 
+## systemd
+  + systemd <https://github.com/systemd/systemd> 
+
+      [[systemd](#systemd) 
+      ]
+
 ## tensorflow
   + tensorflow <https://github.com/tensorflow/tensorflow> 
 

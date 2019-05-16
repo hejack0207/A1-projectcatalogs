@@ -7,6 +7,7 @@
   [mazerunner](repos.md#mazerunner)
   [nutch](repos.md#nutch)
   [restful](repos.md#restful)
+  [systemd](repos.md#systemd)
   [travis](repos.md#travis)
   [weka](repos.md#weka)
 

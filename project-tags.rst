@@ -545,6 +545,10 @@ Tags
   + angular2-swagger-apiclient-generator https://github.com/zemacik/angular2-swagger-apiclient-generator
   + ng-swagger-gen https://github.com/cyclosproject/ng-swagger-gen
 
+* systemd
+
+  + systemd https://github.com/systemd/systemd
+
 * tensorflow
 
   + tensorflow https://github.com/tensorflow/tensorflow

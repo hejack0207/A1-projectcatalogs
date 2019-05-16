@@ -131,6 +131,7 @@
          "mazerunner",
          "nutch",
          "restful",
+         "systemd",
          "travis",
          "weka"
       ]
@@ -2656,6 +2657,20 @@
          ],
          "url": "https://github.com/shadowsocks/shadowsocks-android",
          "user": "shadowsocks"
+      },
+      {
+         "alias": "systemd",
+         "forked": false,
+         "release": null,
+         "repos_name": "systemd",
+         "score": 3,
+         "shallow": false,
+         "site": "https://github.com",
+         "tags": [
+            "systemd"
+         ],
+         "url": "https://github.com/systemd/systemd",
+         "user": "systemd"
       }
    ],
    "tag_categories": {
@@ -6563,6 +6578,22 @@
                ],
                "url": "https://github.com/cyclosproject/ng-swagger-gen",
                "user": "cyclosproject"
+            }
+         ],
+         "systemd": [
+            {
+               "alias": "systemd",
+               "forked": false,
+               "release": null,
+               "repos_name": "systemd",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "systemd"
+               ],
+               "url": "https://github.com/systemd/systemd",
+               "user": "systemd"
             }
          ],
          "tensorflow": [
