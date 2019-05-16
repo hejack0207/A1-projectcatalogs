@@ -203,6 +203,9 @@
     ],
     "arch_dataspecific_structured_parser": [
       "parser"
+    ],
+    "arch_platform_linux": [
+      "systemd"
     ]
   }
 }

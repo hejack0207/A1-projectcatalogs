@@ -7,7 +7,6 @@
   [mazerunner](repos.md#mazerunner)
   [nutch](repos.md#nutch)
   [restful](repos.md#restful)
-  [systemd](repos.md#systemd)
   [travis](repos.md#travis)
   [weka](repos.md#weka)
 
@@ -85,6 +84,9 @@
   [chromium](repos.md#chromium)
 ## arch_platform_firefox
 
+## arch_platform_linux
+
+  [systemd](repos.md#systemd)
 ## arch_platform_raspberry
 
   [raspberry](repos.md#raspberry)

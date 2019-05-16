@@ -104,6 +104,7 @@
          "ssh",
          "swagger",
          "swagger_angular",
+         "systemd",
          "tensorflow",
          "tesseract",
          "titan",
@@ -131,7 +132,6 @@
          "mazerunner",
          "nutch",
          "restful",
-         "systemd",
          "travis",
          "weka"
       ]
@@ -2745,6 +2745,9 @@
          "chromium"
       ],
       "arch_platform_firefox": [ ],
+      "arch_platform_linux": [
+         "systemd"
+      ],
       "arch_platform_raspberry": [
          "raspberry"
       ],
