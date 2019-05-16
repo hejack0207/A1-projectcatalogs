@@ -972,6 +972,11 @@
       "user": "DataFoxCo", 
       "repos_name": "gocsv", 
       "tags": ["csv_tool"]
+    }, 
+    {
+      "user": "shadowsocks", 
+      "repos_name": "shadowsocks-android", 
+      "tags": ["android_app", "kotlin"]
     }
   ]
 }

@@ -127,6 +127,7 @@
          "apollo",
          "etl",
          "graph_ui",
+         "kotlin",
          "mazerunner",
          "nutch",
          "restful",
@@ -2640,6 +2641,21 @@
          ],
          "url": "https://github.com/DataFoxCo/gocsv",
          "user": "DataFoxCo"
+      },
+      {
+         "alias": "shadowsocks-android",
+         "forked": false,
+         "release": null,
+         "repos_name": "shadowsocks-android",
+         "score": 3,
+         "shallow": false,
+         "site": "https://github.com",
+         "tags": [
+            "android_app",
+            "kotlin"
+         ],
+         "url": "https://github.com/shadowsocks/shadowsocks-android",
+         "user": "shadowsocks"
       }
    ],
    "tag_categories": {
@@ -2910,6 +2926,21 @@
                ],
                "url": "https://github.com/ThirtyDegreesRay/OpenHub",
                "user": "ThirtyDegreesRay"
+            },
+            {
+               "alias": "shadowsocks-android",
+               "forked": false,
+               "release": null,
+               "repos_name": "shadowsocks-android",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "android_app",
+                  "kotlin"
+               ],
+               "url": "https://github.com/shadowsocks/shadowsocks-android",
+               "user": "shadowsocks"
             }
          ],
          "angular": [
@@ -5118,6 +5149,23 @@
                ],
                "url": "https://github.com/tdebatty/spark-knn_graphs",
                "user": "tdebatty"
+            }
+         ],
+         "kotlin": [
+            {
+               "alias": "shadowsocks-android",
+               "forked": false,
+               "release": null,
+               "repos_name": "shadowsocks-android",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "android_app",
+                  "kotlin"
+               ],
+               "url": "https://github.com/shadowsocks/shadowsocks-android",
+               "user": "shadowsocks"
             }
          ],
          "kubernetes": [

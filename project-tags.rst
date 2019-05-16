@@ -13,6 +13,7 @@ Tags
 * android_app
 
   + OpenHub https://github.com/ThirtyDegreesRay/OpenHub
+  + shadowsocks-android https://github.com/shadowsocks/shadowsocks-android
 
 * angular
 
@@ -331,6 +332,10 @@ Tags
 * knn_graph
 
   + spark-knn_graphs https://github.com/tdebatty/spark-knn_graphs
+
+* kotlin
+
+  + shadowsocks-android https://github.com/shadowsocks/shadowsocks-android
 
 * kubernetes
 

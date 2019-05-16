@@ -16,6 +16,9 @@
   + OpenHub <https://github.com/ThirtyDegreesRay/OpenHub> 
 
       [[android_app](#android_app)]
+  + shadowsocks-android <https://github.com/shadowsocks/shadowsocks-android> 
+
+      [[android_app](#android_app)[kotlin](#kotlin)]
 
 ## angular
   + ngx-graph <https://github.com/swimlane/ngx-graph> 
@@ -550,6 +553,11 @@
   + spark-knn_graphs <https://github.com/tdebatty/spark-knn_graphs> 
 
       [[spark_ext](#spark_ext)[knn_graph](#knn_graph)]
+
+## kotlin
+  + shadowsocks-android <https://github.com/shadowsocks/shadowsocks-android> 
+
+      [[android_app](#android_app)[kotlin](#kotlin)]
 
 ## kubernetes
   + hadoop-kerberos-helm <https://github.com/ifilonenko/hadoop-kerberos-helm> 
