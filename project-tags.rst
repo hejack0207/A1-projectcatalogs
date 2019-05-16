@@ -132,6 +132,7 @@ Tags
 * csv_tool
 
   + csvtotable https://github.com/vividvilla/csvtotable
+  + gocsv https://github.com/DataFoxCo/gocsv
 
 * cypher
 

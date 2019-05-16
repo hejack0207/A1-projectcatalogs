@@ -219,6 +219,9 @@
   + csvtotable <https://github.com/vividvilla/csvtotable> 
 
       [[csv_tool](#csv_tool)[wui](#wui)]
+  + gocsv <https://github.com/DataFoxCo/gocsv> 
+
+      [[csv_tool](#csv_tool)]
 
 ## cypher
   + cypher-for-apache-spark <https://github.com/opencypher/cypher-for-apache-spark> 

@@ -2626,6 +2626,20 @@
          ],
          "url": "https://github.com/erikrose/parsimonious",
          "user": "erikrose"
+      },
+      {
+         "alias": "gocsv",
+         "forked": false,
+         "release": null,
+         "repos_name": "gocsv",
+         "score": 3,
+         "shallow": false,
+         "site": "https://github.com",
+         "tags": [
+            "csv_tool"
+         ],
+         "url": "https://github.com/DataFoxCo/gocsv",
+         "user": "DataFoxCo"
       }
    ],
    "tag_categories": {
@@ -3766,6 +3780,20 @@
                ],
                "url": "https://github.com/vividvilla/csvtotable",
                "user": "vividvilla"
+            },
+            {
+               "alias": "gocsv",
+               "forked": false,
+               "release": null,
+               "repos_name": "gocsv",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "csv_tool"
+               ],
+               "url": "https://github.com/DataFoxCo/gocsv",
+               "user": "DataFoxCo"
             }
          ],
          "cypher": [

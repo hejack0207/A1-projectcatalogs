@@ -967,6 +967,11 @@
       "user": "erikrose", 
       "repos_name": "parsimonious", 
       "tags": ["parser"]
+    }, 
+    {
+      "user": "DataFoxCo", 
+      "repos_name": "gocsv", 
+      "tags": ["csv_tool"]
     }
   ]
 }
