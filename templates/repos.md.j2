@@ -5,9 +5,9 @@
   + {{ repo.alias }} <{{ repo.url }}> 
 
       [
-      {%- for t in repo.tags -%}
-  [{{t}}](#{{t}})
-      {%- endfor %} 
+      {%- for t in repo.tags %}
+ [{{t}}](#{{t}}) 
+      {% endfor -%}
       ]
     {% endfor %}
 
