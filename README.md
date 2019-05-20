@@ -6,7 +6,6 @@
   [kotlin](repos.md#kotlin)
   [mazerunner](repos.md#mazerunner)
   [nutch](repos.md#nutch)
-  [pdf_tool](repos.md#pdf_tool)
   [restful](repos.md#restful)
   [travis](repos.md#travis)
   [weka](repos.md#weka)
@@ -148,6 +147,7 @@
   [asciidoc](repos.md#asciidoc)
   [jekyll](repos.md#jekyll)
   [markdown](repos.md#markdown)
+  [pdf_tool](repos.md#pdf_tool)
   [restructured](repos.md#restructured)
 ## dev_language
 

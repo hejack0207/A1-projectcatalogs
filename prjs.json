@@ -79,6 +79,7 @@
          "olap_impl",
          "orientdb",
          "parser",
+         "pdf_tool",
          "pentaho",
          "pinot",
          "plantuml",
@@ -131,7 +132,6 @@
          "kotlin",
          "mazerunner",
          "nutch",
-         "pdf_tool",
          "restful",
          "travis",
          "weka"
@@ -2821,6 +2821,7 @@
          "asciidoc",
          "jekyll",
          "markdown",
+         "pdf_tool",
          "restructured"
       ],
       "dev_language": [
