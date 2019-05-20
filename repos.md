@@ -1071,6 +1071,12 @@
       [ [parser](#parser) 
 ]
 
+## pdf_tool
+  + pdftk <https://github.com/ericmason/pdftk> 
+
+      [ [pdf_tool](#pdf_tool) 
+]
+
 ## pentaho
   + ansible.pentaho-biserver-ce <https://github.com/oggers/ansible.pentaho-biserver-ce> 
 

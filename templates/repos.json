@@ -982,6 +982,11 @@
       "user": "systemd", 
       "repos_name": "systemd", 
       "tags": ["systemd"]
+    }, 
+    {
+      "user": "ericmason", 
+      "repos_name": "pdftk", 
+      "tags": ["pdf_tool"]
     }
   ]
 }

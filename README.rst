@@ -430,6 +430,10 @@ Tags
   + pyparsing https://github.com/pyparsing/pyparsing
   + parsimonious https://github.com/erikrose/parsimonious
 
+* pdf_tool
+
+  + pdftk https://github.com/ericmason/pdftk
+
 * pentaho
 
   + ansible.pentaho-biserver-ce https://github.com/oggers/ansible.pentaho-biserver-ce
