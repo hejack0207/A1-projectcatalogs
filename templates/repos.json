@@ -996,7 +996,7 @@
     {
       "user": "raspberrypi", 
       "repos_name": "linux", 
-      "tags": ["raspberrypi", "kernel"]
+      "tags": ["raspberry", "kernel"]
     }, 
     {
       "user": "sujinleeme", 

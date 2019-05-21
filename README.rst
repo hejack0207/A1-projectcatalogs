@@ -476,9 +476,6 @@ Tags
 * raspberry
 
   + raspberry-pi-os https://github.com/s-matyukevich/raspberry-pi-os
-
-* raspberrypi
-
   + linux https://github.com/raspberrypi/linux
 
 * redis

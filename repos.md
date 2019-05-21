@@ -825,7 +825,7 @@
 ]
   + linux <https://github.com/raspberrypi/linux> 
 
-      [ [raspberrypi](#raspberrypi) 
+      [ [raspberry](#raspberry) 
  [kernel](#kernel) 
 ]
 
@@ -1182,11 +1182,9 @@
 
       [ [raspberry](#raspberry) 
 ]
-
-## raspberrypi
   + linux <https://github.com/raspberrypi/linux> 
 
-      [ [raspberrypi](#raspberrypi) 
+      [ [raspberry](#raspberry) 
  [kernel](#kernel) 
 ]
 
