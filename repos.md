@@ -818,6 +818,12 @@
       [ [keepalived](#keepalived) 
 ]
 
+## kernel
+  + linux <https://github.com/torvalds/linux> 
+
+      [ [kernel](#kernel) 
+]
+
 ## kettle
   + docker-pdi-ce <https://github.com/zhicwu/docker-pdi-ce> 
 

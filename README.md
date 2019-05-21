@@ -3,6 +3,7 @@
   [apollo](repos.md#apollo)
   [etl](repos.md#etl)
   [graph_ui](repos.md#graph_ui)
+  [kernel](repos.md#kernel)
   [kotlin](repos.md#kotlin)
   [mazerunner](repos.md#mazerunner)
   [nutch](repos.md#nutch)

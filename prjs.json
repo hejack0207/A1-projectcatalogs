@@ -129,6 +129,7 @@
          "apollo",
          "etl",
          "graph_ui",
+         "kernel",
          "kotlin",
          "mazerunner",
          "nutch",
@@ -2686,6 +2687,20 @@
          ],
          "url": "https://github.com/ericmason/pdftk",
          "user": "ericmason"
+      },
+      {
+         "alias": "linux",
+         "forked": false,
+         "release": null,
+         "repos_name": "linux",
+         "score": 3,
+         "shallow": false,
+         "site": "https://github.com",
+         "tags": [
+            "kernel"
+         ],
+         "url": "https://github.com/torvalds/linux",
+         "user": "torvalds"
       }
    ],
    "tag_categories": {
@@ -5085,6 +5100,22 @@
                ],
                "url": "https://github.com/acassen/keepalived",
                "user": "acassen"
+            }
+         ],
+         "kernel": [
+            {
+               "alias": "linux",
+               "forked": false,
+               "release": null,
+               "repos_name": "linux",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "kernel"
+               ],
+               "url": "https://github.com/torvalds/linux",
+               "user": "torvalds"
             }
          ],
          "kettle": [

@@ -987,6 +987,11 @@
       "user": "ericmason", 
       "repos_name": "pdftk", 
       "tags": ["pdf_tool"]
+    }, 
+    {
+      "user": "torvalds", 
+      "repos_name": "linux", 
+      "tags": ["kernel"]
     }
   ]
 }

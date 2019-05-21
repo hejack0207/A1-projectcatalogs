@@ -332,6 +332,10 @@ Tags
 
   + keepalived https://github.com/acassen/keepalived
 
+* kernel
+
+  + linux https://github.com/torvalds/linux
+
 * kettle
 
   + docker-pdi-ce https://github.com/zhicwu/docker-pdi-ce
