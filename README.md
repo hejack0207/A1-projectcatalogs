@@ -3,7 +3,6 @@
   [apollo](repos.md#apollo)
   [etl](repos.md#etl)
   [graph_ui](repos.md#graph_ui)
-  [guile](repos.md#guile)
   [kotlin](repos.md#kotlin)
   [mazerunner](repos.md#mazerunner)
   [nutch](repos.md#nutch)
@@ -164,9 +163,10 @@
 ## dev_languages
 
   [c](repos.md#c)
-  [java](repos.md#java)
   [cpp](repos.md#cpp)
   [go](repos.md#go)
+  [guile](repos.md#guile)
+  [java](repos.md#java)
   [javascript](repos.md#javascript)
 ## dev_scaffold
 

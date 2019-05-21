@@ -49,6 +49,7 @@
          "graphql_java",
          "greenplum",
          "gui",
+         "guile",
          "hadoop",
          "helm",
          "impala",
@@ -131,7 +132,6 @@
          "apollo",
          "etl",
          "graph_ui",
-         "guile",
          "kotlin",
          "mazerunner",
          "nutch",
@@ -2898,9 +2898,10 @@
       ],
       "dev_languages": [
          "c",
-         "java",
          "cpp",
          "go",
+         "guile",
+         "java",
          "javascript"
       ],
       "dev_scaffold": [

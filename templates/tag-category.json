@@ -127,9 +127,10 @@
     ],
     "dev_languages": [
       "c",
-      "java",
       "cpp",
       "go",
+      "guile",
+      "java",
       "javascript"
     ],
     "dev_scaffold": [
