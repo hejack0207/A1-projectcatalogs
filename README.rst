@@ -258,6 +258,10 @@ Tags
   + greenplum-ansible https://github.com/faer615/greenplum
   + gpdb https://github.com/greenplum-db/gpdb
 
+* guile
+
+  + guildhall https://github.com/ijp/guildhall
+
 * hadoop
 
   + hadoop-docker https://github.com/sequenceiq/hadoop-docker

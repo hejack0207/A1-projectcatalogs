@@ -1002,6 +1002,11 @@
       "user": "sujinleeme", 
       "repos_name": "resume-generator", 
       "tags": ["resume"]
+    }, 
+    {
+      "user": "ijp", 
+      "repos_name": "guildhall", 
+      "tags": ["guile"]
     }
   ]
 }

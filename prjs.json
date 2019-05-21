@@ -131,6 +131,7 @@
          "apollo",
          "etl",
          "graph_ui",
+         "guile",
          "kotlin",
          "mazerunner",
          "nutch",
@@ -2731,6 +2732,20 @@
          ],
          "url": "https://github.com/sujinleeme/resume-generator",
          "user": "sujinleeme"
+      },
+      {
+         "alias": "guildhall",
+         "forked": false,
+         "release": null,
+         "repos_name": "guildhall",
+         "score": 3,
+         "shallow": false,
+         "site": "https://github.com",
+         "tags": [
+            "guile"
+         ],
+         "url": "https://github.com/ijp/guildhall",
+         "user": "ijp"
       }
    ],
    "tag_categories": {
@@ -4624,6 +4639,22 @@
                ],
                "url": "https://github.com/greenplum-db/gpdb",
                "user": "greenplum-db"
+            }
+         ],
+         "guile": [
+            {
+               "alias": "guildhall",
+               "forked": false,
+               "release": null,
+               "repos_name": "guildhall",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "guile"
+               ],
+               "url": "https://github.com/ijp/guildhall",
+               "user": "ijp"
             }
          ],
          "hadoop": [
