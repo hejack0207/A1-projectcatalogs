@@ -6,6 +6,7 @@
   [kotlin](repos.md#kotlin)
   [mazerunner](repos.md#mazerunner)
   [nutch](repos.md#nutch)
+  [raspberrypi](repos.md#raspberrypi)
   [restful](repos.md#restful)
   [travis](repos.md#travis)
   [weka](repos.md#weka)

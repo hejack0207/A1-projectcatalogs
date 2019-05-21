@@ -823,6 +823,11 @@
 
       [ [kernel](#kernel) 
 ]
+  + linux <https://github.com/raspberrypi/linux> 
+
+      [ [raspberrypi](#raspberrypi) 
+ [kernel](#kernel) 
+]
 
 ## kettle
   + docker-pdi-ce <https://github.com/zhicwu/docker-pdi-ce> 
@@ -1176,6 +1181,13 @@
   + raspberry-pi-os <https://github.com/s-matyukevich/raspberry-pi-os> 
 
       [ [raspberry](#raspberry) 
+]
+
+## raspberrypi
+  + linux <https://github.com/raspberrypi/linux> 
+
+      [ [raspberrypi](#raspberrypi) 
+ [kernel](#kernel) 
 ]
 
 ## redis

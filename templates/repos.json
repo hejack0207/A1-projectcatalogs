@@ -992,6 +992,11 @@
       "user": "torvalds", 
       "repos_name": "linux", 
       "tags": ["kernel"]
+    }, 
+    {
+      "user": "raspberrypi", 
+      "repos_name": "linux", 
+      "tags": ["raspberrypi", "kernel"]
     }
   ]
 }

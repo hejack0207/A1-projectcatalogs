@@ -335,6 +335,7 @@ Tags
 * kernel
 
   + linux https://github.com/torvalds/linux
+  + linux https://github.com/raspberrypi/linux
 
 * kettle
 
@@ -475,6 +476,10 @@ Tags
 * raspberry
 
   + raspberry-pi-os https://github.com/s-matyukevich/raspberry-pi-os
+
+* raspberrypi
+
+  + linux https://github.com/raspberrypi/linux
 
 * redis
 
