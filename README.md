@@ -149,9 +149,6 @@
   [markdown](repos.md#markdown)
   [pdf_tool](repos.md#pdf_tool)
   [restructured](repos.md#restructured)
-## dev_language
-
-  [go](repos.md#go)
 ## dev_language_tool
 
   [bash_ast](repos.md#bash_ast)
@@ -164,6 +161,7 @@
   [c](repos.md#c)
   [java](repos.md#java)
   [cpp](repos.md#cpp)
+  [go](repos.md#go)
   [javascript](repos.md#javascript)
 ## dev_scaffold
 

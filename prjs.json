@@ -2824,9 +2824,6 @@
          "pdf_tool",
          "restructured"
       ],
-      "dev_language": [
-         "go"
-      ],
       "dev_language_tool": [
          "bash_ast",
          "cpp_tool",
@@ -2838,6 +2835,7 @@
          "c",
          "java",
          "cpp",
+         "go",
          "javascript"
       ],
       "dev_scaffold": [

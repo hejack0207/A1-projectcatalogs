@@ -127,6 +127,7 @@
       "c",
       "java",
       "cpp",
+      "go",
       "javascript"
     ],
     "dev_scaffold": [
@@ -198,9 +199,6 @@
     ],
     "arch_platform_raspberry": [
       "raspberry"
-    ],
-    "dev_language": [
-      "go"
     ],
     "arch_dataspecific_structured_parser": [
       "parser"
