@@ -8,6 +8,7 @@
   [nutch](repos.md#nutch)
   [raspberrypi](repos.md#raspberrypi)
   [restful](repos.md#restful)
+  [resume](repos.md#resume)
   [travis](repos.md#travis)
   [weka](repos.md#weka)
 

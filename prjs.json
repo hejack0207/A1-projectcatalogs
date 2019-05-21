@@ -135,6 +135,7 @@
          "nutch",
          "raspberrypi",
          "restful",
+         "resume",
          "travis",
          "weka"
       ]
@@ -2717,6 +2718,20 @@
          ],
          "url": "https://github.com/raspberrypi/linux",
          "user": "raspberrypi"
+      },
+      {
+         "alias": "resume-generator",
+         "forked": false,
+         "release": null,
+         "repos_name": "resume-generator",
+         "score": 3,
+         "shallow": false,
+         "site": "https://github.com",
+         "tags": [
+            "resume"
+         ],
+         "url": "https://github.com/sujinleeme/resume-generator",
+         "user": "sujinleeme"
       }
    ],
    "tag_categories": {
@@ -6192,6 +6207,22 @@
                ],
                "url": "https://github.com/spark-jobserver/spark-jobserver",
                "user": "spark-jobserver"
+            }
+         ],
+         "resume": [
+            {
+               "alias": "resume-generator",
+               "forked": false,
+               "release": null,
+               "repos_name": "resume-generator",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "resume"
+               ],
+               "url": "https://github.com/sujinleeme/resume-generator",
+               "user": "sujinleeme"
             }
          ],
          "security_awesome": [

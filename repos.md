@@ -1212,6 +1212,12 @@
  [restful](#restful) 
 ]
 
+## resume
+  + resume-generator <https://github.com/sujinleeme/resume-generator> 
+
+      [ [resume](#resume) 
+]
+
 ## security_awesome
   + csirt <https://github.com/Spacial/csirt> 
 

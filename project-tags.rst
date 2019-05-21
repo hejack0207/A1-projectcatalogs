@@ -482,6 +482,10 @@ Tags
 
   + spark-jobserver https://github.com/spark-jobserver/spark-jobserver
 
+* resume
+
+  + resume-generator https://github.com/sujinleeme/resume-generator
+
 * security_awesome
 
   + csirt https://github.com/Spacial/csirt

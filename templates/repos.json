@@ -997,6 +997,11 @@
       "user": "raspberrypi", 
       "repos_name": "linux", 
       "tags": ["raspberrypi", "kernel"]
+    }, 
+    {
+      "user": "sujinleeme", 
+      "repos_name": "resume-generator", 
+      "tags": ["resume"]
     }
   ]
 }
