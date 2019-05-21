@@ -3,7 +3,6 @@
   [apollo](repos.md#apollo)
   [etl](repos.md#etl)
   [graph_ui](repos.md#graph_ui)
-  [kernel](repos.md#kernel)
   [kotlin](repos.md#kotlin)
   [mazerunner](repos.md#mazerunner)
   [nutch](repos.md#nutch)
@@ -76,6 +75,7 @@
   [angular](repos.md#angular)
 ## arch_kernel
 
+  [kernel](repos.md#kernel)
 ## arch_platform_android
 
   [android](repos.md#android)

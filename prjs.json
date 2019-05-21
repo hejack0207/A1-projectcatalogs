@@ -63,6 +63,7 @@
          "json_tool",
          "jsonnet",
          "keepalived",
+         "kernel",
          "kettle",
          "knn_graph",
          "kubernetes",
@@ -129,7 +130,6 @@
          "apollo",
          "etl",
          "graph_ui",
-         "kernel",
          "kotlin",
          "mazerunner",
          "nutch",
@@ -2766,7 +2766,9 @@
       "arch_frontend": [
          "angular"
       ],
-      "arch_kernel": [ ],
+      "arch_kernel": [
+         "kernel"
+      ],
       "arch_platform_android": [
          "android",
          "android_app"

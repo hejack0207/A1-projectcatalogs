@@ -53,7 +53,9 @@
     "arch_frontend": [
       "angular"
     ],
-    "arch_kernel": [],
+    "arch_kernel": [
+      "kernel"
+    ],
     "arch_platform_chrome": [
       "chromium"
     ],
