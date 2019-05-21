@@ -8,7 +8,6 @@
   [nutch](repos.md#nutch)
   [raspberrypi](repos.md#raspberrypi)
   [restful](repos.md#restful)
-  [resume](repos.md#resume)
   [travis](repos.md#travis)
   [weka](repos.md#weka)
 
@@ -122,6 +121,9 @@
   [tesseract](repos.md#tesseract)
   [ocr_impl](repos.md#ocr_impl)
   [ocr_awesome](repos.md#ocr_awesome)
+## culture_career
+
+  [resume](repos.md#resume)
 ## dev_build
 
   [ant](repos.md#ant)

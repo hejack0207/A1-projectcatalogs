@@ -207,6 +207,9 @@
     ],
     "arch_platform_linux": [
       "systemd"
+    ],
+    "culture_career": [
+      "resume"
     ]
   }
 }

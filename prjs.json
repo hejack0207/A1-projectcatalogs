@@ -91,6 +91,7 @@
          "redis",
          "redmine",
          "restructured",
+         "resume",
          "security_awesome",
          "security_cve",
          "servicemix",
@@ -135,7 +136,6 @@
          "nutch",
          "raspberrypi",
          "restful",
-         "resume",
          "travis",
          "weka"
       ]
@@ -2842,6 +2842,9 @@
          "tesseract",
          "ocr_impl",
          "ocr_awesome"
+      ],
+      "culture_career": [
+         "resume"
       ],
       "dev_build": [
          "ant",
