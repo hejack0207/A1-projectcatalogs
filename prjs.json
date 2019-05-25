@@ -2775,6 +2775,20 @@
          ],
          "url": "https://github.com/jjaderberg/vim-ft-asciidoc",
          "user": "jjaderberg"
+      },
+      {
+         "alias": "vim-asciidoc",
+         "forked": false,
+         "release": null,
+         "repos_name": "vim-asciidoc",
+         "score": 3,
+         "shallow": false,
+         "site": "https://github.com",
+         "tags": [
+            "vim-asciidoc"
+         ],
+         "url": "https://github.com/dahu/vim-asciidoc",
+         "user": "dahu"
       }
    ],
    "tag_categories": {
@@ -7485,6 +7499,20 @@
                ],
                "url": "https://github.com/jjaderberg/vim-ft-asciidoc",
                "user": "jjaderberg"
+            },
+            {
+               "alias": "vim-asciidoc",
+               "forked": false,
+               "release": null,
+               "repos_name": "vim-asciidoc",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "vim-asciidoc"
+               ],
+               "url": "https://github.com/dahu/vim-asciidoc",
+               "user": "dahu"
             }
          ],
          "vim_plugin": [
