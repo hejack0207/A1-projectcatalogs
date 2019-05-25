@@ -211,6 +211,11 @@
     ],
     "culture_career": [
       "resume"
+    ],
+    "tool_editor_vim": [
+      "vim",
+      "vim_asciidoc",
+      "vim_plugin"
     ]
   }
 }

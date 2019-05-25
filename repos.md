@@ -1663,26 +1663,26 @@
  [vim](#vim) 
 ]
 
-## vim-asciidoc
+## vim_asciidoc
   + asciidoc-vim <https://github.com/dagwieers/asciidoc-vim> 
 
-      [ [vim-asciidoc](#vim-asciidoc) 
+      [ [vim_asciidoc](#vim_asciidoc) 
 ]
   + vim-ft-asciidoc <https://github.com/jjaderberg/vim-ft-asciidoc> 
 
-      [ [vim-asciidoc](#vim-asciidoc) 
+      [ [vim_asciidoc](#vim_asciidoc) 
 ]
   + vim-asciidoc <https://github.com/dahu/vim-asciidoc> 
 
-      [ [vim-asciidoc](#vim-asciidoc) 
+      [ [vim_asciidoc](#vim_asciidoc) 
 ]
   + vim-asciidoc-folding <https://github.com/matcatc/vim-asciidoc-folding> 
 
-      [ [vim-asciidoc](#vim-asciidoc) 
+      [ [vim_asciidoc](#vim_asciidoc) 
 ]
   + asciidoc.vim <https://github.com/vim-scripts/asciidoc.vim> 
 
-      [ [vim-asciidoc](#vim-asciidoc) 
+      [ [vim_asciidoc](#vim_asciidoc) 
 ]
 
 ## vim_plugin

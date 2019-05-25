@@ -119,6 +119,7 @@
          "use_docker",
          "use_docker_compose",
          "vim",
+         "vim_asciidoc",
          "vim_plugin",
          "vscode_plugin",
          "websecurity_awesome",
@@ -137,7 +138,6 @@
          "nutch",
          "restful",
          "travis",
-         "vim-asciidoc",
          "weka"
       ]
    },
@@ -2757,7 +2757,7 @@
          "shallow": false,
          "site": "https://github.com",
          "tags": [
-            "vim-asciidoc"
+            "vim_asciidoc"
          ],
          "url": "https://github.com/dagwieers/asciidoc-vim",
          "user": "dagwieers"
@@ -2771,7 +2771,7 @@
          "shallow": false,
          "site": "https://github.com",
          "tags": [
-            "vim-asciidoc"
+            "vim_asciidoc"
          ],
          "url": "https://github.com/jjaderberg/vim-ft-asciidoc",
          "user": "jjaderberg"
@@ -2785,7 +2785,7 @@
          "shallow": false,
          "site": "https://github.com",
          "tags": [
-            "vim-asciidoc"
+            "vim_asciidoc"
          ],
          "url": "https://github.com/dahu/vim-asciidoc",
          "user": "dahu"
@@ -2799,7 +2799,7 @@
          "shallow": false,
          "site": "https://github.com",
          "tags": [
-            "vim-asciidoc"
+            "vim_asciidoc"
          ],
          "url": "https://github.com/matcatc/vim-asciidoc-folding",
          "user": "matcatc"
@@ -2813,7 +2813,7 @@
          "shallow": false,
          "site": "https://github.com",
          "tags": [
-            "vim-asciidoc"
+            "vim_asciidoc"
          ],
          "url": "https://github.com/vim-scripts/asciidoc.vim",
          "user": "vim-scripts"
@@ -3021,6 +3021,11 @@
          "vim",
          "vim_plugin",
          "vscode_plugin"
+      ],
+      "tool_editor_vim": [
+         "vim",
+         "vim_asciidoc",
+         "vim_plugin"
       ],
       "tool_terminal": [
          "zsh",
@@ -7499,7 +7504,7 @@
                "user": "vim"
             }
          ],
-         "vim-asciidoc": [
+         "vim_asciidoc": [
             {
                "alias": "asciidoc-vim",
                "forked": false,
@@ -7509,7 +7514,7 @@
                "shallow": false,
                "site": "https://github.com",
                "tags": [
-                  "vim-asciidoc"
+                  "vim_asciidoc"
                ],
                "url": "https://github.com/dagwieers/asciidoc-vim",
                "user": "dagwieers"
@@ -7523,7 +7528,7 @@
                "shallow": false,
                "site": "https://github.com",
                "tags": [
-                  "vim-asciidoc"
+                  "vim_asciidoc"
                ],
                "url": "https://github.com/jjaderberg/vim-ft-asciidoc",
                "user": "jjaderberg"
@@ -7537,7 +7542,7 @@
                "shallow": false,
                "site": "https://github.com",
                "tags": [
-                  "vim-asciidoc"
+                  "vim_asciidoc"
                ],
                "url": "https://github.com/dahu/vim-asciidoc",
                "user": "dahu"
@@ -7551,7 +7556,7 @@
                "shallow": false,
                "site": "https://github.com",
                "tags": [
-                  "vim-asciidoc"
+                  "vim_asciidoc"
                ],
                "url": "https://github.com/matcatc/vim-asciidoc-folding",
                "user": "matcatc"
@@ -7565,7 +7570,7 @@
                "shallow": false,
                "site": "https://github.com",
                "tags": [
-                  "vim-asciidoc"
+                  "vim_asciidoc"
                ],
                "url": "https://github.com/vim-scripts/asciidoc.vim",
                "user": "vim-scripts"

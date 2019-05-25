@@ -8,7 +8,6 @@
   [nutch](repos.md#nutch)
   [restful](repos.md#restful)
   [travis](repos.md#travis)
-  [vim-asciidoc](repos.md#vim-asciidoc)
   [weka](repos.md#weka)
 
 ## arch_agrithom
@@ -216,6 +215,11 @@
   [vim](repos.md#vim)
   [vim_plugin](repos.md#vim_plugin)
   [vscode_plugin](repos.md#vscode_plugin)
+## tool_editor_vim
+
+  [vim](repos.md#vim)
+  [vim_asciidoc](repos.md#vim_asciidoc)
+  [vim_plugin](repos.md#vim_plugin)
 ## tool_terminal
 
   [zsh](repos.md#zsh)

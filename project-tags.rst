@@ -638,7 +638,7 @@ Tags
   + ccls https://github.com/MaskRay/ccls
   + vim https://github.com/vim/vim
 
-* vim-asciidoc
+* vim_asciidoc
 
   + asciidoc-vim https://github.com/dagwieers/asciidoc-vim
   + vim-ft-asciidoc https://github.com/jjaderberg/vim-ft-asciidoc

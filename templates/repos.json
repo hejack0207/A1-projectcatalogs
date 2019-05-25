@@ -1011,27 +1011,27 @@
     {
       "user": "dagwieers", 
       "repos_name": "asciidoc-vim", 
-      "tags": ["vim-asciidoc"]
+      "tags": ["vim_asciidoc"]
     }, 
     {
       "user": "jjaderberg", 
       "repos_name": "vim-ft-asciidoc", 
-      "tags": ["vim-asciidoc"]
+      "tags": ["vim_asciidoc"]
     }, 
     {
       "user": "dahu", 
       "repos_name": "vim-asciidoc", 
-      "tags": ["vim-asciidoc"]
+      "tags": ["vim_asciidoc"]
     }, 
     {
       "user": "matcatc", 
       "repos_name": "vim-asciidoc-folding", 
-      "tags": ["vim-asciidoc"]
+      "tags": ["vim_asciidoc"]
     }, 
     {
       "user": "vim-scripts", 
       "repos_name": "asciidoc.vim", 
-      "tags": ["vim-asciidoc"]
+      "tags": ["vim_asciidoc"]
     }
   ]
 }
