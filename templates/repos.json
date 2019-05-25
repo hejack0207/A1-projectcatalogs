@@ -1012,6 +1012,11 @@
       "user": "dagwieers", 
       "repos_name": "asciidoc-vim", 
       "tags": ["vim-asciidoc"]
+    }, 
+    {
+      "user": "jjaderberg", 
+      "repos_name": "vim-ft-asciidoc", 
+      "tags": ["vim-asciidoc"]
     }
   ]
 }

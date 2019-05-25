@@ -1668,6 +1668,10 @@
 
       [ [vim-asciidoc](#vim-asciidoc) 
 ]
+  + vim-ft-asciidoc <https://github.com/jjaderberg/vim-ft-asciidoc> 
+
+      [ [vim-asciidoc](#vim-asciidoc) 
+]
 
 ## vim_plugin
   + plantuml-syntax <https://github.com/aklt/plantuml-syntax> 

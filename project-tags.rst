@@ -641,6 +641,7 @@ Tags
 * vim-asciidoc
 
   + asciidoc-vim https://github.com/dagwieers/asciidoc-vim
+  + vim-ft-asciidoc https://github.com/jjaderberg/vim-ft-asciidoc
 
 * vim_plugin
 
