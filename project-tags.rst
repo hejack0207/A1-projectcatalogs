@@ -638,6 +638,10 @@ Tags
   + ccls https://github.com/MaskRay/ccls
   + vim https://github.com/vim/vim
 
+* vim-asciidoc
+
+  + asciidoc-vim https://github.com/dagwieers/asciidoc-vim
+
 * vim_plugin
 
   + plantuml-syntax https://github.com/aklt/plantuml-syntax

@@ -137,6 +137,7 @@
          "nutch",
          "restful",
          "travis",
+         "vim-asciidoc",
          "weka"
       ]
    },
@@ -2746,6 +2747,20 @@
          ],
          "url": "https://github.com/ijp/guildhall",
          "user": "ijp"
+      },
+      {
+         "alias": "asciidoc-vim",
+         "forked": false,
+         "release": null,
+         "repos_name": "asciidoc-vim",
+         "score": 3,
+         "shallow": false,
+         "site": "https://github.com",
+         "tags": [
+            "vim-asciidoc"
+         ],
+         "url": "https://github.com/dagwieers/asciidoc-vim",
+         "user": "dagwieers"
       }
    ],
    "tag_categories": {
@@ -7426,6 +7441,22 @@
                ],
                "url": "https://github.com/vim/vim",
                "user": "vim"
+            }
+         ],
+         "vim-asciidoc": [
+            {
+               "alias": "asciidoc-vim",
+               "forked": false,
+               "release": null,
+               "repos_name": "asciidoc-vim",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "vim-asciidoc"
+               ],
+               "url": "https://github.com/dagwieers/asciidoc-vim",
+               "user": "dagwieers"
             }
          ],
          "vim_plugin": [

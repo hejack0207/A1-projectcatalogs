@@ -1007,6 +1007,11 @@
       "user": "ijp", 
       "repos_name": "guildhall", 
       "tags": ["guile"]
+    }, 
+    {
+      "user": "dagwieers", 
+      "repos_name": "asciidoc-vim", 
+      "tags": ["vim-asciidoc"]
     }
   ]
 }

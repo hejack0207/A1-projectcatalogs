@@ -1663,6 +1663,12 @@
  [vim](#vim) 
 ]
 
+## vim-asciidoc
+  + asciidoc-vim <https://github.com/dagwieers/asciidoc-vim> 
+
+      [ [vim-asciidoc](#vim-asciidoc) 
+]
+
 ## vim_plugin
   + plantuml-syntax <https://github.com/aklt/plantuml-syntax> 
 

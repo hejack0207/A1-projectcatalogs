@@ -8,6 +8,7 @@
   [nutch](repos.md#nutch)
   [restful](repos.md#restful)
   [travis](repos.md#travis)
+  [vim-asciidoc](repos.md#vim-asciidoc)
   [weka](repos.md#weka)
 
 ## arch_agrithom
