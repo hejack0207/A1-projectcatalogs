@@ -1022,6 +1022,11 @@
       "user": "dahu", 
       "repos_name": "vim-asciidoc", 
       "tags": ["vim-asciidoc"]
+    }, 
+    {
+      "user": "matcatc", 
+      "repos_name": "vim-asciidoc-folding", 
+      "tags": ["vim-asciidoc"]
     }
   ]
 }

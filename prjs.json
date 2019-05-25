@@ -2789,6 +2789,20 @@
          ],
          "url": "https://github.com/dahu/vim-asciidoc",
          "user": "dahu"
+      },
+      {
+         "alias": "vim-asciidoc-folding",
+         "forked": false,
+         "release": null,
+         "repos_name": "vim-asciidoc-folding",
+         "score": 3,
+         "shallow": false,
+         "site": "https://github.com",
+         "tags": [
+            "vim-asciidoc"
+         ],
+         "url": "https://github.com/matcatc/vim-asciidoc-folding",
+         "user": "matcatc"
       }
    ],
    "tag_categories": {
@@ -7513,6 +7527,20 @@
                ],
                "url": "https://github.com/dahu/vim-asciidoc",
                "user": "dahu"
+            },
+            {
+               "alias": "vim-asciidoc-folding",
+               "forked": false,
+               "release": null,
+               "repos_name": "vim-asciidoc-folding",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "vim-asciidoc"
+               ],
+               "url": "https://github.com/matcatc/vim-asciidoc-folding",
+               "user": "matcatc"
             }
          ],
          "vim_plugin": [
