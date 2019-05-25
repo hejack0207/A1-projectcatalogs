@@ -1027,6 +1027,11 @@
       "user": "matcatc", 
       "repos_name": "vim-asciidoc-folding", 
       "tags": ["vim-asciidoc"]
+    }, 
+    {
+      "user": "vim-scripts", 
+      "repos_name": "asciidoc.vim", 
+      "tags": ["vim-asciidoc"]
     }
   ]
 }
