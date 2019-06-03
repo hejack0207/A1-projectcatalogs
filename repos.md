@@ -350,6 +350,12 @@
       [ [cpp](#cpp) 
 ]
 
+## cpp_sample
+  + euarel <https://github.com/octobanana/euarel> 
+
+      [ [cpp_sample](#cpp_sample) 
+]
+
 ## cpp_tool
   + ccls <https://github.com/MaskRay/ccls> 
 

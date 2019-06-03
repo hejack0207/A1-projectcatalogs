@@ -131,6 +131,7 @@
       ],
       "tags_not_in_category": [
          "apollo",
+         "cpp_sample",
          "etl",
          "graph_ui",
          "kotlin",
@@ -2833,6 +2834,20 @@
          ],
          "url": "https://github.com/acg/python-percentcoding",
          "user": "acg"
+      },
+      {
+         "alias": "euarel",
+         "forked": false,
+         "release": null,
+         "repos_name": "euarel",
+         "score": 3,
+         "shallow": false,
+         "site": "https://github.com",
+         "tags": [
+            "cpp_sample"
+         ],
+         "url": "https://github.com/octobanana/euarel",
+         "user": "octobanana"
       }
    ],
    "tag_categories": {
@@ -3965,6 +3980,22 @@
                ],
                "url": "https://github.com/SequoiaDB/SequoiaDB",
                "user": "SequoiaDB"
+            }
+         ],
+         "cpp_sample": [
+            {
+               "alias": "euarel",
+               "forked": false,
+               "release": null,
+               "repos_name": "euarel",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "cpp_sample"
+               ],
+               "url": "https://github.com/octobanana/euarel",
+               "user": "octobanana"
             }
          ],
          "cpp_tool": [

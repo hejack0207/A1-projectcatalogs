@@ -126,6 +126,10 @@ Tags
   + ccls https://github.com/MaskRay/ccls
   + SequoiaDB https://github.com/SequoiaDB/SequoiaDB
 
+* cpp_sample
+
+  + euarel https://github.com/octobanana/euarel
+
 * cpp_tool
 
   + ccls https://github.com/MaskRay/ccls
