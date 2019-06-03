@@ -645,7 +645,6 @@ Tags
 * vim_asciidoc
 
   + asciidoc-vim https://github.com/dagwieers/asciidoc-vim
-  + vim-ft-asciidoc https://github.com/jjaderberg/vim-ft-asciidoc
   + vim-asciidoc https://github.com/dahu/vim-asciidoc
   + vim-asciidoc-folding https://github.com/matcatc/vim-asciidoc-folding
   + asciidoc.vim https://github.com/vim-scripts/asciidoc.vim
@@ -653,6 +652,10 @@ Tags
 * vim_plugin
 
   + plantuml-syntax https://github.com/aklt/plantuml-syntax
+
+* vimscript
+
+  + vim-ft-asciidoc https://github.com/jjaderberg/vim-ft-asciidoc
 
 * vscode_plugin
 

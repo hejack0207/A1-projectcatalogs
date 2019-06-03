@@ -139,6 +139,7 @@
          "python_c_sample",
          "restful",
          "travis",
+         "vimscript",
          "weka"
       ]
    },
@@ -2772,7 +2773,7 @@
          "shallow": false,
          "site": "https://github.com",
          "tags": [
-            "vim_asciidoc"
+            "vimscript"
          ],
          "url": "https://github.com/jjaderberg/vim-ft-asciidoc",
          "user": "jjaderberg"
@@ -7551,20 +7552,6 @@
                "user": "dagwieers"
             },
             {
-               "alias": "vim-ft-asciidoc",
-               "forked": false,
-               "release": null,
-               "repos_name": "vim-ft-asciidoc",
-               "score": 3,
-               "shallow": false,
-               "site": "https://github.com",
-               "tags": [
-                  "vim_asciidoc"
-               ],
-               "url": "https://github.com/jjaderberg/vim-ft-asciidoc",
-               "user": "jjaderberg"
-            },
-            {
                "alias": "vim-asciidoc",
                "forked": false,
                "release": null,
@@ -7622,6 +7609,22 @@
                ],
                "url": "https://github.com/aklt/plantuml-syntax",
                "user": "aklt"
+            }
+         ],
+         "vimscript": [
+            {
+               "alias": "vim-ft-asciidoc",
+               "forked": false,
+               "release": null,
+               "repos_name": "vim-ft-asciidoc",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "vimscript"
+               ],
+               "url": "https://github.com/jjaderberg/vim-ft-asciidoc",
+               "user": "jjaderberg"
             }
          ],
          "vscode_plugin": [
