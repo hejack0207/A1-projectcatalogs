@@ -136,6 +136,7 @@
          "kotlin",
          "mazerunner",
          "nutch",
+         "python_c_sample",
          "restful",
          "travis",
          "weka"
@@ -2817,6 +2818,20 @@
          ],
          "url": "https://github.com/vim-scripts/asciidoc.vim",
          "user": "vim-scripts"
+      },
+      {
+         "alias": "python-percentcoding",
+         "forked": false,
+         "release": null,
+         "repos_name": "python-percentcoding",
+         "score": 3,
+         "shallow": false,
+         "site": "https://github.com",
+         "tags": [
+            "python_c_sample"
+         ],
+         "url": "https://github.com/acg/python-percentcoding",
+         "user": "acg"
       }
    ],
    "tag_categories": {
@@ -6232,6 +6247,22 @@
                ],
                "url": "https://github.com/google/pasta",
                "user": "google"
+            }
+         ],
+         "python_c_sample": [
+            {
+               "alias": "python-percentcoding",
+               "forked": false,
+               "release": null,
+               "repos_name": "python-percentcoding",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "python_c_sample"
+               ],
+               "url": "https://github.com/acg/python-percentcoding",
+               "user": "acg"
             }
          ],
          "raspberry": [

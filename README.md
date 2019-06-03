@@ -6,6 +6,7 @@
   [kotlin](repos.md#kotlin)
   [mazerunner](repos.md#mazerunner)
   [nutch](repos.md#nutch)
+  [python_c_sample](repos.md#python_c_sample)
   [restful](repos.md#restful)
   [travis](repos.md#travis)
   [weka](repos.md#weka)

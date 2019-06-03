@@ -477,6 +477,10 @@ Tags
   + ast2json https://github.com/YoloSwagTeam/ast2json
   + pasta https://github.com/google/pasta
 
+* python_c_sample
+
+  + python-percentcoding https://github.com/acg/python-percentcoding
+
 * raspberry
 
   + raspberry-pi-os https://github.com/s-matyukevich/raspberry-pi-os

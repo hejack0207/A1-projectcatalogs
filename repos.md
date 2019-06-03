@@ -1183,6 +1183,12 @@
       [ [python_ast](#python_ast) 
 ]
 
+## python_c_sample
+  + python-percentcoding <https://github.com/acg/python-percentcoding> 
+
+      [ [python_c_sample](#python_c_sample) 
+]
+
 ## raspberry
   + raspberry-pi-os <https://github.com/s-matyukevich/raspberry-pi-os> 
 

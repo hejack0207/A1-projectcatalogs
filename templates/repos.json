@@ -1032,6 +1032,11 @@
       "user": "vim-scripts", 
       "repos_name": "asciidoc.vim", 
       "tags": ["vim_asciidoc"]
+    }, 
+    {
+      "user": "acg", 
+      "repos_name": "python-percentcoding", 
+      "tags": ["python_c_sample"]
     }
   ]
 }
