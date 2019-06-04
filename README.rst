@@ -618,6 +618,10 @@ Tags
 
   + tesseract https://github.com/tesseract-ocr/tesseract
 
+* tui
+
+  + fzf https://github.com/junegunn/fzf
+
 * use_ansible
 
   + gpdb-ansible https://github.com/andreasscherbaum/gpdb-ansible

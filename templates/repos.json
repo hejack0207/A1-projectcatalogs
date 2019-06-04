@@ -1042,6 +1042,11 @@
       "user": "octobanana", 
       "repos_name": "euarel", 
       "tags": ["cpp_sample"]
+    }, 
+    {
+      "user": "junegunn", 
+      "repos_name": "fzf", 
+      "tags": ["tui"]
     }
   ]
 }

@@ -1516,6 +1516,12 @@
  [tesseract](#tesseract) 
 ]
 
+## tui
+  + fzf <https://github.com/junegunn/fzf> 
+
+      [ [tui](#tui) 
+]
+
 ## use_ansible
   + gpdb-ansible <https://github.com/andreasscherbaum/gpdb-ansible> 
 

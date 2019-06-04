@@ -2848,6 +2848,20 @@
          ],
          "url": "https://github.com/octobanana/euarel",
          "user": "octobanana"
+      },
+      {
+         "alias": "fzf",
+         "forked": false,
+         "release": null,
+         "repos_name": "fzf",
+         "score": 3,
+         "shallow": false,
+         "site": "https://github.com",
+         "tags": [
+            "tui"
+         ],
+         "url": "https://github.com/junegunn/fzf",
+         "user": "junegunn"
       }
    ],
    "tag_categories": {
@@ -7136,6 +7150,22 @@
                ],
                "url": "https://github.com/tesseract-ocr/tesseract",
                "user": "tesseract-ocr"
+            }
+         ],
+         "tui": [
+            {
+               "alias": "fzf",
+               "forked": false,
+               "release": null,
+               "repos_name": "fzf",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "tui"
+               ],
+               "url": "https://github.com/junegunn/fzf",
+               "user": "junegunn"
             }
          ],
          "use_ansible": [
