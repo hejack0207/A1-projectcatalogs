@@ -332,7 +332,7 @@ Tags
 * kernel
 
   + linux https://github.com/torvalds/linux
-  + linux https://github.com/raspberrypi/linux
+  + raspberry-linux https://github.com/raspberrypi/linux
 
 * kettle
 
@@ -401,7 +401,7 @@ Tags
   + neo4j-mazerunner https://github.com/neo4j-contrib/neo4j-mazerunner
   + neo4j https://github.com/neo4j/neo4j
   + docker-neo4j https://github.com/neo4j/docker-neo4j
-  + docker-neo4j https://github.com/kbastani/docker-neo4j
+  + docker-neo4j-k https://github.com/kbastani/docker-neo4j
 
 * nutch
 
@@ -477,7 +477,7 @@ Tags
 * raspberry
 
   + raspberry-pi-os https://github.com/s-matyukevich/raspberry-pi-os
-  + linux https://github.com/raspberrypi/linux
+  + raspberry-linux https://github.com/raspberrypi/linux
 
 * redis
 
@@ -653,9 +653,9 @@ Tags
 * vim_asciidoc
 
   + asciidoc-vim https://github.com/dagwieers/asciidoc-vim
-  + vim-asciidoc https://github.com/dahu/vim-asciidoc
+  + dahu-vim-asciidoc https://github.com/dahu/vim-asciidoc
   + vim-asciidoc-folding https://github.com/matcatc/vim-asciidoc-folding
-  + asciidoc.vim https://github.com/vim-scripts/asciidoc.vim
+  + vs-asciidoc-vim https://github.com/vim-scripts/asciidoc.vim
 
 * vim_plugin
 

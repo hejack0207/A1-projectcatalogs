@@ -2425,7 +2425,7 @@
          "user": "neo4j"
       },
       {
-         "alias": "docker-neo4j",
+         "alias": "docker-neo4j-k",
          "forked": false,
          "release": null,
          "repos_name": "docker-neo4j",
@@ -2709,7 +2709,7 @@
          "user": "torvalds"
       },
       {
-         "alias": "linux",
+         "alias": "raspberry-linux",
          "forked": false,
          "release": null,
          "repos_name": "linux",
@@ -2780,7 +2780,7 @@
          "user": "jjaderberg"
       },
       {
-         "alias": "vim-asciidoc",
+         "alias": "dahu-vim-asciidoc",
          "forked": false,
          "release": null,
          "repos_name": "vim-asciidoc",
@@ -2808,7 +2808,7 @@
          "user": "matcatc"
       },
       {
-         "alias": "asciidoc.vim",
+         "alias": "vs-asciidoc-vim",
          "forked": false,
          "release": null,
          "repos_name": "asciidoc.vim",
@@ -5322,7 +5322,7 @@
                "user": "torvalds"
             },
             {
-               "alias": "linux",
+               "alias": "raspberry-linux",
                "forked": false,
                "release": null,
                "repos_name": "linux",
@@ -5847,7 +5847,7 @@
                "user": "neo4j"
             },
             {
-               "alias": "docker-neo4j",
+               "alias": "docker-neo4j-k",
                "forked": false,
                "release": null,
                "repos_name": "docker-neo4j",
@@ -6327,7 +6327,7 @@
                "user": "s-matyukevich"
             },
             {
-               "alias": "linux",
+               "alias": "raspberry-linux",
                "forked": false,
                "release": null,
                "repos_name": "linux",
@@ -7613,7 +7613,7 @@
                "user": "dagwieers"
             },
             {
-               "alias": "vim-asciidoc",
+               "alias": "dahu-vim-asciidoc",
                "forked": false,
                "release": null,
                "repos_name": "vim-asciidoc",
@@ -7641,7 +7641,7 @@
                "user": "matcatc"
             },
             {
-               "alias": "asciidoc.vim",
+               "alias": "vs-asciidoc-vim",
                "forked": false,
                "release": null,
                "repos_name": "asciidoc.vim",

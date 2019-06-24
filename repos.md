@@ -835,7 +835,7 @@
 
       [ [kernel](#kernel) 
 ]
-  + linux <https://github.com/raspberrypi/linux> 
+  + raspberry-linux <https://github.com/raspberrypi/linux> 
 
       [ [raspberry](#raspberry) 
  [kernel](#kernel) 
@@ -1030,7 +1030,7 @@
 
       [ [neo4j](#neo4j) 
 ]
-  + docker-neo4j <https://github.com/kbastani/docker-neo4j> 
+  + docker-neo4j-k <https://github.com/kbastani/docker-neo4j> 
 
       [ [neo4j](#neo4j) 
 ]
@@ -1200,7 +1200,7 @@
 
       [ [raspberry](#raspberry) 
 ]
-  + linux <https://github.com/raspberrypi/linux> 
+  + raspberry-linux <https://github.com/raspberrypi/linux> 
 
       [ [raspberry](#raspberry) 
  [kernel](#kernel) 
@@ -1686,7 +1686,7 @@
 
       [ [vim_asciidoc](#vim_asciidoc) 
 ]
-  + vim-asciidoc <https://github.com/dahu/vim-asciidoc> 
+  + dahu-vim-asciidoc <https://github.com/dahu/vim-asciidoc> 
 
       [ [vim_asciidoc](#vim_asciidoc) 
 ]
@@ -1694,7 +1694,7 @@
 
       [ [vim_asciidoc](#vim_asciidoc) 
 ]
-  + asciidoc.vim <https://github.com/vim-scripts/asciidoc.vim> 
+  + vs-asciidoc-vim <https://github.com/vim-scripts/asciidoc.vim> 
 
       [ [vim_asciidoc](#vim_asciidoc) 
 ]

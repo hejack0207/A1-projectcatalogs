@@ -896,6 +896,7 @@
     {
       "user": "kbastani", 
       "repos_name": "docker-neo4j", 
+      "alias": "docker-neo4j-k", 
       "tags": ["neo4j"]
     }, 
     {
@@ -996,6 +997,7 @@
     {
       "user": "raspberrypi", 
       "repos_name": "linux", 
+      "alias": "raspberry-linux", 
       "tags": ["raspberry", "kernel"]
     }, 
     {
@@ -1021,6 +1023,7 @@
     {
       "user": "dahu", 
       "repos_name": "vim-asciidoc", 
+      "alias": "dahu-vim-asciidoc", 
       "tags": ["vim_asciidoc"]
     }, 
     {
@@ -1031,6 +1034,7 @@
     {
       "user": "vim-scripts", 
       "repos_name": "asciidoc.vim", 
+      "alias": "vs-asciidoc-vim", 
       "tags": ["vim_asciidoc"]
     }, 
     {
