@@ -15,6 +15,7 @@
          "benchmark",
          "bigdata_awesome",
          "bigdata_usecase",
+         "boot",
          "build_tool",
          "c",
          "camel",
@@ -131,7 +132,6 @@
       ],
       "tags_not_in_category": [
          "apollo",
-         "boot",
          "cpp_sample",
          "etl",
          "graph_ui",
@@ -2956,6 +2956,7 @@
       ],
       "arch_platform_firefox": [ ],
       "arch_platform_linux": [
+         "boot",
          "systemd"
       ],
       "arch_platform_raspberry": [

@@ -207,6 +207,7 @@
       "parser"
     ],
     "arch_platform_linux": [
+      "boot",
       "systemd"
     ],
     "culture_career": [
