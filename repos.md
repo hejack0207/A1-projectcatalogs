@@ -159,6 +159,13 @@
  [bigdata_usecase](#bigdata_usecase) 
 ]
 
+## boot
+  + glim <https://github.com/thias/glim> 
+
+      [ [grub](#grub) 
+ [boot](#boot) 
+]
+
 ## build_tool
   + shovel <https://github.com/seomoz/shovel> 
 
@@ -637,6 +644,7 @@
   + glim <https://github.com/thias/glim> 
 
       [ [grub](#grub) 
+ [boot](#boot) 
 ]
 
 ## guile

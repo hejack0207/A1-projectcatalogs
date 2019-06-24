@@ -1534,7 +1534,8 @@
       "user": "thias",
       "repos_name": "glim",
       "tags": [
-        "grub"
+        "grub",
+        "boot"
       ]
     }
   ]

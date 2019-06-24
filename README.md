@@ -1,6 +1,7 @@
 # category
 ## not in category
   [apollo](repos.md#apollo)
+  [boot](repos.md#boot)
   [cpp_sample](repos.md#cpp_sample)
   [etl](repos.md#etl)
   [graph_ui](repos.md#graph_ui)

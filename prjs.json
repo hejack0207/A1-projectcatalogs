@@ -131,6 +131,7 @@
       ],
       "tags_not_in_category": [
          "apollo",
+         "boot",
          "cpp_sample",
          "etl",
          "graph_ui",
@@ -2873,7 +2874,8 @@
          "shallow": false,
          "site": "https://github.com",
          "tags": [
-            "grub"
+            "grub",
+            "boot"
          ],
          "url": "https://github.com/thias/glim",
          "user": "thias"
@@ -3518,6 +3520,23 @@
                ],
                "url": "https://github.com/LuckyZXL2016/Movie_Recommend",
                "user": "LuckyZXL2016"
+            }
+         ],
+         "boot": [
+            {
+               "alias": "glim",
+               "forked": false,
+               "release": null,
+               "repos_name": "glim",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "grub",
+                  "boot"
+               ],
+               "url": "https://github.com/thias/glim",
+               "user": "thias"
             }
          ],
          "build_tool": [
@@ -4804,7 +4823,8 @@
                "shallow": false,
                "site": "https://github.com",
                "tags": [
-                  "grub"
+                  "grub",
+                  "boot"
                ],
                "url": "https://github.com/thias/glim",
                "user": "thias"
