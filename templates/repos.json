@@ -1537,6 +1537,14 @@
         "grub",
         "boot"
       ]
+    },
+    {
+      "user": "coreos",
+      "repos_name": "grub",
+      "tags": [
+        "boot",
+        "grub"
+      ]
     }
   ]
 }
