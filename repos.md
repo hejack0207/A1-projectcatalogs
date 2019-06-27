@@ -165,11 +165,6 @@
       [ [grub](#grub) 
  [boot](#boot) 
 ]
-  + grub <https://github.com/coreos/grub> 
-
-      [ [boot](#boot) 
- [grub](#grub) 
-]
 
 ## build_tool
   + shovel <https://github.com/seomoz/shovel> 
@@ -653,8 +648,7 @@
 ]
   + grub <https://github.com/coreos/grub> 
 
-      [ [boot](#boot) 
- [grub](#grub) 
+      [ [grub](#grub) 
 ]
 
 ## guile

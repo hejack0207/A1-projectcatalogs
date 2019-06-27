@@ -80,7 +80,6 @@ Tags
 * boot
 
   + glim https://github.com/thias/glim
-  + grub https://github.com/coreos/grub
 
 * build_tool
 

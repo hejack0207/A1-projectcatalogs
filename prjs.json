@@ -2889,7 +2889,6 @@
          "shallow": false,
          "site": "https://github.com",
          "tags": [
-            "boot",
             "grub"
          ],
          "url": "https://github.com/coreos/grub",
@@ -3553,21 +3552,6 @@
                ],
                "url": "https://github.com/thias/glim",
                "user": "thias"
-            },
-            {
-               "alias": "grub",
-               "forked": false,
-               "release": null,
-               "repos_name": "grub",
-               "score": 3,
-               "shallow": false,
-               "site": "https://github.com",
-               "tags": [
-                  "boot",
-                  "grub"
-               ],
-               "url": "https://github.com/coreos/grub",
-               "user": "coreos"
             }
          ],
          "build_tool": [
@@ -4869,7 +4853,6 @@
                "shallow": false,
                "site": "https://github.com",
                "tags": [
-                  "boot",
                   "grub"
                ],
                "url": "https://github.com/coreos/grub",
