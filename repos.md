@@ -1704,6 +1704,10 @@
  [make](#make) 
  [vim](#vim) 
 ]
+  + neovim <https://github.com/neovim/neovim> 
+
+      [ [vim](#vim) 
+]
 
 ## vim_asciidoc
   + asciidoc-vim <https://github.com/dagwieers/asciidoc-vim> 

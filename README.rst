@@ -673,6 +673,7 @@ Tags
 
   + ccls https://github.com/MaskRay/ccls
   + vim https://github.com/vim/vim
+  + neovim https://github.com/neovim/neovim
 
 * vim_asciidoc
 

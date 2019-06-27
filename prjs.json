@@ -2908,6 +2908,20 @@
          ],
          "url": "https://github.com/p8952/bocker",
          "user": "p8952"
+      },
+      {
+         "alias": "neovim",
+         "forked": false,
+         "release": null,
+         "repos_name": "neovim",
+         "score": 3,
+         "shallow": false,
+         "site": "https://github.com",
+         "tags": [
+            "vim"
+         ],
+         "url": "https://github.com/neovim/neovim",
+         "user": "neovim"
       }
    ],
    "tag_categories": {
@@ -7707,6 +7721,20 @@
                ],
                "url": "https://github.com/vim/vim",
                "user": "vim"
+            },
+            {
+               "alias": "neovim",
+               "forked": false,
+               "release": null,
+               "repos_name": "neovim",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "vim"
+               ],
+               "url": "https://github.com/neovim/neovim",
+               "user": "neovim"
             }
          ],
          "vim_asciidoc": [
