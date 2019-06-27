@@ -49,6 +49,7 @@
          "graphql_fe",
          "graphql_java",
          "greenplum",
+         "grub",
          "gui",
          "guile",
          "hadoop",
@@ -135,7 +136,6 @@
          "cpp_sample",
          "etl",
          "graph_ui",
-         "grub",
          "kotlin",
          "mazerunner",
          "nutch",
@@ -2971,6 +2971,7 @@
       "arch_platform_firefox": [ ],
       "arch_platform_linux": [
          "boot",
+         "grub",
          "systemd"
       ],
       "arch_platform_raspberry": [

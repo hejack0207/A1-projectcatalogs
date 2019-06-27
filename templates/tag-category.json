@@ -208,6 +208,7 @@
     ],
     "arch_platform_linux": [
       "boot",
+      "grub",
       "systemd"
     ],
     "culture_career": [

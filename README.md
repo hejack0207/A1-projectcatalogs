@@ -4,7 +4,6 @@
   [cpp_sample](repos.md#cpp_sample)
   [etl](repos.md#etl)
   [graph_ui](repos.md#graph_ui)
-  [grub](repos.md#grub)
   [kotlin](repos.md#kotlin)
   [mazerunner](repos.md#mazerunner)
   [nutch](repos.md#nutch)
@@ -92,6 +91,7 @@
 ## arch_platform_linux
 
   [boot](repos.md#boot)
+  [grub](repos.md#grub)
   [systemd](repos.md#systemd)
 ## arch_platform_raspberry
 
