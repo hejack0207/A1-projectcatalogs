@@ -3095,6 +3095,20 @@
          ],
          "url": "https://github.com/honza/vim-snippets",
          "user": "honza"
+      },
+      {
+         "alias": "vim-snipmate",
+         "forked": false,
+         "release": null,
+         "repos_name": "vim-snipmate",
+         "score": 3,
+         "shallow": false,
+         "site": "https://github.com",
+         "tags": [
+            "vim_snippet"
+         ],
+         "url": "https://github.com/garbas/vim-snipmate",
+         "user": "garbas"
       }
    ],
    "tag_categories": {
@@ -8164,6 +8178,20 @@
                ],
                "url": "https://github.com/honza/vim-snippets",
                "user": "honza"
+            },
+            {
+               "alias": "vim-snipmate",
+               "forked": false,
+               "release": null,
+               "repos_name": "vim-snipmate",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "vim_snippet"
+               ],
+               "url": "https://github.com/garbas/vim-snipmate",
+               "user": "garbas"
             }
          ],
          "vscode_plugin": [

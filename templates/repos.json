@@ -1641,6 +1641,13 @@
       "tags": [
         "vim_snippet"
       ]
+    },
+    {
+      "user": "garbas",
+      "repos_name": "vim-snipmate",
+      "tags": [
+        "vim_snippet"
+      ]
     }
   ]
 }
