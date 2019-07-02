@@ -672,6 +672,10 @@ Tags
 
   + vison https://github.com/Quramy/vison
 
+* vim-markdown
+
+  + vim-instant-markdown https://github.com/suan/vim-instant-markdown
+
 * vim_asciidoc
 
   + asciidoc-vim https://github.com/dagwieers/asciidoc-vim

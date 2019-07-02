@@ -1572,6 +1572,13 @@
       "tags": [
         "vim-go"
       ]
+    },
+    {
+      "user": "suan",
+      "repos_name": "vim-instant-markdown",
+      "tags": [
+        "vim-markdown"
+      ]
     }
   ]
 }

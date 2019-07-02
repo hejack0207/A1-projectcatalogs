@@ -1721,6 +1721,12 @@
       [ [vim-json](#vim-json) 
 ]
 
+## vim-markdown
+  + vim-instant-markdown <https://github.com/suan/vim-instant-markdown> 
+
+      [ [vim-markdown](#vim-markdown) 
+]
+
 ## vim_asciidoc
   + asciidoc-vim <https://github.com/dagwieers/asciidoc-vim> 
 

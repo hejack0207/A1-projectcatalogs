@@ -145,6 +145,7 @@
          "travis",
          "vim-go",
          "vim-json",
+         "vim-markdown",
          "vimscript",
          "weka"
       ]
@@ -2952,6 +2953,20 @@
          ],
          "url": "https://github.com/fatih/vim-go",
          "user": "fatih"
+      },
+      {
+         "alias": "vim-instant-markdown",
+         "forked": false,
+         "release": null,
+         "repos_name": "vim-instant-markdown",
+         "score": 3,
+         "shallow": false,
+         "site": "https://github.com",
+         "tags": [
+            "vim-markdown"
+         ],
+         "url": "https://github.com/suan/vim-instant-markdown",
+         "user": "suan"
       }
    ],
    "tag_categories": {
@@ -7797,6 +7812,22 @@
                ],
                "url": "https://github.com/Quramy/vison",
                "user": "Quramy"
+            }
+         ],
+         "vim-markdown": [
+            {
+               "alias": "vim-instant-markdown",
+               "forked": false,
+               "release": null,
+               "repos_name": "vim-instant-markdown",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "vim-markdown"
+               ],
+               "url": "https://github.com/suan/vim-instant-markdown",
+               "user": "suan"
             }
          ],
          "vim_asciidoc": [
