@@ -1767,6 +1767,10 @@
 
       [ [vim_plantuml](#vim_plantuml) 
 ]
+  + plantuml-previewer.vim <https://github.com/weirongxu/plantuml-previewer.vim> 
+
+      [ [vim_plantuml](#vim_plantuml) 
+]
 
 ## vim_pm
   + Vundle.vim <https://github.com/VundleVim/Vundle.vim> 

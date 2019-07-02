@@ -693,6 +693,7 @@ Tags
 * vim_plantuml
 
   + plantuml-syntax https://github.com/aklt/plantuml-syntax
+  + plantuml-previewer.vim https://github.com/weirongxu/plantuml-previewer.vim
 
 * vim_pm
 

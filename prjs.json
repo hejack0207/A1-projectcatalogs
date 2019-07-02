@@ -3109,6 +3109,20 @@
          ],
          "url": "https://github.com/garbas/vim-snipmate",
          "user": "garbas"
+      },
+      {
+         "alias": "plantuml-previewer.vim",
+         "forked": false,
+         "release": null,
+         "repos_name": "plantuml-previewer.vim",
+         "score": 3,
+         "shallow": false,
+         "site": "https://github.com",
+         "tags": [
+            "vim_plantuml"
+         ],
+         "url": "https://github.com/weirongxu/plantuml-previewer.vim",
+         "user": "weirongxu"
       }
    ],
    "tag_categories": {
@@ -8104,6 +8118,20 @@
                ],
                "url": "https://github.com/aklt/plantuml-syntax",
                "user": "aklt"
+            },
+            {
+               "alias": "plantuml-previewer.vim",
+               "forked": false,
+               "release": null,
+               "repos_name": "plantuml-previewer.vim",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "vim_plantuml"
+               ],
+               "url": "https://github.com/weirongxu/plantuml-previewer.vim",
+               "user": "weirongxu"
             }
          ],
          "vim_pm": [

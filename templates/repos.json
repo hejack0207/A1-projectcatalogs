@@ -1648,6 +1648,13 @@
       "tags": [
         "vim_snippet"
       ]
+    },
+    {
+      "user": "weirongxu",
+      "repos_name": "plantuml-previewer.vim",
+      "tags": [
+        "vim_plantuml"
+      ]
     }
   ]
 }
