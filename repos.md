@@ -1730,6 +1730,10 @@
 
       [ [vim-latex](#vim-latex) 
 ]
+  + vim-latex <https://github.com/vim-latex/vim-latex> 
+
+      [ [vim-latex](#vim-latex) 
+]
 
 ## vim-markdown
   + vim-instant-markdown <https://github.com/suan/vim-instant-markdown> 

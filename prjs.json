@@ -3010,6 +3010,20 @@
          ],
          "url": "https://github.com/xuhdev/vim-latex-live-preview",
          "user": "xuhdev"
+      },
+      {
+         "alias": "vim-latex",
+         "forked": false,
+         "release": null,
+         "repos_name": "vim-latex",
+         "score": 3,
+         "shallow": false,
+         "site": "https://github.com",
+         "tags": [
+            "vim-latex"
+         ],
+         "url": "https://github.com/vim-latex/vim-latex",
+         "user": "vim-latex"
       }
    ],
    "tag_categories": {
@@ -7885,6 +7899,20 @@
                ],
                "url": "https://github.com/xuhdev/vim-latex-live-preview",
                "user": "xuhdev"
+            },
+            {
+               "alias": "vim-latex",
+               "forked": false,
+               "release": null,
+               "repos_name": "vim-latex",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "vim-latex"
+               ],
+               "url": "https://github.com/vim-latex/vim-latex",
+               "user": "vim-latex"
             }
          ],
          "vim-markdown": [

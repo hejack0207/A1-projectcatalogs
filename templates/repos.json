@@ -1600,6 +1600,13 @@
       "tags": [
         "vim-latex"
       ]
+    },
+    {
+      "user": "vim-latex",
+      "repos_name": "vim-latex",
+      "tags": [
+        "vim-latex"
+      ]
     }
   ]
 }
