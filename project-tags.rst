@@ -675,6 +675,7 @@ Tags
 * vim-markdown
 
   + vim-instant-markdown https://github.com/suan/vim-instant-markdown
+  + vim-markdown https://github.com/plasticboy/vim-markdown
 
 * vim_asciidoc
 

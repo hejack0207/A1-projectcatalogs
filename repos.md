@@ -1726,6 +1726,10 @@
 
       [ [vim-markdown](#vim-markdown) 
 ]
+  + vim-markdown <https://github.com/plasticboy/vim-markdown> 
+
+      [ [vim-markdown](#vim-markdown) 
+]
 
 ## vim_asciidoc
   + asciidoc-vim <https://github.com/dagwieers/asciidoc-vim> 

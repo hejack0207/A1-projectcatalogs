@@ -2967,6 +2967,20 @@
          ],
          "url": "https://github.com/suan/vim-instant-markdown",
          "user": "suan"
+      },
+      {
+         "alias": "vim-markdown",
+         "forked": false,
+         "release": null,
+         "repos_name": "vim-markdown",
+         "score": 3,
+         "shallow": false,
+         "site": "https://github.com",
+         "tags": [
+            "vim-markdown"
+         ],
+         "url": "https://github.com/plasticboy/vim-markdown",
+         "user": "plasticboy"
       }
    ],
    "tag_categories": {
@@ -7828,6 +7842,20 @@
                ],
                "url": "https://github.com/suan/vim-instant-markdown",
                "user": "suan"
+            },
+            {
+               "alias": "vim-markdown",
+               "forked": false,
+               "release": null,
+               "repos_name": "vim-markdown",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "vim-markdown"
+               ],
+               "url": "https://github.com/plasticboy/vim-markdown",
+               "user": "plasticboy"
             }
          ],
          "vim_asciidoc": [
