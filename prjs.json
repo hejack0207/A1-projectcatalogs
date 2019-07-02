@@ -2996,6 +2996,20 @@
          ],
          "url": "https://github.com/lervag/vimtex",
          "user": "lervag"
+      },
+      {
+         "alias": "vim-latex-live-preview",
+         "forked": false,
+         "release": null,
+         "repos_name": "vim-latex-live-preview",
+         "score": 3,
+         "shallow": false,
+         "site": "https://github.com",
+         "tags": [
+            "vim-latex"
+         ],
+         "url": "https://github.com/xuhdev/vim-latex-live-preview",
+         "user": "xuhdev"
       }
    ],
    "tag_categories": {
@@ -7857,6 +7871,20 @@
                ],
                "url": "https://github.com/lervag/vimtex",
                "user": "lervag"
+            },
+            {
+               "alias": "vim-latex-live-preview",
+               "forked": false,
+               "release": null,
+               "repos_name": "vim-latex-live-preview",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "vim-latex"
+               ],
+               "url": "https://github.com/xuhdev/vim-latex-live-preview",
+               "user": "xuhdev"
             }
          ],
          "vim-markdown": [

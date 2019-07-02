@@ -675,6 +675,7 @@ Tags
 * vim-latex
 
   + vimtex https://github.com/lervag/vimtex
+  + vim-latex-live-preview https://github.com/xuhdev/vim-latex-live-preview
 
 * vim-markdown
 

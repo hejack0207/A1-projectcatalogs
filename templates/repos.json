@@ -1593,6 +1593,13 @@
       "tags": [
         "vim-latex"
       ]
+    },
+    {
+      "user": "xuhdev",
+      "repos_name": "vim-latex-live-preview",
+      "tags": [
+        "vim-latex"
+      ]
     }
   ]
 }

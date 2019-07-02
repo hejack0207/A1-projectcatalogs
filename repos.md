@@ -1726,6 +1726,10 @@
 
       [ [vim-latex](#vim-latex) 
 ]
+  + vim-latex-live-preview <https://github.com/xuhdev/vim-latex-live-preview> 
+
+      [ [vim-latex](#vim-latex) 
+]
 
 ## vim-markdown
   + vim-instant-markdown <https://github.com/suan/vim-instant-markdown> 
