@@ -15,6 +15,7 @@
   [vim-json](repos.md#vim-json)
   [vim-latex](repos.md#vim-latex)
   [vim-markdown](repos.md#vim-markdown)
+  [vim-pm](repos.md#vim-pm)
   [vimscript](repos.md#vimscript)
   [weka](repos.md#weka)
 

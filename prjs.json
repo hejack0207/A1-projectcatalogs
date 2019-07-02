@@ -147,6 +147,7 @@
          "vim-json",
          "vim-latex",
          "vim-markdown",
+         "vim-pm",
          "vimscript",
          "weka"
       ]
@@ -3024,6 +3025,20 @@
          ],
          "url": "https://github.com/vim-latex/vim-latex",
          "user": "vim-latex"
+      },
+      {
+         "alias": "Vundle.vim",
+         "forked": false,
+         "release": null,
+         "repos_name": "Vundle.vim",
+         "score": 3,
+         "shallow": false,
+         "site": "https://github.com",
+         "tags": [
+            "vim-pm"
+         ],
+         "url": "https://github.com/VundleVim/Vundle.vim",
+         "user": "VundleVim"
       }
    ],
    "tag_categories": {
@@ -7943,6 +7958,22 @@
                ],
                "url": "https://github.com/plasticboy/vim-markdown",
                "user": "plasticboy"
+            }
+         ],
+         "vim-pm": [
+            {
+               "alias": "Vundle.vim",
+               "forked": false,
+               "release": null,
+               "repos_name": "Vundle.vim",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "vim-pm"
+               ],
+               "url": "https://github.com/VundleVim/Vundle.vim",
+               "user": "VundleVim"
             }
          ],
          "vim_asciidoc": [

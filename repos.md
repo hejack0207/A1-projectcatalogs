@@ -1745,6 +1745,12 @@
       [ [vim-markdown](#vim-markdown) 
 ]
 
+## vim-pm
+  + Vundle.vim <https://github.com/VundleVim/Vundle.vim> 
+
+      [ [vim-pm](#vim-pm) 
+]
+
 ## vim_asciidoc
   + asciidoc-vim <https://github.com/dagwieers/asciidoc-vim> 
 

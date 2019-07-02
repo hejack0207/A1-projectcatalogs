@@ -1607,6 +1607,13 @@
       "tags": [
         "vim-latex"
       ]
+    },
+    {
+      "user": "VundleVim",
+      "repos_name": "Vundle.vim",
+      "tags": [
+        "vim-pm"
+      ]
     }
   ]
 }
