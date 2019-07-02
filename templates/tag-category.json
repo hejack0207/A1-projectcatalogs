@@ -168,8 +168,6 @@
       "jsonnet"
     ],
     "tool_editor": [
-      "vim",
-      "vim_plugin",
       "vscode_plugin"
     ],
     "tool_terminal": [
