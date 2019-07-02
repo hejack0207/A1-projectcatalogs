@@ -120,6 +120,7 @@
          "use_ansible",
          "use_docker",
          "use_docker_compose",
+         "vim",
          "vim_asciidoc",
          "vim_go",
          "vim_json",
@@ -151,7 +152,6 @@
          "python_c_sample",
          "restful",
          "travis",
-         "vim",
          "weka"
       ]
    },
@@ -3370,6 +3370,7 @@
          "yml_tool"
       ],
       "tool_editor": [
+         "vim",
          "vscode_plugin"
       ],
       "tool_editor_vim": [

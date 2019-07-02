@@ -11,7 +11,6 @@
   [python_c_sample](repos.md#python_c_sample)
   [restful](repos.md#restful)
   [travis](repos.md#travis)
-  [vim](repos.md#vim)
   [weka](repos.md#weka)
 
 ## arch_agrithom
@@ -218,6 +217,7 @@
   [yml_tool](repos.md#yml_tool)
 ## tool_editor
 
+  [vim](repos.md#vim)
   [vscode_plugin](repos.md#vscode_plugin)
 ## tool_editor_vim
 
