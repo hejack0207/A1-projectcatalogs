@@ -3053,6 +3053,20 @@
          ],
          "url": "https://github.com/MarcWeber/vim-addon-manager",
          "user": "MarcWeber"
+      },
+      {
+         "alias": "dein.vim",
+         "forked": false,
+         "release": null,
+         "repos_name": "dein.vim",
+         "score": 3,
+         "shallow": false,
+         "site": "https://github.com",
+         "tags": [
+            "vim-pm"
+         ],
+         "url": "https://github.com/Shougo/dein.vim",
+         "user": "Shougo"
       }
    ],
    "tag_categories": {
@@ -8002,6 +8016,20 @@
                ],
                "url": "https://github.com/MarcWeber/vim-addon-manager",
                "user": "MarcWeber"
+            },
+            {
+               "alias": "dein.vim",
+               "forked": false,
+               "release": null,
+               "repos_name": "dein.vim",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "vim-pm"
+               ],
+               "url": "https://github.com/Shougo/dein.vim",
+               "user": "Shougo"
             }
          ],
          "vim_asciidoc": [

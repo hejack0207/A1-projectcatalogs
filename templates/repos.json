@@ -1621,6 +1621,13 @@
       "tags": [
         "vim-pm"
       ]
+    },
+    {
+      "user": "Shougo",
+      "repos_name": "dein.vim",
+      "tags": [
+        "vim-pm"
+      ]
     }
   ]
 }

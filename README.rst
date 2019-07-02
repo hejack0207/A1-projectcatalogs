@@ -698,6 +698,7 @@ Tags
 
   + Vundle.vim https://github.com/VundleVim/Vundle.vim
   + vim-addon-manager https://github.com/MarcWeber/vim-addon-manager
+  + dein.vim https://github.com/Shougo/dein.vim
 
 * vim_asciidoc
 

@@ -1754,6 +1754,10 @@
 
       [ [vim-pm](#vim-pm) 
 ]
+  + dein.vim <https://github.com/Shougo/dein.vim> 
+
+      [ [vim-pm](#vim-pm) 
+]
 
 ## vim_asciidoc
   + asciidoc-vim <https://github.com/dagwieers/asciidoc-vim> 
