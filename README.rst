@@ -675,31 +675,6 @@ Tags
   + vim https://github.com/vim/vim
   + neovim https://github.com/neovim/neovim
 
-* vim-go
-
-  + vim-go https://github.com/fatih/vim-go
-
-* vim-json
-
-  + vison https://github.com/Quramy/vison
-
-* vim-latex
-
-  + vimtex https://github.com/lervag/vimtex
-  + vim-latex-live-preview https://github.com/xuhdev/vim-latex-live-preview
-  + vim-latex https://github.com/vim-latex/vim-latex
-
-* vim-markdown
-
-  + vim-instant-markdown https://github.com/suan/vim-instant-markdown
-  + vim-markdown https://github.com/plasticboy/vim-markdown
-
-* vim-pm
-
-  + Vundle.vim https://github.com/VundleVim/Vundle.vim
-  + vim-addon-manager https://github.com/MarcWeber/vim-addon-manager
-  + dein.vim https://github.com/Shougo/dein.vim
-
 * vim_asciidoc
 
   + asciidoc-vim https://github.com/dagwieers/asciidoc-vim
@@ -708,9 +683,34 @@ Tags
   + vim-asciidoc-folding https://github.com/matcatc/vim-asciidoc-folding
   + vs-asciidoc-vim https://github.com/vim-scripts/asciidoc.vim
 
+* vim_go
+
+  + vim-go https://github.com/fatih/vim-go
+
+* vim_json
+
+  + vison https://github.com/Quramy/vison
+
+* vim_latex
+
+  + vimtex https://github.com/lervag/vimtex
+  + vim-latex-live-preview https://github.com/xuhdev/vim-latex-live-preview
+  + vim-latex https://github.com/vim-latex/vim-latex
+
+* vim_markdown
+
+  + vim-instant-markdown https://github.com/suan/vim-instant-markdown
+  + vim-markdown https://github.com/plasticboy/vim-markdown
+
 * vim_plugin
 
   + plantuml-syntax https://github.com/aklt/plantuml-syntax
+
+* vim_pm
+
+  + Vundle.vim https://github.com/VundleVim/Vundle.vim
+  + vim-addon-manager https://github.com/MarcWeber/vim-addon-manager
+  + dein.vim https://github.com/Shougo/dein.vim
 
 * vscode_plugin
 

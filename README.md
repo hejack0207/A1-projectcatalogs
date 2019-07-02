@@ -11,11 +11,11 @@
   [python_c_sample](repos.md#python_c_sample)
   [restful](repos.md#restful)
   [travis](repos.md#travis)
-  [vim-go](repos.md#vim-go)
-  [vim-json](repos.md#vim-json)
-  [vim-latex](repos.md#vim-latex)
-  [vim-markdown](repos.md#vim-markdown)
-  [vim-pm](repos.md#vim-pm)
+  [vim_go](repos.md#vim_go)
+  [vim_json](repos.md#vim_json)
+  [vim_latex](repos.md#vim_latex)
+  [vim_markdown](repos.md#vim_markdown)
+  [vim_pm](repos.md#vim_pm)
   [weka](repos.md#weka)
 
 ## arch_agrithom

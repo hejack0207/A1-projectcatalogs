@@ -143,11 +143,11 @@
          "python_c_sample",
          "restful",
          "travis",
-         "vim-go",
-         "vim-json",
-         "vim-latex",
-         "vim-markdown",
-         "vim-pm",
+         "vim_go",
+         "vim_json",
+         "vim_latex",
+         "vim_markdown",
+         "vim_pm",
          "weka"
       ]
    },
@@ -2936,7 +2936,7 @@
          "shallow": false,
          "site": "https://github.com",
          "tags": [
-            "vim-json"
+            "vim_json"
          ],
          "url": "https://github.com/Quramy/vison",
          "user": "Quramy"
@@ -2950,7 +2950,7 @@
          "shallow": false,
          "site": "https://github.com",
          "tags": [
-            "vim-go"
+            "vim_go"
          ],
          "url": "https://github.com/fatih/vim-go",
          "user": "fatih"
@@ -2964,7 +2964,7 @@
          "shallow": false,
          "site": "https://github.com",
          "tags": [
-            "vim-markdown"
+            "vim_markdown"
          ],
          "url": "https://github.com/suan/vim-instant-markdown",
          "user": "suan"
@@ -2978,7 +2978,7 @@
          "shallow": false,
          "site": "https://github.com",
          "tags": [
-            "vim-markdown"
+            "vim_markdown"
          ],
          "url": "https://github.com/plasticboy/vim-markdown",
          "user": "plasticboy"
@@ -2992,7 +2992,7 @@
          "shallow": false,
          "site": "https://github.com",
          "tags": [
-            "vim-latex"
+            "vim_latex"
          ],
          "url": "https://github.com/lervag/vimtex",
          "user": "lervag"
@@ -3006,7 +3006,7 @@
          "shallow": false,
          "site": "https://github.com",
          "tags": [
-            "vim-latex"
+            "vim_latex"
          ],
          "url": "https://github.com/xuhdev/vim-latex-live-preview",
          "user": "xuhdev"
@@ -3020,7 +3020,7 @@
          "shallow": false,
          "site": "https://github.com",
          "tags": [
-            "vim-latex"
+            "vim_latex"
          ],
          "url": "https://github.com/vim-latex/vim-latex",
          "user": "vim-latex"
@@ -3034,7 +3034,7 @@
          "shallow": false,
          "site": "https://github.com",
          "tags": [
-            "vim-pm"
+            "vim_pm"
          ],
          "url": "https://github.com/VundleVim/Vundle.vim",
          "user": "VundleVim"
@@ -3048,7 +3048,7 @@
          "shallow": false,
          "site": "https://github.com",
          "tags": [
-            "vim-pm"
+            "vim_pm"
          ],
          "url": "https://github.com/MarcWeber/vim-addon-manager",
          "user": "MarcWeber"
@@ -3062,7 +3062,7 @@
          "shallow": false,
          "site": "https://github.com",
          "tags": [
-            "vim-pm"
+            "vim_pm"
          ],
          "url": "https://github.com/Shougo/dein.vim",
          "user": "Shougo"
@@ -7881,156 +7881,6 @@
                "user": "neovim"
             }
          ],
-         "vim-go": [
-            {
-               "alias": "vim-go",
-               "forked": false,
-               "release": null,
-               "repos_name": "vim-go",
-               "score": 3,
-               "shallow": false,
-               "site": "https://github.com",
-               "tags": [
-                  "vim-go"
-               ],
-               "url": "https://github.com/fatih/vim-go",
-               "user": "fatih"
-            }
-         ],
-         "vim-json": [
-            {
-               "alias": "vison",
-               "forked": false,
-               "release": null,
-               "repos_name": "vison",
-               "score": 3,
-               "shallow": false,
-               "site": "https://github.com",
-               "tags": [
-                  "vim-json"
-               ],
-               "url": "https://github.com/Quramy/vison",
-               "user": "Quramy"
-            }
-         ],
-         "vim-latex": [
-            {
-               "alias": "vimtex",
-               "forked": false,
-               "release": null,
-               "repos_name": "vimtex",
-               "score": 3,
-               "shallow": false,
-               "site": "https://github.com",
-               "tags": [
-                  "vim-latex"
-               ],
-               "url": "https://github.com/lervag/vimtex",
-               "user": "lervag"
-            },
-            {
-               "alias": "vim-latex-live-preview",
-               "forked": false,
-               "release": null,
-               "repos_name": "vim-latex-live-preview",
-               "score": 3,
-               "shallow": false,
-               "site": "https://github.com",
-               "tags": [
-                  "vim-latex"
-               ],
-               "url": "https://github.com/xuhdev/vim-latex-live-preview",
-               "user": "xuhdev"
-            },
-            {
-               "alias": "vim-latex",
-               "forked": false,
-               "release": null,
-               "repos_name": "vim-latex",
-               "score": 3,
-               "shallow": false,
-               "site": "https://github.com",
-               "tags": [
-                  "vim-latex"
-               ],
-               "url": "https://github.com/vim-latex/vim-latex",
-               "user": "vim-latex"
-            }
-         ],
-         "vim-markdown": [
-            {
-               "alias": "vim-instant-markdown",
-               "forked": false,
-               "release": null,
-               "repos_name": "vim-instant-markdown",
-               "score": 3,
-               "shallow": false,
-               "site": "https://github.com",
-               "tags": [
-                  "vim-markdown"
-               ],
-               "url": "https://github.com/suan/vim-instant-markdown",
-               "user": "suan"
-            },
-            {
-               "alias": "vim-markdown",
-               "forked": false,
-               "release": null,
-               "repos_name": "vim-markdown",
-               "score": 3,
-               "shallow": false,
-               "site": "https://github.com",
-               "tags": [
-                  "vim-markdown"
-               ],
-               "url": "https://github.com/plasticboy/vim-markdown",
-               "user": "plasticboy"
-            }
-         ],
-         "vim-pm": [
-            {
-               "alias": "Vundle.vim",
-               "forked": false,
-               "release": null,
-               "repos_name": "Vundle.vim",
-               "score": 3,
-               "shallow": false,
-               "site": "https://github.com",
-               "tags": [
-                  "vim-pm"
-               ],
-               "url": "https://github.com/VundleVim/Vundle.vim",
-               "user": "VundleVim"
-            },
-            {
-               "alias": "vim-addon-manager",
-               "forked": false,
-               "release": null,
-               "repos_name": "vim-addon-manager",
-               "score": 3,
-               "shallow": false,
-               "site": "https://github.com",
-               "tags": [
-                  "vim-pm"
-               ],
-               "url": "https://github.com/MarcWeber/vim-addon-manager",
-               "user": "MarcWeber"
-            },
-            {
-               "alias": "dein.vim",
-               "forked": false,
-               "release": null,
-               "repos_name": "dein.vim",
-               "score": 3,
-               "shallow": false,
-               "site": "https://github.com",
-               "tags": [
-                  "vim-pm"
-               ],
-               "url": "https://github.com/Shougo/dein.vim",
-               "user": "Shougo"
-            }
-         ],
          "vim_asciidoc": [
             {
                "alias": "asciidoc-vim",
@@ -8103,6 +7953,112 @@
                "user": "vim-scripts"
             }
          ],
+         "vim_go": [
+            {
+               "alias": "vim-go",
+               "forked": false,
+               "release": null,
+               "repos_name": "vim-go",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "vim_go"
+               ],
+               "url": "https://github.com/fatih/vim-go",
+               "user": "fatih"
+            }
+         ],
+         "vim_json": [
+            {
+               "alias": "vison",
+               "forked": false,
+               "release": null,
+               "repos_name": "vison",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "vim_json"
+               ],
+               "url": "https://github.com/Quramy/vison",
+               "user": "Quramy"
+            }
+         ],
+         "vim_latex": [
+            {
+               "alias": "vimtex",
+               "forked": false,
+               "release": null,
+               "repos_name": "vimtex",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "vim_latex"
+               ],
+               "url": "https://github.com/lervag/vimtex",
+               "user": "lervag"
+            },
+            {
+               "alias": "vim-latex-live-preview",
+               "forked": false,
+               "release": null,
+               "repos_name": "vim-latex-live-preview",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "vim_latex"
+               ],
+               "url": "https://github.com/xuhdev/vim-latex-live-preview",
+               "user": "xuhdev"
+            },
+            {
+               "alias": "vim-latex",
+               "forked": false,
+               "release": null,
+               "repos_name": "vim-latex",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "vim_latex"
+               ],
+               "url": "https://github.com/vim-latex/vim-latex",
+               "user": "vim-latex"
+            }
+         ],
+         "vim_markdown": [
+            {
+               "alias": "vim-instant-markdown",
+               "forked": false,
+               "release": null,
+               "repos_name": "vim-instant-markdown",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "vim_markdown"
+               ],
+               "url": "https://github.com/suan/vim-instant-markdown",
+               "user": "suan"
+            },
+            {
+               "alias": "vim-markdown",
+               "forked": false,
+               "release": null,
+               "repos_name": "vim-markdown",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "vim_markdown"
+               ],
+               "url": "https://github.com/plasticboy/vim-markdown",
+               "user": "plasticboy"
+            }
+         ],
          "vim_plugin": [
             {
                "alias": "plantuml-syntax",
@@ -8118,6 +8074,50 @@
                ],
                "url": "https://github.com/aklt/plantuml-syntax",
                "user": "aklt"
+            }
+         ],
+         "vim_pm": [
+            {
+               "alias": "Vundle.vim",
+               "forked": false,
+               "release": null,
+               "repos_name": "Vundle.vim",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "vim_pm"
+               ],
+               "url": "https://github.com/VundleVim/Vundle.vim",
+               "user": "VundleVim"
+            },
+            {
+               "alias": "vim-addon-manager",
+               "forked": false,
+               "release": null,
+               "repos_name": "vim-addon-manager",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "vim_pm"
+               ],
+               "url": "https://github.com/MarcWeber/vim-addon-manager",
+               "user": "MarcWeber"
+            },
+            {
+               "alias": "dein.vim",
+               "forked": false,
+               "release": null,
+               "repos_name": "dein.vim",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "vim_pm"
+               ],
+               "url": "https://github.com/Shougo/dein.vim",
+               "user": "Shougo"
             }
          ],
          "vscode_plugin": [

@@ -1563,70 +1563,70 @@
       "user": "Quramy",
       "repos_name": "vison",
       "tags": [
-        "vim-json"
+        "vim_json"
       ]
     },
     {
       "user": "fatih",
       "repos_name": "vim-go",
       "tags": [
-        "vim-go"
+        "vim_go"
       ]
     },
     {
       "user": "suan",
       "repos_name": "vim-instant-markdown",
       "tags": [
-        "vim-markdown"
+        "vim_markdown"
       ]
     },
     {
       "user": "plasticboy",
       "repos_name": "vim-markdown",
       "tags": [
-        "vim-markdown"
+        "vim_markdown"
       ]
     },
     {
       "user": "lervag",
       "repos_name": "vimtex",
       "tags": [
-        "vim-latex"
+        "vim_latex"
       ]
     },
     {
       "user": "xuhdev",
       "repos_name": "vim-latex-live-preview",
       "tags": [
-        "vim-latex"
+        "vim_latex"
       ]
     },
     {
       "user": "vim-latex",
       "repos_name": "vim-latex",
       "tags": [
-        "vim-latex"
+        "vim_latex"
       ]
     },
     {
       "user": "VundleVim",
       "repos_name": "Vundle.vim",
       "tags": [
-        "vim-pm"
+        "vim_pm"
       ]
     },
     {
       "user": "MarcWeber",
       "repos_name": "vim-addon-manager",
       "tags": [
-        "vim-pm"
+        "vim_pm"
       ]
     },
     {
       "user": "Shougo",
       "repos_name": "dein.vim",
       "tags": [
-        "vim-pm"
+        "vim_pm"
       ]
     }
   ]

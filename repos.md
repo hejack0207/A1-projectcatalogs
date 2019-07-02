@@ -1709,56 +1709,6 @@
       [ [vim](#vim) 
 ]
 
-## vim-go
-  + vim-go <https://github.com/fatih/vim-go> 
-
-      [ [vim-go](#vim-go) 
-]
-
-## vim-json
-  + vison <https://github.com/Quramy/vison> 
-
-      [ [vim-json](#vim-json) 
-]
-
-## vim-latex
-  + vimtex <https://github.com/lervag/vimtex> 
-
-      [ [vim-latex](#vim-latex) 
-]
-  + vim-latex-live-preview <https://github.com/xuhdev/vim-latex-live-preview> 
-
-      [ [vim-latex](#vim-latex) 
-]
-  + vim-latex <https://github.com/vim-latex/vim-latex> 
-
-      [ [vim-latex](#vim-latex) 
-]
-
-## vim-markdown
-  + vim-instant-markdown <https://github.com/suan/vim-instant-markdown> 
-
-      [ [vim-markdown](#vim-markdown) 
-]
-  + vim-markdown <https://github.com/plasticboy/vim-markdown> 
-
-      [ [vim-markdown](#vim-markdown) 
-]
-
-## vim-pm
-  + Vundle.vim <https://github.com/VundleVim/Vundle.vim> 
-
-      [ [vim-pm](#vim-pm) 
-]
-  + vim-addon-manager <https://github.com/MarcWeber/vim-addon-manager> 
-
-      [ [vim-pm](#vim-pm) 
-]
-  + dein.vim <https://github.com/Shougo/dein.vim> 
-
-      [ [vim-pm](#vim-pm) 
-]
-
 ## vim_asciidoc
   + asciidoc-vim <https://github.com/dagwieers/asciidoc-vim> 
 
@@ -1781,11 +1731,61 @@
       [ [vim_asciidoc](#vim_asciidoc) 
 ]
 
+## vim_go
+  + vim-go <https://github.com/fatih/vim-go> 
+
+      [ [vim_go](#vim_go) 
+]
+
+## vim_json
+  + vison <https://github.com/Quramy/vison> 
+
+      [ [vim_json](#vim_json) 
+]
+
+## vim_latex
+  + vimtex <https://github.com/lervag/vimtex> 
+
+      [ [vim_latex](#vim_latex) 
+]
+  + vim-latex-live-preview <https://github.com/xuhdev/vim-latex-live-preview> 
+
+      [ [vim_latex](#vim_latex) 
+]
+  + vim-latex <https://github.com/vim-latex/vim-latex> 
+
+      [ [vim_latex](#vim_latex) 
+]
+
+## vim_markdown
+  + vim-instant-markdown <https://github.com/suan/vim-instant-markdown> 
+
+      [ [vim_markdown](#vim_markdown) 
+]
+  + vim-markdown <https://github.com/plasticboy/vim-markdown> 
+
+      [ [vim_markdown](#vim_markdown) 
+]
+
 ## vim_plugin
   + plantuml-syntax <https://github.com/aklt/plantuml-syntax> 
 
       [ [plantuml](#plantuml) 
  [vim_plugin](#vim_plugin) 
+]
+
+## vim_pm
+  + Vundle.vim <https://github.com/VundleVim/Vundle.vim> 
+
+      [ [vim_pm](#vim_pm) 
+]
+  + vim-addon-manager <https://github.com/MarcWeber/vim-addon-manager> 
+
+      [ [vim_pm](#vim_pm) 
+]
+  + dein.vim <https://github.com/Shougo/dein.vim> 
+
+      [ [vim_pm](#vim_pm) 
 ]
 
 ## vscode_plugin
