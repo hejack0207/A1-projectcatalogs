@@ -697,6 +697,7 @@ Tags
 * vim-pm
 
   + Vundle.vim https://github.com/VundleVim/Vundle.vim
+  + vim-addon-manager https://github.com/MarcWeber/vim-addon-manager
 
 * vim_asciidoc
 

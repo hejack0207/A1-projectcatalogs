@@ -3039,6 +3039,20 @@
          ],
          "url": "https://github.com/VundleVim/Vundle.vim",
          "user": "VundleVim"
+      },
+      {
+         "alias": "vim-addon-manager",
+         "forked": false,
+         "release": null,
+         "repos_name": "vim-addon-manager",
+         "score": 3,
+         "shallow": false,
+         "site": "https://github.com",
+         "tags": [
+            "vim-pm"
+         ],
+         "url": "https://github.com/MarcWeber/vim-addon-manager",
+         "user": "MarcWeber"
       }
    ],
    "tag_categories": {
@@ -7974,6 +7988,20 @@
                ],
                "url": "https://github.com/VundleVim/Vundle.vim",
                "user": "VundleVim"
+            },
+            {
+               "alias": "vim-addon-manager",
+               "forked": false,
+               "release": null,
+               "repos_name": "vim-addon-manager",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "vim-pm"
+               ],
+               "url": "https://github.com/MarcWeber/vim-addon-manager",
+               "user": "MarcWeber"
             }
          ],
          "vim_asciidoc": [

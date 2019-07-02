@@ -1750,6 +1750,10 @@
 
       [ [vim-pm](#vim-pm) 
 ]
+  + vim-addon-manager <https://github.com/MarcWeber/vim-addon-manager> 
+
+      [ [vim-pm](#vim-pm) 
+]
 
 ## vim_asciidoc
   + asciidoc-vim <https://github.com/dagwieers/asciidoc-vim> 
