@@ -1565,6 +1565,13 @@
       "tags": [
         "vim-json"
       ]
+    },
+    {
+      "user": "fatih",
+      "repos_name": "vim-go",
+      "tags": [
+        "vim-go"
+      ]
     }
   ]
 }

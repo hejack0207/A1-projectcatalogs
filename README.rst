@@ -675,6 +675,10 @@ Tags
   + vim https://github.com/vim/vim
   + neovim https://github.com/neovim/neovim
 
+* vim-go
+
+  + vim-go https://github.com/fatih/vim-go
+
 * vim-json
 
   + vison https://github.com/Quramy/vison

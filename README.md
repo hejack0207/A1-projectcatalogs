@@ -11,6 +11,7 @@
   [python_c_sample](repos.md#python_c_sample)
   [restful](repos.md#restful)
   [travis](repos.md#travis)
+  [vim-go](repos.md#vim-go)
   [vim-json](repos.md#vim-json)
   [vimscript](repos.md#vimscript)
   [weka](repos.md#weka)

@@ -143,6 +143,7 @@
          "python_c_sample",
          "restful",
          "travis",
+         "vim-go",
          "vim-json",
          "vimscript",
          "weka"
@@ -2937,6 +2938,20 @@
          ],
          "url": "https://github.com/Quramy/vison",
          "user": "Quramy"
+      },
+      {
+         "alias": "vim-go",
+         "forked": false,
+         "release": null,
+         "repos_name": "vim-go",
+         "score": 3,
+         "shallow": false,
+         "site": "https://github.com",
+         "tags": [
+            "vim-go"
+         ],
+         "url": "https://github.com/fatih/vim-go",
+         "user": "fatih"
       }
    ],
    "tag_categories": {
@@ -7750,6 +7765,22 @@
                ],
                "url": "https://github.com/neovim/neovim",
                "user": "neovim"
+            }
+         ],
+         "vim-go": [
+            {
+               "alias": "vim-go",
+               "forked": false,
+               "release": null,
+               "repos_name": "vim-go",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "vim-go"
+               ],
+               "url": "https://github.com/fatih/vim-go",
+               "user": "fatih"
             }
          ],
          "vim-json": [

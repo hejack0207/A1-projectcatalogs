@@ -1709,6 +1709,12 @@
       [ [vim](#vim) 
 ]
 
+## vim-go
+  + vim-go <https://github.com/fatih/vim-go> 
+
+      [ [vim-go](#vim-go) 
+]
+
 ## vim-json
   + vison <https://github.com/Quramy/vison> 
 
