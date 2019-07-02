@@ -148,6 +148,7 @@
          "python_c_sample",
          "restful",
          "travis",
+         "vim_jsonnet",
          "vim_plantuml",
          "vim_snippet",
          "weka"
@@ -3123,6 +3124,20 @@
          ],
          "url": "https://github.com/weirongxu/plantuml-previewer.vim",
          "user": "weirongxu"
+      },
+      {
+         "alias": "vim-jsonnet",
+         "forked": false,
+         "release": null,
+         "repos_name": "vim-jsonnet",
+         "score": 3,
+         "shallow": false,
+         "site": "https://github.com",
+         "tags": [
+            "vim_jsonnet"
+         ],
+         "url": "https://github.com/google/vim-jsonnet",
+         "user": "google"
       }
    ],
    "tag_categories": {
@@ -8028,6 +8043,22 @@
                ],
                "url": "https://github.com/Quramy/vison",
                "user": "Quramy"
+            }
+         ],
+         "vim_jsonnet": [
+            {
+               "alias": "vim-jsonnet",
+               "forked": false,
+               "release": null,
+               "repos_name": "vim-jsonnet",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "vim_jsonnet"
+               ],
+               "url": "https://github.com/google/vim-jsonnet",
+               "user": "google"
             }
          ],
          "vim_latex": [

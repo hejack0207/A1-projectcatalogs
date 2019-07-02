@@ -1738,6 +1738,12 @@
       [ [vim_json](#vim_json) 
 ]
 
+## vim_jsonnet
+  + vim-jsonnet <https://github.com/google/vim-jsonnet> 
+
+      [ [vim_jsonnet](#vim_jsonnet) 
+]
+
 ## vim_latex
   + vimtex <https://github.com/lervag/vimtex> 
 

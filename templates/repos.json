@@ -1655,6 +1655,13 @@
       "tags": [
         "vim_plantuml"
       ]
+    },
+    {
+      "user": "google",
+      "repos_name": "vim-jsonnet",
+      "tags": [
+        "vim_jsonnet"
+      ]
     }
   ]
 }

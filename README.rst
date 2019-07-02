@@ -690,6 +690,10 @@ Tags
 
   + vison https://github.com/Quramy/vison
 
+* vim_jsonnet
+
+  + vim-jsonnet https://github.com/google/vim-jsonnet
+
 * vim_latex
 
   + vimtex https://github.com/lervag/vimtex
