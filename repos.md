@@ -1764,6 +1764,10 @@
 
       [ [vim_asciidoc](#vim_asciidoc) 
 ]
+  + vim-ft-asciidoc <https://github.com/jjaderberg/vim-ft-asciidoc> 
+
+      [ [vim_asciidoc](#vim_asciidoc) 
+]
   + dahu-vim-asciidoc <https://github.com/dahu/vim-asciidoc> 
 
       [ [vim_asciidoc](#vim_asciidoc) 
@@ -1782,12 +1786,6 @@
 
       [ [plantuml](#plantuml) 
  [vim_plugin](#vim_plugin) 
-]
-
-## vimscript
-  + vim-ft-asciidoc <https://github.com/jjaderberg/vim-ft-asciidoc> 
-
-      [ [vimscript](#vimscript) 
 ]
 
 ## vscode_plugin
