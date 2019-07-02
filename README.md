@@ -12,6 +12,7 @@
   [restful](repos.md#restful)
   [travis](repos.md#travis)
   [vim_plantuml](repos.md#vim_plantuml)
+  [vim_snippet](repos.md#vim_snippet)
   [weka](repos.md#weka)
 
 ## arch_agrithom

@@ -149,6 +149,7 @@
          "restful",
          "travis",
          "vim_plantuml",
+         "vim_snippet",
          "weka"
       ]
    },
@@ -3066,6 +3067,20 @@
          ],
          "url": "https://github.com/Shougo/dein.vim",
          "user": "Shougo"
+      },
+      {
+         "alias": "ultisnips",
+         "forked": false,
+         "release": null,
+         "repos_name": "ultisnips",
+         "score": 3,
+         "shallow": false,
+         "site": "https://github.com",
+         "tags": [
+            "vim_snippet"
+         ],
+         "url": "https://github.com/SirVer/ultisnips",
+         "user": "SirVer"
       }
    ],
    "tag_categories": {
@@ -8105,6 +8120,22 @@
                ],
                "url": "https://github.com/Shougo/dein.vim",
                "user": "Shougo"
+            }
+         ],
+         "vim_snippet": [
+            {
+               "alias": "ultisnips",
+               "forked": false,
+               "release": null,
+               "repos_name": "ultisnips",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "vim_snippet"
+               ],
+               "url": "https://github.com/SirVer/ultisnips",
+               "user": "SirVer"
             }
          ],
          "vscode_plugin": [

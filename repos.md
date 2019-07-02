@@ -1782,6 +1782,12 @@
       [ [vim_pm](#vim_pm) 
 ]
 
+## vim_snippet
+  + ultisnips <https://github.com/SirVer/ultisnips> 
+
+      [ [vim_snippet](#vim_snippet) 
+]
+
 ## vscode_plugin
   + vscode-plantuml <https://github.com/qjebbs/vscode-plantuml> 
 

@@ -700,6 +700,10 @@ Tags
   + vim-addon-manager https://github.com/MarcWeber/vim-addon-manager
   + dein.vim https://github.com/Shougo/dein.vim
 
+* vim_snippet
+
+  + ultisnips https://github.com/SirVer/ultisnips
+
 * vscode_plugin
 
   + vscode-plantuml https://github.com/qjebbs/vscode-plantuml
