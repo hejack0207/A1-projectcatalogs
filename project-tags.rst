@@ -703,6 +703,7 @@ Tags
 * vim_snippet
 
   + ultisnips https://github.com/SirVer/ultisnips
+  + vim-snippets https://github.com/honza/vim-snippets
 
 * vscode_plugin
 

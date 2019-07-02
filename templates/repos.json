@@ -1634,6 +1634,13 @@
       "tags": [
         "vim_snippet"
       ]
+    },
+    {
+      "user": "honza",
+      "repos_name": "vim-snippets",
+      "tags": [
+        "vim_snippet"
+      ]
     }
   ]
 }

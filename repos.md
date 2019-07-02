@@ -1787,6 +1787,10 @@
 
       [ [vim_snippet](#vim_snippet) 
 ]
+  + vim-snippets <https://github.com/honza/vim-snippets> 
+
+      [ [vim_snippet](#vim_snippet) 
+]
 
 ## vscode_plugin
   + vscode-plantuml <https://github.com/qjebbs/vscode-plantuml> 

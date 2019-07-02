@@ -3081,6 +3081,20 @@
          ],
          "url": "https://github.com/SirVer/ultisnips",
          "user": "SirVer"
+      },
+      {
+         "alias": "vim-snippets",
+         "forked": false,
+         "release": null,
+         "repos_name": "vim-snippets",
+         "score": 3,
+         "shallow": false,
+         "site": "https://github.com",
+         "tags": [
+            "vim_snippet"
+         ],
+         "url": "https://github.com/honza/vim-snippets",
+         "user": "honza"
       }
    ],
    "tag_categories": {
@@ -8136,6 +8150,20 @@
                ],
                "url": "https://github.com/SirVer/ultisnips",
                "user": "SirVer"
+            },
+            {
+               "alias": "vim-snippets",
+               "forked": false,
+               "release": null,
+               "repos_name": "vim-snippets",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "vim_snippet"
+               ],
+               "url": "https://github.com/honza/vim-snippets",
+               "user": "honza"
             }
          ],
          "vscode_plugin": [
