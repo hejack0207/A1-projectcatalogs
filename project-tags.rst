@@ -715,6 +715,10 @@ Tags
   + vim-snippets https://github.com/honza/vim-snippets
   + vim-snipmate https://github.com/garbas/vim-snipmate
 
+* vim_toml
+
+  + vim-toml https://github.com/cespare/vim-toml
+
 * vscode_plugin
 
   + vscode-plantuml https://github.com/qjebbs/vscode-plantuml

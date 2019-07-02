@@ -15,6 +15,7 @@
   [vim_plantuml](repos.md#vim_plantuml)
   [vim_prolog](repos.md#vim_prolog)
   [vim_snippet](repos.md#vim_snippet)
+  [vim_toml](repos.md#vim_toml)
   [weka](repos.md#weka)
 
 ## arch_agrithom

@@ -1812,6 +1812,12 @@
       [ [vim_snippet](#vim_snippet) 
 ]
 
+## vim_toml
+  + vim-toml <https://github.com/cespare/vim-toml> 
+
+      [ [vim_toml](#vim_toml) 
+]
+
 ## vscode_plugin
   + vscode-plantuml <https://github.com/qjebbs/vscode-plantuml> 
 

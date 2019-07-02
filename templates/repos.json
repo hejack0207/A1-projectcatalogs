@@ -1669,6 +1669,13 @@
       "tags": [
         "vim_prolog"
       ]
+    },
+    {
+      "user": "cespare",
+      "repos_name": "vim-toml",
+      "tags": [
+        "vim_toml"
+      ]
     }
   ]
 }

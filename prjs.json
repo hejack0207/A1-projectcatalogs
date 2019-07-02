@@ -152,6 +152,7 @@
          "vim_plantuml",
          "vim_prolog",
          "vim_snippet",
+         "vim_toml",
          "weka"
       ]
    },
@@ -3153,6 +3154,20 @@
          ],
          "url": "https://github.com/adimit/prolog.vim",
          "user": "adimit"
+      },
+      {
+         "alias": "vim-toml",
+         "forked": false,
+         "release": null,
+         "repos_name": "vim-toml",
+         "score": 3,
+         "shallow": false,
+         "site": "https://github.com",
+         "tags": [
+            "vim_toml"
+         ],
+         "url": "https://github.com/cespare/vim-toml",
+         "user": "cespare"
       }
    ],
    "tag_categories": {
@@ -8282,6 +8297,22 @@
                ],
                "url": "https://github.com/garbas/vim-snipmate",
                "user": "garbas"
+            }
+         ],
+         "vim_toml": [
+            {
+               "alias": "vim-toml",
+               "forked": false,
+               "release": null,
+               "repos_name": "vim-toml",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "vim_toml"
+               ],
+               "url": "https://github.com/cespare/vim-toml",
+               "user": "cespare"
             }
          ],
          "vscode_plugin": [
