@@ -11,6 +11,7 @@
   [python_c_sample](repos.md#python_c_sample)
   [restful](repos.md#restful)
   [travis](repos.md#travis)
+  [vim_plantuml](repos.md#vim_plantuml)
   [weka](repos.md#weka)
 
 ## arch_agrithom

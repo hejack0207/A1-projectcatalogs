@@ -1158,11 +1158,6 @@
       [ [plantuml](#plantuml) 
  [redmine](#redmine) 
 ]
-  + plantuml-syntax <https://github.com/aklt/plantuml-syntax> 
-
-      [ [plantuml](#plantuml) 
- [vim_plugin](#vim_plugin) 
-]
   + plantuml-server <https://github.com/plantuml/plantuml-server> 
 
       [ [plantuml](#plantuml) 
@@ -1767,11 +1762,10 @@
       [ [vim_markdown](#vim_markdown) 
 ]
 
-## vim_plugin
+## vim_plantuml
   + plantuml-syntax <https://github.com/aklt/plantuml-syntax> 
 
-      [ [plantuml](#plantuml) 
- [vim_plugin](#vim_plugin) 
+      [ [vim_plantuml](#vim_plantuml) 
 ]
 
 ## vim_pm

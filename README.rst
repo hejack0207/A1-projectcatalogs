@@ -474,7 +474,6 @@ Tags
   + json-to-plantuml https://github.com/meteorbites/json-to-plantuml
   + plantuml-code-generator https://github.com/bafolts/plantuml-code-generator
   + dkd-plantuml https://github.com/dkd/plantuml
-  + plantuml-syntax https://github.com/aklt/plantuml-syntax
   + plantuml-server https://github.com/plantuml/plantuml-server
   + vscode-plantuml https://github.com/qjebbs/vscode-plantuml
 
@@ -702,7 +701,7 @@ Tags
   + vim-instant-markdown https://github.com/suan/vim-instant-markdown
   + vim-markdown https://github.com/plasticboy/vim-markdown
 
-* vim_plugin
+* vim_plantuml
 
   + plantuml-syntax https://github.com/aklt/plantuml-syntax
 

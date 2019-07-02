@@ -148,6 +148,7 @@
          "python_c_sample",
          "restful",
          "travis",
+         "vim_plantuml",
          "weka"
       ]
    },
@@ -1687,8 +1688,7 @@
          "shallow": false,
          "site": "https://github.com",
          "tags": [
-            "plantuml",
-            "vim_plugin"
+            "vim_plantuml"
          ],
          "url": "https://github.com/aklt/plantuml-syntax",
          "user": "aklt"
@@ -6414,21 +6414,6 @@
                "user": "dkd"
             },
             {
-               "alias": "plantuml-syntax",
-               "forked": false,
-               "release": null,
-               "repos_name": "plantuml-syntax",
-               "score": 3,
-               "shallow": false,
-               "site": "https://github.com",
-               "tags": [
-                  "plantuml",
-                  "vim_plugin"
-               ],
-               "url": "https://github.com/aklt/plantuml-syntax",
-               "user": "aklt"
-            },
-            {
                "alias": "plantuml-server",
                "forked": false,
                "release": null,
@@ -8062,7 +8047,7 @@
                "user": "plasticboy"
             }
          ],
-         "vim_plugin": [
+         "vim_plantuml": [
             {
                "alias": "plantuml-syntax",
                "forked": false,
@@ -8072,8 +8057,7 @@
                "shallow": false,
                "site": "https://github.com",
                "tags": [
-                  "plantuml",
-                  "vim_plugin"
+                  "vim_plantuml"
                ],
                "url": "https://github.com/aklt/plantuml-syntax",
                "user": "aklt"

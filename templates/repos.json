@@ -921,8 +921,7 @@
       "alias": "plantuml-syntax",
       "repos_name": "plantuml-syntax",
       "tags": [
-        "plantuml",
-        "vim_plugin"
+        "vim_plantuml"
       ],
       "user": "aklt"
     },
