@@ -150,6 +150,7 @@
          "travis",
          "vim_jsonnet",
          "vim_plantuml",
+         "vim_prolog",
          "vim_snippet",
          "weka"
       ]
@@ -3138,6 +3139,20 @@
          ],
          "url": "https://github.com/google/vim-jsonnet",
          "user": "google"
+      },
+      {
+         "alias": "prolog.vim",
+         "forked": false,
+         "release": null,
+         "repos_name": "prolog.vim",
+         "score": 3,
+         "shallow": false,
+         "site": "https://github.com",
+         "tags": [
+            "vim_prolog"
+         ],
+         "url": "https://github.com/adimit/prolog.vim",
+         "user": "adimit"
       }
    ],
    "tag_categories": {
@@ -8207,6 +8222,22 @@
                ],
                "url": "https://github.com/Shougo/dein.vim",
                "user": "Shougo"
+            }
+         ],
+         "vim_prolog": [
+            {
+               "alias": "prolog.vim",
+               "forked": false,
+               "release": null,
+               "repos_name": "prolog.vim",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "vim_prolog"
+               ],
+               "url": "https://github.com/adimit/prolog.vim",
+               "user": "adimit"
             }
          ],
          "vim_snippet": [

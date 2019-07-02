@@ -1662,6 +1662,13 @@
       "tags": [
         "vim_jsonnet"
       ]
+    },
+    {
+      "user": "adimit",
+      "repos_name": "prolog.vim",
+      "tags": [
+        "vim_prolog"
+      ]
     }
   ]
 }

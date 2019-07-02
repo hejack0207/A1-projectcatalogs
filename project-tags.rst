@@ -705,6 +705,10 @@ Tags
   + vim-addon-manager https://github.com/MarcWeber/vim-addon-manager
   + dein.vim https://github.com/Shougo/dein.vim
 
+* vim_prolog
+
+  + prolog.vim https://github.com/adimit/prolog.vim
+
 * vim_snippet
 
   + ultisnips https://github.com/SirVer/ultisnips

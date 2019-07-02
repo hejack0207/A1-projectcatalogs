@@ -13,6 +13,7 @@
   [travis](repos.md#travis)
   [vim_jsonnet](repos.md#vim_jsonnet)
   [vim_plantuml](repos.md#vim_plantuml)
+  [vim_prolog](repos.md#vim_prolog)
   [vim_snippet](repos.md#vim_snippet)
   [weka](repos.md#weka)
 

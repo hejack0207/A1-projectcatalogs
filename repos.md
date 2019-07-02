@@ -1792,6 +1792,12 @@
       [ [vim_pm](#vim_pm) 
 ]
 
+## vim_prolog
+  + prolog.vim <https://github.com/adimit/prolog.vim> 
+
+      [ [vim_prolog](#vim_prolog) 
+]
+
 ## vim_snippet
   + ultisnips <https://github.com/SirVer/ultisnips> 
 
