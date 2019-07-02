@@ -1709,6 +1709,12 @@
       [ [vim](#vim) 
 ]
 
+## vim-json
+  + vison <https://github.com/Quramy/vison> 
+
+      [ [vim-json](#vim-json) 
+]
+
 ## vim_asciidoc
   + asciidoc-vim <https://github.com/dagwieers/asciidoc-vim> 
 

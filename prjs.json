@@ -143,6 +143,7 @@
          "python_c_sample",
          "restful",
          "travis",
+         "vim-json",
          "vimscript",
          "weka"
       ]
@@ -2922,6 +2923,20 @@
          ],
          "url": "https://github.com/neovim/neovim",
          "user": "neovim"
+      },
+      {
+         "alias": "vison",
+         "forked": false,
+         "release": null,
+         "repos_name": "vison",
+         "score": 3,
+         "shallow": false,
+         "site": "https://github.com",
+         "tags": [
+            "vim-json"
+         ],
+         "url": "https://github.com/Quramy/vison",
+         "user": "Quramy"
       }
    ],
    "tag_categories": {
@@ -7735,6 +7750,22 @@
                ],
                "url": "https://github.com/neovim/neovim",
                "user": "neovim"
+            }
+         ],
+         "vim-json": [
+            {
+               "alias": "vison",
+               "forked": false,
+               "release": null,
+               "repos_name": "vison",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "vim-json"
+               ],
+               "url": "https://github.com/Quramy/vison",
+               "user": "Quramy"
             }
          ],
          "vim_asciidoc": [
