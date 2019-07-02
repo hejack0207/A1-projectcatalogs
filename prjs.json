@@ -121,8 +121,12 @@
          "use_docker",
          "use_docker_compose",
          "vim",
-         "vim_asciidoc",
+         "vim_go",
+         "vim_json",
+         "vim_latex",
+         "vim_markdown",
          "vim_plugin",
+         "vim_pm",
          "vscode_plugin",
          "websecurity_awesome",
          "webui",
@@ -143,11 +147,7 @@
          "python_c_sample",
          "restful",
          "travis",
-         "vim_go",
-         "vim_json",
-         "vim_latex",
-         "vim_markdown",
-         "vim_pm",
+         "vim_asciidoc",
          "weka"
       ]
    },
@@ -3274,9 +3274,11 @@
          "vscode_plugin"
       ],
       "tool_editor_vim": [
-         "vim",
-         "vim_asciidoc",
-         "vim_plugin"
+         "vim_json",
+         "vim_latex",
+         "vim_markdown",
+         "vim_pm",
+         "vim_go"
       ],
       "tool_terminal": [
          "zsh",

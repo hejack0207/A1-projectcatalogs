@@ -215,9 +215,11 @@
       "resume"
     ],
     "tool_editor_vim": [
-      "vim",
-      "vim_asciidoc",
-      "vim_plugin"
+      "vim_json",
+      "vim_latex",
+      "vim_markdown",
+      "vim_pm",
+      "vim_go"
     ]
   }
 }

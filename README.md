@@ -11,11 +11,7 @@
   [python_c_sample](repos.md#python_c_sample)
   [restful](repos.md#restful)
   [travis](repos.md#travis)
-  [vim_go](repos.md#vim_go)
-  [vim_json](repos.md#vim_json)
-  [vim_latex](repos.md#vim_latex)
-  [vim_markdown](repos.md#vim_markdown)
-  [vim_pm](repos.md#vim_pm)
+  [vim_asciidoc](repos.md#vim_asciidoc)
   [weka](repos.md#weka)
 
 ## arch_agrithom
@@ -227,9 +223,11 @@
   [vscode_plugin](repos.md#vscode_plugin)
 ## tool_editor_vim
 
-  [vim](repos.md#vim)
-  [vim_asciidoc](repos.md#vim_asciidoc)
-  [vim_plugin](repos.md#vim_plugin)
+  [vim_json](repos.md#vim_json)
+  [vim_latex](repos.md#vim_latex)
+  [vim_markdown](repos.md#vim_markdown)
+  [vim_pm](repos.md#vim_pm)
+  [vim_go](repos.md#vim_go)
 ## tool_terminal
 
   [zsh](repos.md#zsh)
