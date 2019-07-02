@@ -145,6 +145,7 @@
          "travis",
          "vim-go",
          "vim-json",
+         "vim-latex",
          "vim-markdown",
          "vimscript",
          "weka"
@@ -2981,6 +2982,20 @@
          ],
          "url": "https://github.com/plasticboy/vim-markdown",
          "user": "plasticboy"
+      },
+      {
+         "alias": "vimtex",
+         "forked": false,
+         "release": null,
+         "repos_name": "vimtex",
+         "score": 3,
+         "shallow": false,
+         "site": "https://github.com",
+         "tags": [
+            "vim-latex"
+         ],
+         "url": "https://github.com/lervag/vimtex",
+         "user": "lervag"
       }
    ],
    "tag_categories": {
@@ -7826,6 +7841,22 @@
                ],
                "url": "https://github.com/Quramy/vison",
                "user": "Quramy"
+            }
+         ],
+         "vim-latex": [
+            {
+               "alias": "vimtex",
+               "forked": false,
+               "release": null,
+               "repos_name": "vimtex",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "vim-latex"
+               ],
+               "url": "https://github.com/lervag/vimtex",
+               "user": "lervag"
             }
          ],
          "vim-markdown": [

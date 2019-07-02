@@ -13,6 +13,7 @@
   [travis](repos.md#travis)
   [vim-go](repos.md#vim-go)
   [vim-json](repos.md#vim-json)
+  [vim-latex](repos.md#vim-latex)
   [vim-markdown](repos.md#vim-markdown)
   [vimscript](repos.md#vimscript)
   [weka](repos.md#weka)

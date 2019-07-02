@@ -1721,6 +1721,12 @@
       [ [vim-json](#vim-json) 
 ]
 
+## vim-latex
+  + vimtex <https://github.com/lervag/vimtex> 
+
+      [ [vim-latex](#vim-latex) 
+]
+
 ## vim-markdown
   + vim-instant-markdown <https://github.com/suan/vim-instant-markdown> 
 

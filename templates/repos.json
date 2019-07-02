@@ -1586,6 +1586,13 @@
       "tags": [
         "vim-markdown"
       ]
+    },
+    {
+      "user": "lervag",
+      "repos_name": "vimtex",
+      "tags": [
+        "vim-latex"
+      ]
     }
   ]
 }

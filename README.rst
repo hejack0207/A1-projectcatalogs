@@ -683,6 +683,10 @@ Tags
 
   + vison https://github.com/Quramy/vison
 
+* vim-latex
+
+  + vimtex https://github.com/lervag/vimtex
+
 * vim-markdown
 
   + vim-instant-markdown https://github.com/suan/vim-instant-markdown
