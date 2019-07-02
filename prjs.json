@@ -121,6 +121,7 @@
          "use_docker",
          "use_docker_compose",
          "vim",
+         "vim_asciidoc",
          "vim_go",
          "vim_json",
          "vim_latex",
@@ -147,7 +148,6 @@
          "python_c_sample",
          "restful",
          "travis",
-         "vim_asciidoc",
          "weka"
       ]
    },
@@ -3274,11 +3274,12 @@
          "vscode_plugin"
       ],
       "tool_editor_vim": [
+         "vim_asciidoc",
+         "vim_go",
          "vim_json",
          "vim_latex",
          "vim_markdown",
-         "vim_pm",
-         "vim_go"
+         "vim_pm"
       ],
       "tool_terminal": [
          "zsh",
