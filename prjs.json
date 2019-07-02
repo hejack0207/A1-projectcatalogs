@@ -124,10 +124,15 @@
          "vim_asciidoc",
          "vim_go",
          "vim_json",
+         "vim_jsonnet",
          "vim_latex",
          "vim_markdown",
+         "vim_plantuml",
          "vim_plugin",
          "vim_pm",
+         "vim_prolog",
+         "vim_snippet",
+         "vim_toml",
          "vscode_plugin",
          "websecurity_awesome",
          "webui",
@@ -148,11 +153,6 @@
          "python_c_sample",
          "restful",
          "travis",
-         "vim_jsonnet",
-         "vim_plantuml",
-         "vim_prolog",
-         "vim_snippet",
-         "vim_toml",
          "weka"
       ]
    },
@@ -3379,9 +3379,14 @@
          "vim_asciidoc",
          "vim_go",
          "vim_json",
+         "vim_jsonnet",
          "vim_latex",
          "vim_markdown",
-         "vim_pm"
+         "vim_plantuml",
+         "vim_pm",
+         "vim_prolog",
+         "vim_snippet",
+         "vim_toml"
       ],
       "tool_terminal": [
          "zsh",

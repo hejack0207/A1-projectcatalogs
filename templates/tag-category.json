@@ -218,9 +218,14 @@
       "vim_asciidoc",
       "vim_go",
       "vim_json",
+      "vim_jsonnet",
       "vim_latex",
       "vim_markdown",
-      "vim_pm"
+      "vim_plantuml",
+      "vim_pm",
+      "vim_prolog",
+      "vim_snippet",
+      "vim_toml"
     ]
   }
 }
