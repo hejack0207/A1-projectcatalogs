@@ -35,6 +35,7 @@
          "deep_learning",
          "docker",
          "docker_compose",
+         "docker_compose_file",
          "docker_image",
          "drill",
          "envelope",
@@ -119,7 +120,6 @@
          "tmux",
          "tomcat",
          "tui",
-         "use_docker_compose",
          "vim",
          "vim_asciidoc",
          "vim_go",
@@ -170,7 +170,7 @@
             "travis",
             "asciidoc",
             "docker_image",
-            "use_docker_compose",
+            "docker_compose_file",
             "tesseract"
          ],
          "url": "https://github.com/tesseract-ocr/tesseract",
@@ -393,7 +393,7 @@
          "shallow": false,
          "site": "https://github.com",
          "tags": [
-            "use_docker_compose",
+            "docker_compose_file",
             "kettle"
          ],
          "url": "https://github.com/zhicwu/docker-pdi-ce",
@@ -483,7 +483,7 @@
          "shallow": false,
          "site": "https://github.com",
          "tags": [
-            "use_docker_compose",
+            "docker_compose_file",
             "pentaho"
          ],
          "url": "https://github.com/oggers/ansible.pentaho-biserver-ce",
@@ -545,7 +545,7 @@
          "site": "https://github.com",
          "tags": [
             "java",
-            "use_docker_compose",
+            "docker_compose_file",
             "webui",
             "kettle"
          ],
@@ -607,7 +607,7 @@
          "site": "https://github.com",
          "tags": [
             "java",
-            "use_docker_compose",
+            "docker_compose_file",
             "springcloud"
          ],
          "url": "https://github.com/zhoutaoo/SpringCloud",
@@ -622,7 +622,7 @@
          "shallow": false,
          "site": "https://github.com",
          "tags": [
-            "use_docker_compose",
+            "docker_compose_file",
             "apollo"
          ],
          "url": "https://github.com/nobodyiam/apollo-build-scripts",
@@ -3300,7 +3300,7 @@
          "kubernetes",
          "ansible_role",
          "docker_image",
-         "use_docker_compose"
+         "docker_compose_file"
       ],
       "dev_design": [
          "plantuml"
@@ -3688,7 +3688,7 @@
                "shallow": false,
                "site": "https://github.com",
                "tags": [
-                  "use_docker_compose",
+                  "docker_compose_file",
                   "apollo"
                ],
                "url": "https://github.com/nobodyiam/apollo-build-scripts",
@@ -3728,7 +3728,7 @@
                   "travis",
                   "asciidoc",
                   "docker_image",
-                  "use_docker_compose",
+                  "docker_compose_file",
                   "tesseract"
                ],
                "url": "https://github.com/tesseract-ocr/tesseract",
@@ -4292,7 +4292,7 @@
                   "travis",
                   "asciidoc",
                   "docker_image",
-                  "use_docker_compose",
+                  "docker_compose_file",
                   "tesseract"
                ],
                "url": "https://github.com/tesseract-ocr/tesseract",
@@ -4412,7 +4412,7 @@
                   "travis",
                   "asciidoc",
                   "docker_image",
-                  "use_docker_compose",
+                  "docker_compose_file",
                   "tesseract"
                ],
                "url": "https://github.com/tesseract-ocr/tesseract",
@@ -4679,6 +4679,106 @@
                "user": "docker"
             }
          ],
+         "docker_compose_file": [
+            {
+               "alias": "tesseract",
+               "forked": false,
+               "release": null,
+               "repos_name": "tesseract",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "cpp",
+                  "cmake",
+                  "travis",
+                  "asciidoc",
+                  "docker_image",
+                  "docker_compose_file",
+                  "tesseract"
+               ],
+               "url": "https://github.com/tesseract-ocr/tesseract",
+               "user": "tesseract-ocr"
+            },
+            {
+               "alias": "docker-pdi-ce",
+               "forked": false,
+               "release": null,
+               "repos_name": "docker-pdi-ce",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "docker_compose_file",
+                  "kettle"
+               ],
+               "url": "https://github.com/zhicwu/docker-pdi-ce",
+               "user": "zhicwu"
+            },
+            {
+               "alias": "ansible.pentaho-biserver-ce",
+               "forked": false,
+               "release": null,
+               "repos_name": "ansible.pentaho-biserver-ce",
+               "score": 2,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "docker_compose_file",
+                  "pentaho"
+               ],
+               "url": "https://github.com/oggers/ansible.pentaho-biserver-ce",
+               "user": "oggers"
+            },
+            {
+               "alias": "webkettle",
+               "forked": false,
+               "release": null,
+               "repos_name": "webkettle",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "java",
+                  "docker_compose_file",
+                  "webui",
+                  "kettle"
+               ],
+               "url": "https://github.com/JoeyBling/webkettle",
+               "user": "JoeyBling"
+            },
+            {
+               "alias": "SpringCloud",
+               "forked": false,
+               "release": null,
+               "repos_name": "SpringCloud",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "java",
+                  "docker_compose_file",
+                  "springcloud"
+               ],
+               "url": "https://github.com/zhoutaoo/SpringCloud",
+               "user": "zhoutaoo"
+            },
+            {
+               "alias": "apollo-build-scripts",
+               "forked": false,
+               "release": null,
+               "repos_name": "apollo-build-scripts",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "docker_compose_file",
+                  "apollo"
+               ],
+               "url": "https://github.com/nobodyiam/apollo-build-scripts",
+               "user": "nobodyiam"
+            }
+         ],
          "docker_image": [
             {
                "alias": "tesseract",
@@ -4694,7 +4794,7 @@
                   "travis",
                   "asciidoc",
                   "docker_image",
-                  "use_docker_compose",
+                  "docker_compose_file",
                   "tesseract"
                ],
                "url": "https://github.com/tesseract-ocr/tesseract",
@@ -5672,7 +5772,7 @@
                "site": "https://github.com",
                "tags": [
                   "java",
-                  "use_docker_compose",
+                  "docker_compose_file",
                   "webui",
                   "kettle"
                ],
@@ -5689,7 +5789,7 @@
                "site": "https://github.com",
                "tags": [
                   "java",
-                  "use_docker_compose",
+                  "docker_compose_file",
                   "springcloud"
                ],
                "url": "https://github.com/zhoutaoo/SpringCloud",
@@ -6019,7 +6119,7 @@
                "shallow": false,
                "site": "https://github.com",
                "tags": [
-                  "use_docker_compose",
+                  "docker_compose_file",
                   "kettle"
                ],
                "url": "https://github.com/zhicwu/docker-pdi-ce",
@@ -6066,7 +6166,7 @@
                "site": "https://github.com",
                "tags": [
                   "java",
-                  "use_docker_compose",
+                  "docker_compose_file",
                   "webui",
                   "kettle"
                ],
@@ -6728,7 +6828,7 @@
                "shallow": false,
                "site": "https://github.com",
                "tags": [
-                  "use_docker_compose",
+                  "docker_compose_file",
                   "pentaho"
                ],
                "url": "https://github.com/oggers/ansible.pentaho-biserver-ce",
@@ -7391,7 +7491,7 @@
                "site": "https://github.com",
                "tags": [
                   "java",
-                  "use_docker_compose",
+                  "docker_compose_file",
                   "springcloud"
                ],
                "url": "https://github.com/zhoutaoo/SpringCloud",
@@ -7642,7 +7742,7 @@
                   "travis",
                   "asciidoc",
                   "docker_image",
-                  "use_docker_compose",
+                  "docker_compose_file",
                   "tesseract"
                ],
                "url": "https://github.com/tesseract-ocr/tesseract",
@@ -7802,7 +7902,7 @@
                   "travis",
                   "asciidoc",
                   "docker_image",
-                  "use_docker_compose",
+                  "docker_compose_file",
                   "tesseract"
                ],
                "url": "https://github.com/tesseract-ocr/tesseract",
@@ -7823,106 +7923,6 @@
                ],
                "url": "https://github.com/junegunn/fzf",
                "user": "junegunn"
-            }
-         ],
-         "use_docker_compose": [
-            {
-               "alias": "tesseract",
-               "forked": false,
-               "release": null,
-               "repos_name": "tesseract",
-               "score": 3,
-               "shallow": false,
-               "site": "https://github.com",
-               "tags": [
-                  "cpp",
-                  "cmake",
-                  "travis",
-                  "asciidoc",
-                  "docker_image",
-                  "use_docker_compose",
-                  "tesseract"
-               ],
-               "url": "https://github.com/tesseract-ocr/tesseract",
-               "user": "tesseract-ocr"
-            },
-            {
-               "alias": "docker-pdi-ce",
-               "forked": false,
-               "release": null,
-               "repos_name": "docker-pdi-ce",
-               "score": 3,
-               "shallow": false,
-               "site": "https://github.com",
-               "tags": [
-                  "use_docker_compose",
-                  "kettle"
-               ],
-               "url": "https://github.com/zhicwu/docker-pdi-ce",
-               "user": "zhicwu"
-            },
-            {
-               "alias": "ansible.pentaho-biserver-ce",
-               "forked": false,
-               "release": null,
-               "repos_name": "ansible.pentaho-biserver-ce",
-               "score": 2,
-               "shallow": false,
-               "site": "https://github.com",
-               "tags": [
-                  "use_docker_compose",
-                  "pentaho"
-               ],
-               "url": "https://github.com/oggers/ansible.pentaho-biserver-ce",
-               "user": "oggers"
-            },
-            {
-               "alias": "webkettle",
-               "forked": false,
-               "release": null,
-               "repos_name": "webkettle",
-               "score": 3,
-               "shallow": false,
-               "site": "https://github.com",
-               "tags": [
-                  "java",
-                  "use_docker_compose",
-                  "webui",
-                  "kettle"
-               ],
-               "url": "https://github.com/JoeyBling/webkettle",
-               "user": "JoeyBling"
-            },
-            {
-               "alias": "SpringCloud",
-               "forked": false,
-               "release": null,
-               "repos_name": "SpringCloud",
-               "score": 3,
-               "shallow": false,
-               "site": "https://github.com",
-               "tags": [
-                  "java",
-                  "use_docker_compose",
-                  "springcloud"
-               ],
-               "url": "https://github.com/zhoutaoo/SpringCloud",
-               "user": "zhoutaoo"
-            },
-            {
-               "alias": "apollo-build-scripts",
-               "forked": false,
-               "release": null,
-               "repos_name": "apollo-build-scripts",
-               "score": 3,
-               "shallow": false,
-               "site": "https://github.com",
-               "tags": [
-                  "use_docker_compose",
-                  "apollo"
-               ],
-               "url": "https://github.com/nobodyiam/apollo-build-scripts",
-               "user": "nobodyiam"
             }
          ],
          "vim": [
@@ -8378,7 +8378,7 @@
                "site": "https://github.com",
                "tags": [
                   "java",
-                  "use_docker_compose",
+                  "docker_compose_file",
                   "webui",
                   "kettle"
                ],

@@ -147,7 +147,7 @@
   [kubernetes](repos.md#kubernetes)
   [ansible_role](repos.md#ansible_role)
   [docker_image](repos.md#docker_image)
-  [use_docker_compose](repos.md#use_docker_compose)
+  [docker_compose_file](repos.md#docker_compose_file)
 ## dev_design
 
   [plantuml](repos.md#plantuml)

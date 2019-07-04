@@ -106,7 +106,7 @@
       "kubernetes",
       "ansible_role",
       "docker_image",
-      "use_docker_compose"
+      "docker_compose_file"
     ],
     "dev_design": [
       "plantuml"

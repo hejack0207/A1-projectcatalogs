@@ -9,7 +9,7 @@
         "travis",
         "asciidoc",
         "docker_image",
-        "use_docker_compose",
+        "docker_compose_file",
         "tesseract"
       ],
       "user": "tesseract-ocr"
@@ -148,7 +148,7 @@
       "alias": "docker-pdi-ce",
       "repos_name": "docker-pdi-ce",
       "tags": [
-        "use_docker_compose",
+        "docker_compose_file",
         "kettle"
       ],
       "user": "zhicwu"
@@ -203,7 +203,7 @@
       "repos_name": "ansible.pentaho-biserver-ce",
       "score": 2,
       "tags": [
-        "use_docker_compose",
+        "docker_compose_file",
         "pentaho"
       ],
       "user": "oggers"
@@ -242,7 +242,7 @@
       "repos_name": "webkettle",
       "tags": [
         "java",
-        "use_docker_compose",
+        "docker_compose_file",
         "webui",
         "kettle"
       ],
@@ -280,7 +280,7 @@
       "repos_name": "SpringCloud",
       "tags": [
         "java",
-        "use_docker_compose",
+        "docker_compose_file",
         "springcloud"
       ],
       "user": "zhoutaoo"
@@ -289,7 +289,7 @@
       "alias": "apollo-build-scripts",
       "repos_name": "apollo-build-scripts",
       "tags": [
-        "use_docker_compose",
+        "docker_compose_file",
         "apollo"
       ],
       "user": "nobodyiam"

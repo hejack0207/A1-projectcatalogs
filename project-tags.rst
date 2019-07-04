@@ -185,6 +185,15 @@ Tags
   + docker.github.io https://github.com/docker/docker.github.io
   + compose https://github.com/docker/compose
 
+* docker_compose_file
+
+  + tesseract https://github.com/tesseract-ocr/tesseract
+  + docker-pdi-ce https://github.com/zhicwu/docker-pdi-ce
+  + ansible.pentaho-biserver-ce https://github.com/oggers/ansible.pentaho-biserver-ce
+  + webkettle https://github.com/JoeyBling/webkettle
+  + SpringCloud https://github.com/zhoutaoo/SpringCloud
+  + apollo-build-scripts https://github.com/nobodyiam/apollo-build-scripts
+
 * docker_image
 
   + tesseract https://github.com/tesseract-ocr/tesseract
@@ -647,15 +656,6 @@ Tags
 * tui
 
   + fzf https://github.com/junegunn/fzf
-
-* use_docker_compose
-
-  + tesseract https://github.com/tesseract-ocr/tesseract
-  + docker-pdi-ce https://github.com/zhicwu/docker-pdi-ce
-  + ansible.pentaho-biserver-ce https://github.com/oggers/ansible.pentaho-biserver-ce
-  + webkettle https://github.com/JoeyBling/webkettle
-  + SpringCloud https://github.com/zhoutaoo/SpringCloud
-  + apollo-build-scripts https://github.com/nobodyiam/apollo-build-scripts
 
 * vim
 
