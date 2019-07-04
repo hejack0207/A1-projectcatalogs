@@ -104,7 +104,7 @@
       "docker_compose",
       "helm",
       "kubernetes",
-      "use_ansible",
+      "ansible_using",
       "use_docker",
       "use_docker_compose"
     ],

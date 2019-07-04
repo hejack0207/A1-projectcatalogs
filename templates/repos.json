@@ -175,7 +175,7 @@
       "alias": "gpdb-ansible",
       "repos_name": "gpdb-ansible",
       "tags": [
-        "use_ansible",
+        "ansible_using",
         "greenplum"
       ],
       "user": "andreasscherbaum"
@@ -184,7 +184,7 @@
       "alias": "greenplum-ansible",
       "repos_name": "greenplum",
       "tags": [
-        "use_ansible",
+        "ansible_using",
         "greenplum"
       ],
       "user": "faer615"
@@ -386,7 +386,7 @@
       "alias": "hadoop-ansible",
       "repos_name": "hadoop-ansible",
       "tags": [
-        "use_ansible",
+        "ansible_using",
         "hadoop"
       ],
       "user": "analytically"
@@ -406,7 +406,7 @@
       "repos_name": "kubespray",
       "tags": [
         "kubernetes",
-        "use_ansible"
+        "ansible_using"
       ],
       "user": "kubernetes-sigs"
     },
@@ -422,7 +422,7 @@
       "alias": "ansible-playbooks-cdh5",
       "repos_name": "ansible-playbooks-cdh5",
       "tags": [
-        "use_ansible",
+        "ansible_using",
         "cdh"
       ],
       "user": "mcsrainbow"
@@ -431,7 +431,7 @@
       "alias": "ansible-playbooks-cdh6",
       "repos_name": "ansible-playbooks-cdh6",
       "tags": [
-        "use_ansible",
+        "ansible_using",
         "cdh"
       ],
       "user": "bjddd192"
@@ -861,7 +861,7 @@
       "alias": "ansible-role-drill",
       "repos_name": "ansible-role-drill",
       "tags": [
-        "use_ansible",
+        "ansible_using",
         "drill"
       ],
       "user": "futuresystems"
