@@ -146,7 +146,7 @@
   [helm](repos.md#helm)
   [kubernetes](repos.md#kubernetes)
   [ansible_role](repos.md#ansible_role)
-  [use_docker](repos.md#use_docker)
+  [docker_image](repos.md#docker_image)
   [use_docker_compose](repos.md#use_docker_compose)
 ## dev_design
 

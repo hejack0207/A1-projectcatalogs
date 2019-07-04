@@ -120,7 +120,7 @@
  [cmake](#cmake) 
  [travis](#travis) 
  [asciidoc](#asciidoc) 
- [use_docker](#use_docker) 
+ [docker_image](#docker_image) 
  [use_docker_compose](#use_docker_compose) 
  [tesseract](#tesseract) 
 ]
@@ -334,7 +334,7 @@
  [cmake](#cmake) 
  [travis](#travis) 
  [asciidoc](#asciidoc) 
- [use_docker](#use_docker) 
+ [docker_image](#docker_image) 
  [use_docker_compose](#use_docker_compose) 
  [tesseract](#tesseract) 
 ]
@@ -384,7 +384,7 @@
  [cmake](#cmake) 
  [travis](#travis) 
  [asciidoc](#asciidoc) 
- [use_docker](#use_docker) 
+ [docker_image](#docker_image) 
  [use_docker_compose](#use_docker_compose) 
  [tesseract](#tesseract) 
 ]
@@ -487,6 +487,73 @@
   + compose <https://github.com/docker/compose> 
 
       [ [docker_compose](#docker_compose) 
+]
+
+## docker_image
+  + tesseract <https://github.com/tesseract-ocr/tesseract> 
+
+      [ [cpp](#cpp) 
+ [cmake](#cmake) 
+ [travis](#travis) 
+ [asciidoc](#asciidoc) 
+ [docker_image](#docker_image) 
+ [use_docker_compose](#use_docker_compose) 
+ [tesseract](#tesseract) 
+]
+  + docker-gpdb5 <https://github.com/bbotev01/gpdb5> 
+
+      [ [docker_image](#docker_image) 
+ [greenplum](#greenplum) 
+]
+  + docker-tomcat <https://github.com/docker-library/tomcat> 
+
+      [ [docker_image](#docker_image) 
+ [tomcat](#tomcat) 
+]
+  + docker-mysql <https://github.com/docker-library/mysql> 
+
+      [ [docker_image](#docker_image) 
+ [mysql](#mysql) 
+]
+  + docker-tomcat8 <https://github.com/cmoro-deusto/docker-tomcat8> 
+
+      [ [docker_image](#docker_image) 
+ [tomcat](#tomcat) 
+]
+  + kylin-docker <https://github.com/Kyligence/kylin-docker> 
+
+      [ [docker_image](#docker_image) 
+ [kylin](#kylin) 
+]
+  + hadoop-docker <https://github.com/sequenceiq/hadoop-docker> 
+
+      [ [docker_image](#docker_image) 
+ [hadoop](#hadoop) 
+]
+  + docker-postgres <https://github.com/docker-library/postgres> 
+
+      [ [docker_image](#docker_image) 
+ [postgres](#postgres) 
+]
+  + docker-postgresql <https://github.com/sameersbn/docker-postgresql> 
+
+      [ [docker_image](#docker_image) 
+ [postgres](#postgres) 
+]
+  + servicemix-docker <https://github.com/mzipay/servicemix-docker> 
+
+      [ [servicemix](#servicemix) 
+ [docker_image](#docker_image) 
+]
+  + mkroli-servicemix-docker <https://github.com/mkroli/servicemix-docker> 
+
+      [ [servicemix](#servicemix) 
+ [docker_image](#docker_image) 
+]
+  + docker-presto <https://github.com/zhicwu/docker-presto> 
+
+      [ [docker_image](#docker_image) 
+ [presto](#presto) 
 ]
 
 ## drill
@@ -664,7 +731,7 @@
 ## greenplum
   + docker-gpdb5 <https://github.com/bbotev01/gpdb5> 
 
-      [ [use_docker](#use_docker) 
+      [ [docker_image](#docker_image) 
  [greenplum](#greenplum) 
 ]
   + gpdb-ansible <https://github.com/andreasscherbaum/gpdb-ansible> 
@@ -703,7 +770,7 @@
 ## hadoop
   + hadoop-docker <https://github.com/sequenceiq/hadoop-docker> 
 
-      [ [use_docker](#use_docker) 
+      [ [docker_image](#docker_image) 
  [hadoop](#hadoop) 
 ]
   + hadoop-ansible <https://github.com/analytically/hadoop-ansible> 
@@ -975,7 +1042,7 @@
 ]
   + kylin-docker <https://github.com/Kyligence/kylin-docker> 
 
-      [ [use_docker](#use_docker) 
+      [ [docker_image](#docker_image) 
  [kylin](#kylin) 
 ]
   + ssb-kylin <https://github.com/Kyligence/ssb-kylin> 
@@ -1067,7 +1134,7 @@
 ]
   + docker-mysql <https://github.com/docker-library/mysql> 
 
-      [ [use_docker](#use_docker) 
+      [ [docker_image](#docker_image) 
  [mysql](#mysql) 
 ]
 
@@ -1215,19 +1282,19 @@
 ]
   + docker-postgres <https://github.com/docker-library/postgres> 
 
-      [ [use_docker](#use_docker) 
+      [ [docker_image](#docker_image) 
  [postgres](#postgres) 
 ]
   + docker-postgresql <https://github.com/sameersbn/docker-postgresql> 
 
-      [ [use_docker](#use_docker) 
+      [ [docker_image](#docker_image) 
  [postgres](#postgres) 
 ]
 
 ## presto
   + docker-presto <https://github.com/zhicwu/docker-presto> 
 
-      [ [use_docker](#use_docker) 
+      [ [docker_image](#docker_image) 
  [presto](#presto) 
 ]
 
@@ -1306,12 +1373,12 @@
   + servicemix-docker <https://github.com/mzipay/servicemix-docker> 
 
       [ [servicemix](#servicemix) 
- [use_docker](#use_docker) 
+ [docker_image](#docker_image) 
 ]
   + mkroli-servicemix-docker <https://github.com/mkroli/servicemix-docker> 
 
       [ [servicemix](#servicemix) 
- [use_docker](#use_docker) 
+ [docker_image](#docker_image) 
 ]
   + servicemix <https://github.com/apache/servicemix> 
 
@@ -1507,7 +1574,7 @@
  [cmake](#cmake) 
  [travis](#travis) 
  [asciidoc](#asciidoc) 
- [use_docker](#use_docker) 
+ [docker_image](#docker_image) 
  [use_docker_compose](#use_docker_compose) 
  [tesseract](#tesseract) 
 ]
@@ -1551,12 +1618,12 @@
 ## tomcat
   + docker-tomcat <https://github.com/docker-library/tomcat> 
 
-      [ [use_docker](#use_docker) 
+      [ [docker_image](#docker_image) 
  [tomcat](#tomcat) 
 ]
   + docker-tomcat8 <https://github.com/cmoro-deusto/docker-tomcat8> 
 
-      [ [use_docker](#use_docker) 
+      [ [docker_image](#docker_image) 
  [tomcat](#tomcat) 
 ]
 
@@ -1567,7 +1634,7 @@
  [cmake](#cmake) 
  [travis](#travis) 
  [asciidoc](#asciidoc) 
- [use_docker](#use_docker) 
+ [docker_image](#docker_image) 
  [use_docker_compose](#use_docker_compose) 
  [tesseract](#tesseract) 
 ]
@@ -1578,73 +1645,6 @@
       [ [tui](#tui) 
 ]
 
-## use_docker
-  + tesseract <https://github.com/tesseract-ocr/tesseract> 
-
-      [ [cpp](#cpp) 
- [cmake](#cmake) 
- [travis](#travis) 
- [asciidoc](#asciidoc) 
- [use_docker](#use_docker) 
- [use_docker_compose](#use_docker_compose) 
- [tesseract](#tesseract) 
-]
-  + docker-gpdb5 <https://github.com/bbotev01/gpdb5> 
-
-      [ [use_docker](#use_docker) 
- [greenplum](#greenplum) 
-]
-  + docker-tomcat <https://github.com/docker-library/tomcat> 
-
-      [ [use_docker](#use_docker) 
- [tomcat](#tomcat) 
-]
-  + docker-mysql <https://github.com/docker-library/mysql> 
-
-      [ [use_docker](#use_docker) 
- [mysql](#mysql) 
-]
-  + docker-tomcat8 <https://github.com/cmoro-deusto/docker-tomcat8> 
-
-      [ [use_docker](#use_docker) 
- [tomcat](#tomcat) 
-]
-  + kylin-docker <https://github.com/Kyligence/kylin-docker> 
-
-      [ [use_docker](#use_docker) 
- [kylin](#kylin) 
-]
-  + hadoop-docker <https://github.com/sequenceiq/hadoop-docker> 
-
-      [ [use_docker](#use_docker) 
- [hadoop](#hadoop) 
-]
-  + docker-postgres <https://github.com/docker-library/postgres> 
-
-      [ [use_docker](#use_docker) 
- [postgres](#postgres) 
-]
-  + docker-postgresql <https://github.com/sameersbn/docker-postgresql> 
-
-      [ [use_docker](#use_docker) 
- [postgres](#postgres) 
-]
-  + servicemix-docker <https://github.com/mzipay/servicemix-docker> 
-
-      [ [servicemix](#servicemix) 
- [use_docker](#use_docker) 
-]
-  + mkroli-servicemix-docker <https://github.com/mkroli/servicemix-docker> 
-
-      [ [servicemix](#servicemix) 
- [use_docker](#use_docker) 
-]
-  + docker-presto <https://github.com/zhicwu/docker-presto> 
-
-      [ [use_docker](#use_docker) 
- [presto](#presto) 
-]
-
 ## use_docker_compose
   + tesseract <https://github.com/tesseract-ocr/tesseract> 
 
@@ -1652,7 +1652,7 @@
  [cmake](#cmake) 
  [travis](#travis) 
  [asciidoc](#asciidoc) 
- [use_docker](#use_docker) 
+ [docker_image](#docker_image) 
  [use_docker_compose](#use_docker_compose) 
  [tesseract](#tesseract) 
 ]

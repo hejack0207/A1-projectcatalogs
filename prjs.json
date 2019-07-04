@@ -35,6 +35,7 @@
          "deep_learning",
          "docker",
          "docker_compose",
+         "docker_image",
          "drill",
          "envelope",
          "etl_awesome",
@@ -118,7 +119,6 @@
          "tmux",
          "tomcat",
          "tui",
-         "use_docker",
          "use_docker_compose",
          "vim",
          "vim_asciidoc",
@@ -169,7 +169,7 @@
             "cmake",
             "travis",
             "asciidoc",
-            "use_docker",
+            "docker_image",
             "use_docker_compose",
             "tesseract"
          ],
@@ -423,7 +423,7 @@
          "shallow": false,
          "site": "https://github.com",
          "tags": [
-            "use_docker",
+            "docker_image",
             "greenplum"
          ],
          "url": "https://github.com/bbotev01/gpdb5",
@@ -637,7 +637,7 @@
          "shallow": false,
          "site": "https://github.com",
          "tags": [
-            "use_docker",
+            "docker_image",
             "tomcat"
          ],
          "url": "https://github.com/docker-library/tomcat",
@@ -652,7 +652,7 @@
          "shallow": false,
          "site": "https://github.com",
          "tags": [
-            "use_docker",
+            "docker_image",
             "mysql"
          ],
          "url": "https://github.com/docker-library/mysql",
@@ -667,7 +667,7 @@
          "shallow": false,
          "site": "https://github.com",
          "tags": [
-            "use_docker",
+            "docker_image",
             "tomcat"
          ],
          "url": "https://github.com/cmoro-deusto/docker-tomcat8",
@@ -696,7 +696,7 @@
          "shallow": false,
          "site": "https://github.com",
          "tags": [
-            "use_docker",
+            "docker_image",
             "kylin"
          ],
          "url": "https://github.com/Kyligence/kylin-docker",
@@ -769,7 +769,7 @@
          "shallow": false,
          "site": "https://github.com",
          "tags": [
-            "use_docker",
+            "docker_image",
             "hadoop"
          ],
          "url": "https://github.com/sequenceiq/hadoop-docker",
@@ -965,7 +965,7 @@
          "shallow": false,
          "site": "https://github.com",
          "tags": [
-            "use_docker",
+            "docker_image",
             "postgres"
          ],
          "url": "https://github.com/docker-library/postgres",
@@ -980,7 +980,7 @@
          "shallow": false,
          "site": "https://github.com",
          "tags": [
-            "use_docker",
+            "docker_image",
             "postgres"
          ],
          "url": "https://github.com/sameersbn/docker-postgresql",
@@ -1181,7 +1181,7 @@
          "site": "https://github.com",
          "tags": [
             "servicemix",
-            "use_docker"
+            "docker_image"
          ],
          "url": "https://github.com/mzipay/servicemix-docker",
          "user": "mzipay"
@@ -1196,7 +1196,7 @@
          "site": "https://github.com",
          "tags": [
             "servicemix",
-            "use_docker"
+            "docker_image"
          ],
          "url": "https://github.com/mkroli/servicemix-docker",
          "user": "mkroli"
@@ -1442,7 +1442,7 @@
          "shallow": false,
          "site": "https://github.com",
          "tags": [
-            "use_docker",
+            "docker_image",
             "presto"
          ],
          "url": "https://github.com/zhicwu/docker-presto",
@@ -3299,7 +3299,7 @@
          "helm",
          "kubernetes",
          "ansible_role",
-         "use_docker",
+         "docker_image",
          "use_docker_compose"
       ],
       "dev_design": [
@@ -3727,7 +3727,7 @@
                   "cmake",
                   "travis",
                   "asciidoc",
-                  "use_docker",
+                  "docker_image",
                   "use_docker_compose",
                   "tesseract"
                ],
@@ -4291,7 +4291,7 @@
                   "cmake",
                   "travis",
                   "asciidoc",
-                  "use_docker",
+                  "docker_image",
                   "use_docker_compose",
                   "tesseract"
                ],
@@ -4411,7 +4411,7 @@
                   "cmake",
                   "travis",
                   "asciidoc",
-                  "use_docker",
+                  "docker_image",
                   "use_docker_compose",
                   "tesseract"
                ],
@@ -4677,6 +4677,193 @@
                ],
                "url": "https://github.com/docker/compose",
                "user": "docker"
+            }
+         ],
+         "docker_image": [
+            {
+               "alias": "tesseract",
+               "forked": false,
+               "release": null,
+               "repos_name": "tesseract",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "cpp",
+                  "cmake",
+                  "travis",
+                  "asciidoc",
+                  "docker_image",
+                  "use_docker_compose",
+                  "tesseract"
+               ],
+               "url": "https://github.com/tesseract-ocr/tesseract",
+               "user": "tesseract-ocr"
+            },
+            {
+               "alias": "docker-gpdb5",
+               "forked": false,
+               "release": null,
+               "repos_name": "gpdb5",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "docker_image",
+                  "greenplum"
+               ],
+               "url": "https://github.com/bbotev01/gpdb5",
+               "user": "bbotev01"
+            },
+            {
+               "alias": "docker-tomcat",
+               "forked": false,
+               "release": null,
+               "repos_name": "tomcat",
+               "score": 2,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "docker_image",
+                  "tomcat"
+               ],
+               "url": "https://github.com/docker-library/tomcat",
+               "user": "docker-library"
+            },
+            {
+               "alias": "docker-mysql",
+               "forked": false,
+               "release": null,
+               "repos_name": "mysql",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "docker_image",
+                  "mysql"
+               ],
+               "url": "https://github.com/docker-library/mysql",
+               "user": "docker-library"
+            },
+            {
+               "alias": "docker-tomcat8",
+               "forked": false,
+               "release": null,
+               "repos_name": "docker-tomcat8",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "docker_image",
+                  "tomcat"
+               ],
+               "url": "https://github.com/cmoro-deusto/docker-tomcat8",
+               "user": "cmoro-deusto"
+            },
+            {
+               "alias": "kylin-docker",
+               "forked": false,
+               "release": null,
+               "repos_name": "kylin-docker",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "docker_image",
+                  "kylin"
+               ],
+               "url": "https://github.com/Kyligence/kylin-docker",
+               "user": "Kyligence"
+            },
+            {
+               "alias": "hadoop-docker",
+               "forked": false,
+               "release": null,
+               "repos_name": "hadoop-docker",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "docker_image",
+                  "hadoop"
+               ],
+               "url": "https://github.com/sequenceiq/hadoop-docker",
+               "user": "sequenceiq"
+            },
+            {
+               "alias": "docker-postgres",
+               "forked": false,
+               "release": null,
+               "repos_name": "postgres",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "docker_image",
+                  "postgres"
+               ],
+               "url": "https://github.com/docker-library/postgres",
+               "user": "docker-library"
+            },
+            {
+               "alias": "docker-postgresql",
+               "forked": false,
+               "release": null,
+               "repos_name": "docker-postgresql",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "docker_image",
+                  "postgres"
+               ],
+               "url": "https://github.com/sameersbn/docker-postgresql",
+               "user": "sameersbn"
+            },
+            {
+               "alias": "servicemix-docker",
+               "forked": false,
+               "release": null,
+               "repos_name": "servicemix-docker",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "servicemix",
+                  "docker_image"
+               ],
+               "url": "https://github.com/mzipay/servicemix-docker",
+               "user": "mzipay"
+            },
+            {
+               "alias": "mkroli-servicemix-docker",
+               "forked": false,
+               "release": null,
+               "repos_name": "servicemix-docker",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "servicemix",
+                  "docker_image"
+               ],
+               "url": "https://github.com/mkroli/servicemix-docker",
+               "user": "mkroli"
+            },
+            {
+               "alias": "docker-presto",
+               "forked": false,
+               "release": null,
+               "repos_name": "docker-presto",
+               "score": 3,
+               "shallow": false,
+               "site": "https://github.com",
+               "tags": [
+                  "docker_image",
+                  "presto"
+               ],
+               "url": "https://github.com/zhicwu/docker-presto",
+               "user": "zhicwu"
             }
          ],
          "drill": [
@@ -5181,7 +5368,7 @@
                "shallow": false,
                "site": "https://github.com",
                "tags": [
-                  "use_docker",
+                  "docker_image",
                   "greenplum"
                ],
                "url": "https://github.com/bbotev01/gpdb5",
@@ -5290,7 +5477,7 @@
                "shallow": false,
                "site": "https://github.com",
                "tags": [
-                  "use_docker",
+                  "docker_image",
                   "hadoop"
                ],
                "url": "https://github.com/sequenceiq/hadoop-docker",
@@ -6022,7 +6209,7 @@
                "shallow": false,
                "site": "https://github.com",
                "tags": [
-                  "use_docker",
+                  "docker_image",
                   "kylin"
                ],
                "url": "https://github.com/Kyligence/kylin-docker",
@@ -6264,7 +6451,7 @@
                "shallow": false,
                "site": "https://github.com",
                "tags": [
-                  "use_docker",
+                  "docker_image",
                   "mysql"
                ],
                "url": "https://github.com/docker-library/mysql",
@@ -6682,7 +6869,7 @@
                "shallow": false,
                "site": "https://github.com",
                "tags": [
-                  "use_docker",
+                  "docker_image",
                   "postgres"
                ],
                "url": "https://github.com/docker-library/postgres",
@@ -6697,7 +6884,7 @@
                "shallow": false,
                "site": "https://github.com",
                "tags": [
-                  "use_docker",
+                  "docker_image",
                   "postgres"
                ],
                "url": "https://github.com/sameersbn/docker-postgresql",
@@ -6714,7 +6901,7 @@
                "shallow": false,
                "site": "https://github.com",
                "tags": [
-                  "use_docker",
+                  "docker_image",
                   "presto"
                ],
                "url": "https://github.com/zhicwu/docker-presto",
@@ -6923,7 +7110,7 @@
                "site": "https://github.com",
                "tags": [
                   "servicemix",
-                  "use_docker"
+                  "docker_image"
                ],
                "url": "https://github.com/mzipay/servicemix-docker",
                "user": "mzipay"
@@ -6938,7 +7125,7 @@
                "site": "https://github.com",
                "tags": [
                   "servicemix",
-                  "use_docker"
+                  "docker_image"
                ],
                "url": "https://github.com/mkroli/servicemix-docker",
                "user": "mkroli"
@@ -7454,7 +7641,7 @@
                   "cmake",
                   "travis",
                   "asciidoc",
-                  "use_docker",
+                  "docker_image",
                   "use_docker_compose",
                   "tesseract"
                ],
@@ -7578,7 +7765,7 @@
                "shallow": false,
                "site": "https://github.com",
                "tags": [
-                  "use_docker",
+                  "docker_image",
                   "tomcat"
                ],
                "url": "https://github.com/docker-library/tomcat",
@@ -7593,7 +7780,7 @@
                "shallow": false,
                "site": "https://github.com",
                "tags": [
-                  "use_docker",
+                  "docker_image",
                   "tomcat"
                ],
                "url": "https://github.com/cmoro-deusto/docker-tomcat8",
@@ -7614,7 +7801,7 @@
                   "cmake",
                   "travis",
                   "asciidoc",
-                  "use_docker",
+                  "docker_image",
                   "use_docker_compose",
                   "tesseract"
                ],
@@ -7638,193 +7825,6 @@
                "user": "junegunn"
             }
          ],
-         "use_docker": [
-            {
-               "alias": "tesseract",
-               "forked": false,
-               "release": null,
-               "repos_name": "tesseract",
-               "score": 3,
-               "shallow": false,
-               "site": "https://github.com",
-               "tags": [
-                  "cpp",
-                  "cmake",
-                  "travis",
-                  "asciidoc",
-                  "use_docker",
-                  "use_docker_compose",
-                  "tesseract"
-               ],
-               "url": "https://github.com/tesseract-ocr/tesseract",
-               "user": "tesseract-ocr"
-            },
-            {
-               "alias": "docker-gpdb5",
-               "forked": false,
-               "release": null,
-               "repos_name": "gpdb5",
-               "score": 3,
-               "shallow": false,
-               "site": "https://github.com",
-               "tags": [
-                  "use_docker",
-                  "greenplum"
-               ],
-               "url": "https://github.com/bbotev01/gpdb5",
-               "user": "bbotev01"
-            },
-            {
-               "alias": "docker-tomcat",
-               "forked": false,
-               "release": null,
-               "repos_name": "tomcat",
-               "score": 2,
-               "shallow": false,
-               "site": "https://github.com",
-               "tags": [
-                  "use_docker",
-                  "tomcat"
-               ],
-               "url": "https://github.com/docker-library/tomcat",
-               "user": "docker-library"
-            },
-            {
-               "alias": "docker-mysql",
-               "forked": false,
-               "release": null,
-               "repos_name": "mysql",
-               "score": 3,
-               "shallow": false,
-               "site": "https://github.com",
-               "tags": [
-                  "use_docker",
-                  "mysql"
-               ],
-               "url": "https://github.com/docker-library/mysql",
-               "user": "docker-library"
-            },
-            {
-               "alias": "docker-tomcat8",
-               "forked": false,
-               "release": null,
-               "repos_name": "docker-tomcat8",
-               "score": 3,
-               "shallow": false,
-               "site": "https://github.com",
-               "tags": [
-                  "use_docker",
-                  "tomcat"
-               ],
-               "url": "https://github.com/cmoro-deusto/docker-tomcat8",
-               "user": "cmoro-deusto"
-            },
-            {
-               "alias": "kylin-docker",
-               "forked": false,
-               "release": null,
-               "repos_name": "kylin-docker",
-               "score": 3,
-               "shallow": false,
-               "site": "https://github.com",
-               "tags": [
-                  "use_docker",
-                  "kylin"
-               ],
-               "url": "https://github.com/Kyligence/kylin-docker",
-               "user": "Kyligence"
-            },
-            {
-               "alias": "hadoop-docker",
-               "forked": false,
-               "release": null,
-               "repos_name": "hadoop-docker",
-               "score": 3,
-               "shallow": false,
-               "site": "https://github.com",
-               "tags": [
-                  "use_docker",
-                  "hadoop"
-               ],
-               "url": "https://github.com/sequenceiq/hadoop-docker",
-               "user": "sequenceiq"
-            },
-            {
-               "alias": "docker-postgres",
-               "forked": false,
-               "release": null,
-               "repos_name": "postgres",
-               "score": 3,
-               "shallow": false,
-               "site": "https://github.com",
-               "tags": [
-                  "use_docker",
-                  "postgres"
-               ],
-               "url": "https://github.com/docker-library/postgres",
-               "user": "docker-library"
-            },
-            {
-               "alias": "docker-postgresql",
-               "forked": false,
-               "release": null,
-               "repos_name": "docker-postgresql",
-               "score": 3,
-               "shallow": false,
-               "site": "https://github.com",
-               "tags": [
-                  "use_docker",
-                  "postgres"
-               ],
-               "url": "https://github.com/sameersbn/docker-postgresql",
-               "user": "sameersbn"
-            },
-            {
-               "alias": "servicemix-docker",
-               "forked": false,
-               "release": null,
-               "repos_name": "servicemix-docker",
-               "score": 3,
-               "shallow": false,
-               "site": "https://github.com",
-               "tags": [
-                  "servicemix",
-                  "use_docker"
-               ],
-               "url": "https://github.com/mzipay/servicemix-docker",
-               "user": "mzipay"
-            },
-            {
-               "alias": "mkroli-servicemix-docker",
-               "forked": false,
-               "release": null,
-               "repos_name": "servicemix-docker",
-               "score": 3,
-               "shallow": false,
-               "site": "https://github.com",
-               "tags": [
-                  "servicemix",
-                  "use_docker"
-               ],
-               "url": "https://github.com/mkroli/servicemix-docker",
-               "user": "mkroli"
-            },
-            {
-               "alias": "docker-presto",
-               "forked": false,
-               "release": null,
-               "repos_name": "docker-presto",
-               "score": 3,
-               "shallow": false,
-               "site": "https://github.com",
-               "tags": [
-                  "use_docker",
-                  "presto"
-               ],
-               "url": "https://github.com/zhicwu/docker-presto",
-               "user": "zhicwu"
-            }
-         ],
          "use_docker_compose": [
             {
                "alias": "tesseract",
@@ -7839,7 +7839,7 @@
                   "cmake",
                   "travis",
                   "asciidoc",
-                  "use_docker",
+                  "docker_image",
                   "use_docker_compose",
                   "tesseract"
                ],

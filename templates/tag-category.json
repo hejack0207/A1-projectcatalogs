@@ -105,7 +105,7 @@
       "helm",
       "kubernetes",
       "ansible_role",
-      "use_docker",
+      "docker_image",
       "use_docker_compose"
     ],
     "dev_design": [

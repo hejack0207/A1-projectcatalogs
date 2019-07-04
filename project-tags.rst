@@ -185,6 +185,21 @@ Tags
   + docker.github.io https://github.com/docker/docker.github.io
   + compose https://github.com/docker/compose
 
+* docker_image
+
+  + tesseract https://github.com/tesseract-ocr/tesseract
+  + docker-gpdb5 https://github.com/bbotev01/gpdb5
+  + docker-tomcat https://github.com/docker-library/tomcat
+  + docker-mysql https://github.com/docker-library/mysql
+  + docker-tomcat8 https://github.com/cmoro-deusto/docker-tomcat8
+  + kylin-docker https://github.com/Kyligence/kylin-docker
+  + hadoop-docker https://github.com/sequenceiq/hadoop-docker
+  + docker-postgres https://github.com/docker-library/postgres
+  + docker-postgresql https://github.com/sameersbn/docker-postgresql
+  + servicemix-docker https://github.com/mzipay/servicemix-docker
+  + mkroli-servicemix-docker https://github.com/mkroli/servicemix-docker
+  + docker-presto https://github.com/zhicwu/docker-presto
+
 * drill
 
   + drill https://github.com/apache/drill
@@ -632,21 +647,6 @@ Tags
 * tui
 
   + fzf https://github.com/junegunn/fzf
-
-* use_docker
-
-  + tesseract https://github.com/tesseract-ocr/tesseract
-  + docker-gpdb5 https://github.com/bbotev01/gpdb5
-  + docker-tomcat https://github.com/docker-library/tomcat
-  + docker-mysql https://github.com/docker-library/mysql
-  + docker-tomcat8 https://github.com/cmoro-deusto/docker-tomcat8
-  + kylin-docker https://github.com/Kyligence/kylin-docker
-  + hadoop-docker https://github.com/sequenceiq/hadoop-docker
-  + docker-postgres https://github.com/docker-library/postgres
-  + docker-postgresql https://github.com/sameersbn/docker-postgresql
-  + servicemix-docker https://github.com/mzipay/servicemix-docker
-  + mkroli-servicemix-docker https://github.com/mkroli/servicemix-docker
-  + docker-presto https://github.com/zhicwu/docker-presto
 
 * use_docker_compose
 

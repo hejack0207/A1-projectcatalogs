@@ -8,7 +8,7 @@
         "cmake",
         "travis",
         "asciidoc",
-        "use_docker",
+        "docker_image",
         "use_docker_compose",
         "tesseract"
       ],
@@ -166,7 +166,7 @@
       "alias": "docker-gpdb5",
       "repos_name": "gpdb5",
       "tags": [
-        "use_docker",
+        "docker_image",
         "greenplum"
       ],
       "user": "bbotev01"
@@ -299,7 +299,7 @@
       "repos_name": "tomcat",
       "score": 2,
       "tags": [
-        "use_docker",
+        "docker_image",
         "tomcat"
       ],
       "user": "docker-library"
@@ -308,7 +308,7 @@
       "alias": "docker-mysql",
       "repos_name": "mysql",
       "tags": [
-        "use_docker",
+        "docker_image",
         "mysql"
       ],
       "user": "docker-library"
@@ -317,7 +317,7 @@
       "alias": "docker-tomcat8",
       "repos_name": "docker-tomcat8",
       "tags": [
-        "use_docker",
+        "docker_image",
         "tomcat"
       ],
       "user": "cmoro-deusto"
@@ -334,7 +334,7 @@
       "alias": "kylin-docker",
       "repos_name": "kylin-docker",
       "tags": [
-        "use_docker",
+        "docker_image",
         "kylin"
       ],
       "user": "Kyligence"
@@ -377,7 +377,7 @@
       "alias": "hadoop-docker",
       "repos_name": "hadoop-docker",
       "tags": [
-        "use_docker",
+        "docker_image",
         "hadoop"
       ],
       "user": "sequenceiq"
@@ -495,7 +495,7 @@
       "alias": "docker-postgres",
       "repos_name": "postgres",
       "tags": [
-        "use_docker",
+        "docker_image",
         "postgres"
       ],
       "user": "docker-library"
@@ -504,7 +504,7 @@
       "alias": "docker-postgresql",
       "repos_name": "docker-postgresql",
       "tags": [
-        "use_docker",
+        "docker_image",
         "postgres"
       ],
       "user": "sameersbn"
@@ -621,7 +621,7 @@
       "repos_name": "servicemix-docker",
       "tags": [
         "servicemix",
-        "use_docker"
+        "docker_image"
       ],
       "user": "mzipay"
     },
@@ -630,7 +630,7 @@
       "repos_name": "servicemix-docker",
       "tags": [
         "servicemix",
-        "use_docker"
+        "docker_image"
       ],
       "user": "mkroli"
     },
@@ -774,7 +774,7 @@
       "alias": "docker-presto",
       "repos_name": "docker-presto",
       "tags": [
-        "use_docker",
+        "docker_image",
         "presto"
       ],
       "user": "zhicwu"
