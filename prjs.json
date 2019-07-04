@@ -7,7 +7,7 @@
          "android_app",
          "angular",
          "ansible",
-         "ansible_using",
+         "ansible_role",
          "ant",
          "archetype",
          "asciidoc",
@@ -438,7 +438,7 @@
          "shallow": false,
          "site": "https://github.com",
          "tags": [
-            "ansible_using",
+            "ansible_role",
             "greenplum"
          ],
          "url": "https://github.com/andreasscherbaum/gpdb-ansible",
@@ -453,7 +453,7 @@
          "shallow": false,
          "site": "https://github.com",
          "tags": [
-            "ansible_using",
+            "ansible_role",
             "greenplum"
          ],
          "url": "https://github.com/faer615/greenplum",
@@ -784,7 +784,7 @@
          "shallow": false,
          "site": "https://github.com",
          "tags": [
-            "ansible_using",
+            "ansible_role",
             "hadoop"
          ],
          "url": "https://github.com/analytically/hadoop-ansible",
@@ -816,7 +816,7 @@
          "site": "https://github.com",
          "tags": [
             "kubernetes",
-            "ansible_using"
+            "ansible_role"
          ],
          "url": "https://github.com/kubernetes-sigs/kubespray",
          "user": "kubernetes-sigs"
@@ -844,7 +844,7 @@
          "shallow": false,
          "site": "https://github.com",
          "tags": [
-            "ansible_using",
+            "ansible_role",
             "cdh"
          ],
          "url": "https://github.com/mcsrainbow/ansible-playbooks-cdh5",
@@ -859,7 +859,7 @@
          "shallow": false,
          "site": "https://github.com",
          "tags": [
-            "ansible_using",
+            "ansible_role",
             "cdh"
          ],
          "url": "https://github.com/bjddd192/ansible-playbooks-cdh6",
@@ -1589,7 +1589,7 @@
          "shallow": false,
          "site": "https://github.com",
          "tags": [
-            "ansible_using",
+            "ansible_role",
             "drill"
          ],
          "url": "https://github.com/futuresystems/ansible-role-drill",
@@ -3298,7 +3298,7 @@
          "docker_compose",
          "helm",
          "kubernetes",
-         "ansible_using",
+         "ansible_role",
          "use_docker",
          "use_docker_compose"
       ],
@@ -3553,7 +3553,7 @@
                "user": "PatrickJS"
             }
          ],
-         "ansible_using": [
+         "ansible_role": [
             {
                "alias": "gpdb-ansible",
                "forked": false,
@@ -3563,7 +3563,7 @@
                "shallow": false,
                "site": "https://github.com",
                "tags": [
-                  "ansible_using",
+                  "ansible_role",
                   "greenplum"
                ],
                "url": "https://github.com/andreasscherbaum/gpdb-ansible",
@@ -3578,7 +3578,7 @@
                "shallow": false,
                "site": "https://github.com",
                "tags": [
-                  "ansible_using",
+                  "ansible_role",
                   "greenplum"
                ],
                "url": "https://github.com/faer615/greenplum",
@@ -3593,7 +3593,7 @@
                "shallow": false,
                "site": "https://github.com",
                "tags": [
-                  "ansible_using",
+                  "ansible_role",
                   "hadoop"
                ],
                "url": "https://github.com/analytically/hadoop-ansible",
@@ -3609,7 +3609,7 @@
                "site": "https://github.com",
                "tags": [
                   "kubernetes",
-                  "ansible_using"
+                  "ansible_role"
                ],
                "url": "https://github.com/kubernetes-sigs/kubespray",
                "user": "kubernetes-sigs"
@@ -3623,7 +3623,7 @@
                "shallow": false,
                "site": "https://github.com",
                "tags": [
-                  "ansible_using",
+                  "ansible_role",
                   "cdh"
                ],
                "url": "https://github.com/mcsrainbow/ansible-playbooks-cdh5",
@@ -3638,7 +3638,7 @@
                "shallow": false,
                "site": "https://github.com",
                "tags": [
-                  "ansible_using",
+                  "ansible_role",
                   "cdh"
                ],
                "url": "https://github.com/bjddd192/ansible-playbooks-cdh6",
@@ -3653,7 +3653,7 @@
                "shallow": false,
                "site": "https://github.com",
                "tags": [
-                  "ansible_using",
+                  "ansible_role",
                   "drill"
                ],
                "url": "https://github.com/futuresystems/ansible-role-drill",
@@ -4223,7 +4223,7 @@
                "shallow": false,
                "site": "https://github.com",
                "tags": [
-                  "ansible_using",
+                  "ansible_role",
                   "cdh"
                ],
                "url": "https://github.com/mcsrainbow/ansible-playbooks-cdh5",
@@ -4238,7 +4238,7 @@
                "shallow": false,
                "site": "https://github.com",
                "tags": [
-                  "ansible_using",
+                  "ansible_role",
                   "cdh"
                ],
                "url": "https://github.com/bjddd192/ansible-playbooks-cdh6",
@@ -4706,7 +4706,7 @@
                "shallow": false,
                "site": "https://github.com",
                "tags": [
-                  "ansible_using",
+                  "ansible_role",
                   "drill"
                ],
                "url": "https://github.com/futuresystems/ansible-role-drill",
@@ -5196,7 +5196,7 @@
                "shallow": false,
                "site": "https://github.com",
                "tags": [
-                  "ansible_using",
+                  "ansible_role",
                   "greenplum"
                ],
                "url": "https://github.com/andreasscherbaum/gpdb-ansible",
@@ -5211,7 +5211,7 @@
                "shallow": false,
                "site": "https://github.com",
                "tags": [
-                  "ansible_using",
+                  "ansible_role",
                   "greenplum"
                ],
                "url": "https://github.com/faer615/greenplum",
@@ -5305,7 +5305,7 @@
                "shallow": false,
                "site": "https://github.com",
                "tags": [
-                  "ansible_using",
+                  "ansible_role",
                   "hadoop"
                ],
                "url": "https://github.com/analytically/hadoop-ansible",
@@ -5962,7 +5962,7 @@
                "site": "https://github.com",
                "tags": [
                   "kubernetes",
-                  "ansible_using"
+                  "ansible_role"
                ],
                "url": "https://github.com/kubernetes-sigs/kubespray",
                "user": "kubernetes-sigs"

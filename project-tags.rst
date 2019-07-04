@@ -23,7 +23,7 @@ Tags
   + awesome-angular-components https://github.com/brillout/awesome-angular-components
   + awesome-angular https://github.com/PatrickJS/awesome-angular
 
-* ansible_using
+* ansible_role
 
   + gpdb-ansible https://github.com/andreasscherbaum/gpdb-ansible
   + greenplum-ansible https://github.com/faer615/greenplum
