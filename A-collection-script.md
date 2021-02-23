@@ -25,6 +25,7 @@
 * [desed:rs](https://github.com/SoptikHa2/desed)
 * [sedtris:sed](https://github.com/uuner/sedtris)
 * [sedsed:sed](https://github.com/aureliojargas/sedsed)
+* [dkr2sh:sed](https://github.com/devgateway/dkr2sh)
 
 # awk
 * [gawk](https://github.com/Distrotech/gawk)
