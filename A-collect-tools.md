@@ -245,6 +245,7 @@
 
 # wm
 * [lightdm](https://github.com/canonical/lightdm)
+* [i3](https://github.com/i3/i3)
 
 # browser
 * [manipulate_firefox_bookmarks:py](https://github.com/JamesLochhead/manipulate_firefox_bookmarks)
