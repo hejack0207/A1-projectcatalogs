@@ -73,6 +73,7 @@
 * [awesome-os](https://github.com/jubalh/awesome-os)
 * [awesome-linux](https://github.com/inputsh/awesome-linux)
 * [awesome-kernel](https://github.com/rynsy/awesome-kernel)
+* [rockylinux-docs](https://github.com/rocky-linux/rockylinux.org-hugo)
 
 ## graph database
 * [indradb:rs](https://github.com/indradb/indradb)
