@@ -144,6 +144,7 @@
 
 ## html
 * [monolith:rs](https://github.com/Y2Z/monolith)
+* [htmldoc](https://github.com/michaelrsweet/htmldoc)
 
 ## sql
 * [usql:go](https://github.com/xo/usql)
