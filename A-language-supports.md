@@ -33,6 +33,8 @@
 * [lctn](https://github.com/chenchun/ltcn)
 * [ipset](https://github.com/chenchun/ipset)
 * [cgroupfs](https://github.com/chenchun/cgroupfs)
+### project
+* [hugo](https://github.com/gohugoio/hugo)
 
 # python
 * [collection-python](https://github.com/hejack0207/collection-python)
