@@ -43,6 +43,7 @@
 # package manager
 * [scoop](https://github.com/lukesampson/scoop)
 * [scoop-extras](https://github.com/lukesampson/scoop-extras)
+* [winget-cli](https://github.com/microsoft/winget-cli)
 
 # terminal
 * [mintty](https://github.com/mintty/mintty)
