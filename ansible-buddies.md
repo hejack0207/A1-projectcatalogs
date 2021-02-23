@@ -20,3 +20,7 @@
 
 # ansible roles
 * [ansible-nginx](https://github.com/DimitriSteyaert/ansible-nginx)
+
+# ansible playbook
+* [openstack-ansible](https://github.com/openstack/openstack-ansible)
+* [ceph-ansible](https://github.com/ceph/ceph-ansible)

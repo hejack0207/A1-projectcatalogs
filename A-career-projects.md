@@ -57,8 +57,6 @@
 * [tke](https://github.com/tkestack/tke)
 * [tke-docs](https://github.com/tkestack/docs)
 * [charts](https://github.com/tkestack/charts)
-* [libnvidia-container](https://github.com/NVIDIA/libnvidia-container)
-* [libnvidia-container-runtime](https://github.com/NVIDIA/libnvidia-container-runtime)
 
 ## openstack
 * [openstack](https://github.com/openstack/openstack)
