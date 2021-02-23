@@ -82,3 +82,6 @@
 ## textui
 * [indicatif:rs](https://github.com/mitsuhiko/indicatif)
 * [cmd2:py](https://github.com/python-cmd2/cmd2)
+
+## data structure
+* [go-funk](https://github.com/thoas/go-funk)
