@@ -5,11 +5,14 @@
 * [autoenv](https://github.com/zpm-zsh/autoenv)
 
 # bash
+* [awesome-bash](https://github.com/awesome-lists/awesome-bash)
+* [bash](https://github.com/bminor/bash)
 * [bash](https://github.com/gitGNU/gnu_bash)
 * [bpkg](https://github.com/bpkg/bpkg)
 * [oh-my-bash](https://github.com/ohmybash/oh-my-bash)
 
 ### scripts
+* [bash-it](https://github.com/Bash-it/bash-it)
 * [bats](https://github.com/sstephenson/bats)
 * [backup-bash](https://github.com/leo-G/backup-bash)
 * [trigger](https://github.com/sharkdp/trigger)
@@ -18,6 +21,9 @@
 * [smartcd:pl](https://github.com/cxreg/smartcd)
 * [JSON.sh](https://github.com/dominictarr/JSON.sh)
 * [greys-anatomy-bpkg-installer](https://github.com/hejack0207/greys-anatomy-bpkg-installer)
+* [bashttpd](https://github.com/avleen/bashttpd)
+* [bash2048](https://github.com/mydzor/bash2048)
+* [bash-guide](https://github.com/ldnan/bash-guide)
 
 # tcl
 * [machinery:tcl](https://github.com/efrecon/machinery)
