@@ -30,6 +30,7 @@
 * [flannel](https://github.com/coreos/flannel)
 * [calico](https://github.com/projectcalico/calico)
 * [galaxy](https://github.com/tkestack/galaxy)
+* [ipvsadm](https://github.com/Distrotech/ipvsadm)
 
 ## storage
 * [fastcfs](https://github.com/happyfish100/FastCFS)
