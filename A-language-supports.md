@@ -35,6 +35,7 @@
 * [cgroupfs](https://github.com/chenchun/cgroupfs)
 ### project
 * [hugo](https://github.com/gohugoio/hugo)
+* [hugodocs](https://github.com/gohugoio/hugoDocs)
 
 # python
 * [collection-python](https://github.com/hejack0207/collection-python)

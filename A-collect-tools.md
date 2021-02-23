@@ -179,7 +179,6 @@
 # doctool
 * [pandoc:hs](https://github.com/jgm/pandoc)
 * [hugo:go](https://github.com/gohugoio/hugo)
-* [hugodocs](https://github.com/gohugoio/hugoDocs)
 * [jekyll:rb](https://github.com/jekyll/jekyll)
 
 ## man
