@@ -15,6 +15,7 @@
 * [pmonitor](https://github.com/dspinellis/pmonitor)
 * [autoenv](https://github.com/inishchith/autoenv)
 * [smartcd:pl](https://github.com/cxreg/smartcd)
+* [JSON.sh](https://github.com/dominictarr/JSON.sh)
 
 # tcl
 * [machinery:tcl](https://github.com/efrecon/machinery)
@@ -23,10 +24,15 @@
 * [sd:rs](https://github.com/chmln/sd)
 * [desed:rs](https://github.com/SoptikHa2/desed)
 * [sedtris:sed](https://github.com/uuner/sedtris)
+* [sedsed:sed](https://github.com/aureliojargas/sedsed)
 
 # awk
 * [gawk](https://github.com/Distrotech/gawk)
 * [awesome-awk](https://github.com/freznicek/awesome-awk)
+* [grawkit](https://github.com/deuill/grawkit)
+* [awklisp](https://github.com/darius/awklisp)
+* [JSON.awk](https://github.com/step-/JSON.awk)
+* [translate-shell](https://github.com/soimort/translate-shell)
 
 # ruby
 * [ruby](https://github.com/ruby/ruby)
@@ -51,10 +57,12 @@
 * [faq:go](https://github.com/jzelinskie/faq)
 * [yq:py](https://github.com/kislyuk/yq)
 * [jqq:rb](https://github.com/jcsalterego/jqq)
+* [jqed:py](https://github.com/Wazzaps/jqed)
 * [jq-rs:rs](https://github.com/onelson/jq-rs)
 * [jqnpm:sh](https://github.com/joelpurra/jqnpm)
 * [vim-jqplay:vim](https://github.com/bfrg/vim-jqplay)
 * [jq-zsh-plugin:zsh](https://github.com/reegnz/jq-zsh-plugin)
+* [jq.py](https://github.com/mwilliamson/jq.py)
 
 # jsonnet
 * [jsonnet](https://github.com/google/jsonnet)
