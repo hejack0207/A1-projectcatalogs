@@ -65,6 +65,11 @@
 * [gpdb](https://github.com/greenplum-db/gpdb)
 * [tidb](https://github.com/pingcap/tidb)
 
+## linux release
+* [awesome-os](https://github.com/jubalh/awesome-os)
+* [awesome-linux](https://github.com/inputsh/awesome-linux)
+* [awesome-kernel](https://github.com/rynsy/awesome-kernel)
+
 ## graph database
 * [indradb:rs](https://github.com/indradb/indradb)
 

@@ -287,3 +287,5 @@
 # boot
 * [multios-usb](https://github.com/Mexit/MultiOS-USB)
 
+# awesome
+* [awesome-linux-software](https://github.com/luong-komorebi/Awesome-Linux-Software)
