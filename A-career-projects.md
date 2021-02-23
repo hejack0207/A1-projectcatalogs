@@ -93,6 +93,7 @@
 
 # ai
 * [mindspore](https://github.com/mindspore-ai/mindspore)
+* [sqlflow](https://github.com/sql-machine-learning/sqlflow)
 
 ## ai-ops
 * [awesome-aiops](https://github.com/linjinjin123/awesome-AIOps)
