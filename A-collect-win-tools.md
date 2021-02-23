@@ -27,6 +27,9 @@
 * [powershell](https://github.com/PowerShell/PowerShell)
 * [powershell-settings](https://github.com/hejack0207/powershell-settings)
 
+# wsl
+* [awesome-wsl](https://github.com/sirredbeard/Awesome-WSL)
+
 # docker
 * [docker-toolbox](https://github.com/docker/toolbox)
 
@@ -44,6 +47,7 @@
 # terminal
 * [mintty](https://github.com/mintty/mintty)
 * [ConEmu](https://github.com/Maximus5/ConEmu)
+* [terminal](https://github.com/microsoft/terminal)
 * [alacritty:rs](https://github.com/alacritty/alacritty)
 * [cmder](https://github.com/cmderdev/cmder)
 * [clink](https://github.com/mridgers/clink)

@@ -81,3 +81,4 @@
 
 ## textui
 * [indicatif:rs](https://github.com/mitsuhiko/indicatif)
+* [cmd2:py](https://github.com/python-cmd2/cmd2)

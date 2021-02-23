@@ -15,6 +15,9 @@
 * [awesome-devops](https://github.com/AcalephStorage/awesome-devops)
 * [jenkins](https://github.com/jenkinsci/jenkins)
 
+## sec-ops
+* [secops](https://github.com/mohangcsm/secops)
+
 # iaas
 ## linux
 * [kernel](https://github.com/torvalds/linux)
