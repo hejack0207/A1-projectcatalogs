@@ -15,6 +15,9 @@
 * [awesome-devops](https://github.com/AcalephStorage/awesome-devops)
 * [jenkins](https://github.com/jenkinsci/jenkins)
 
+## sec-ops
+* [secops](https://github.com/mohangcsm/secops)
+
 # iaas
 ## linux
 * [kernel](https://github.com/torvalds/linux)
@@ -27,10 +30,13 @@
 * [flannel](https://github.com/coreos/flannel)
 * [calico](https://github.com/projectcalico/calico)
 * [galaxy](https://github.com/tkestack/galaxy)
+* [ipvsadm](https://github.com/Distrotech/ipvsadm)
 
 ## storage
 * [fastcfs](https://github.com/happyfish100/FastCFS)
 * [ceph](https://github.com/ceph/ceph)
+* [spdk](https://github.com/spdk/spdk)
+* [dpdk](https://github.com/DPDK/dpdk)
 
 ## hypervisor
 * [qemu](https://github.com/qemu/qemu)
@@ -39,6 +45,7 @@
 * [firecracker](https://github.com/firecracker-microvm/firecracker)
 
 ## container
+* [awesome-linux-containers](https://github.com/Friz-zy/awesome-linux-containers)
 * [iSulad](https://github.com/openeuler-mirror/iSulad)
 * [railcar](https://github.com/oracle/railcar)
 * [runc](https://github.com/opencontainers/runc)
@@ -65,6 +72,12 @@
 * [gpdb](https://github.com/greenplum-db/gpdb)
 * [tidb](https://github.com/pingcap/tidb)
 
+## linux release
+* [awesome-os](https://github.com/jubalh/awesome-os)
+* [awesome-linux](https://github.com/inputsh/awesome-linux)
+* [awesome-kernel](https://github.com/rynsy/awesome-kernel)
+* [rockylinux-docs](https://github.com/rocky-linux/rockylinux.org-hugo)
+
 ## graph database
 * [indradb:rs](https://github.com/indradb/indradb)
 
@@ -80,6 +93,7 @@
 
 # ai
 * [mindspore](https://github.com/mindspore-ai/mindspore)
+* [sqlflow](https://github.com/sql-machine-learning/sqlflow)
 
 ## ai-ops
 * [awesome-aiops](https://github.com/linjinjin123/awesome-AIOps)

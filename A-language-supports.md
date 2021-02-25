@@ -33,6 +33,9 @@
 * [lctn](https://github.com/chenchun/ltcn)
 * [ipset](https://github.com/chenchun/ipset)
 * [cgroupfs](https://github.com/chenchun/cgroupfs)
+### project
+* [hugo](https://github.com/gohugoio/hugo)
+* [hugodocs](https://github.com/gohugoio/hugoDocs)
 
 # python
 * [collection-python](https://github.com/hejack0207/collection-python)
@@ -78,3 +81,14 @@
 
 ## textui
 * [indicatif:rs](https://github.com/mitsuhiko/indicatif)
+* [cmd2:py](https://github.com/python-cmd2/cmd2)
+
+## data structure
+* [go-funk](https://github.com/thoas/go-funk)
+
+## epub
+* [epub3:go](https://github.com/mdigger/epub3)
+* [go-epub](https://github.com/bmaupin/go-epub)
+
+## parser
+* [tree-sitter](https://github.com/tree-sitter/tree-sitter)

@@ -19,6 +19,7 @@
 * [vim_mouse_2.ahk](https://github.com/4strid/vim_mouse_2.ahk)
 * [vim.ahk](https://github.com/mihaifm/vim.ahk)
 * [vimulate-ahk](https://github.com/justinyaodu/vimulate-ahk)
+* [capslock](https://github.com/Vonng/Capslock)
 
 # autoit
 * [awesome-autoit](https://github.com/J2TEAM/awesome-AutoIt)
@@ -26,6 +27,9 @@
 # powershell
 * [powershell](https://github.com/PowerShell/PowerShell)
 * [powershell-settings](https://github.com/hejack0207/powershell-settings)
+
+# wsl
+* [awesome-wsl](https://github.com/sirredbeard/Awesome-WSL)
 
 # docker
 * [docker-toolbox](https://github.com/docker/toolbox)
@@ -40,10 +44,12 @@
 # package manager
 * [scoop](https://github.com/lukesampson/scoop)
 * [scoop-extras](https://github.com/lukesampson/scoop-extras)
+* [winget-cli](https://github.com/microsoft/winget-cli)
 
 # terminal
 * [mintty](https://github.com/mintty/mintty)
 * [ConEmu](https://github.com/Maximus5/ConEmu)
+* [terminal](https://github.com/microsoft/terminal)
 * [alacritty:rs](https://github.com/alacritty/alacritty)
 * [cmder](https://github.com/cmderdev/cmder)
 * [clink](https://github.com/mridgers/clink)

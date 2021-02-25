@@ -144,6 +144,7 @@
 
 ## html
 * [monolith:rs](https://github.com/Y2Z/monolith)
+* [htmldoc](https://github.com/michaelrsweet/htmldoc)
 
 ## sql
 * [usql:go](https://github.com/xo/usql)
@@ -244,6 +245,7 @@
 
 # wm
 * [lightdm](https://github.com/canonical/lightdm)
+* [i3](https://github.com/i3/i3)
 
 # browser
 * [manipulate_firefox_bookmarks:py](https://github.com/JamesLochhead/manipulate_firefox_bookmarks)
@@ -286,3 +288,5 @@
 # boot
 * [multios-usb](https://github.com/Mexit/MultiOS-USB)
 
+# awesome
+* [awesome-linux-software](https://github.com/luong-komorebi/Awesome-Linux-Software)

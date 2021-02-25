@@ -26,7 +26,9 @@
 * [bash-guide](https://github.com/ldnan/bash-guide)
 
 # tcl
-* [machinery:tcl](https://github.com/efrecon/machinery)
+* [machinery](https://github.com/efrecon/machinery)
+* [tcltools](https://github.com/mohemiv/TCLtools)
+* [partitions](https://github.com/antirez/partitions)
 
 # sed
 * [sd:rs](https://github.com/chmln/sd)
