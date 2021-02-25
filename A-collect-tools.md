@@ -145,6 +145,8 @@
 ## html
 * [monolith:rs](https://github.com/Y2Z/monolith)
 * [htmldoc](https://github.com/michaelrsweet/htmldoc)
+* [html2epub](https://github.com/xaratustrah/html2epub)
+* [zsh-guide-epub](https://github.com/pawel-slowik/zsh-guide-epub)
 
 ## sql
 * [usql:go](https://github.com/xo/usql)
@@ -203,8 +205,10 @@
 * [sphinx:py](https://github.com/sphinx-doc/sphinx)
 * [latex2epub:rb](https://github.com/kmuto/latex2epub)
 
-## pdf
+## chm
 * [chm2pdf:py](https://github.com/Arnoques/chm2pdf)
+* [chmtoepub](https://github.com/idsol/ChmToEpub)
+* [chm2epub:py](https://github.com/righthandabacus/chm2epub)
 
 ## markdown
 * [ronn:rb](https://github.com/rtomayko/ronn)

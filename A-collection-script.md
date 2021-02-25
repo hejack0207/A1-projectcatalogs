@@ -29,6 +29,8 @@
 * [machinery](https://github.com/efrecon/machinery)
 * [tcltools](https://github.com/mohemiv/TCLtools)
 * [partitions](https://github.com/antirez/partitions)
+* [auto-expect](https://github.com/qsmx/auto-expect)
+* [9pm](https://github.com/vonBr/9pm)
 
 # sed
 * [sd:rs](https://github.com/chmln/sd)
