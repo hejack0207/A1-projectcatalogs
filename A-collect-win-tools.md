@@ -7,6 +7,11 @@
 * [awesome-autohotkey](https://github.com/ahkscript/awesome-AutoHotkey)
 * [autohotkey_l](https://github.com/Lexikos/AutoHotkey_L)
 * [autohotkey_l-docs](https://github.com/Lexikos/AutoHotkey_L-Docs)
+
+## tools
+* [vim-AHKcomplete](https://github.com/huleiak47/vim-AHKcomplete)
+
+## scripts
 * [chrome.ahk](https://github.com/G33kDude/Chrome.ahk)
 * [bug.n](https://github.com/fuhsjr00/bug.n)
 * [clipjump](https://github.com/aviaryan/Clipjump)
@@ -14,8 +19,6 @@
 * [vim_mouse_2.ahk](https://github.com/4strid/vim_mouse_2.ahk)
 * [vim.ahk](https://github.com/mihaifm/vim.ahk)
 * [vimulate-ahk](https://github.com/justinyaodu/vimulate-ahk)
-* [vim-key-ahk](https://github.com/gildorwang/vim-key-ahk)
-* [vim-AHKcomplete](https://github.com/huleiak47/vim-AHKcomplete)
 
 # autoit
 * [awesome-autoit](https://github.com/J2TEAM/awesome-AutoIt)
