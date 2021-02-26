@@ -16,9 +16,6 @@
 * [tencentos-tiny](https://github.com/Tencent/TencentOS-tiny)
 * [tencentos-kernel](https://github.com/Tencent/TencentOS-kernel)
 
-# jdk
-* [kona](https://github.com/Tencent/TencentKona-8)
-
 # database
 * [tbase](https://github.com/Tencent/TBase)
 * [phxsql](https://github.com/Tencent/phxsql)
@@ -53,6 +50,9 @@
 
 # ai
 * [phoenixgo](https://github.com/Tencent/PhoenixGo)
+
+# jdk
+* [kona](https://github.com/Tencent/TencentKona-8)
 
 # others
 * [wwsearch](https://github.com/Tencent/wwsearch)

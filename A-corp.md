@@ -1,8 +1,7 @@
-* [huawei](https://github.com/Huawei)
-* [ctrip](https://github.com/ctripcorp)
-* [netease](https://github.com/NetEase)
-* [didi](https://github.com/DiDi)
-* [xiaomi](https://github.com/XiaoMi)
+# tencent
+* [tencent](https://github.com/Tencent)
+* [tkestack](https://github.com/tkestack)
+* [tencent-wechat](https://github.com/tencent-wechat)
 
 # alibaba
 * [alibaba](https://github.com/alibaba)
@@ -12,6 +11,10 @@
 * [baidu](https://github.com/baidu)
 * [paddlepaddle](https://github.com/PaddlePaddle)
 
-# tencent
-* [tencent](https://github.com/Tencent)
-* [tencent-wechat](https://github.com/tencent-wechat)
+# China
+* [huawei](https://github.com/Huawei)
+* [ctrip](https://github.com/ctripcorp)
+* [netease](https://github.com/NetEase)
+* [didi](https://github.com/DiDi)
+* [xiaomi](https://github.com/XiaoMi)
+
