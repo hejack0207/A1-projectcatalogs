@@ -11,8 +11,11 @@
 * [baidu](https://github.com/baidu)
 * [paddlepaddle](https://github.com/PaddlePaddle)
 
-# China
+# huawei
 * [huawei](https://github.com/Huawei)
+* [openeuler](https://github.com/openeuler-mirror)
+
+# China
 * [ctrip](https://github.com/ctripcorp)
 * [netease](https://github.com/NetEase)
 * [didi](https://github.com/DiDi)
