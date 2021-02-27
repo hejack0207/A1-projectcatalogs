@@ -1,1 +1,0 @@
-my bat(cmd) script
