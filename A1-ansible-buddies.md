@@ -17,7 +17,6 @@
 * [ansible-health-check](https://github.com/trueaccord/ansible-health-check)
 * [ansible_iptables_raw](https://github.com/Nordeus/ansible_iptables_raw)
 
-
 # ansible roles
 * [ansible-nginx](https://github.com/DimitriSteyaert/ansible-nginx)
 

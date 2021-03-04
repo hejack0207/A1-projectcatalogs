@@ -54,3 +54,6 @@
 * [cmder](https://github.com/cmderdev/cmder)
 * [clink](https://github.com/mridgers/clink)
 * [clink-completions:lua](https://github.com/vladimir-kotikov/clink-completions)
+
+# tools
+* [wclip](https://github.com/ivartj/wclip)

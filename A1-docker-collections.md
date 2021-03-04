@@ -21,6 +21,7 @@
 ## images
 * [mindspore](https://github.com/yarenty/mindspore)
 * [docker-ansible](https://github.com/William-Yeh/docker-ansible)
+* [[ceph-container]](https://github.com/ceph/ceph-container)
 
 # kubernetes
 
