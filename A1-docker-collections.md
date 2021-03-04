@@ -10,7 +10,7 @@
 * [docker-ci-tool-stack](https://github.com/marcelbirkner/docker-ci-tool-stack)
 * [docker-compose-mysql-master-slave](https://github.com/tarunlalwani/docker-compose-mysql-master-slave)
 * [nvidia-docker-compose](https://github.com/eywalker/nvidia-docker-compose)
-* [ceph-docker-compose](https://github.com/eywalker/ceph-docker-compose)
+* [ceph-docker-compose](https://github.com/VasiliyLiao/ceph-docker-compose)
 
 # docker
 * [libnvidia-container](https://github.com/NVIDIA/libnvidia-container)

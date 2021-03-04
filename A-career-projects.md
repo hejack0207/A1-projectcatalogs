@@ -56,7 +56,7 @@
 * [kubernetes](https://github.com/kubernetes/kubernetes)
 * [tke](https://github.com/tkestack/tke)
 * [tke-docs](https://github.com/tkestack/docs)
-* [charts](https://github.com/tkestack/charts)
+* [tke-charts](https://github.com/tkestack/charts)
 
 ## openstack
 * [openstack](https://github.com/openstack/openstack)
