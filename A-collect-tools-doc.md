@@ -1,4 +1,4 @@
-# doctool
+# doctool from
 * [pandoc:hs](https://github.com/jgm/pandoc)
 * [hugo:go](https://github.com/gohugoio/hugo)
 * [jekyll:rb](https://github.com/jekyll/jekyll)
@@ -13,16 +13,10 @@
 * [latex2md:py](https://github.com/daanvandijk/latex2md)
 
 ## texinfo
-* [texinfo2epub:xslt](https://github.com/jlhg/texinfo2epub)
 * [texi2md:pl](https://github.com/kcolford/texi2md)
 
 ## yodl
 * [yodl](https://github.com/fbb-git/yodl)
-
-## epub
-* [mdbook-epub:rs](https://github.com/Michael-F-Bryan/mdbook-epub)
-* [sphinx:py](https://github.com/sphinx-doc/sphinx)
-* [latex2epub:rb](https://github.com/kmuto/latex2epub)
 
 ## chm
 * [chm2pdf:py](https://github.com/Arnoques/chm2pdf)
@@ -35,3 +29,12 @@
 * [markdown-cheatsheet](https://github.com/tchapi/markdown-cheatsheet)
 * [md2man:rb](https://github.com/sunaku/md2man)
 * [md2tex:py](https://github.com/marvinborner/md2tex)
+
+# doctool to
+
+## epub
+* [mdbook-epub:rs](https://github.com/Michael-F-Bryan/mdbook-epub)
+* [texinfo2epub:xslt](https://github.com/jlhg/texinfo2epub)
+* [sphinx:py](https://github.com/sphinx-doc/sphinx)
+* [latex2epub:rb](https://github.com/kmuto/latex2epub)
+
