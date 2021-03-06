@@ -1,5 +1,6 @@
 # tencent
 * [tencent](https://github.com/Tencent)
+* [tencentcloud](https://github.com/TencentCloud)
 * [tkestack](https://github.com/tkestack)
 * [tencent-wechat](https://github.com/tencent-wechat)
 
