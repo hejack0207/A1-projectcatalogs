@@ -1,9 +1,4 @@
 # ops
-## deployments
-* [shell-deployments](https://github.com/hejack0207/shell-deployments)
-* [ansible-buddies](https://github.com/hejack0207/ansible-buddies)
-* [docker-collections](https://github.com/hejack0207/docker-collections)
-
 ## monitoring
 * [prometheus](https://github.com/prometheus/prometheus)
 * [zabbix](https://github.com/zabbix/zabbix)
