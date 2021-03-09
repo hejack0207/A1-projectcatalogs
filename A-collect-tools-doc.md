@@ -31,6 +31,10 @@
 * [md2man:rb](https://github.com/sunaku/md2man)
 * [md2tex:py](https://github.com/marvinborner/md2tex)
 
+## txt
+* [RFC.py](https://github.com/danielmichaels/RFC.py)
+* [rtfm:py](https://github.com/hile/rtfm)
+
 # doc producer
 ## epub
 * [mdbook-epub:rs](https://github.com/Michael-F-Bryan/mdbook-epub)
