@@ -20,10 +20,6 @@
 * [zabbix](https://github.com/zabbix/zabbix)
 
 # iaas
-## linux
-* [kernel](https://github.com/torvalds/linux)
-* [tencentos-kernel](https://github.com/Tencent/TencentOS-kernel)
-
 ## networking
 * [awesome-sdn](https://github.com/sdnds-tw/awesome-sdn)
 * [keepalived](https://github.com/acassen/keepalived)
