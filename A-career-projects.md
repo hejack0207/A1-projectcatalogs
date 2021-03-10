@@ -29,6 +29,7 @@
 * [calico](https://github.com/projectcalico/calico)
 * [galaxy](https://github.com/tkestack/galaxy)
 * [ipvsadm](https://github.com/Distrotech/ipvsadm)
+* [openvswitch](https://github.com/openvswitch/ovs)
 
 ## storage
 * [fastcfs](https://github.com/happyfish100/FastCFS)
