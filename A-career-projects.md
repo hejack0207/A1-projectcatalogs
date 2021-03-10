@@ -13,11 +13,12 @@
 
 ## dev-ops
 * [awesome-devops](https://github.com/AcalephStorage/awesome-devops)
+* [bk-ci](https://github.com/Tencent/bk-ci)
 * [jenkins](https://github.com/jenkinsci/jenkins)
 
 ## monitoring
 * [prometheus](https://github.com/prometheus/prometheus)
-* [zabbix](https://github.com/zabbix/zabbix)
+<!-- * [zabbix](https://github.com/zabbix/zabbix) -->
 
 # iaas
 ## networking
