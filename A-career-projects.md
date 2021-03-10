@@ -1,17 +1,23 @@
 # ops
-## monitoring
-* [prometheus](https://github.com/prometheus/prometheus)
-* [zabbix](https://github.com/zabbix/zabbix)
-
 ## traditional ops
 * [jumpserver:py](https://github.com/jumpserver/jumpserver)
+
+## sec-ops
+* [secops](https://github.com/mohangcsm/secops)
+
+## ai-ops
+* [awesome-aiops](https://github.com/linjinjin123/awesome-AIOps)
+* [awesome-mlops](https://github.com/visenger/awesome-mlops)
+* [A-Tune](https://github.com/openeuler-mirror/A-Tune)
+* [metis:py](https://github.com/Tencent/Metis)
 
 ## dev-ops
 * [awesome-devops](https://github.com/AcalephStorage/awesome-devops)
 * [jenkins](https://github.com/jenkinsci/jenkins)
 
-## sec-ops
-* [secops](https://github.com/mohangcsm/secops)
+## monitoring
+* [prometheus](https://github.com/prometheus/prometheus)
+* [zabbix](https://github.com/zabbix/zabbix)
 
 # iaas
 ## linux
@@ -67,12 +73,6 @@
 * [gpdb](https://github.com/greenplum-db/gpdb)
 * [tidb](https://github.com/pingcap/tidb)
 
-## linux release
-* [awesome-os](https://github.com/jubalh/awesome-os)
-* [awesome-linux](https://github.com/inputsh/awesome-linux)
-* [awesome-kernel](https://github.com/rynsy/awesome-kernel)
-* [rockylinux-docs](https://github.com/rocky-linux/rockylinux.org-hugo)
-
 ## graph database
 * [indradb:rs](https://github.com/indradb/indradb)
 
@@ -86,16 +86,16 @@
 ## middleware
 * [istio](https://github.com/istio/istio)
 
+## linux release
+* [awesome-os](https://github.com/jubalh/awesome-os)
+* [awesome-linux](https://github.com/inputsh/awesome-linux)
+* [awesome-kernel](https://github.com/rynsy/awesome-kernel)
+* [rockylinux-docs](https://github.com/rocky-linux/rockylinux.org-hugo)
+
 # ai
 * [mindspore](https://github.com/mindspore-ai/mindspore)
 * [sqlflow](https://github.com/sql-machine-learning/sqlflow)
 
-## ai-ops
-* [awesome-aiops](https://github.com/linjinjin123/awesome-AIOps)
-* [awesome-mlops](https://github.com/visenger/awesome-mlops)
-* [A-Tune](https://github.com/openeuler-mirror/A-Tune)
-* [metis:py](https://github.com/Tencent/Metis)
-
-# labs
+## labs
 * [labs-ai](https://github.com/hejack0207/labs-ai)
 
