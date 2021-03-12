@@ -1,3 +1,14 @@
+# projects
+* [runc](https://github.com/opencontainers/runc)
+* [flannel](https://github.com/coreos/flannel)
+* [calico](https://github.com/projectcalico/calico)
+* [galaxy](https://github.com/tkestack/galaxy)
+* [cni](https://github.com/containernetworking/cni)
+* [plugins](https://github.com/containernetworking/plugins)
+* [lctn](https://github.com/chenchun/ltcn)
+* [ipset](https://github.com/chenchun/ipset)
+* [cgroupfs](https://github.com/chenchun/cgroupfs)
+
 # language support
 * [go](https://github.com/golang/go)
 * [golang-website](https://github.com/golang/website)
@@ -15,14 +26,3 @@
 # awesome
 * [awesome-go](https://github.com/avelino/awesome-go)
 * [awesome-go-cn](https://github.com/hackstoic/golang-open-source-projects)
-
-# samples
-* [runc](https://github.com/opencontainers/runc)
-* [flannel](https://github.com/coreos/flannel)
-* [calico](https://github.com/projectcalico/calico)
-* [galaxy](https://github.com/tkestack/galaxy)
-* [cni](https://github.com/containernetworking/cni)
-* [plugins](https://github.com/containernetworking/plugins)
-* [lctn](https://github.com/chenchun/ltcn)
-* [ipset](https://github.com/chenchun/ipset)
-* [cgroupfs](https://github.com/chenchun/cgroupfs)

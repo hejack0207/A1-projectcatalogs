@@ -6,13 +6,11 @@
 * [labs-rust](https://github.com/hejack0207/labs-rust)
 * [redox](https://github.com/redox-os/redox)
 * [book](https://github.com/redox-os/book)
-* [stratovirt](https://github.com/openeuler-mirror/stratovirt)
 
 # go
 * [collection-go](https://github.com/hejack0207/collection-go)
 * [labs-go](https://github.com/hejack0207/labs-go)
 * [k8s](https://github.com/kubernetes/kubernetes)
-
 * [hugo](https://github.com/gohugoio/hugo)
 * [hugodocs](https://github.com/gohugoio/hugoDocs)
 
