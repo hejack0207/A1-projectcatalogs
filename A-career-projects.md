@@ -24,12 +24,12 @@
 ## networking
 * [awesome-sdn](https://github.com/sdnds-tw/awesome-sdn)
 * [keepalived](https://github.com/acassen/keepalived)
-* [cni](https://github.com/containernetworking/cni)
-* [flannel](https://github.com/coreos/flannel)
-* [calico](https://github.com/projectcalico/calico)
-* [galaxy](https://github.com/tkestack/galaxy)
 * [ipvsadm](https://github.com/Distrotech/ipvsadm)
 * [openvswitch](https://github.com/openvswitch/ovs)
+* [cni:go](https://github.com/containernetworking/cni)
+* [flanne:gol](https://github.com/coreos/flannel)
+* [calico:go](https://github.com/projectcalico/calico)
+* [galaxy:go](https://github.com/tkestack/galaxy)
 
 ## storage
 * [fastcfs](https://github.com/happyfish100/FastCFS)
@@ -46,10 +46,10 @@
 ## container
 * [awesome-linux-containers](https://github.com/Friz-zy/awesome-linux-containers)
 * [iSulad](https://github.com/openeuler-mirror/iSulad)
-* [railcar](https://github.com/oracle/railcar)
-* [runc](https://github.com/opencontainers/runc)
-* [podman](https://github.com/containers/podman)
-* [kata-containers](https://github.com/kata-containers/kata-containers)
+* [railcar:rust](https://github.com/oracle/railcar)
+* [runc:go](https://github.com/opencontainers/runc)
+* [podman:go](https://github.com/containers/podman)
+* [kata-containers:go](https://github.com/kata-containers/kata-containers)
 
 ## k8s
 * [kubernetes](https://github.com/kubernetes/kubernetes)
