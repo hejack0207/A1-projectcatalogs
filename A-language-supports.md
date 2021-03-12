@@ -51,9 +51,6 @@
 * [collection-haskell](https://github.com/hejack0207/collection-haskell)
 
 # library
-## auto
-* [pexpect:py](https://github.com/pexpect/pexpect)
-
 ## curses
 * [termion:rs](https://github.com/redox-os/termion)
 * [pancurses:rs](https://github.com/ihalila/pancurses)

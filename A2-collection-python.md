@@ -17,5 +17,6 @@
 
 # library
 ## parser
+* [pexpect](https://github.com/pexpect/pexpect)
 * [nginx-parser](https://github.com/fatiherikli/nginxparser)
 * [pymysql](https://github.com/PyMySQL/PyMySQL)
