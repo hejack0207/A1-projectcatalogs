@@ -18,3 +18,4 @@
 # library
 ## parser
 * [nginx-parser](https://github.com/fatiherikli/nginxparser)
+* [pymysql](https://github.com/PyMySQL/PyMySQL)
