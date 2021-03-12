@@ -5,7 +5,7 @@
 # env
 * [pipenv](https://github.com/pypa/pipenv)
 
-# pacakge tool
+# package tool
 * [pyinstaller](https://github.com/pyinstaller/pyinstaller)
 
 # code tool
