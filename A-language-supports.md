@@ -31,11 +31,6 @@
 * [jumpserver](https://github.com/jumpserver/jumpserver)
 * [ansible](https://github.com/ansible/ansible)
 
-### entry
-* [zk_shell:py](https://github.com/rgs1/zk_shell)
-* [tabview:py](https://github.com/TabViewer/tabview)
-* [PathPicker:py](https://github.com/facebook/PathPicker)
-
 ## project
 * [man2html:py](https://github.com/Phil9l/man2html)
 

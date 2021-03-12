@@ -15,6 +15,11 @@
 * [astpath](https://github.com/hejack0207/astpath)
 * [pydeps](https://github.com/thebjorn/pydeps)
 
+# samples
+* [zk_shell:py](https://github.com/rgs1/zk_shell)
+* [tabview:py](https://github.com/TabViewer/tabview)
+* [PathPicker:py](https://github.com/facebook/PathPicker)
+
 # library
 ## parser
 * [pexpect](https://github.com/pexpect/pexpect)
