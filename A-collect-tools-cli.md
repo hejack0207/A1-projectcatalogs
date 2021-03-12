@@ -25,9 +25,6 @@
 * [undocker:py](https://github.com/larsks/undocker)
 * [dockerfile:rb](https://github.com/sunilpp/dockerfile)
 
-## vm tool
-* [vagrant:rb](https://github.com/hashicorp/vagrant)
-
 ## sys tool
 * [tsar](https://github.com/alibaba/tsar)
 * [sysstat](https://github.com/sysstat/sysstat)

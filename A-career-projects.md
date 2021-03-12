@@ -1,23 +1,26 @@
 # ops
-## monitoring
-* [prometheus](https://github.com/prometheus/prometheus)
-* [zabbix](https://github.com/zabbix/zabbix)
-
 ## traditional ops
 * [jumpserver:py](https://github.com/jumpserver/jumpserver)
-
-## dev-ops
-* [awesome-devops](https://github.com/AcalephStorage/awesome-devops)
-* [jenkins](https://github.com/jenkinsci/jenkins)
 
 ## sec-ops
 * [secops](https://github.com/mohangcsm/secops)
 
-# iaas
-## linux
-* [kernel](https://github.com/torvalds/linux)
-* [tencentos-kernel](https://github.com/Tencent/TencentOS-kernel)
+## ai-ops
+* [awesome-aiops](https://github.com/linjinjin123/awesome-AIOps)
+* [awesome-mlops](https://github.com/visenger/awesome-mlops)
+* [A-Tune](https://github.com/openeuler-mirror/A-Tune)
+* [metis:py](https://github.com/Tencent/Metis)
 
+## dev-ops
+* [awesome-devops](https://github.com/AcalephStorage/awesome-devops)
+* [bk-ci](https://github.com/Tencent/bk-ci)
+* [jenkins](https://github.com/jenkinsci/jenkins)
+
+## monitoring
+* [prometheus](https://github.com/prometheus/prometheus)
+<!-- * [zabbix](https://github.com/zabbix/zabbix) -->
+
+# iaas
 ## networking
 * [awesome-sdn](https://github.com/sdnds-tw/awesome-sdn)
 * [keepalived](https://github.com/acassen/keepalived)
@@ -26,6 +29,7 @@
 * [calico](https://github.com/projectcalico/calico)
 * [galaxy](https://github.com/tkestack/galaxy)
 * [ipvsadm](https://github.com/Distrotech/ipvsadm)
+* [openvswitch](https://github.com/openvswitch/ovs)
 
 ## storage
 * [fastcfs](https://github.com/happyfish100/FastCFS)
@@ -67,12 +71,6 @@
 * [gpdb](https://github.com/greenplum-db/gpdb)
 * [tidb](https://github.com/pingcap/tidb)
 
-## linux release
-* [awesome-os](https://github.com/jubalh/awesome-os)
-* [awesome-linux](https://github.com/inputsh/awesome-linux)
-* [awesome-kernel](https://github.com/rynsy/awesome-kernel)
-* [rockylinux-docs](https://github.com/rocky-linux/rockylinux.org-hugo)
-
 ## graph database
 * [indradb:rs](https://github.com/indradb/indradb)
 
@@ -86,16 +84,16 @@
 ## middleware
 * [istio](https://github.com/istio/istio)
 
+## linux release
+* [awesome-os](https://github.com/jubalh/awesome-os)
+* [awesome-linux](https://github.com/inputsh/awesome-linux)
+* [awesome-kernel](https://github.com/rynsy/awesome-kernel)
+* [rockylinux-docs](https://github.com/rocky-linux/rockylinux.org-hugo)
+
 # ai
 * [mindspore](https://github.com/mindspore-ai/mindspore)
 * [sqlflow](https://github.com/sql-machine-learning/sqlflow)
 
-## ai-ops
-* [awesome-aiops](https://github.com/linjinjin123/awesome-AIOps)
-* [awesome-mlops](https://github.com/visenger/awesome-mlops)
-* [A-Tune](https://github.com/openeuler-mirror/A-Tune)
-* [metis:py](https://github.com/Tencent/Metis)
-
-# labs
+## labs
 * [labs-ai](https://github.com/hejack0207/labs-ai)
 

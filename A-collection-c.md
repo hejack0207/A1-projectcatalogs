@@ -1,4 +1,7 @@
 # project
+* [kernel](https://github.com/torvalds/linux)
+* [tencentos-kernel](https://github.com/Tencent/TencentOS-kernel)
+
 ## kernel-module
 * [uname-hooker](https://github.com/ebradbury/linux-syscall-hooker)
 * [fmem](https://github.com/NateBrune/fmem)
@@ -8,6 +11,8 @@
 * [knetstat](https://github.com/veithen/knetstat)
 
 ## kernel-tool
+* [bcc](https://github.com/iovisor/bcc)
+* [bpftrace](https://github.com/iovisor/bpftrace)
 * [dattobd](https://github.com/datto/dattobd)
 * [tpe-lkm](https://github.com/cormander/tpe-lkm)
 * [kpatch](https://github.com/dynup/kpatch)
