@@ -15,6 +15,9 @@
 * [astpath](https://github.com/hejack0207/astpath)
 * [pydeps](https://github.com/thebjorn/pydeps)
 
+# projects
+* [man2html:py](https://github.com/Phil9l/man2html)
+
 # samples
 * [zk_shell:py](https://github.com/rgs1/zk_shell)
 * [tabview:py](https://github.com/TabViewer/tabview)
