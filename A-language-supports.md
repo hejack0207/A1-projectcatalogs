@@ -13,7 +13,6 @@
 * [labs-go](https://github.com/hejack0207/labs-go)
 * [k8s](https://github.com/kubernetes/kubernetes)
 
-## project
 * [hugo](https://github.com/gohugoio/hugo)
 * [hugodocs](https://github.com/gohugoio/hugoDocs)
 
@@ -21,8 +20,6 @@
 * [collection-python](https://github.com/hejack0207/collection-python)
 * [jumpserver](https://github.com/jumpserver/jumpserver)
 * [ansible](https://github.com/ansible/ansible)
-
-## project
 
 # typescript/javascript
 * [collection-javascript](https://github.com/hejack0207/collection-javascript)
