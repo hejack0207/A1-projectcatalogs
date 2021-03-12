@@ -1,8 +1,6 @@
 # projects
 * [stratovirt](https://github.com/openeuler-mirror/stratovirt)
 
-## samples
-
 # language supports
 * [rust](https://github.com/rust-lang/rust)
 * [rust-clippy](https://github.com/rust-lang/rust-clippy)
