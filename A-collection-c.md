@@ -20,10 +20,10 @@
 ## linux tools
 * [sshpass](https://github.com/kevinburke/sshpass)
 * [passwd](https://github.com/mit-athena/passwd)
+* [lsof](https://github.com/lsof-org/lsof)
+* [util-linux](https://github.com/karelzak/util-linux)
 * [coreutils](https://github.com/coreutils/coreutils)
 * [moreutils](https://github.com/madx/moreutils)
-* [util-linux](https://github.com/karelzak/util-linux)
-* [lsof](https://github.com/lsof-org/lsof)
 
 ## network tools
 * [tcpdump](https://github.com/the-tcpdump-group/tcpdump)
