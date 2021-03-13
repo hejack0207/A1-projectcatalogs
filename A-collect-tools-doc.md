@@ -43,6 +43,7 @@
 * [latex2epub:rb](https://github.com/kmuto/latex2epub)
 * [chmtoepub](https://github.com/idsol/ChmToEpub)
 * [chm2epub:py](https://github.com/righthandabacus/chm2epub)
+* [calibre:py](https://github.com/kovidgoyal/calibre)
 
 ## man
 * [md2man:rb](https://github.com/sunaku/md2man)
