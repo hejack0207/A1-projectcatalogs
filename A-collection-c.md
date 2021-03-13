@@ -20,6 +20,16 @@
 ## linux tools
 * [sshpass](https://github.com/kevinburke/sshpass)
 * [passwd](https://github.com/mit-athena/passwd)
+* [coreutils](https://github.com/coreutils/coreutils)
+* [moreutils](https://github.com/madx/moreutils)
+* [util-linux](https://github.com/karelzak/util-linux)
+* [lsof](https://github.com/lsof-org/lsof)
+
+## network tools
+* [tcpdump](https://github.com/the-tcpdump-group/tcpdump)
+* [wireshark](https://github.com/wireshark/wireshark)
+* [iproute2](https://github.com/shemminger/iproute2)
+* [mtr](https://github.com/traviscross/mtr)
 
 # libraries
 ## curses
