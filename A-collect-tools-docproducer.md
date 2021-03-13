@@ -1,4 +1,9 @@
 # doc producer
+## markdown
+* [man-to-md:pl](https://github.com/mle86/man-to-md)
+* [texi2md:pl](https://github.com/kcolford/texi2md)
+* [latex2md:py](https://github.com/daanvandijk/latex2md)
+
 ## epub
 * [mdbook-epub:rs](https://github.com/Michael-F-Bryan/mdbook-epub)
 * [texinfo2epub:xslt](https://github.com/jlhg/texinfo2epub)
@@ -16,11 +21,6 @@
 
 ## pdf
 * [chm2pdf:py](https://github.com/Arnoques/chm2pdf)
-
-## markdown
-* [man-to-md:pl](https://github.com/mle86/man-to-md)
-* [texi2md:pl](https://github.com/kcolford/texi2md)
-* [latex2md:py](https://github.com/daanvandijk/latex2md)
 
 ## terminal text
 * [groff](https://github.com/Distrotech/groff)
