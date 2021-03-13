@@ -18,6 +18,7 @@
 * [kpatch](https://github.com/dynup/kpatch)
 
 ## linux tools
+* [sshpass](https://github.com/kevinburke/sshpass)
 * [passwd](https://github.com/mit-athena/passwd)
 
 # libraries
