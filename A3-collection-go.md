@@ -9,6 +9,14 @@
 * [ipset](https://github.com/chenchun/ipset)
 * [cgroupfs](https://github.com/chenchun/cgroupfs)
 
+# career project
+* [k8s](https://github.com/kubernetes/kubernetes)
+* [hugo](https://github.com/gohugoio/hugo)
+* [hugodocs](https://github.com/gohugoio/hugoDocs)
+
+# libraries
+* [netlink:go](https://github.com/vishvananda/netlink)
+
 # language support
 * [go](https://github.com/golang/go)
 * [golang-website](https://github.com/golang/website)

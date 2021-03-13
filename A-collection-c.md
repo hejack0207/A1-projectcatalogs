@@ -20,6 +20,10 @@
 ## linux tools
 * [passwd](https://github.com/mit-athena/passwd)
 
+# libraries
+## curses
+* [termbox:c](https://github.com/nsf/termbox)
+
 # language support
 * [clang](https://github.com/llvm-mirror/clang)
 * [gcc](https://github.com/gcc-mirror/gcc)
