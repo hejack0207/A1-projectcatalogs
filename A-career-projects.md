@@ -40,8 +40,8 @@
 ## hypervisor
 * [qemu](https://github.com/qemu/qemu)
 * [libvirt](https://github.com/libvirt/libvirt)
-* [stratovirt](https://github.com/openeuler-mirror/stratovirt)
-* [firecracker](https://github.com/firecracker-microvm/firecracker)
+* [stratovirt:rs](https://github.com/openeuler-mirror/stratovirt)
+* [firecracker:rs](https://github.com/firecracker-microvm/firecracker)
 
 ## container
 * [awesome-linux-containers](https://github.com/Friz-zy/awesome-linux-containers)
