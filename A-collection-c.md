@@ -26,9 +26,9 @@
 * [moreutils](https://github.com/madx/moreutils)
 
 ## network tools
+* [iproute2](https://github.com/shemminger/iproute2)
 * [tcpdump](https://github.com/the-tcpdump-group/tcpdump)
 * [wireshark](https://github.com/wireshark/wireshark)
-* [iproute2](https://github.com/shemminger/iproute2)
 * [mtr](https://github.com/traviscross/mtr)
 
 # libraries
