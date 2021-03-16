@@ -10,8 +10,7 @@
 * [bash](https://github.com/gitGNU/gnu_bash)
 * [bpkg](https://github.com/bpkg/bpkg)
 * [oh-my-bash](https://github.com/ohmybash/oh-my-bash)
-
-### scripts
+- - - - -
 * [bash-it](https://github.com/Bash-it/bash-it)
 * [bats](https://github.com/sstephenson/bats)
 * [backup-bash](https://github.com/leo-G/backup-bash)
@@ -36,16 +35,14 @@
 * [sd:rs](https://github.com/chmln/sd)
 * [desed:rs](https://github.com/SoptikHa2/desed)
 * [sedsed:py](https://github.com/aureliojargas/sedsed)
-
-### scripts
+- - - - -
 * [sedtris](https://github.com/uuner/sedtris)
 * [dkr2sh](https://github.com/devgateway/dkr2sh)
 
 # awk
 * [gawk](https://github.com/Distrotech/gawk)
 * [awesome-awk](https://github.com/freznicek/awesome-awk)
-
-### scripts
+- - - - -
 * [grawkit](https://github.com/deuill/grawkit)
 * [awklisp](https://github.com/darius/awklisp)
 * [JSON.awk](https://github.com/step-/JSON.awk)
@@ -78,8 +75,7 @@
 * [jqnpm:sh](https://github.com/joelpurra/jqnpm)
 * [vim-jqplay:vim](https://github.com/bfrg/vim-jqplay)
 * [jq-zsh-plugin:zsh](https://github.com/reegnz/jq-zsh-plugin)
-
-### scripts
+- - - - -
 * [jbol](https://github.com/fadado/JBOL)
 * [jq-bigint](https://github.com/joelpurra/jq-bigint)
 * [jq-disarray](https://github.com/joelpurra/jq-disarray)
