@@ -85,12 +85,11 @@
 * [openssh-portable](https://github.com/openssh/openssh-portable)
 * [mosh](https://github.com/mobile-shell/mosh)
 * [sshpass](https://github.com/kevinburke/sshpass)
+* [pssh](https://github.com/robinbowes/pssh)
 * [hss](https://github.com/six-ddc/hss)
 * [sshfs](https://github.com/libfuse/sshfs)
 * [rzsz](https://github.com/coderfordev/rzsz)
 * [parallel-ssh:py](https://github.com/ParallelSSH/parallel-ssh)
-* [ssh2-python](https://github.com/ParallelSSH/ssh2-python)
-* [paramiko:py](https://github.com/paramiko/paramiko)
 
 ## directory-tool
 * [inotify-tools](https://github.com/inotify-tools/inotify-tools)
