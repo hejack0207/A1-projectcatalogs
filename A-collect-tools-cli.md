@@ -89,7 +89,6 @@
 * [hss](https://github.com/six-ddc/hss)
 * [sshfs](https://github.com/libfuse/sshfs)
 * [rzsz](https://github.com/coderfordev/rzsz)
-* [parallel-ssh:py](https://github.com/ParallelSSH/parallel-ssh)
 
 ## directory-tool
 * [inotify-tools](https://github.com/inotify-tools/inotify-tools)

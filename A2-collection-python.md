@@ -19,6 +19,7 @@
 ## ssh
 * [ssh2-python](https://github.com/ParallelSSH/ssh2-python)
 * [paramiko:py](https://github.com/paramiko/paramiko)
+* [parallel-ssh:py](https://github.com/ParallelSSH/parallel-ssh)
 
 ## textui
 * [cmd2:py](https://github.com/python-cmd2/cmd2)
