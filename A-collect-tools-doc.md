@@ -19,6 +19,9 @@
 ## yodl
 * [yodl](https://github.com/fbb-git/yodl)
 
+## pdf
+* [pdf-to-markdown:py](https://github.com/johnlinp/pdf-to-markdown)
+
 ## chm
 * [chm2pdf:py](https://github.com/Arnoques/chm2pdf)
 * [chmtoepub](https://github.com/idsol/ChmToEpub)

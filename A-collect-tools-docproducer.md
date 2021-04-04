@@ -3,6 +3,7 @@
 * [man-to-md:pl](https://github.com/mle86/man-to-md)
 * [texi2md:pl](https://github.com/kcolford/texi2md)
 * [latex2md:py](https://github.com/daanvandijk/latex2md)
+* [pdf-to-markdown:py](https://github.com/johnlinp/pdf-to-markdown)
 
 ## epub
 * [mdbook-epub:rs](https://github.com/Michael-F-Bryan/mdbook-epub)
