@@ -56,6 +56,11 @@
 * [iproute2](https://github.com/shemminger/iproute2)
 * [mtr](https://github.com/traviscross/mtr)
 
+## net filters
+* [iptables](https://github.com/shadowsocks/iptables)
+* [ebtables](https://github.com/Distrotech/ebtables)
+* [firewalld](https://github.com/firewalld/firewalld)
+
 ## net proxy
 * [proxychains](https://github.com/haad/proxychains)
 * [proxychains-ng](https://github.com/rofl0r/proxychains-ng)
