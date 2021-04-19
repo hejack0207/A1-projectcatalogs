@@ -21,17 +21,19 @@
 <!-- * [zabbix](https://github.com/zabbix/zabbix) -->
 
 # iaas
-## networking
+## networking - nfv
 * [awesome-sdn](https://github.com/sdnds-tw/awesome-sdn)
-* [keepalived](https://github.com/acassen/keepalived)
-* [ipvsadm](https://github.com/Distrotech/ipvsadm)
 * [quagga](https://github.com/Quagga/quagga)
-* [lvs](https://github.com/alibaba/lvs)
 * [openvswitch](https://github.com/openvswitch/ovs)
 * [cni:go](https://github.com/containernetworking/cni)
 * [flannel:go](https://github.com/coreos/flannel)
 * [calico:go](https://github.com/projectcalico/calico)
 * [galaxy:go](https://github.com/tkestack/galaxy)
+
+## networking - load balancer
+* [keepalived](https://github.com/acassen/keepalived)
+* [lvs](https://github.com/alibaba/lvs)
+* [ipvsadm](https://github.com/Distrotech/ipvsadm)
 
 ## storage
 * [fastcfs](https://github.com/happyfish100/FastCFS)
