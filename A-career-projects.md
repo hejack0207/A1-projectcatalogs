@@ -65,7 +65,7 @@
 * [openstack:py](https://github.com/openstack/openstack)
 
 # paas
-## database
+## datastore - relational
 * [opengauss](https://github.com/opengauss-mirror/openGauss-server)
 * [mariadb](https://github.com/atcurtis/mariadb)
 * [mydumper](https://github.com/maxbube/mydumper)
@@ -73,19 +73,29 @@
 * [LocustDB](https://github.com/cswinter/LocustDB)
 * [postgres](https://github.com/postgres/postgres)
 * [gpdb](https://github.com/greenplum-db/gpdb)
-* [tidb](https://github.com/pingcap/tidb)
 
-## graph database
-* [indradb:rs](https://github.com/indradb/indradb)
-
-## nosql
+## datastore - nosql
+* [elasticsearch:java](https://github.com/elastic/elasticsearch)
+* [mongo](https://github.com/mongodb/mongo)
 * [tikv:rs](https://github.com/tikv/tikv)
 * [pingcap-docs](https://github.com/pingcap/docs)
+* [indradb:rs](https://github.com/indradb/indradb)
+* [tidb](https://github.com/pingcap/tidb)
 
-## cache
+## datastore - memory
 * [Tendis](https://github.com/Tencent/Tendis)
+* [redis](https://github.com/redis/redis)
+* [zookeeper:java](https://github.com/apache/zookeeper)
 
-## middleware
+## datastore - dfs
+* [hadoop](https://github.com/apache/hadoop)
+
+## message queue
+* [kafka:java](https://github.com/apache/kafka)
+* [rabbitmq:elang](https://github.com/rabbitmq/rabbitmq-server)
+* [rabbitmqi-tutorial](https://github.com/rabbitmq/rabbitmq-tutorial)
+
+## otheres
 * [istio:go](https://github.com/istio/istio)
 
 ## linux release
