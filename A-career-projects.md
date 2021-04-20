@@ -38,6 +38,7 @@
 ## storage
 * [fastcfs](https://github.com/happyfish100/FastCFS)
 * [ceph](https://github.com/ceph/ceph)
+* [hadoop](https://github.com/apache/hadoop)
 * [spdk](https://github.com/spdk/spdk)
 * [dpdk](https://github.com/DPDK/dpdk)
 
@@ -86,9 +87,6 @@
 * [Tendis](https://github.com/Tencent/Tendis)
 * [redis](https://github.com/redis/redis)
 * [zookeeper:java](https://github.com/apache/zookeeper)
-
-## datastore - dfs
-* [hadoop](https://github.com/apache/hadoop)
 
 ## message queue
 * [kafka:java](https://github.com/apache/kafka)
