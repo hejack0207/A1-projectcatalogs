@@ -3,6 +3,7 @@
 * [awesome-sdn](https://github.com/sdnds-tw/awesome-sdn)
 * [quagga](https://github.com/Quagga/quagga)
 * [openvswitch](https://github.com/openvswitch/ovs)
+* [SONiC](https://github.com/Azure/SONiC)
 * [cni:go](https://github.com/containernetworking/cni)
 * [flannel:go](https://github.com/coreos/flannel)
 * [calico:go](https://github.com/projectcalico/calico)
