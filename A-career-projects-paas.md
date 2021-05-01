@@ -20,6 +20,7 @@
 * [Tendis](https://github.com/Tencent/Tendis)
 * [redis](https://github.com/redis/redis)
 * [zookeeper:java](https://github.com/apache/zookeeper)
+* [etcd:go](https://github.com/etcd-io/etcd)
 
 ## message queue
 * [kafka:java](https://github.com/apache/kafka)
