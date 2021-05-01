@@ -24,7 +24,7 @@
 ## message queue
 * [kafka:java](https://github.com/apache/kafka)
 * [rabbitmq:elang](https://github.com/rabbitmq/rabbitmq-server)
-* [rabbitmqi-tutorial](https://github.com/rabbitmq/rabbitmq-tutorial)
+* [rabbitmq-tutorials](https://github.com/rabbitmq/rabbitmq-tutorials)
 
 ## otheres
 * [istio:go](https://github.com/istio/istio)
