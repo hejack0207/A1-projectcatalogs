@@ -68,9 +68,11 @@
 * [proxychains-ng](https://github.com/rofl0r/proxychains-ng)
 * [redsocks](https://github.com/darkk/redsocks)
 * [inlets](https://github.com/inlets/inlets)
-* [dns-proxy](https://github.com/cookiengineer/dns-proxy)
 * [shadowsocks](https://github.com/ylqfp/shadowsocks)
 * [shadowsocks-go](https://github.com/hejack0207/shadowsocks-go)
+
+## dns-tools
+* [dns-proxy](https://github.com/cookiengineer/dns-proxy)
 
 ## http-tool
 * [netgo:go](https://github.com/grt1st/netgo)

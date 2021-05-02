@@ -8,5 +8,3 @@
 
 # others
 * [collection-haskell](https://github.com/hejack0207/collection-haskell)
-
-# library

@@ -11,6 +11,9 @@
 * [PathPicker:py](https://github.com/facebook/PathPicker)
 
 # library
+## dns
+* [dnspython](https://github.com/rthalley/dnspython)
+
 ## parser
 * [pexpect](https://github.com/pexpect/pexpect)
 * [nginx-parser](https://github.com/fatiherikli/nginxparser)
