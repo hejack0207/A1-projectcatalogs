@@ -14,6 +14,9 @@
 * [podman:go](https://github.com/containers/podman)
 * [kata-containers:go](https://github.com/kata-containers/kata-containers)
 
+## kernel
+* [linux](https://github.com/torvalds/linux)
+
 ## k8s
 * [kubernetes:go](https://github.com/kubernetes/kubernetes)
 * [kubectl-tree](https://github.com/ahmetb/kubectl-tree)
