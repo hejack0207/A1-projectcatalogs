@@ -10,6 +10,7 @@
 * [iSulad](https://github.com/openeuler-mirror/iSulad)
 * [railcar:rs](https://github.com/oracle/railcar)
 * [runc:go](https://github.com/opencontainers/runc)
+* [runtime-spec](https://github.com/opencontainers/runtime-spec)
 * [podman:go](https://github.com/containers/podman)
 * [kata-containers:go](https://github.com/kata-containers/kata-containers)
 
