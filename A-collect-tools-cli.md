@@ -17,6 +17,7 @@
 * [awesome-docker](https://github.com/veggiemonk/awesome-docker)
 * [boot2docker](https://github.com/boot2docker/boot2docker)
 * [bocker](https://github.com/p8952/bocker)
+* [cntr](https://github.com/Mic92/cntr)
 * [cinf](https://github.com/mhausenblas/cinf)
 * [dockermachine:go](https://github.com/docker/machine)
 * [docker-machine-kvm:go](https://github.com/machine-drivers/docker-machine-kvm)dhiltgen/docker-machine-kvm
