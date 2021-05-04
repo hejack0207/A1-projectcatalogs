@@ -99,6 +99,9 @@
 * [sshfs](https://github.com/libfuse/sshfs)
 * [rzsz](https://github.com/coderfordev/rzsz)
 
+# boot
+* [glim](https://github.com/thias/glim)
+
 ## directory-tool
 * [inotify-tools](https://github.com/inotify-tools/inotify-tools)
 * [ncdu](https://github.com/rofl0r/ncdu)
