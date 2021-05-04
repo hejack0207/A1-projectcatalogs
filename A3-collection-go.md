@@ -11,11 +11,17 @@
 
 # career project
 * [k8s](https://github.com/kubernetes/kubernetes)
+
+# tools
 * [hugo](https://github.com/gohugoio/hugo)
 * [hugodocs](https://github.com/gohugoio/hugoDocs)
 
 # libraries
 * [netlink:go](https://github.com/vishvananda/netlink)
+
+# parser
+* [participle](https://github.com/alecthomas/participle)
+* [sql-parser](https://github.com/pingcap/parser)
 
 # language support
 * [go](https://github.com/golang/go)
@@ -26,10 +32,6 @@
 * [go-callvis](https://github.com/ofabry/go-callvis)
 * [golang-tools](https://github.com/golang/tools)
 * [xo](https://github.com/hejack0207/xo)
-
-# parser
-* [participle](https://github.com/alecthomas/participle)
-* [sql-parser](https://github.com/pingcap/parser)
 
 # awesome
 * [awesome-go](https://github.com/avelino/awesome-go)
