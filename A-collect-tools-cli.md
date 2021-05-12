@@ -3,6 +3,7 @@
 * [systemd](https://github.com/systemd/systemd)
 * [coreutils](https://github.com/coreutils/coreutils)
 * [coreutils:rs](https://github.com/redox-os/coreutils)
+* [sysstat](https://github.com/sysstat/sysstat)
 * [moreutils](https://github.com/madx/moreutils)
 * [util-linux](https://github.com/karelzak/util-linux)
 * [lsof](https://github.com/lsof-org/lsof)
@@ -29,7 +30,6 @@
 
 ## sys tool
 * [tsar](https://github.com/alibaba/tsar)
-* [sysstat](https://github.com/sysstat/sysstat)
 * [dstat:py](https://github.com/dstat-real/dstat)
 * [glances:py](https://github.com/nicolargo/glances)
 * [dool:py](https://github.com/scottchiefbaker/dool)
