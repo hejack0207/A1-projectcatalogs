@@ -31,5 +31,9 @@
 * [etcd:go](https://github.com/etcd-io/etcd)
 * [etcd-websiet:go](https://github.com/etcd-io/website)
 
-## otheres
+## platform
+* [openjdk-jdk11](https://github.com/AdoptOpenJDK/openjdk-jdk11)
+* [openjdk-jdk8u](https://github.com/AdoptOpenJDK/openjdk-jdk8u)
+
+## others
 * [istio:go](https://github.com/istio/istio)
