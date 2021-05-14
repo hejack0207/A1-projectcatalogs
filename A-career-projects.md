@@ -46,6 +46,9 @@
 ## networking - DNS
 * [unbound](https://github.com/NLnetLabs/unbound)
 * [dnspod-sr](https://github.com/DNSPod/dnspod-sr)
+* [coredns](https://github.com/coredns/coredns)
+* [coredns.io](https://github.com/coredns/coredns.io)
+* [coredns-unbound](https://github.com/coredns/unbound)
 
 ## storage
 * [fastcfs](https://github.com/happyfish100/FastCFS)
