@@ -3,6 +3,8 @@
 * [percona-server](https://github.com/percona/percona-server)
 * [percona-server-documentation](https://github.com/percona/documentation)
 * [mariadb](https://github.com/atcurtis/mariadb)
+* [mysql-server](https://github.com/mysql/mysql-server)
+* [mysql-operator](https://github.com/presslabs/mysql-operator)
 * [mydumper](https://github.com/maxbube/mydumper)
 * [proxysql](https://github.com/sysown/proxysql)
 * [LocustDB](https://github.com/cswinter/LocustDB)
