@@ -7,6 +7,7 @@
 * [moreutils](https://github.com/madx/moreutils)
 * [util-linux](https://github.com/karelzak/util-linux)
 * [lsof](https://github.com/lsof-org/lsof)
+* [iproute2](https://github.com/shemminger/iproute2)
 
 ## terminal
 * [tmux](https://github.com/tmux/tmux)
@@ -55,7 +56,6 @@
 * [tcpterm:go](https://github.com/sachaos/tcpterm)
 
 ## net connection
-* [iproute2](https://github.com/shemminger/iproute2)
 * [mtr](https://github.com/traviscross/mtr)
 
 ## net filters
