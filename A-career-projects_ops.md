@@ -2,6 +2,13 @@
 ## traditional ops
 * [jumpserver:py](https://github.com/jumpserver/jumpserver)
 
+## monitoring
+* [prometheus:go](https://github.com/prometheus/prometheus)
+* [grafana:ts](https://github.com/grafana/grafana)
+* [grafana-dashboards](https://github.com/percona/grafana-dashboards)
+* [grafana-docker](https://github.com/grafana/grafana-docker)
+<!-- * [zabbix](https://github.com/zabbix/zabbix) -->
+
 ## sec-ops
 * [secops](https://github.com/mohangcsm/secops)
 
@@ -15,10 +22,6 @@
 * [awesome-devops](https://github.com/AcalephStorage/awesome-devops)
 * [bk-ci:kotlin](https://github.com/Tencent/bk-ci)
 * [jenkins:java](https://github.com/jenkinsci/jenkins)
-
-## monitoring
-* [prometheus:go](https://github.com/prometheus/prometheus)
-<!-- * [zabbix](https://github.com/zabbix/zabbix) -->
 
 # ai
 * [mindspore:py](https://github.com/mindspore-ai/mindspore)
