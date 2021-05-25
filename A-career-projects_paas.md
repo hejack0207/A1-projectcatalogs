@@ -14,6 +14,8 @@
 
 ## datastore - nosql
 * [elasticsearch:java](https://github.com/elastic/elasticsearch)
+* [elsec:py](https://github.com/mkocikowski/elsec)
+* [elseql:py](https://github.com/raff/elseql)
 * [mongo](https://github.com/mongodb/mongo)
 * [tikv:rs](https://github.com/tikv/tikv)
 * [pingcap-docs](https://github.com/pingcap/docs)
