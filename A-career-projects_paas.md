@@ -25,6 +25,7 @@
 ## message queue
 * [kafka:java](https://github.com/apache/kafka)
 * [CMAK:scala](https://github.com/yahoo/CMAK)
+* [kafka-tools:py](https://github.com/linkedin/kafka-tools)
 * [rabbitmq:elang](https://github.com/rabbitmq/rabbitmq-server)
 * [rabbitmq-tutorials](https://github.com/rabbitmq/rabbitmq-tutorials)
 
