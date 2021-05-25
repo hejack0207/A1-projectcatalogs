@@ -5,6 +5,7 @@
 * [mariadb](https://github.com/atcurtis/mariadb)
 * [mysql-server](https://github.com/mysql/mysql-server)
 * [mysql-proxy](https://github.com/mysql/mysql-proxy)
+* [mysql-utilities](https://github.com/mysql/mysql-utilities)
 * [mydumper](https://github.com/maxbube/mydumper)
 * [proxysql](https://github.com/sysown/proxysql)
 * [LocustDB](https://github.com/cswinter/LocustDB)
