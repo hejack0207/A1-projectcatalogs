@@ -29,6 +29,7 @@
 * [std-dev-guide](https://github.com/rust-lang/std-dev-guide)
 * [rust-by-example](https://github.com/rust-lang/rust-by-example)
 * [reference](https://github.com/rust-lang/reference)
+* [rfcs](https://github.com/rust-lang/rfcs)
 * [edition-guide](https://github.com/rust-lang/edition-guide)
 * [book](https://github.com/rust-lang/book)
 * [async-book](https://github.com/rust-lang/async-book)
