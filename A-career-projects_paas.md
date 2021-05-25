@@ -17,6 +17,7 @@
 * [elsec:py](https://github.com/mkocikowski/elsec)
 * [elseql:py](https://github.com/raff/elseql)
 * [mongo](https://github.com/mongodb/mongo)
+* [mongo-docs](https://github.com/mongodb/docs)
 * [tikv:rs](https://github.com/tikv/tikv)
 * [pingcap-docs](https://github.com/pingcap/docs)
 * [indradb:rs](https://github.com/indradb/indradb)
