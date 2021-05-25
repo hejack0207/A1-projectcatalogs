@@ -8,6 +8,10 @@
 ## kernel
 * [linux](https://github.com/torvalds/linux)
 
+## hardware
+* [crash](https://github.com/crash-utility/crash)
+* [kdump](https://github.com/openSUSE/kdump)
+
 ## container
 * [awesome-linux-containers](https://github.com/Friz-zy/awesome-linux-containers)
 * [iSulad](https://github.com/openeuler-mirror/iSulad)
@@ -45,10 +49,11 @@
 
 ## networking - DNS
 * [unbound](https://github.com/NLnetLabs/unbound)
-* [dnspod-sr](https://github.com/DNSPod/dnspod-sr)
 * [coredns](https://github.com/coredns/coredns)
 * [coredns.io](https://github.com/coredns/coredns.io)
 * [coredns-unbound](https://github.com/coredns/unbound)
+* [bind9](https://github.com/isc-projects/bind9)
+* [dnspod-sr](https://github.com/DNSPod/dnspod-sr)
 
 ## storage
 * [fastcfs](https://github.com/happyfish100/FastCFS)
