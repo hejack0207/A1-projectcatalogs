@@ -53,6 +53,7 @@
 * [coredns.io](https://github.com/coredns/coredns.io)
 * [coredns-unbound](https://github.com/coredns/unbound)
 * [bind9](https://github.com/isc-projects/bind9)
+* [dnsmasq](https://github.com/imp/dnsmasq)
 * [dnspod-sr](https://github.com/DNSPod/dnspod-sr)
 
 ## storage
