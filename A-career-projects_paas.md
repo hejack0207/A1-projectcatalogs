@@ -2,10 +2,12 @@
 ## datastore - relational
 * [percona-server](https://github.com/percona/percona-server)
 * [percona-server-documentation](https://github.com/percona/documentation)
-* [mariadb](https://github.com/atcurtis/mariadb)
+* [mariadb](https://github.com/MariaDB/server)
+* [galera](https://github.com/codership/galera)
 * [mysql-server](https://github.com/mysql/mysql-server)
 * [mysql-proxy](https://github.com/mysql/mysql-proxy)
 * [mysql-utilities](https://github.com/mysql/mysql-utilities)
+* [mysql-sys](https://github.com/mysql/mysql-sys)
 * [mydumper](https://github.com/maxbube/mydumper)
 * [proxysql](https://github.com/sysown/proxysql)
 * [LocustDB](https://github.com/cswinter/LocustDB)
