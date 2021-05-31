@@ -101,6 +101,7 @@
 
 # boot
 * [glim](https://github.com/thias/glim)
+* [ipmitool](https://github.com/ipmitool/ipmitool)
 
 ## directory-tool
 * [inotify-tools](https://github.com/inotify-tools/inotify-tools)
