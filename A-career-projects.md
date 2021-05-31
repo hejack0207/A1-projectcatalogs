@@ -7,6 +7,7 @@
 
 ## kernel
 * [linux](https://github.com/torvalds/linux)
+* [rust-for-linux](https://github.com/Rust-for-Linux/linux)
 
 ## hardware
 * [crash](https://github.com/crash-utility/crash)

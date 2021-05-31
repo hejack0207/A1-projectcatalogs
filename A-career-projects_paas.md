@@ -30,7 +30,8 @@
 * [tikv:rs](https://github.com/tikv/tikv)
 * [pingcap-docs](https://github.com/pingcap/docs)
 * [indradb:rs](https://github.com/indradb/indradb)
-* [tidb](https://github.com/pingcap/tidb)
+* [tidb:go](https://github.com/pingcap/tidb)
+* [kylin:java](https://github.com/apache/kylin)
 
 ## message queue
 * [kafka:java](https://github.com/apache/kafka)
@@ -38,6 +39,7 @@
 * [kafka-tools:py](https://github.com/linkedin/kafka-tools)
 * [rabbitmq:elang](https://github.com/rabbitmq/rabbitmq-server)
 * [rabbitmq-tutorials](https://github.com/rabbitmq/rabbitmq-tutorials)
+* [pulsar:java](https://github.com/apache/pulsar)
 
 ## file system
 * [hadoop:java](https://github.com/apache/hadoop)
