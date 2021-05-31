@@ -19,6 +19,7 @@
 * [lxd](https://github.com/lxc/lxd)
 * [iSulad](https://github.com/openeuler-mirror/iSulad)
 * [railcar:rs](https://github.com/oracle/railcar)
+* [quark:rs](https://github.com/QuarkContainer/Quark)
 * [runc:go](https://github.com/opencontainers/runc)
 * [runtime-spec](https://github.com/opencontainers/runtime-spec)
 * [podman:go](https://github.com/containers/podman)
@@ -78,3 +79,4 @@
 * [awesome-linux](https://github.com/inputsh/awesome-linux)
 * [awesome-kernel](https://github.com/rynsy/awesome-kernel)
 * [rockylinux-docs](https://github.com/rocky-linux/rockylinux.org-hugo)
+* [bottlerocket:rs](https://github.com/bottlerocket-os/bottlerocket)
