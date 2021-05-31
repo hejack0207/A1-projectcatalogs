@@ -15,6 +15,8 @@
 
 ## container
 * [awesome-linux-containers](https://github.com/Friz-zy/awesome-linux-containers)
+* [lxc](https://github.com/lxc/lxc)
+* [lxd](https://github.com/lxc/lxd)
 * [iSulad](https://github.com/openeuler-mirror/iSulad)
 * [railcar:rs](https://github.com/oracle/railcar)
 * [runc:go](https://github.com/opencontainers/runc)
