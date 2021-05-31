@@ -9,10 +9,6 @@
 * [linux](https://github.com/torvalds/linux)
 * [rust-for-linux](https://github.com/Rust-for-Linux/linux)
 
-## hardware
-* [crash](https://github.com/crash-utility/crash)
-* [kdump](https://github.com/openSUSE/kdump)
-
 ## container
 * [awesome-linux-containers](https://github.com/Friz-zy/awesome-linux-containers)
 * [lxc](https://github.com/lxc/lxc)

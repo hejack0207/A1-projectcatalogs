@@ -16,6 +16,12 @@
 * [dtach](https://github.com/crigler/dtach)
 * [zellij:rs](https://github.com/zellij-org/zellij)
 
+# kernel tools
+* [glim](https://github.com/thias/glim)
+* [ipmitool](https://github.com/ipmitool/ipmitool)
+* [crash](https://github.com/crash-utility/crash)
+* [kdump](https://github.com/openSUSE/kdump)
+
 ## container tool
 * [awesome-docker](https://github.com/veggiemonk/awesome-docker)
 * [boot2docker](https://github.com/boot2docker/boot2docker)
@@ -99,10 +105,6 @@
 * [hss](https://github.com/six-ddc/hss)
 * [sshfs](https://github.com/libfuse/sshfs)
 * [rzsz](https://github.com/coderfordev/rzsz)
-
-# boot
-* [glim](https://github.com/thias/glim)
-* [ipmitool](https://github.com/ipmitool/ipmitool)
 
 ## directory-tool
 * [inotify-tools](https://github.com/inotify-tools/inotify-tools)
