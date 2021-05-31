@@ -16,7 +16,7 @@
 * [dtach](https://github.com/crigler/dtach)
 * [zellij:rs](https://github.com/zellij-org/zellij)
 
-# kernel tools
+## kernel tools
 * [glim](https://github.com/thias/glim)
 * [ipmitool](https://github.com/ipmitool/ipmitool)
 * [crash](https://github.com/crash-utility/crash)
