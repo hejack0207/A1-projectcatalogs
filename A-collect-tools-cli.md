@@ -14,6 +14,7 @@
 * [tmux-thumbs:rs](https://github.com/fcsonline/tmux-thumbs)
 * [tmux-yank:sh](https://github.com/tmux-plugins/tmux-yank)
 * [dtach](https://github.com/crigler/dtach)
+* [zellij:rs](https://github.com/zellij-org/zellij)
 
 ## container tool
 * [awesome-docker](https://github.com/veggiemonk/awesome-docker)
