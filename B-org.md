@@ -9,6 +9,8 @@
 * [grafana](https://github.com/grafana)
 * [docker](https://github.com/docker)
 * [MariaDB](https://github.com/MariaDB)
+* [mysql](https://github.com/mysql)
 
 # China
 * [kyligence](https://github.com/Kyligence)
+* [oceanbase](https://github.com/oceanbase)
