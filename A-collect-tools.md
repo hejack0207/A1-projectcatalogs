@@ -1,4 +1,6 @@
 # app
+* [awesome-linux-software](https://github.com/luong-komorebi/Awesome-Linux-Software)
+
 ## wechat
 * [wechatcmd:go](https://github.com/liushuchun/wechatcmd)
 * [wechit:py](https://github.com/LingDong-/wechit)
@@ -15,7 +17,7 @@
 ## benchmark
 * [sockperf](https://github.com/Mellanox/sockperf)
 
-# makefile similars
+## makefile similars
 * [make](https://github.com/mirror/make)
 * [rake:rb](https://github.com/ruby/rake)
 * [shovel:py](https://github.com/seomoz/shovel)
@@ -32,13 +34,15 @@
 * [lightdm](https://github.com/canonical/lightdm)
 * [i3](https://github.com/i3/i3)
 
-# browser
+# browser related
 * [manipulate_firefox_bookmarks:py](https://github.com/JamesLochhead/manipulate_firefox_bookmarks)
+
+## headless
+* [thirtyfour:rust](https://github.com/stevepryde/thirtyfour)
+* [rust-headless-chrome:rs](https://github.com/atroche/rust-headless-chrome)
 
 ## chrome extenstion
 * [selenium-ide](https://github.com/SeleniumHQ/selenium-ide)
-* [thirtyfour:rust](https://github.com/stevepryde/thirtyfour)
-* [rust-headless-chrome](https://github.com/atroche/rust-headless-chrome)
 * [regex-search.ts](https://github.com/hejack0207/regex-search.ts)
 * [react-chrome-extension-starterkit.ts](https://github.com/hejack0207/react-chrome-extension-starterkit)
 * [web-scraper-chrome-extenstion.js](https://github.com/hejack0207/web-scraper-chrome-extenstion.js)
@@ -70,9 +74,3 @@
 * [ssh-web-console](https://github.com/genshen/ssh-web-console)
 * [ttyd](https://github.com/tsl0922/ttyd)
 * [webtty:py](https://github.com/chaitanyarahalkar/WebTTY)
-
-# boot
-* [multios-usb](https://github.com/Mexit/MultiOS-USB)
-
-# awesome
-* [awesome-linux-software](https://github.com/luong-komorebi/Awesome-Linux-Software)

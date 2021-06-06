@@ -16,8 +16,11 @@
 * [dtach](https://github.com/crigler/dtach)
 * [zellij:rs](https://github.com/zellij-org/zellij)
 
-## kernel tools
+## boot
 * [glim](https://github.com/thias/glim)
+* [multios-usb](https://github.com/Mexit/MultiOS-USB)
+
+## kernel tools
 * [ipmitool](https://github.com/ipmitool/ipmitool)
 * [crash](https://github.com/crash-utility/crash)
 * [kdump](https://github.com/openSUSE/kdump)
