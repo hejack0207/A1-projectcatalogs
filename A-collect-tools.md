@@ -43,8 +43,7 @@
 
 ## chrome extenstion
 * [selenium-ide](https://github.com/SeleniumHQ/selenium-ide)
-* [regex-search.ts](https://github.com/hejack0207/regex-search.ts)
-* [react-chrome-extension-starterkit.ts](https://github.com/hejack0207/react-chrome-extension-starterkit)
+* [vimium:js](https://github.com/philc/vimium)
 * [web-scraper-chrome-extenstion.js](https://github.com/hejack0207/web-scraper-chrome-extenstion.js)
 * [xpath-viewer:js](https://github.com/amphro/xPath-Viewer)
 
