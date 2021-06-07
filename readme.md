@@ -8,6 +8,5 @@
 * [mysql-server](https://github.com/mysql/mysql-server)
 * [zookeeper:java](https://github.com/apache/zookeeper)
 * [kafka:java](https://github.com/apache/kafka)
-* [mongo-docs](https://github.com/mongodb/docs)
-* [elasticsearch:java](https://github.com/elastic/elasticsearch)
+* [mongo-docs](https://github.com/mongodb/docs) [elasticsearch:java](https://github.com/elastic/elasticsearch)
 * [hadoop-hdfs](https://github.com/apache/hadoop-hdfs)
