@@ -9,4 +9,4 @@
 * [kafka:java](https://github.com/apache/kafka)
 * [mongo-docs](https://github.com/mongodb/docs)
 * [elasticsearch:java](https://github.com/elastic/elasticsearch)
-* [hadoop:java](https://github.com/apache/hadoop)
+* [hadoop-hdfs](https://github.com/apache/hadoop-hdfs)

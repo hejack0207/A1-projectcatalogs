@@ -47,6 +47,8 @@
 
 ## file system
 * [hadoop:java](https://github.com/apache/hadoop)
+* [hadoop-site](https://github.com/apache/hadoop-site)
+* [hadoop-hdfs:java](https://github.com/apache/hadoop-hdfs)
 
 ## datastore - memory
 * [zookeeper:java](https://github.com/apache/zookeeper)
