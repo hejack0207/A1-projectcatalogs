@@ -27,6 +27,11 @@
 ## textui
 * [cmd2:py](https://github.com/python-cmd2/cmd2)
 
+# editor support
+* [vimpdb](https://github.com/vim-scripts/VimPdb)
+* [vdebug](https://github.com/vim-vdebug/vdebug)
+* [vimspector](https://github.com/puremourning/vimspector)
+
 # runtime
 * [cpython](https://github.com/python/cpython)
 * [bpython](https://github.com/bpython/bpython)
