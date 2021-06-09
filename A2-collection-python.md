@@ -11,6 +11,10 @@
 * [PathPicker:py](https://github.com/facebook/PathPicker)
 
 # library
+## debugging
+* [snoop](https://github.com/alexmojaki/snoop)
+* [PySnooper](https://github.com/cool-RR/PySnooper)
+
 ## dns
 * [dnspython](https://github.com/rthalley/dnspython)
 
@@ -31,6 +35,7 @@
 * [vimpdb](https://github.com/vim-scripts/VimPdb)
 * [vdebug](https://github.com/vim-vdebug/vdebug)
 * [vimspector](https://github.com/puremourning/vimspector)
+* [jedi](https://github.com/davidhalter/jedi)
 
 # runtime
 * [cpython](https://github.com/python/cpython)
@@ -43,7 +48,6 @@
 * [pyinstaller](https://github.com/pyinstaller/pyinstaller)
 
 # code tool
-* [jedi](https://github.com/davidhalter/jedi)
 * [CodeDependencyVisualizer](https://github.com/hejack0207/CodeDependencyVisualizer)
 * [antlr2xsd](https://github.com/hejack0207/antlr2xsd)
 * [astpath](https://github.com/hejack0207/astpath)
