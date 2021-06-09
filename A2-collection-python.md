@@ -1,3 +1,6 @@
+# awesome
+* [awesome-python](https://github.com/vinta/awesome-python)
+
 # projects
 * [jumpserver](https://github.com/jumpserver/jumpserver)
 * [ansible](https://github.com/ansible/ansible)
