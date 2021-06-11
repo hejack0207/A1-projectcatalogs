@@ -8,7 +8,7 @@
 * [huawei](https://github.com/Huawei)
 * [openeuler](https://github.com/openeuler-mirror)
 * [opengauss](https://github.com/opengauss-mirror)
-* [openharmony](https://github.com/openharmony-mirror)
+* [openharmony](https://github.com/OpenHarmony-mirror)
 
 # alibaba
 * [alibaba](https://github.com/alibaba)
