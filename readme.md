@@ -11,3 +11,9 @@
 * [kafka:java](https://github.com/apache/kafka)
 * [mongo-docs](https://github.com/mongodb/docs) [elasticsearch:java](https://github.com/elastic/elasticsearch)
 * [hadoop-hdfs](https://github.com/apache/hadoop-hdfs)
+
+# huawei
+* [openharmony-docs](https://github.com/OpenHarmony-mirror/docs)
+* [opengauss-docs](https://github.com/opengauss-mirror/docs)
+* [openeuler-docs](https://github.com/openeuler-mirror/docs)
+* [kernel](https://github.com/openeuler-mirror/kernel)
