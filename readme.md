@@ -12,6 +12,9 @@
 * [mongo-docs](https://github.com/mongodb/docs) [elasticsearch:java](https://github.com/elastic/elasticsearch)
 * [hadoop-hdfs](https://github.com/apache/hadoop-hdfs)
 
+# extra paas
+* [etcd-websiet:go](https://github.com/etcd-io/website)
+
 # huawei
 * [openharmony-docs](https://github.com/OpenHarmony-mirror/docs)
 * [opengauss-docs](https://github.com/opengauss-mirror/docs)
