@@ -5,10 +5,6 @@
 * [stratovirt:rs](https://github.com/openeuler-mirror/stratovirt)
 * [firecracker:rs](https://github.com/firecracker-microvm/firecracker)
 
-## kernel
-* [linux](https://github.com/torvalds/linux)
-* [rust-for-linux](https://github.com/Rust-for-Linux/linux)
-
 ## container
 * [awesome-linux-containers](https://github.com/Friz-zy/awesome-linux-containers)
 * [lxc](https://github.com/lxc/lxc)

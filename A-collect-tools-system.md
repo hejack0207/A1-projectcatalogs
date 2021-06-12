@@ -20,11 +20,6 @@
 * [glim](https://github.com/thias/glim)
 * [multios-usb](https://github.com/Mexit/MultiOS-USB)
 
-## kernel tools
-* [ipmitool](https://github.com/ipmitool/ipmitool)
-* [crash](https://github.com/crash-utility/crash)
-* [kdump](https://github.com/openSUSE/kdump)
-
 ## container tool
 * [awesome-docker](https://github.com/veggiemonk/awesome-docker)
 * [boot2docker](https://github.com/boot2docker/boot2docker)
