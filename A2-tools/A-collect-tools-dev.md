@@ -13,3 +13,4 @@
 * [hub:go](https://github.com/github/hub)
 * [gh:go](https://github.com/owenthereal/gh)
 * [delta:rs](https://github.com/dandavison/delta)
+* [gitui:rs](https://github.com/extrawurst/gitui)
