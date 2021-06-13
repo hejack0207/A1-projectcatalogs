@@ -8,18 +8,22 @@
 * [autohotkey_l](https://github.com/Lexikos/AutoHotkey_L)
 * [autohotkey_l-docs](https://github.com/Lexikos/AutoHotkey_L-Docs)
 
-## tools
+## keybindings
 * [vim-AHKcomplete](https://github.com/huleiak47/vim-AHKcomplete)
-
-## scripts
-* [chrome.ahk](https://github.com/G33kDude/Chrome.ahk)
-* [bug.n](https://github.com/fuhsjr00/bug.n)
-* [clipjump](https://github.com/aviaryan/Clipjump)
-* [clipjump-addons](https://github.com/aviaryan/clipjump-addons)
 * [vim_mouse_2.ahk](https://github.com/4strid/vim_mouse_2.ahk)
 * [vim.ahk](https://github.com/mihaifm/vim.ahk)
 * [vimulate-ahk](https://github.com/justinyaodu/vimulate-ahk)
 * [capslock](https://github.com/Vonng/Capslock)
+
+## browser
+* [chrome.ahk](https://github.com/G33kDude/Chrome.ahk)
+
+## windows manager
+* [bug.n](https://github.com/fuhsjr00/bug.n)
+
+## clipboard
+* [clipjump](https://github.com/aviaryan/Clipjump)
+* [clipjump-addons](https://github.com/aviaryan/clipjump-addons)
 
 # autoit
 * [awesome-autoit](https://github.com/J2TEAM/awesome-AutoIt)
