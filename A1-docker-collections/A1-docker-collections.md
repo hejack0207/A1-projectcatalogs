@@ -1,11 +1,3 @@
-# prometheus
-* [awesome-prometheus-alerts](https://github.com/samber/awesome-prometheus-alerts)
-
-## ansible
-* [ansible-snmp-exporter](https://github.com/cloudalchemy/ansible-snmp-exporter)
-* [ansible-pushgateway](https://github.com/cloudalchemy/ansible-pushgateway)
-* [ansible-grafana](https://github.com/cloudalchemy/ansible-grafana)
-
 # docker-composer-files
 * [docker-ci-tool-stack](https://github.com/marcelbirkner/docker-ci-tool-stack)
 * [docker-compose-mysql-master-slave](https://github.com/tarunlalwani/docker-compose-mysql-master-slave)
@@ -32,6 +24,3 @@
 
 ## k8s plugin
 * [k8s-device-plugin](https://github.com/NVIDIA/k8s-device-plugin)
-
-# official-images
-
