@@ -1,5 +1,4 @@
-# cli tools
-## basic toolsets
+# basic toolsets
 * [systemd](https://github.com/systemd/systemd)
 * [coreutils](https://github.com/coreutils/coreutils)
 * [coreutils:rs](https://github.com/redox-os/coreutils)
@@ -9,18 +8,19 @@
 * [lsof](https://github.com/lsof-org/lsof)
 * [iproute2](https://github.com/shemminger/iproute2)
 
-## terminal
+# terminal
 * [tmux](https://github.com/tmux/tmux)
 * [tmux-thumbs:rs](https://github.com/fcsonline/tmux-thumbs)
 * [tmux-yank:sh](https://github.com/tmux-plugins/tmux-yank)
 * [dtach](https://github.com/crigler/dtach)
 * [zellij:rs](https://github.com/zellij-org/zellij)
+* [ttyrec](https://github.com/mjording/ttyrec)
 
-## boot
+# boot
 * [glim](https://github.com/thias/glim)
 * [multios-usb](https://github.com/Mexit/MultiOS-USB)
 
-## container tool
+# container tool
 * [awesome-docker](https://github.com/veggiemonk/awesome-docker)
 * [boot2docker](https://github.com/boot2docker/boot2docker)
 * [bocker](https://github.com/p8952/bocker)
@@ -34,41 +34,41 @@
 * [undocker:py](https://github.com/larsks/undocker)
 * [dockerfile:rb](https://github.com/sunilpp/dockerfile)
 
-## sys tool
+# sys tool
 * [tsar](https://github.com/alibaba/tsar)
 * [dstat:py](https://github.com/dstat-real/dstat)
 * [glances:py](https://github.com/nicolargo/glances)
 * [dool:py](https://github.com/scottchiefbaker/dool)
 
-## process wrapper
+# process wrapper
 * [rlwrap](https://github.com/hanslub42/rlwrap)
 
-## process tool
+# process tool
 * [startmon](https://github.com/pturmel/startmon)
 * [psmisc](https://github.com/Distrotech/psmisc)
 * [strace](https://github.com/strace/strace)
 * [progress](https://github.com/Xfennec/progress)
 
-## net traffic inspect
+# net traffic inspect
 * [tcpdump](https://github.com/the-tcpdump-group/tcpdump)
 * [wireshark](https://github.com/wireshark/wireshark)
 * [sniffglue:rs](https://github.com/kpcyrd/sniffglue)
 * [httpparse:go](https://github.com/clearthesky/httpparse)
 * [http-inspect:py](https://github.com/hejack0207/http-inspect.py)
 
-## net traffic viewer
+# net traffic viewer
 * [termshark:go](https://github.com/gcla/termshark)
 * [tcpterm:go](https://github.com/sachaos/tcpterm)
 
-## net connection
+# net connection
 * [mtr](https://github.com/traviscross/mtr)
 
-## net filters
+# net filters
 * [iptables](https://github.com/shadowsocks/iptables)
 * [ebtables](https://github.com/Distrotech/ebtables)
 * [firewalld](https://github.com/firewalld/firewalld)
 
-## net proxy
+# net proxy
 * [proxychains](https://github.com/haad/proxychains)
 * [proxychains-ng](https://github.com/rofl0r/proxychains-ng)
 * [redsocks](https://github.com/darkk/redsocks)
@@ -76,18 +76,18 @@
 * [shadowsocks](https://github.com/ylqfp/shadowsocks)
 * [shadowsocks-go](https://github.com/hejack0207/shadowsocks-go)
 
-## dns-tools
+# dns-tools
 * [dns-proxy](https://github.com/cookiengineer/dns-proxy)
 
-## http-tool
+# http-tool
 * [netgo:go](https://github.com/grt1st/netgo)
 * [endlessssh:py](https://github.com/ideawu/endlessssh)
 
-## http cli
+# http cli
 * [dict:py](https://github.com/hejack0207/dict)
 * [youdao-dict:rb](https://github.com/hejack0207/youdao-dict.ruby)
 
-## auto-tool
+# auto-tool
 * [expect](https://github.com/aeruder/expect)
 * [empty.c](https://github.com/hejack0207/empty.c)
 * [sexpect](https://github.com/clarkwang/sexpect)
@@ -95,7 +95,7 @@
 * [pexpect:py](https://github.com/pexpect/pexpect)
 * [ruby_expect:rb](https://github.com/abates/ruby_expect)
 
-## ssh tools
+# ssh tools
 * [openssh-portable](https://github.com/openssh/openssh-portable)
 * [mosh](https://github.com/mobile-shell/mosh)
 * [sshpass](https://github.com/kevinburke/sshpass)
@@ -104,7 +104,7 @@
 * [sshfs](https://github.com/libfuse/sshfs)
 * [rzsz](https://github.com/coderfordev/rzsz)
 
-## directory-tool
+# directory-tool
 * [inotify-tools](https://github.com/inotify-tools/inotify-tools)
 * [ncdu](https://github.com/rofl0r/ncdu)
 * [entr](https://github.com/eradman/entr)
