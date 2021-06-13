@@ -39,3 +39,6 @@
 ## txt
 * [RFC.py](https://github.com/danielmichaels/RFC.py)
 * [rtfm:py](https://github.com/hile/rtfm)
+
+## excel
+* [xlsx2csv:py](https://github.com/dilshod/xlsx2csv)

@@ -18,4 +18,5 @@
 
 # sec-ops
 * [secops](https://github.com/mohangcsm/secops)
+* [awesome-cve-poc](https://github.com/qazbnm456/awesome-cve-poc)
 

@@ -34,6 +34,8 @@
 * [tikv:rs](https://github.com/tikv/tikv)
 * [pingcap-docs](https://github.com/pingcap/docs)
 * [indradb:rs](https://github.com/indradb/indradb)
+* [indradb-postgres:rs](https://github.com/indradb/postgres)
+* [sled:rs](https://github.com/spacejam/sled)
 * [tidb:go](https://github.com/pingcap/tidb)
 * [kylin:java](https://github.com/apache/kylin)
 
