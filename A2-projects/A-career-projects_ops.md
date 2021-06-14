@@ -10,6 +10,11 @@
 
 # profiling
 
+# sre
+* [awesome-sre](https://github.com/dastergon/awesome-sre)
+* [sre-interview](https://github.com/michael-kehoe/sre-interview)
+* [site-reliability-engineering](https://github.com/sysbooks/site-reliability-engineering)
+
 # ai-ops
 * [awesome-aiops](https://github.com/linjinjin123/awesome-AIOps)
 * [awesome-mlops](https://github.com/visenger/awesome-mlops)

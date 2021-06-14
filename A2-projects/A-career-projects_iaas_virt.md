@@ -10,18 +10,22 @@
 # k8s
 * [kubernetes:go](https://github.com/kubernetes/kubernetes)
 * [k8s-website](https://github.com/kubernetes/website)
+* [tke:go](https://github.com/tkestack/tke)
+* [tke-docs](https://github.com/tkestack/docs)
+
+# k8s plugins
 * [kubectl-tree](https://github.com/ahmetb/kubectl-tree)
 * [krew](https://github.com/kubernetes-sigs/krew)
 * [krew-index](https://github.com/kubernetes-sigs/krew-index)
-* [tke:go](https://github.com/tkestack/tke)
-* [tke-docs](https://github.com/tkestack/docs)
 * [tke-charts](https://github.com/tkestack/charts)
+* [kubectl-trace](https://github.com/iovisor/kubectl-trace)
 
 # container
 * [awesome-linux-containers](https://github.com/Friz-zy/awesome-linux-containers)
 * [lxc](https://github.com/lxc/lxc)
 * [lxd](https://github.com/lxc/lxd)
 * [iSulad](https://github.com/openeuler-mirror/iSulad)
+* [containers](https://github.com/arachsys/containers)
 * [railcar:rs](https://github.com/oracle/railcar)
 * [quark:rs](https://github.com/QuarkContainer/Quark)
 * [pouch:go](https://github.com/alibaba/pouch)

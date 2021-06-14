@@ -20,6 +20,13 @@
 
 ## windows manager
 * [bug.n](https://github.com/fuhsjr00/bug.n)
+* [always-on-top](https://github.com/ljungmark/always-on-top)
+* [windowswitcher](https://github.com/Run1e/WindowSwitcher)
+* [iswitchw](https://github.com/tvjg/iswitchw)
+* [hotkeyr](https://github.com/rossning92/HotkeyR)
+* [alttabalternative](https://github.com/lokeshgovindu/AltTabAlternative)
+* [window-switcher](https://github.com/postliminary/window-switcher)
+* [focii](https://github.com/eugeneching/focii)
 
 ## clipboard
 * [clipjump](https://github.com/aviaryan/Clipjump)

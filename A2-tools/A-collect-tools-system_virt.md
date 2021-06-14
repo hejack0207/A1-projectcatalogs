@@ -14,5 +14,8 @@
 * [log-pilot:go](https://github.com/AliyunContainerService/log-pilot)
 * [nerdctl:go](https://github.com/containerd/nerdctl)
 
+# container image tools
+* [dive:go](https://github.com/wagoodman/dive)
+
 # k8s
 * [ksniff:go](https://github.com/eldadru/ksniff)
