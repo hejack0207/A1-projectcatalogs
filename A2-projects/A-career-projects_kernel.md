@@ -1,3 +1,6 @@
+# awesome
+* [awesome-unikernels](https://github.com/infoslack/awesome-unikernels)
+
 # kernel
 * [linux](https://github.com/torvalds/linux)
 * [rust-for-linux](https://github.com/Rust-for-Linux/linux)

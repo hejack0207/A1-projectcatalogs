@@ -1,4 +1,7 @@
 # paas
+* [awesome-postgres](https://github.com/dhamaniasad/awesome-postgres)
+* [awesome-mysql](https://github.com/shlomi-noach/awesome-mysql)
+
 ## datastore - relational
 * [LocustDB](https://github.com/cswinter/LocustDB)
 * [sqlite](https://github.com/sqlite/sqlite)
