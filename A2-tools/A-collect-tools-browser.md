@@ -1,5 +1,5 @@
 # browser based
-* [manipulate_firefox_bookmarks:py](https://github.com/JamesLochhead/manipulate_firefox_bookmarks)
+* [chrome-extensions](https://github.com/learn-anything/chrome-extensions)
 
 ## headless
 * [thirtyfour:rust](https://github.com/stevepryde/thirtyfour)
@@ -9,7 +9,12 @@
 * [selenium-ide](https://github.com/SeleniumHQ/selenium-ide)
 * [vimium:js](https://github.com/philc/vimium)
 * [web-scraper-chrome-extenstion.js](https://github.com/hejack0207/web-scraper-chrome-extenstion.js)
+* [shortkeys:js](https://github.com/mikecriitenden/shortkeys)
+* [pinboard-keyboard-shortcut:js](https://github.com/bertrandom/pinboard-keyboard-shortcut)
 * [xpath-viewer:js](https://github.com/amphro/xPath-Viewer)
+
+## firefox extension
+* [manipulate_firefox_bookmarks:py](https://github.com/JamesLochhead/manipulate_firefox_bookmarks)
 
 ## automation
 * [zendao-cli.ts](https://github.com/hejack0207/zendao-cli.ts)

@@ -2,6 +2,7 @@
 * [linux](https://github.com/torvalds/linux)
 * [rust-for-linux](https://github.com/Rust-for-Linux/linux)
 * [redox-kernel:rs](https://github.com/redox-os/kernel)
+* [rusty-hermit:rs](https://github.com/hermitcore/rusty-hermit)
 
 # kernel dump
 * [ipmitool](https://github.com/ipmitool/ipmitool)
