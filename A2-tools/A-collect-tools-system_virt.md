@@ -16,6 +16,7 @@
 
 # container image tools
 * [dive:go](https://github.com/wagoodman/dive)
+* [dfimage:py](https://github.com/LanikSJ/dfimage)
 
 # k8s
 * [ksniff:go](https://github.com/eldadru/ksniff)

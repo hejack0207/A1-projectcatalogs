@@ -19,6 +19,9 @@
 * [jinja-helper:py](https://github.com/hejack0207/jinja-helper)
 * [docxtpl-cli](https://github.com/hejack0207/docxtpl-cli)
 
+## excel
+* [xlsx2csv:py](https://github.com/dilshod/xlsx2csv)
+
 ## csv
 * [xsv:rs](https://github.com/BurntSushi/xsv)
 * [csvkit:py](https://github.com/wireservice/csvkit)

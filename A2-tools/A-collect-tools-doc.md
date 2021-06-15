@@ -40,5 +40,8 @@
 * [RFC.py](https://github.com/danielmichaels/RFC.py)
 * [rtfm:py](https://github.com/hile/rtfm)
 
-## excel
-* [xlsx2csv:py](https://github.com/dilshod/xlsx2csv)
+## asciidoc
+* [awesome-asciidoc](https://github.com/bodiam/awesome-asciidoc)
+* [asciidoc-cheatsheet](https://github.com/powerman/asciidoc-cheatsheet)
+* [asciidoctor:rb](https://github.com/asciidoctor/asciidoctor)
+

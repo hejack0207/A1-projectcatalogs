@@ -8,6 +8,10 @@
 * [grafana-docker](https://github.com/grafana/grafana-docker)
 <!-- * [zabbix](https://github.com/zabbix/zabbix) -->
 
+# reverse engineering
+* [awesome-reverse-engineering](https://github.com/alphaSeclab/awesome-reverse-engineering)
+* [reverse-engineering](https://github.com/wtsxDev/reverse-engineering)
+
 # profiling
 
 # sre
