@@ -26,6 +26,7 @@
 * [metis:py](https://github.com/Tencent/Metis)
 
 # sec-ops
+* [linux-kernel-exploits](https://github.com/SecWiki/linux-kernel-exploits)
 * [cve-search](https://github.com/cve-search/cve-search)
 * [secops](https://github.com/mohangcsm/secops)
 * [awesome-cve-poc](https://github.com/qazbnm456/awesome-cve-poc)
