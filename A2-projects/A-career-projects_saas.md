@@ -17,6 +17,8 @@
 * [rust-wasm-4-envoy](https://github.com/AliyunContainerService/rust-wasm-4-envoy)
 
 # ai
+* [awesome-artificial-intelligence](https://github.com/owainlewis/awesome-artificial-intelligence)
+* [awesome-ai-ml-dl](https://github.com/neomatrix369/awesome-ai-ml-dl)
 * [mindspore:py](https://github.com/mindspore-ai/mindspore)
 * [sqlflow](https://github.com/sql-machine-learning/sqlflow)
 

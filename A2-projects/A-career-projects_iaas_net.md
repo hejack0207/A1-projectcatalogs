@@ -5,6 +5,7 @@
 # networking - nfv
 * [awesome-sdn](https://github.com/sdnds-tw/awesome-sdn)
 * [quagga](https://github.com/Quagga/quagga)
+* [xorp.ct](https://github.com/greearb/xorg.ct)
 * [openvswitch](https://github.com/openvswitch/ovs)
 * [SONiC](https://github.com/Azure/SONiC)
 * [cni:go](https://github.com/containernetworking/cni)

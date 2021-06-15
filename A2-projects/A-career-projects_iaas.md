@@ -12,3 +12,6 @@
 * [rockylinux](https://github.com/rocky-linux/rocky)
 * [rockylinux-docs](https://github.com/rocky-linux/rockylinux.org-hugo)
 * [bottlerocket:rs](https://github.com/bottlerocket-os/bottlerocket)
+* [arch-wiki-markdown](https://github.com/tsgates/arch-wiki-markdown)
+* [arch-wiki-docs](https://github.com/lahwaacz/arch-wiki-docs)
+* [arch-wiki](https://github.com/archlinuxarm/wiki)
