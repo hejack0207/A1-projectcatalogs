@@ -1,10 +1,6 @@
 ## ceph
 * [ceph-container](https://github.com/ceph/ceph-container)
+* [ceph-docker-compose](https://github.com/VasiliyLiao/ceph-docker-compose)
 
-## prometheus
-* [prometheus-operator](https://github.com/prometheus-operator/prometheus-operator)
-
-## postgres
-* [postgres-operator](https://github.com/zalando/postgres)
-
-* [mindspore](https://github.com/yarenty/mindspore)
+## gpu
+* [nvidia-docker-compose](https://github.com/eywalker/nvidia-docker-compose)

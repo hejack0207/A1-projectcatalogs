@@ -1,10 +1,4 @@
-## ceph
-* [ceph-container](https://github.com/ceph/ceph-container)
+* [docker-ci-tool-stack](https://github.com/marcelbirkner/docker-ci-tool-stack)
 
 ## prometheus
 * [prometheus-operator](https://github.com/prometheus-operator/prometheus-operator)
-
-## postgres
-* [postgres-operator](https://github.com/zalando/postgres)
-
-* [mindspore](https://github.com/yarenty/mindspore)
