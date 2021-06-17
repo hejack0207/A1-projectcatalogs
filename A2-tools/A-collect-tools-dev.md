@@ -10,6 +10,7 @@
 * [awesome-mage](https://github.com/magefile/awesome-mage)
 
 # version control
+* [git](https://github.com/git/git)
 * [hub:go](https://github.com/github/hub)
 * [gh:go](https://github.com/owenthereal/gh)
 * [delta:rs](https://github.com/dandavison/delta)
