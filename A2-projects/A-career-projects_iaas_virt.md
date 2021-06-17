@@ -6,6 +6,8 @@
 
 # hpyervisor plugins
 * [libvirt-hook-qemu:py](https://github.com/saschpe/libvirt-hook-qemu)
+* [qemu-shogggoth](https://github.com/cromulencelic/qemu-shoggoth)
+* [qemu-plugins-tutorial](https://github.com/atos-tools/qemu-plugins-tutorial)
 
 # k8s
 * [kubernetes:go](https://github.com/kubernetes/kubernetes)
@@ -41,6 +43,10 @@
 
 # container plugin
 * [cni-plugins:go](https://github.com/greenpau/cni-plugins)
+* [docker-sriov-plugin:go](https://github.com/Mellanox/docker-sriov-plugin)
+* [docker-ovs-plugin:go](https://github.com/gopher-net/docker-ovs-plugin)
+* [docker-volume-sshfs:go](https://github.com/vieux/docker-volume-sshfs)
+* [docker-volume-nfs:go](https://github.com/SvenDowideit/docker-volume-nfs)
 
 # openstack
 * [openstack:py](https://github.com/openstack/openstack)

@@ -21,6 +21,7 @@
 * [awesome-ai-ml-dl](https://github.com/neomatrix369/awesome-ai-ml-dl)
 * [mindspore:py](https://github.com/mindspore-ai/mindspore)
 * [sqlflow](https://github.com/sql-machine-learning/sqlflow)
+* [wechat-tfcc](https://github.com/Tencent/WeChat-TFCC)
 
 ## labs
 * [labs-ai](https://github.com/hejack0207/labs-ai)

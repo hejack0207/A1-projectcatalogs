@@ -1,12 +1,10 @@
-# paas
-* [awesome-postgres](https://github.com/dhamaniasad/awesome-postgres)
-* [awesome-mysql](https://github.com/shlomi-noach/awesome-mysql)
 
-## datastore - relational
+# datastore - relational
 * [LocustDB](https://github.com/cswinter/LocustDB)
 * [sqlite](https://github.com/sqlite/sqlite)
 
-## datastore - relational mysql
+## mysql
+* [awesome-mysql](https://github.com/shlomi-noach/awesome-mysql)
 * [percona-server](https://github.com/percona/percona-server)
 * [percona-server-documentation](https://github.com/percona/documentation)
 * [mariadb](https://github.com/MariaDB/server)
@@ -22,14 +20,16 @@
 * [mydumper](https://github.com/maxbube/mydumper)
 * [proxysql](https://github.com/sysown/proxysql)
 
-## datastore - relational postgres
+## postgres
+* [awesome-postgres](https://github.com/dhamaniasad/awesome-postgres)
 * [postgres](https://github.com/postgres/postgres)
 * [gpdb](https://github.com/greenplum-db/gpdb)
 * [opengauss](https://github.com/opengauss-mirror/openGauss-server)
 * [polardb](https://github.com/alibaba/PolarDB-for-PostgreSQL)
 
-## datastore - nosql
+## nosql
 * [elasticsearch:java](https://github.com/elastic/elasticsearch)
+* [cerebro:scala](https://github.com/lmenezes/cerebro)
 * [elsec:py](https://github.com/mkocikowski/elsec)
 * [elseql:py](https://github.com/raff/elseql)
 * [mongo](https://github.com/mongodb/mongo)
@@ -55,8 +55,10 @@
 * [hadoop-site](https://github.com/apache/hadoop-site)
 * [hadoop-hdfs:java](https://github.com/apache/hadoop-hdfs)
 
-## datastore - memory
+## memory db
 * [zookeeper:java](https://github.com/apache/zookeeper)
+* [zookeeper-benchmark:java](https://github.com/brownsys/zookeeper-benchmark)
+* [zkbench:java](https://github.com/Randgalt/zkbench)
 * [Tendis](https://github.com/Tencent/Tendis)
 * [redis](https://github.com/redis/redis)
 * [etcd:go](https://github.com/etcd-io/etcd)

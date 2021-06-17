@@ -3,6 +3,11 @@
 * [awesome-competitive-programming](https://github.com/lnishan/awesome-competitive-programming)
 * [awesome-distributed-systems](https://github.com/theanalyst/awesome-distributed-systems)
 * [awesome-consensus](https://github.com/dgryski/awesome-consensus)
+* [awesome-decision-tree-papers](https://github.com/benedekrozemberczki/awesome-decision-tree-papers)
+
+## algorithms
+* [DecisionTrees:tex](https://github.com/michaeldorner/DecisionTrees)
+* [DecisionTree:py](https://github.com/dozercodes/DecisionTree)
 
 ## paxos
 * [awesome-paxos](https://github.com/linearregression/awesome-paxos)
