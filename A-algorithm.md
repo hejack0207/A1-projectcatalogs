@@ -2,7 +2,7 @@
 * [awesome-algorithms](https://github.com/tayllan/awesome-algorithms)
 * [awesome-competitive-programming](https://github.com/lnishan/awesome-competitive-programming)
 * [awesome-distributed-systems](https://github.com/theanalyst/awesome-distributed-systems)
-* [awesome-consensus](https://github.com/dgriski/awesome-consensus)
+* [awesome-consensus](https://github.com/dgryski/awesome-consensus)
 
 ## paxos
 * [awesome-paxos](https://github.com/linearregression/awesome-paxos)
