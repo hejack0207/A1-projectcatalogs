@@ -1,13 +1,3 @@
-# basic toolsets
-* [systemd](https://github.com/systemd/systemd)
-* [coreutils](https://github.com/coreutils/coreutils)
-* [coreutils:rs](https://github.com/redox-os/coreutils)
-* [sysstat](https://github.com/sysstat/sysstat)
-* [moreutils](https://github.com/madx/moreutils)
-* [util-linux](https://github.com/karelzak/util-linux)
-* [lsof](https://github.com/lsof-org/lsof)
-* [iproute2](https://github.com/shemminger/iproute2)
-
 # terminal
 * [tmux](https://github.com/tmux/tmux)
 * [tmux-thumbs:rs](https://github.com/fcsonline/tmux-thumbs)
