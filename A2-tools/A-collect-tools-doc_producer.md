@@ -13,6 +13,7 @@
 * [chmtoepub](https://github.com/idsol/ChmToEpub)
 * [chm2epub:py](https://github.com/righthandabacus/chm2epub)
 * [calibre:py](https://github.com/kovidgoyal/calibre)
+* [zsh-guide-epub:py](https://github.com/pawel-slowik/zsh-guide-epub)
 
 ## man
 * [md2man:rb](https://github.com/sunaku/md2man)
