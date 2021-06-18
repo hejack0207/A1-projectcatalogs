@@ -21,6 +21,7 @@
 * [krew-index](https://github.com/kubernetes-sigs/krew-index)
 * [tke-charts](https://github.com/tkestack/charts)
 * [kubectl-trace](https://github.com/iovisor/kubectl-trace)
+* [gpumounter](https://github.com/pokerfaceSad/GPUMounter)
 
 # container
 * [awesome-linux-containers](https://github.com/Friz-zy/awesome-linux-containers)
