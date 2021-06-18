@@ -8,6 +8,7 @@
 * [libvirt-hook-qemu:py](https://github.com/saschpe/libvirt-hook-qemu)
 * [qemu-shogggoth](https://github.com/cromulencelic/qemu-shoggoth)
 * [qemu-plugins-tutorial](https://github.com/atos-tools/qemu-plugins-tutorial)
+* [cloud-hypervisor:rs](https://github.com/cloud-hypervisor/cloud-hypervisor)
 
 # k8s
 * [kubernetes:go](https://github.com/kubernetes/kubernetes)
