@@ -10,7 +10,6 @@
 * [texinfo2epub:xslt](https://github.com/jlhg/texinfo2epub)
 * [sphinx:py](https://github.com/sphinx-doc/sphinx)
 * [latex2epub:rb](https://github.com/kmuto/latex2epub)
-* [hugo-epub](https://github.com/weitblick/epub)
 * [chmtoepub](https://github.com/idsol/ChmToEpub)
 * [chm2epub:py](https://github.com/righthandabacus/chm2epub)
 * [calibre:py](https://github.com/kovidgoyal/calibre)
