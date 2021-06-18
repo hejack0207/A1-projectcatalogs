@@ -1,6 +1,8 @@
 # doc tool
+* [sphinx:py](https://github.com/sphinx-doc/sphinx)
 * [pandoc:hs](https://github.com/jgm/pandoc)
 * [hugo:go](https://github.com/gohugoio/hugo)
+* [mkdocs:py](https://github.com/mkdocs/mkdocs)
 * [jekyll:rb](https://github.com/jekyll/jekyll)
 
 # doc consumer
