@@ -19,6 +19,7 @@
 * [docker-elasticsearch-cluster](https://github.com/nhat2008/docker-elasticsearch-cluster)
 * [compose-dynamic-es-cluster](https://github.com/etiennepeiniau/compose-dynamic-es-cluster)
 * [docker-elasticsearch](https://github.com/qijian0503/docker-elasticsearch)
+* [helm-elasticsearch](https://github.com/clockworksoul/helm-elasticsearch)
 * [elasticsearch-operator](https://github.com/upmc-enterprises/elasticsearch-operator)
 * [es-operator](https://github.com/zalando-incubator/es-operator)
 
