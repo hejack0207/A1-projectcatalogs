@@ -7,10 +7,12 @@
 
 # paas
 * [mysql-server](https://github.com/mysql/mysql-server)
-* [zookeeper:java](https://github.com/apache/zookeeper)
-* [kafka:java](https://github.com/apache/kafka)
-* [mongo-docs](https://github.com/mongodb/docs) [elasticsearch:java](https://github.com/elastic/elasticsearch)
+* [mongo-docs](https://github.com/mongodb/docs)
 * [hadoop:java](https://github.com/apache/hadoop)
+* [elasticsearch:java](https://github.com/elastic/elasticsearch)
+* [kafka:java](https://github.com/apache/kafka)
+* [zookeeper:java](https://github.com/apache/zookeeper)
+* [rabbitmq-website](https://github.com/rabbitmq/rabbitmq-website)
 
 # extra paas
 * [etcd-websiet:go](https://github.com/etcd-io/website)
