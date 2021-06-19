@@ -7,4 +7,4 @@
 * [labs-scala](https://github.com/hejack0207/labs-scala)
 
 # others
-* [collection-haskell](https://github.com/hejack0207/collection-haskell)
+* [taichi](https://github.com/taichi-dev/taichi)

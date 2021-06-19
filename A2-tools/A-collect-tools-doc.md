@@ -1,7 +1,15 @@
-# doc tool
+# doc builder
+* [sphinx:py](https://github.com/sphinx-doc/sphinx)
 * [pandoc:hs](https://github.com/jgm/pandoc)
 * [hugo:go](https://github.com/gohugoio/hugo)
+* [mkdocs:py](https://github.com/mkdocs/mkdocs)
 * [jekyll:rb](https://github.com/jekyll/jekyll)
+
+## sphinx
+* [sphinx-markdown-builder](https://github.com/clayrisser/sphinx-markdown-builder)
+
+## hugo
+* [hugo-epub](https://github.com/weitblick/epub)
 
 # doc consumer
 ## man
@@ -39,3 +47,9 @@
 ## txt
 * [RFC.py](https://github.com/danielmichaels/RFC.py)
 * [rtfm:py](https://github.com/hile/rtfm)
+
+## asciidoc
+* [awesome-asciidoc](https://github.com/bodiam/awesome-asciidoc)
+* [asciidoc-cheatsheet](https://github.com/powerman/asciidoc-cheatsheet)
+* [asciidoctor:rb](https://github.com/asciidoctor/asciidoctor)
+

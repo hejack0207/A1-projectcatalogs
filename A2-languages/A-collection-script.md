@@ -6,7 +6,6 @@
 
 # bash
 * [awesome-bash](https://github.com/awesome-lists/awesome-bash)
-* [bash](https://github.com/bminor/bash)
 * [bash](https://github.com/gitGNU/gnu_bash)
 * [bpkg](https://github.com/bpkg/bpkg)
 * [oh-my-bash](https://github.com/ohmybash/oh-my-bash)
