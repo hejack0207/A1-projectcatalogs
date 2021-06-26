@@ -3,6 +3,7 @@
 * [vim-asciidoc](https://github.com/dahu/vim-asciidoc)
 * [Dockerfile.vim](https://github.com/ekalinin/Dockerfile.vim)
 * [vim-makefile](https://github.com/jaypmorgan/vim-makefile)
+* [vim-man](https://github.com/vim-utils/vim-man)
 
 # plugins
 ## uncategoried
