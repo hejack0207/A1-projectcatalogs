@@ -15,6 +15,9 @@
 
 # profiling
 
+# testing
+* [fio](https://github.com/axboe/fio)
+
 # sre
 * [awesome-sre](https://github.com/dastergon/awesome-sre)
 * [sre-interview](https://github.com/michael-kehoe/sre-interview)
