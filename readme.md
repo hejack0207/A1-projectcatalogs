@@ -17,7 +17,13 @@
 # extra paas
 * [etcd-websiet:go](https://github.com/etcd-io/website)
 
+# ops
+* [jumpserver](https://github.com/jumpserver/jumpserver)
+* [prometheus](https://github.com/prometheus/prometheus)
+* [grafana](https://github.com/grafana/grafana)
+
 # tools
+* [fio](https://github.com/axboe/fio)
 * [git](https://github.com/git/git)
 
 # huawei
