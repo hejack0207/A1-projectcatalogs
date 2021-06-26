@@ -13,12 +13,16 @@
 * [flannel:go](https://github.com/coreos/flannel)
 * [calico:go](https://github.com/projectcalico/calico)
 * [galaxy:go](https://github.com/tkestack/galaxy)
+* [cilium:go](https://github.com/cilium/cilium)
 
 # networking - load balancer
 * [keepalived](https://github.com/acassen/keepalived)
 * [lvs](https://github.com/alibaba/lvs)
 * [ipvsadm](https://github.com/Distrotech/ipvsadm)
 * [nftlb](https://github.com/zevenet/nftlb)
+* [envoy](https://github.com/envoyproxy/envoy)
+* [envoyproxy.github.io](https://github.com/envoyproxy/envoyproxy.github.io)
+* [proxy](https://github.com/cilium/proxy)
 
 # firewall
 * [bpf-iptables](https://github.com/mbertrone/bpf-iptables)
