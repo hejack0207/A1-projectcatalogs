@@ -25,9 +25,3 @@
 # tools
 * [fio](https://github.com/axboe/fio)
 * [git](https://github.com/git/git)
-
-# huawei
-* [openharmony-docs](https://github.com/OpenHarmony-mirror/docs)
-* [opengauss-docs](https://github.com/opengauss-mirror/docs)
-* [openeuler-docs](https://github.com/openeuler-mirror/docs)
-* [kernel](https://github.com/openeuler-mirror/kernel)
