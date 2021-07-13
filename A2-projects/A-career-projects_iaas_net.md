@@ -3,6 +3,11 @@
 * [smoltcp:rs](https://github.com/smoltcp-rs/smoltcp)
 * [bbr](https://github.com/google/bbr)
 
+# network emulator
+* [mininet](https://github.com/mininet/mininet)
+* [mininet-tests](https://github.com/mininet/mininet-tests)
+* [mininetlab](https://github.com/bobuhiro11/mininetlab)
+
 # networking - nfv
 * [awesome-sdn](https://github.com/sdnds-tw/awesome-sdn)
 * [quagga](https://github.com/Quagga/quagga)

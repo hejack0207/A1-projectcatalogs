@@ -1,8 +1,3 @@
-# network emulator
-* [mininet](https://github.com/mininet/mininet)
-* [mininet-tests](https://github.com/mininet/mininet-tests)
-* [mininetlab](https://github.com/bobuhiro11/mininetlab)
-
 # net traffic inspect
 * [tcpdump](https://github.com/the-tcpdump-group/tcpdump)
 * [tracedump](https://github.com/iitis/tracedump)
