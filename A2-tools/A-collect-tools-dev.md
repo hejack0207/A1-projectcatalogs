@@ -1,6 +1,3 @@
-# benchmark
-* [sockperf](https://github.com/Mellanox/sockperf)
-
 # makefile similars
 * [make](https://github.com/mirror/make)
 * [rake:rb](https://github.com/ruby/rake)
