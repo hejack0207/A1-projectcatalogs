@@ -8,3 +8,7 @@
 
 # saas
 * [mindspore:py](https://github.com/mindspore-ai/mindspore)
+* [mindspore-docs](https://github.com/mindspore-ai/docs)
+
+# ops
+* [A-Tune](https://github.com/openeuler-mirror/A-Tune)
