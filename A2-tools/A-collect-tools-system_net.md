@@ -70,6 +70,7 @@
 * [openssh-portable](https://github.com/openssh/openssh-portable)
 * [mosh](https://github.com/mobile-shell/mosh)
 * [sshpass](https://github.com/kevinburke/sshpass)
+* [xxh:py](https://github.com/xxh/xxh)
 * [pssh](https://github.com/robinbowes/pssh)
 * [hss](https://github.com/six-ddc/hss)
 * [sshfs](https://github.com/libfuse/sshfs)
