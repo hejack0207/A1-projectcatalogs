@@ -4,6 +4,9 @@
 * [k8s-website](https://github.com/kubernetes/website)
 * [libvirt](https://github.com/libvirt/libvirt)
 * [qemu](https://github.com/qemu/qemu)
+* [containerd.io](https://github.com/containerd/containerd.io)
+* [docker-docs](https://github.com/docker/docker.github.io)
+* [runtime-spec](https://github.com/opencontainers/runtime-spec)
 
 # paas
 * [mysql-server](https://github.com/mysql/mysql-server)
