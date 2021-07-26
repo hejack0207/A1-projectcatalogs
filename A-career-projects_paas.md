@@ -5,11 +5,11 @@
 
 ## mysql
 * [awesome-mysql](https://github.com/shlomi-noach/awesome-mysql)
+* [oceanbase](https://github.com/oceanbase/oceanbase)
 * [percona-server](https://github.com/percona/percona-server)
 * [percona-server-documentation](https://github.com/percona/documentation)
 * [mariadb](https://github.com/MariaDB/server)
 * [galera](https://github.com/codership/galera)
-* [oceanbase](https://github.com/oceanbase/oceanbase)
 * [obproxy](https://github.com/oceanbase/obproxy)
 * [obdeploy](https://github.com/oceanbase/obdeploy)
 * [mysql-server](https://github.com/mysql/mysql-server)
@@ -22,9 +22,9 @@
 
 ## postgres
 * [awesome-postgres](https://github.com/dhamaniasad/awesome-postgres)
+* [opengauss](https://github.com/opengauss-mirror/openGauss-server)
 * [postgres](https://github.com/postgres/postgres)
 * [gpdb](https://github.com/greenplum-db/gpdb)
-* [opengauss](https://github.com/opengauss-mirror/openGauss-server)
 * [polardb](https://github.com/alibaba/PolarDB-for-PostgreSQL)
 
 ## nosql
