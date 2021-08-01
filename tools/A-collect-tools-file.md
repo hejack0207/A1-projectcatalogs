@@ -35,7 +35,7 @@
 * [xmlstarlet](https://github.com/hejack0207/xmlstarlet)
 * [xml2json:py](https://github.com/hay/xml2json)
 * [xq:py](https://github.com/jeffbr13/xq)
-* [xpipe:go](https://github.com/Imika/xpipe)
+* [xpipe:go](https://github.com/lmika/xpipe)
 
 ## html
 * [monolith:rs](https://github.com/Y2Z/monolith)
