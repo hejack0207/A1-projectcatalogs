@@ -24,7 +24,7 @@
 * [math-grads](https://github.com/biocad/math-grads)
 * [search-algorithms](https://github.com/devonhollowood/search-algorithms)
 * [graph](https://github.com/bjoern-andres/graph)
-* [data-structures-and-algorithms](https://github.com/bjoern-andres/Data-Structures-and-Algorithms)
+* [data-structures-and-algorithms](https://github.com/amitbansal7/Data-Structures-and-Algorithms)
 * [graphx](https://github.com/apepkuss/graphx)
 * [rustg](https://github.com/FrontMage/rustg)
 

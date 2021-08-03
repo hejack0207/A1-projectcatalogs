@@ -79,7 +79,7 @@
   name: graph
   category: algorithms/graph
   subtree-added: false
-- repo: https://github.com/bjoern-andres/Data-Structures-and-Algorithms
+- repo: https://github.com/amitbansal7/Data-Structures-and-Algorithms
   branch: main
   name: data-structures-and-algorithms
   language: c
