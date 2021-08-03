@@ -1,6 +1,9 @@
 # language support
 * [openjdk-jdk11](https://github.com/AdoptOpenJDK/openjdk-jdk11)
 
+## trace
+* [openjdk-jdk11](https://github.com/AdoptOpenJDK/openjdk-jdk11)
+
 ## code tools
 * [rewrite](https://github.com/Netflix-Skunkworks/rewrite)
 * [inmemantlr](https://github.com/julianthome/inmemantlr)
@@ -24,3 +27,6 @@
 ## kb-tool
 * [ast-grakn](https://github.com/hejack0207/ast-grakn)
 * [repo-graph-maven](https://github.com/rokhmanov/repo-graph-maven)
+
+# awesome
+* [awesome-java](https://github.com/akullpp/awesome-java)
