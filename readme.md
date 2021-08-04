@@ -22,7 +22,7 @@
 * [rabbitmq-website](https://github.com/rabbitmq/rabbitmq-website)
 
 # extra paas
-* [etcd-websiet:go](https://github.com/etcd-io/website)
+* [etcd-website:go](https://github.com/etcd-io/website)
 
 # ops
 * [jumpserver](https://github.com/jumpserver/jumpserver)
