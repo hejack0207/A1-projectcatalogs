@@ -12,3 +12,11 @@
 * [gh:go](https://github.com/owenthereal/gh)
 * [delta:rs](https://github.com/dandavison/delta)
 * [gitui:rs](https://github.com/extrawurst/gitui)
+
+# editor vim
+* [vim](https://github.com/vim/vim)
+* [volt](https://github.com/vim-volt/volt)
+
+# editor vim
+* [emacs](https://github.com/emacs-mirror/emacs)
+* [spacemacs](https://github.com/syl20bnr/spacemacs)
