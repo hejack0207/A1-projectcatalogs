@@ -13,6 +13,7 @@
 * [quagga](https://github.com/Quagga/quagga)
 * [xorp.ct](https://github.com/greearb/xorg.ct)
 * [openvswitch](https://github.com/openvswitch/ovs)
+* [dpdk](https://github.com/DPDK/dpdk)
 * [SONiC](https://github.com/Azure/SONiC)
 * [cni:go](https://github.com/containernetworking/cni)
 * [flannel:go](https://github.com/coreos/flannel)

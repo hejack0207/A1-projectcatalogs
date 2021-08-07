@@ -3,7 +3,6 @@
 * [ceph](https://github.com/ceph/ceph)
 * [hadoop](https://github.com/apache/hadoop)
 * [spdk](https://github.com/spdk/spdk)
-* [dpdk](https://github.com/DPDK/dpdk)
 
 # linux release
 * [awesome-os](https://github.com/jubalh/awesome-os)
