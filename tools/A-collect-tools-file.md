@@ -43,11 +43,6 @@
 * [html2epub](https://github.com/xaratustrah/html2epub)
 * [zsh-guide-epub](https://github.com/pawel-slowik/zsh-guide-epub)
 
-## sql
-* [usql:go](https://github.com/xo/usql)
-* [osql-cli:py](https://github.com/hejack0207/osql-cli)
-* [pysqlcli:py](https://github.com/aebm/pysqlcli)
-
 ## text
 * [amber:rs](https://github.com/dalance/amber)
 * [ripgrep:rs](https://github.com/BurntSushi/ripgrep)
