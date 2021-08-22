@@ -7,3 +7,8 @@
 
 # fpga
 * [corundum](https://github.com/ucsdsysnet/corundum)
+
+# verilog
+* [verilog-ethernet](https://github.com/alexforencich/verilog-ethernet)
+* [verilogboy](https://github.com/zephray/VerilogBoy)
+* [open-fpga-verilog-tutorial](https://github.com/Obijuan/open-fpga-verilog-tutorial)
