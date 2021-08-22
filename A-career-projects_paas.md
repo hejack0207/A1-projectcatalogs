@@ -61,6 +61,7 @@
 * [zkbench:java](https://github.com/Randgalt/zkbench)
 * [Tendis](https://github.com/Tencent/Tendis)
 * [redis](https://github.com/redis/redis)
+* [redis-doc](https://github.com/redis/redis-doc)
 * [etcd:go](https://github.com/etcd-io/etcd)
 * [etcd-websiet:go](https://github.com/etcd-io/website)
 
