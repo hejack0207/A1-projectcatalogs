@@ -1,5 +1,7 @@
 # online
 ## arxiv
+* [arxiv-fetch:go](https://github.com/ZakMiller/arxiv-fetch)
+* [arxivFeed:go](https://github.com/Sercs/arxivFeed)
 
 # wechat
 * [wechatcmd:go](https://github.com/liushuchun/wechatcmd)
