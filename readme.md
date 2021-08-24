@@ -21,7 +21,7 @@
 # paas
 * [mysql-server](https://github.com/mysql/mysql-server)
 * [mongo-docs](https://github.com/mongodb/docs)
-* [redis-doc](https://github.com/redis/doc)
+* [redis-doc](https://github.com/redis/redis-doc)
 * [hadoop:java](https://github.com/apache/hadoop)
 * [elasticsearch:java](https://github.com/elastic/elasticsearch)
 * [kafka:java](https://github.com/apache/kafka)
