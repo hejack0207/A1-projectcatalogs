@@ -5,6 +5,12 @@
 * [awesome-consensus](https://github.com/dgryski/awesome-consensus)
 * [awesome-decision-tree-papers](https://github.com/benedekrozemberczki/awesome-decision-tree-papers)
 
+# collection
+* [Algorithms:rs](https://github.com/TianyiShi2001/Algorithms)
+* [rust-algorithm-club:rs](https://github.com/weihanglo/rust-algorithm-club)
+* [rust-algorithms:rs](https://github.com/EbTech/rust-algorithms)
+* [Rust:rs](https://github.com/TheAlgorithms/Rust)
+
 # algorithms
 * [DecisionTrees:tex](https://github.com/michaeldorner/DecisionTrees)
 * [DecisionTree:py](https://github.com/dozercodes/DecisionTree)
