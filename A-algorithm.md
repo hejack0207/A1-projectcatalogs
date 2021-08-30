@@ -38,10 +38,10 @@
 * [www.tlapl](https://github.com/tlaplus/www)
 * [tlaplus](https://github.com/tlaplus/tlaplus)
 * [PlusPy](https://github.com/tlaplus/PlusPy)
-
+---
 * [DrTLAPlus](https://github.com/tlaplus/DrTLAPlus)
 * [PlusCalCheatSheet](https://github.com/tlaplus/PlusCalCheatSheet)
-
+---
 * [tla-plus-resources](https://github.com/cmschmtt/tla-plus-resources)
 * [tla-plus](https://github.com/pingcap/tla-plus)
 * [raft.tla](https://github.com/ongardie/raft.tla)
