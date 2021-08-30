@@ -2,14 +2,11 @@
 * [openjdk-jdk11](https://github.com/AdoptOpenJDK/openjdk-jdk11)
 
 ## trace
-* [openjdk-jdk11](https://github.com/AdoptOpenJDK/openjdk-jdk11)
 
 ## code tools
 * [rewrite](https://github.com/Netflix-Skunkworks/rewrite)
 * [inmemantlr](https://github.com/julianthome/inmemantlr)
 * [hackathon-unchain](https://github.com/JetBrains/hackathon-unchain)
-
-## others
 * [Java-UML-Generator](https://github.com/CSSE374-CJJB/Java-UML-Generator)
 
 # dev
