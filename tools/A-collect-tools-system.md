@@ -4,6 +4,7 @@
 * [tmux-yank:sh](https://github.com/tmux-plugins/tmux-yank)
 * [dtach](https://github.com/crigler/dtach)
 * [zellij:rs](https://github.com/zellij-org/zellij)
+* [congif](https://github.com/lecram/congif)
 * [ttyrec](https://github.com/mjording/ttyrec)
 
 # boot
