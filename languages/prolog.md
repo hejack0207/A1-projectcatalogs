@@ -5,7 +5,7 @@
 # codes
 * [prolog-examples](https://github.com/Anniepoo/prolog-examples)
 * [99-prolog-problems](https://github.com/Rootex/99-prolog-problems)
-* [chalk:rs](https://github.com/rust-lang/scryer-prolog)
+* [chalk:rs](https://github.com/rust-lang/chalk)
 
 # implementation
 * [prolog:hs](https://github.com/Erdwolf/prolog)
