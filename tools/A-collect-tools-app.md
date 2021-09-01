@@ -2,8 +2,10 @@
 ## arxiv
 * [arxiv-fetch:go](https://github.com/ZakMiller/arxiv-fetch)
 * [arxivFeed:go](https://github.com/Sercs/arxivFeed)
----
 * [paperoni:rs](https://github.com/hipstermojo/paperoni)
+
+## wikipedia
+* [wikiextractor](https://github.com/attardi/wikiextractor)
 
 # wechat
 * [wechatcmd:go](https://github.com/liushuchun/wechatcmd)
