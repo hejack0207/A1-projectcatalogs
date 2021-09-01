@@ -6,6 +6,8 @@
 * [Complexity-Resources](https://github.com/Mariusmarten/Complexity-Resources)
 
 # computer science
+* [awesome-distributed-systems](https://github.com/theanalyst/awesome-distributed-systems)
+
 ## tla+
 * [www.tlapl](https://github.com/tlaplus/www)
 * [tlaplus](https://github.com/tlaplus/tlaplus)

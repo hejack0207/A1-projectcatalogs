@@ -1,7 +1,6 @@
 # awesome
 * [awesome-algorithms](https://github.com/tayllan/awesome-algorithms)
 * [awesome-competitive-programming](https://github.com/lnishan/awesome-competitive-programming)
-* [awesome-distributed-systems](https://github.com/theanalyst/awesome-distributed-systems)
 * [awesome-consensus](https://github.com/dgryski/awesome-consensus)
 * [awesome-decision-tree-papers](https://github.com/benedekrozemberczki/awesome-decision-tree-papers)
 
