@@ -5,7 +5,6 @@
 * [cntr](https://github.com/Mic92/cntr)
 * [cinf](https://github.com/mhausenblas/cinf)
 * [dockermachine:go](https://github.com/docker/machine)
-* [docker-machine-kvm:go](https://github.com/machine-drivers/docker-machine-kvm)dhiltgen/docker-machine-kvm
 * [runq:go](https://github.com/gotoz/runq)
 * [buildah:go](https://github.com/containers/buildah)
 * [ansible-bender:py](https://github.com/ansible-community/ansible-bender)
@@ -17,6 +16,13 @@
 # container image tools
 * [dive:go](https://github.com/wagoodman/dive)
 * [dfimage:py](https://github.com/LanikSJ/dfimage)
+
+# kvm
+* [docker-on-kvm:rs](https://github.com/svenslaggare/docker-on-kvm)
+* [docker-machine-kvm:go](https://github.com/machine-drivers/docker-machine-kvm) dhiltgen/docker-machine-kvm
+
+# vm image
+* [brokkr:rs](https://github.com/PierreZ/brokkr)
 
 # k8s
 * [ksniff:go](https://github.com/eldadru/ksniff)

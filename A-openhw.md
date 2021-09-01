@@ -20,5 +20,6 @@
 * [open-fpga-verilog-tutorial](https://github.com/Obijuan/open-fpga-verilog-tutorial)
 
 # 3d print
+* [awesome-3d-printing](https://github.com/ad-si/awesome-3d-printing)
 * [printpi](https://github.com/Wallacoloo/printpi)
 * [OctoPrint](https://github.com/OctoPrint/OctoPrint)
