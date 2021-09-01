@@ -23,3 +23,9 @@
 * [tla-go-back-n](https://github.com/jb567/tla-go-back-n)
 ---
 * [awesome-tlaplus](https://github.com/kaelzhang81/awesome-tlaplus)
+* [tla.vim](https://github.com/hwayne/tla.vim)
+
+## distalgo
+* [distalgo](https://github.com/DistAlgo/distalgo)
+* [Distributed-Graph-Algorithms](https://github.com/arjun-menon/Distributed-Graph-Algorithms)
+
