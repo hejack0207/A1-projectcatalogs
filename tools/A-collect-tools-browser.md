@@ -7,6 +7,7 @@
 
 ## chrome extenstion
 * [selenium-ide](https://github.com/SeleniumHQ/selenium-ide)
+* [markdownizr-chrome:js](https://github.com/sh78/markdownizr-chrome)
 * [vimium:js](https://github.com/philc/vimium)
 * [web-scraper-chrome-extenstion.js](https://github.com/hejack0207/web-scraper-chrome-extenstion.js)
 * [shortkeys:js](https://github.com/mikecriitenden/shortkeys)
