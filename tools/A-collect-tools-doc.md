@@ -20,6 +20,8 @@
 
 ## latex
 * [latex2md:py](https://github.com/daanvandijk/latex2md)
+* [latex2epub:pl](https://github.com/jmiszczak/latex2epub)
+* [latex2epub:rb](https://github.com/kmuto/latex2epub)
 
 ## texinfo
 * [texi2md:pl](https://github.com/kcolford/texi2md)
