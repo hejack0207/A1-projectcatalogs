@@ -21,6 +21,7 @@
 
 ### raft
 * [awesome-raft](https://github.com/cizixs/awesome-raft)
+* [braft](https://github.com/baidu/braft)
 
 ## graph
 * [networkhs](https://github.com/tao-pr/networkhs)
