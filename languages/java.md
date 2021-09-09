@@ -1,7 +1,8 @@
 # language support
 * [openjdk-jdk11](https://github.com/AdoptOpenJDK/openjdk-jdk11)
 
-## trace
+## editor support
+* [java-language-server](https://github.com/georgewfraser/java-language-server)
 
 ## code tools
 * [rewrite](https://github.com/Netflix-Skunkworks/rewrite)
