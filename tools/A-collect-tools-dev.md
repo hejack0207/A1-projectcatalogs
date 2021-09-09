@@ -17,6 +17,9 @@
 * [vim](https://github.com/vim/vim)
 * [volt](https://github.com/vim-volt/volt)
 
-# editor vim
+# language server
+* [texlab](https://github.com/latex-lsp/texlab)
+
+# editor
 * [emacs](https://github.com/emacs-mirror/emacs)
 * [spacemacs](https://github.com/syl20bnr/spacemacs)
