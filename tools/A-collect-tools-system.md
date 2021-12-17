@@ -10,12 +10,17 @@
 # boot
 * [glim](https://github.com/thias/glim)
 * [multios-usb](https://github.com/Mexit/MultiOS-USB)
+* [efibootmgr](https://github.com/rhboot/efibootmgr)
+* [refind](https://github.com/tianon/refind)
 
 # sys tool
 * [tsar](https://github.com/alibaba/tsar)
 * [dstat:py](https://github.com/dstat-real/dstat)
 * [glances:py](https://github.com/nicolargo/glances)
 * [dool:py](https://github.com/scottchiefbaker/dool)
+
+# hardware tool
+* [hdparm](https://github.com/Distrotech/hdparm)
 
 # process wrapper
 * [rlwrap](https://github.com/hanslub42/rlwrap)

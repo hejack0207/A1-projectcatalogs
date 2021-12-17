@@ -6,6 +6,8 @@
 * [sniffglue:rs](https://github.com/kpcyrd/sniffglue)
 * [httpparse:go](https://github.com/clearthesky/httpparse)
 * [http-inspect:py](https://github.com/hejack0207/http-inspect.py)
+* [sniffer:go](https://github.com/bisrael8191/sniffer)
+* [mysql-sniffer:go](https://github.com/zorkian/mysql-sniffer)
 
 # net traffic viewer
 * [termshark:go](https://github.com/gcla/termshark)

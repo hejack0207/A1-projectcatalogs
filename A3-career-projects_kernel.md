@@ -10,6 +10,7 @@
 # kernel dump
 * [ipmitool](https://github.com/ipmitool/ipmitool)
 * [crash](https://github.com/crash-utility/crash)
+* [crashdmesg](https://github.com/hiro-dSn/crashdmesg)
 * [kdump](https://github.com/openSUSE/kdump)
 
 # kernel tools
@@ -18,3 +19,12 @@
 * [dattobd](https://github.com/datto/dattobd)
 * [tpe-lkm](https://github.com/cormander/tpe-lkm)
 * [kpatch](https://github.com/dynup/kpatch)
+
+# kernel app
+* [hcache:go](https://github.com/djhuahao/hcache)
+* [pcstat:go](https://github.com/tobert/pcstat)
+* [cachemaster](https://github.com/caisonglu/cachemaster)
+* [vmtouch](https://github.com/hoytech/vmtouch)
+* [ioctl-linux](https://github.com/jetibest/ioctl-linux)
+* [ioctl](https://github.com/jeromi-pouiller/ioctl)
+

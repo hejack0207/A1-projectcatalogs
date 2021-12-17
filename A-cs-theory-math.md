@@ -10,7 +10,7 @@
 * [group-theory-haskell](https://github.com/hubbards/group-theory-haskell)
 
 ## game theory
-* [CGTmonad](https://github.com/revslauphter/CGTmonad)
+* [CGTmonad](https://github.com/revslaughter/CGTmonad)
 * [Hagl](https://github.com/walkie/Hagl)
 
 # computer science

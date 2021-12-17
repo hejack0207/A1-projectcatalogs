@@ -15,6 +15,9 @@
 
 # profiling
 
+# diagnose
+* [kubediag](https://github.com/kubediag/kubediag)
+
 # testing
 * [fio](https://github.com/axboe/fio)
 
