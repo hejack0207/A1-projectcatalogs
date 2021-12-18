@@ -1,6 +1,12 @@
 # language support
 * [openjdk-jdk11](https://github.com/AdoptOpenJDK/openjdk-jdk11)
 
+<<<<<<< HEAD
+=======
+## editor support
+* [java-language-server](https://github.com/georgewfraser/java-language-server)
+
+>>>>>>> 658892e2452c75c40007f4c565e4d20809b23f11
 ## code tools
 * [rewrite](https://github.com/Netflix-Skunkworks/rewrite)
 * [inmemantlr](https://github.com/julianthome/inmemantlr)
