@@ -7,7 +7,13 @@
 * [httpparse:go](https://github.com/clearthesky/httpparse)
 * [http-inspect:py](https://github.com/hejack0207/http-inspect.py)
 * [sniffer:go](https://github.com/bisrael8191/sniffer)
+* [go-sniffer:go](https://github.com/40t/go-sniffer)
 * [mysql-sniffer:go](https://github.com/zorkian/mysql-sniffer)
+* [sniffer-agent:go](https://github.com/zr-hebo/sniffer-agent)
+* [mysql-sniffer](https://github.com/Qihoo360/mysql-sniffer)
+* [mysql_sniffer](https://github.com/gophcrow/mysql_sniffer)
+* [zk-sniffer:go](https://github.com/pyinx/zk-sniffer)
+* [zktraffic:py](https://github.com/twitter/zktraffic)
 
 # net traffic viewer
 * [termshark:go](https://github.com/gcla/termshark)
