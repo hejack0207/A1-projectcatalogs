@@ -10,7 +10,6 @@
 
 # networking - nfv
 * [awesome-sdn](https://github.com/sdnds-tw/awesome-sdn)
-* [quagga](https://github.com/Quagga/quagga)
 * [xorp.ct](https://github.com/greearb/xorg.ct)
 * [openvswitch](https://github.com/openvswitch/ovs)
 * [SONiC](https://github.com/Azure/SONiC)
@@ -20,7 +19,7 @@
 * [galaxy:go](https://github.com/tkestack/galaxy)
 * [cilium:go](https://github.com/cilium/cilium)
 
-# dpdk
+# networking - dpdk
 * [dpdk](https://github.com/DPDK/dpdk)
 * [docker-dpdk](https://github.com/redhat-performance/docker-dpdk)
 * [lvs-dpdk:c](https://github.com/lvsgate/lvs-dpdk)
@@ -28,6 +27,10 @@
 * [dpvs:c](https://github.com/iqiyi/dpvs)
 * [qnsm:c](https://github.com/iqiyi/qnsm)
 * [dpdkcap:c](https://github.com/dpdkcap/dpdkcap)
+
+# networking - routing
+* [quagga](https://github.com/Quagga/quagga)
+* [mininet-quagga:py](https://github.com/qyang18/Mininet-Quagga)
 
 # networking - load balancer
 * [keepalived](https://github.com/acassen/keepalived)
