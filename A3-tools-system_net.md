@@ -15,9 +15,22 @@
 * [zk-sniffer:go](https://github.com/pyinx/zk-sniffer)
 * [zktraffic:py](https://github.com/twitter/zktraffic)
 
+## wireshark plugins
+* [wireshark-http-extra:lua](https://github.com/shomeax/wireshark-http-extra)
+* [pyreshark:py](https://github.com/ashdnazg/pyreshark)
+* [protobuf_dissector:lua](https://github.com/128technology/protobuf_dissector)
+* [videowireshark:lua](https://github.com/hongch911/WiresharkPlugin)
+
 # net traffic viewer
 * [termshark:go](https://github.com/gcla/termshark)
 * [tcpterm:go](https://github.com/sachaos/tcpterm)
+
+# conntrack
+* [conntrack:go](https://github.com/typetypetype/conntrack)
+* [conntrack-top:sh](https://github.com/ragnar-johannsson/conntrack-top)
+* [conntrack-logger:py](https://github.com/mk-fg/conntrack-logger)
+* [conntrack-tools:c](https://github.com/vyos/conntrack-tools)
+* [conntracker:c](https://github.com/rafaeldtinoco/conntracker)
 
 # net connection
 * [mtr](https://github.com/traviscross/mtr)

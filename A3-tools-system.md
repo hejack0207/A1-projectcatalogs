@@ -28,8 +28,17 @@
 # process tool
 * [startmon](https://github.com/pturmel/startmon)
 * [psmisc](https://github.com/Distrotech/psmisc)
-* [strace](https://github.com/strace/strace)
 * [progress](https://github.com/Xfennec/progress)
+
+# trace tool
+* [strace](https://github.com/strace/strace)
+* [systemtap-lwtool](https://github.com/brendangregg/systemtap-lwtool)
+* [stapxx:pl](https://github.com/openresty/stapxx)
+* [lkcd:c](https://github.com/redplait/lkcd)
+* [openresty-systemtap-toolkit:pl](https://github.com/openresty/openresty-systemtap-toolkit)
+* [systemtap-toolkit:pl](https://github.com/youzan/systemtap-toolkit)
+* [systemtap-script:pl](https://github.com/soarpenguin/systemtap-script)
+* [dtrace-stap-book](https://github.com/myaut/dtrace-stap-book)
 
 # pipe tool
 * [up:go](https://github.com/akavel/up)
