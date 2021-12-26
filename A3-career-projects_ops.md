@@ -13,7 +13,8 @@
 * [awesome-reverse-engineering](https://github.com/alphaSeclab/awesome-reverse-engineering)
 * [reverse-engineering](https://github.com/wtsxDev/reverse-engineering)
 
-# profiling
+# chaos
+* [chaosblade:go](https://github.com/chaosblade-io/chaosblade)
 
 # diagnose
 * [kubediag](https://github.com/kubediag/kubediag)
