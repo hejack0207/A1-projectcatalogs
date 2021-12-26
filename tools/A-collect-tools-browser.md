@@ -6,6 +6,7 @@
 * [rust-headless-chrome:rs](https://github.com/atroche/rust-headless-chrome)
 
 ## chrome extenstion
+* [automa:js](https://github.com/Kholid060/automa)
 * [selenium-ide](https://github.com/SeleniumHQ/selenium-ide)
 * [markdownizr-chrome:js](https://github.com/sh78/markdownizr-chrome)
 * [vimium:js](https://github.com/philc/vimium)
@@ -13,6 +14,9 @@
 * [shortkeys:js](https://github.com/mikecriitenden/shortkeys)
 * [pinboard-keyboard-shortcut:js](https://github.com/bertrandom/pinboard-keyboard-shortcut)
 * [xpath-viewer:js](https://github.com/amphro/xPath-Viewer)
+* [Chrome-Extension-WebPageMonitor:js](https://github.com/beherca/Chrome-Extension-WebPageMonitor)
+* [autologin-staging:js](https://github.com/jiikko/autologin-staging)
+* [LNM-Login-Utility:js](https://github.com/chaitanyagiri/LNM-Login-Utility)
 
 ## firefox extension
 * [manipulate_firefox_bookmarks:py](https://github.com/JamesLochhead/manipulate_firefox_bookmarks)
