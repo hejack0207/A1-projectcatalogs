@@ -13,13 +13,21 @@
 * [quagga](https://github.com/Quagga/quagga)
 * [xorp.ct](https://github.com/greearb/xorg.ct)
 * [openvswitch](https://github.com/openvswitch/ovs)
-* [dpdk](https://github.com/DPDK/dpdk)
 * [SONiC](https://github.com/Azure/SONiC)
 * [cni:go](https://github.com/containernetworking/cni)
 * [flannel:go](https://github.com/coreos/flannel)
 * [calico:go](https://github.com/projectcalico/calico)
 * [galaxy:go](https://github.com/tkestack/galaxy)
 * [cilium:go](https://github.com/cilium/cilium)
+
+# dpdk
+* [dpdk](https://github.com/DPDK/dpdk)
+* [docker-dpdk](https://github.com/redhat-performance/docker-dpdk)
+* [lvs-dpdk:c](https://github.com/lvsgate/lvs-dpdk)
+* [ovs-dpdk:c](https://github.com/bytedance/ovs-dpdk)
+* [dpvs:c](https://github.com/iqiyi/dpvs)
+* [qnsm:c](https://github.com/iqiyi/qnsm)
+* [dpdkcap:c](https://github.com/dpdkcap/dpdkcap)
 
 # networking - load balancer
 * [keepalived](https://github.com/acassen/keepalived)
@@ -33,7 +41,12 @@
 # firewall
 * [bpf-iptables](https://github.com/mbertrone/bpf-iptables)
 
-# networking - DNS
+# tcpcopy
+* [tcpcopy:c](https://github.com/session-replay-tools/tcpcopy)
+* [intercept:c](https://github.com/session-replay-tools/intercept)
+* [mysql-replay-module:c](https://github.com/session-replay-tools/mysql-replay-module)
+
+# DNS
 * [unbound](https://github.com/NLnetLabs/unbound)
 * [coredns](https://github.com/coredns/coredns)
 * [coredns.io](https://github.com/coredns/coredns.io)
