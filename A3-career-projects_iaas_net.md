@@ -45,6 +45,7 @@
 * [tcpcopy:c](https://github.com/session-replay-tools/tcpcopy)
 * [intercept:c](https://github.com/session-replay-tools/intercept)
 * [mysql-replay-module:c](https://github.com/session-replay-tools/mysql-replay-module)
+* [docker-tcpcopy:sh](https://github.com/hzhangse/docker-tcpcopy)
 
 # DNS
 * [unbound](https://github.com/NLnetLabs/unbound)
