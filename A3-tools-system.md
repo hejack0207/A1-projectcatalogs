@@ -32,7 +32,7 @@
 
 # trace tool
 * [strace](https://github.com/strace/strace)
-* [systemtap-lwtool](https://github.com/brendangregg/systemtap-lwtool)
+* [systemtap-lwtools](https://github.com/brendangregg/systemtap-lwtools)
 * [stapxx:pl](https://github.com/openresty/stapxx)
 * [lkcd:c](https://github.com/redplait/lkcd)
 * [openresty-systemtap-toolkit:pl](https://github.com/openresty/openresty-systemtap-toolkit)
