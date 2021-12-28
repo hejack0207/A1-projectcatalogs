@@ -12,6 +12,7 @@
 * [gh:go](https://github.com/owenthereal/gh)
 * [delta:rs](https://github.com/dandavison/delta)
 * [gitui:rs](https://github.com/extrawurst/gitui)
+* [gitoxide:rs](https://github.com/Byron/gitoxide)
 
 # editor vim
 * [vim](https://github.com/vim/vim)
