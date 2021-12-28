@@ -4,6 +4,7 @@
 * [tcplanz:py](https://github.com/yandex/tcplanz)
 * [wireshark](https://github.com/wireshark/wireshark)
 * [sniffglue:rs](https://github.com/kpcyrd/sniffglue)
+* [go-netflow:go](https://github.com/rfyiamcool/go-netflow)
 * [httpparse:go](https://github.com/clearthesky/httpparse)
 * [http-inspect:py](https://github.com/hejack0207/http-inspect.py)
 * [sniffer:go](https://github.com/bisrael8191/sniffer)
