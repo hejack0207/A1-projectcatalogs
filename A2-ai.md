@@ -1,4 +1,8 @@
 # ai frameworks
+* [paddlepaddle](https://github.com/PaddlePaddle/Paddle)
+
+# ai application
+* [paddlepaddle](https://github.com/PaddlePaddle/PaddleClas)
 
 # ai project
 ## ai-ops
