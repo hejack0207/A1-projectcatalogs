@@ -1,4 +1,5 @@
 # ai frameworks
+* [Hetu](https://github.com/Hsword/Hetu)
 * [paddlepaddle](https://github.com/PaddlePaddle/Paddle)
 
 # ai application
