@@ -1,4 +1,5 @@
 # ai frameworks
+* [awesome-artificial-intelligence](https://github.com/owainlewis/awesome-artificial-intelligence)
 * [Hetu](https://github.com/Hsword/Hetu)
 * [paddlepaddle](https://github.com/PaddlePaddle/Paddle)
 
