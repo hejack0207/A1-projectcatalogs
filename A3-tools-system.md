@@ -6,6 +6,7 @@
 * [zellij:rs](https://github.com/zellij-org/zellij)
 * [congif](https://github.com/lecram/congif)
 * [ttyrec](https://github.com/mjording/ttyrec)
+* [fbterm](https://github.com/stephenprater/fbterm)
 
 # boot
 * [glim](https://github.com/thias/glim)
