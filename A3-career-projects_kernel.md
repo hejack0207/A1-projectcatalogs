@@ -21,7 +21,7 @@
 # ebpf tools
 * [bcc](https://github.com/iovisor/bcc)
 * [bpftrace](https://github.com/iovisor/bpftrace)
-* [nettrace](https://github.com/OpenCloudOS/nettrace)
+* [nettrace:py](https://github.com/OpenCloudOS/nettrace)
 
 # kernel app
 * [hcache:go](https://github.com/djhuahao/hcache)
