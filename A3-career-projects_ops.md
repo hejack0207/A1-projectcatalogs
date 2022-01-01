@@ -7,7 +7,6 @@
 * [grafana:ts](https://github.com/grafana/grafana)
 * [grafana-dashboards](https://github.com/percona/grafana-dashboards)
 * [grafana-docker](https://github.com/grafana/grafana-docker)
-<!-- * [zabbix](https://github.com/zabbix/zabbix) -->
 
 # reverse engineering
 * [awesome-reverse-engineering](https://github.com/alphaSeclab/awesome-reverse-engineering)
