@@ -12,7 +12,6 @@
 * [mysql-sniffer:go](https://github.com/zorkian/mysql-sniffer)
 * [sniffer-agent:go](https://github.com/zr-hebo/sniffer-agent)
 * [mysql-sniffer](https://github.com/Qihoo360/mysql-sniffer)
-* [mysql_sniffer](https://github.com/gophcrow/mysql_sniffer)
 * [zk-sniffer:go](https://github.com/pyinx/zk-sniffer)
 * [zktraffic:py](https://github.com/twitter/zktraffic)
 
