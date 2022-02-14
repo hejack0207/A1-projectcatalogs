@@ -5,6 +5,7 @@
 * [jid:go](https://github.com/simeji/jid)
 * [yasha:py](https://github.com/kblomqvist/yasha)
 * [show-struct:py](https://github.com/ilyash/show-struct)
+* [jless:rs](https://github.com/PaulJuliusMartinez/jless)
 * [jello](https://github.com/kellyjonbrazil/jello)
 * [jsonschema](https://github.com/Julian/jsonschema)
 * [aeson-schema:hs](https://github.com/Fuuzetsu/aeson-schema)
