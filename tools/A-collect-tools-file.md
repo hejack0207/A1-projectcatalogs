@@ -1,8 +1,9 @@
 # file tools
 ## json
 * [kanabo](https://github.com/hejack0207/kanabo)
-* [jiq:go](https://github.com/fiatjaf/jiq)
 * [jid:go](https://github.com/simeji/jid)
+* [jiq:go](https://github.com/fiatjaf/jiq)
+* [jd:go](https://github.com/tidwall/jd)
 * [yasha:py](https://github.com/kblomqvist/yasha)
 * [show-struct:py](https://github.com/ilyash/show-struct)
 * [jless:rs](https://github.com/PaulJuliusMartinez/jless)
