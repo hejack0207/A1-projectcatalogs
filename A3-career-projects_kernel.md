@@ -19,6 +19,12 @@
 * [kpatch](https://github.com/dynup/kpatch)
 
 # ebpf tools
+* [libbpf](https://github.com/libbpf/libbpf)
+* [bpftool](https://github.com/libbpf/bpftool)
+* [libbpf-bootstrap](https://github.com/libbpf/libbpf-bootstrap)
+* [libbpf-rs:rs](https://github.com/libbpf/libbpf-rs)
+* [libbpf-sys:rs](https://github.com/libbpf/libbpf-sys)
+* [libbpfgo:go](https://github.com/aquasecurity/libbpfgo)
 * [bcc](https://github.com/iovisor/bcc)
 * [bpftrace](https://github.com/iovisor/bpftrace)
 * [nettrace:py](https://github.com/OpenCloudOS/nettrace)
