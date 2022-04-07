@@ -13,6 +13,9 @@
 # k8s
 * [kubernetes:go](https://github.com/kubernetes/kubernetes)
 * [k8s-website](https://github.com/kubernetes/website)
+* [kind](https://github.com/kubernetes-sigs/kind)
+* [k3s](https://github.com/k3s-io/k3s)
+* [minikube](https://github.com/kubernetes/minikube)
 * [tke:go](https://github.com/tkestack/tke)
 * [tke-docs](https://github.com/tkestack/docs)
 
@@ -41,6 +44,7 @@
 * [containerd:go](https://github.com/containerd/containerd)
 * [containerd.io](https://github.com/containerd/containerd.io)
 * [docker-ce:go](https://github.com/docker/docker-ce)
+* [dind](https://github.com/jpetazzo/dind)
 * [docker-docs](https://github.com/docker/docker.github.io)
 * [docker-compose:py](https://github.com/docker/compose)
 
