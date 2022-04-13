@@ -17,6 +17,7 @@
 * [containerd.io](https://github.com/containerd/containerd.io)
 * [docker-docs](https://github.com/docker/docker.github.io)
 * [runtime-spec](https://github.com/opencontainers/runtime-spec)
+* [cni](https://github.com/containernetworking/cni)
 
 ## storage
 * [ceph](https://github.com/ceph/ceph)
