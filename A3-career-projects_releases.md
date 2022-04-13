@@ -1,9 +1,3 @@
-# storage
-* [fastcfs](https://github.com/happyfish100/FastCFS)
-* [ceph](https://github.com/ceph/ceph)
-* [hadoop](https://github.com/apache/hadoop)
-* [spdk](https://github.com/spdk/spdk)
-
 # linux release
 * [awesome-os](https://github.com/jubalh/awesome-os)
 * [awesome-linux](https://github.com/inputsh/awesome-linux)
