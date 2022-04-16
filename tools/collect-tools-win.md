@@ -32,6 +32,10 @@
 * [clipjump](https://github.com/aviaryan/Clipjump)
 * [clipjump-addons](https://github.com/aviaryan/clipjump-addons)
 
+# ssh
+* [putty-ng](https://github.com/mayswind/PuTTY-ng)
+* [putty-nd](https://github.com/noodle1983/putty-nd)
+
 # autoit
 * [awesome-autoit](https://github.com/J2TEAM/awesome-AutoIt)
 
