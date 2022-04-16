@@ -72,3 +72,4 @@
 
 # tools
 * [wclip](https://github.com/ivartj/wclip)
+* [SwitchHosts](https://github.com/oldj/SwitchHosts)
