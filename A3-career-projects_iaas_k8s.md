@@ -1,9 +1,9 @@
 # k8s
 * [kubernetes:go](https://github.com/kubernetes/kubernetes)
 * [k8s-website](https://github.com/kubernetes/website)
+* [minikube](https://github.com/kubernetes/minikube)
 * [kind](https://github.com/kubernetes-sigs/kind)
 * [k3s](https://github.com/k3s-io/k3s)
-* [minikube](https://github.com/kubernetes/minikube)
 * [tke:go](https://github.com/tkestack/tke)
 * [tke-docs](https://github.com/tkestack/docs)
 

@@ -25,6 +25,8 @@
 * [libbpf-rs:rs](https://github.com/libbpf/libbpf-rs)
 * [libbpf-sys:rs](https://github.com/libbpf/libbpf-sys)
 * [libbpfgo:go](https://github.com/aquasecurity/libbpfgo)
+* [gobpf](https://github.com/iovisor/gobpf)
+* [ebpf](https://github.com/cilium/ebpf)
 * [bcc](https://github.com/iovisor/bcc)
 * [bpftrace](https://github.com/iovisor/bpftrace)
 * [nettrace:py](https://github.com/OpenCloudOS/nettrace)
