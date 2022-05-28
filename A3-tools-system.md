@@ -1,7 +1,26 @@
 # terminal
+## tmux
 * [tmux](https://github.com/tmux/tmux)
+* [tpm](https://github.com/tmux-plugins/tpm)
 * [tmux-thumbs:rs](https://github.com/fcsonline/tmux-thumbs)
+* [tmux-fingers](https://github.com/Morantron/tmux-fingers)
+* [tmux-jump](https://github.com/tmux-plugins/tmux-jump)
+* [tmux-easymotion](https://github.com/ddzero2c/tmux-easymotion)
 * [tmux-yank:sh](https://github.com/tmux-plugins/tmux-yank)
+* [tmux-copycat](https://github.com/tmux-plugins/tmux-copycat)
+* [tmux-fzf](https://github.com/sainnhe/tmux-fzf)
+* [vim-tmux-navigator](https://github.com/christoomey/vim-tmux-navigator)
+* [tmux-continuum](https://github.com/tmux-plugins/tmux-continuum)
+* [tmux-resurrect](https://github.com/tmux-plugins/tmux-resurrect)
+* [tmuxinator](https://github.com/tmuxinator/tmuxinator)
+* [nested-tmux](https://github.com/aleclearmind/nested-tmux)
+* [wemux](https://github.com/zolrath/wemux)
+* [tmux-powerline](https://github.com/erikw/tmux-powerline)
+* [tmux-weather](https://github.com/xamut/tmux-weather)
+* [tmux-tilish](https://github.com/jabirali/tilish)
+* [tmux-logging](https://github.com/tmux-plugins/tmux-logging)
+
+## terminal tools
 * [dtach](https://github.com/crigler/dtach)
 * [zellij:rs](https://github.com/zellij-org/zellij)
 * [congif](https://github.com/lecram/congif)
@@ -9,8 +28,8 @@
 * [fbterm](https://github.com/stephenprater/fbterm)
 
 # boot
-* [glim](https://github.com/thias/glim)
 * [multios-usb](https://github.com/Mexit/MultiOS-USB)
+* [glim](https://github.com/thias/glim)
 * [efibootmgr](https://github.com/rhboot/efibootmgr)
 * [refind](https://github.com/tianon/refind)
 
