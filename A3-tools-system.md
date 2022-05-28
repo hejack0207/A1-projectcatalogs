@@ -4,7 +4,7 @@
 * [tpm](https://github.com/tmux-plugins/tpm)
 * [tmux-thumbs:rs](https://github.com/fcsonline/tmux-thumbs)
 * [tmux-fingers](https://github.com/Morantron/tmux-fingers)
-* [tmux-jump](https://github.com/tmux-plugins/tmux-jump)
+* [tmux-jump](https://github.com/schasse/tmux-jump)
 * [tmux-easymotion](https://github.com/ddzero2c/tmux-easymotion)
 * [tmux-yank:sh](https://github.com/tmux-plugins/tmux-yank)
 * [tmux-copycat](https://github.com/tmux-plugins/tmux-copycat)
@@ -17,7 +17,7 @@
 * [wemux](https://github.com/zolrath/wemux)
 * [tmux-powerline](https://github.com/erikw/tmux-powerline)
 * [tmux-weather](https://github.com/xamut/tmux-weather)
-* [tmux-tilish](https://github.com/jabirali/tilish)
+* [tmux-tilish](https://github.com/jabirali/tmux-tilish)
 * [tmux-logging](https://github.com/tmux-plugins/tmux-logging)
 
 ## terminal tools
