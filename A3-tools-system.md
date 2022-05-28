@@ -2,6 +2,7 @@
 ## tmux
 * [tmux](https://github.com/tmux/tmux)
 * [tpm](https://github.com/tmux-plugins/tpm)
+* [tmux-sensible](https://github.com/tmux-plugins/tmux-sensible)
 * [tmux-thumbs:rs](https://github.com/fcsonline/tmux-thumbs)
 * [tmux-fingers](https://github.com/Morantron/tmux-fingers)
 * [tmux-jump](https://github.com/schasse/tmux-jump)
