@@ -8,9 +8,13 @@
 * [ttyrec](https://github.com/mjording/ttyrec)
 * [fbterm](https://github.com/stephenprater/fbterm)
 
+# windows manager
+* [i3](https://github.com/i3/i3)
+* [lightdm](https://github.com/canonical/lightdm)
+
 # boot
-* [glim](https://github.com/thias/glim)
 * [multios-usb](https://github.com/Mexit/MultiOS-USB)
+* [glim](https://github.com/thias/glim)
 * [efibootmgr](https://github.com/rhboot/efibootmgr)
 * [refind](https://github.com/tianon/refind)
 
