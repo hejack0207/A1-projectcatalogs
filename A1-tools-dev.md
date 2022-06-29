@@ -27,3 +27,5 @@
 
 # debugger
 * [gdb-dashboard](https://github.com/cyrus-and/gdb-dashboard)
+* [gef](https://github.com/hugsy/gef)
+* [peda](https://github.com/longld/peda)
