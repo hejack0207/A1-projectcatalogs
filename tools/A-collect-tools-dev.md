@@ -24,3 +24,6 @@
 # editor
 * [emacs](https://github.com/emacs-mirror/emacs)
 * [spacemacs](https://github.com/syl20bnr/spacemacs)
+
+# debugger
+* [gdb-dashboard](https://github.com/cyrus-and/gdb-dashboard)
