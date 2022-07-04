@@ -18,14 +18,15 @@
 * [vim](https://github.com/vim/vim)
 * [volt](https://github.com/vim-volt/volt)
 
+# debugger
+* [conque-gdb](https://github.com/vim-scripts/Conque-GDB)
+* [gdb-dashboard](https://github.com/cyrus-and/gdb-dashboard)
+* [gef](https://github.com/hugsy/gef)
+* [peda](https://github.com/longld/peda)
+
 # language server
 * [texlab](https://github.com/latex-lsp/texlab)
 
 # editor
 * [emacs](https://github.com/emacs-mirror/emacs)
 * [spacemacs](https://github.com/syl20bnr/spacemacs)
-
-# debugger
-* [gdb-dashboard](https://github.com/cyrus-and/gdb-dashboard)
-* [gef](https://github.com/hugsy/gef)
-* [peda](https://github.com/longld/peda)
