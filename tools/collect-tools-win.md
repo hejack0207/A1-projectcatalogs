@@ -3,35 +3,6 @@
 * [awesome-bat](https://github.com/sxei/awesome-bat)
 * [cmd-call-graph](https://github.com/microsoft/cmd-call-graph)
 
-# ahk
-* [awesome-autohotkey](https://github.com/ahkscript/awesome-AutoHotkey)
-* [autohotkey_l](https://github.com/Lexikos/AutoHotkey_L)
-* [autohotkey_l-docs](https://github.com/Lexikos/AutoHotkey_L-Docs)
-
-## keybindings
-* [vim-AHKcomplete](https://github.com/huleiak47/vim-AHKcomplete)
-* [vim_mouse_2.ahk](https://github.com/4strid/vim_mouse_2.ahk)
-* [vim.ahk](https://github.com/mihaifm/vim.ahk)
-* [vimulate-ahk](https://github.com/justinyaodu/vimulate-ahk)
-* [capslock](https://github.com/Vonng/Capslock)
-
-## browser
-* [chrome.ahk](https://github.com/G33kDude/Chrome.ahk)
-
-## windows manager
-* [bug.n](https://github.com/fuhsjr00/bug.n)
-* [always-on-top](https://github.com/ljungmark/always-on-top)
-* [windowswitcher](https://github.com/Run1e/WindowSwitcher)
-* [iswitchw](https://github.com/tvjg/iswitchw)
-* [hotkeyr](https://github.com/rossning92/HotkeyR)
-* [alttabalternative](https://github.com/lokeshgovindu/AltTabAlternative)
-* [window-switcher](https://github.com/postliminary/window-switcher)
-* [focii](https://github.com/eugeneching/focii)
-
-## clipboard
-* [clipjump](https://github.com/aviaryan/Clipjump)
-* [clipjump-addons](https://github.com/aviaryan/clipjump-addons)
-
 # ssh
 * [putty-ng](https://github.com/mayswind/PuTTY-ng)
 * [putty-nd](https://github.com/noodle1983/putty-nd)
