@@ -56,4 +56,4 @@
 * [asciidoctor:rb](https://github.com/asciidoctor/asciidoctor)
 
 ## html
-* [html2md](https://github.com/suntong/html2md)
+* [html2md:go](https://github.com/suntong/html2md)
