@@ -91,3 +91,5 @@
 * [hss](https://github.com/six-ddc/hss)
 * [sshfs](https://github.com/libfuse/sshfs)
 * [rzsz](https://github.com/coderfordev/rzsz)
+* [trzsz:py](https://github.com/trzsz/trzsz)
+* [trzsz-go:go](https://github.com/trzsz/trzsz-go)
