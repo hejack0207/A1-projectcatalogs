@@ -16,6 +16,12 @@
 * [msys2-packages](https://github.com/msys2/MSYS2-packages)
 * [mingw-packages](https://github.com/msys2/MINGW-packages)
 
+# windows manager
+* [komorebi:rs](https://github.com/komorebi/komorebi)
+
+# autoit
+* [awesome-autoit](https://github.com/J2TEAM/awesome-AutoIt)
+
 # package manager
 * [scoop](https://github.com/lukesampson/scoop)
 * [scoop-extras](https://github.com/lukesampson/scoop-extras)
@@ -24,9 +30,6 @@
 # tools
 * [wclip](https://github.com/ivartj/wclip)
 * [SwitchHosts](https://github.com/oldj/SwitchHosts)
-
-# autoit
-* [awesome-autoit](https://github.com/J2TEAM/awesome-AutoIt)
 
 # wsl
 * [awesome-wsl](https://github.com/sirredbeard/Awesome-WSL)
