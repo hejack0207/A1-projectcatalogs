@@ -19,7 +19,8 @@
 # windows manager
 * [komorebi:rs](https://github.com/komorebi/komorebi)
 
-# autoit
+# automation
+* [autohotkey_l](https://github.com/Lexikos/AutoHotkey_L)
 * [awesome-autoit](https://github.com/J2TEAM/awesome-AutoIt)
 
 # package manager
