@@ -11,14 +11,7 @@
 * [distribution](https://github.com/distribution/distribution)
 * [distribution-spec](https://github.com/opencontainers/distribution-spec)
 * [metrics-server](https://github.com/kubernetes-sigs/metrics-server)
-
-# k8s plugins
-* [kubectl-tree](https://github.com/ahmetb/kubectl-tree)
-* [krew](https://github.com/kubernetes-sigs/krew)
-* [krew-index](https://github.com/kubernetes-sigs/krew-index)
-* [tke-charts](https://github.com/tkestack/charts)
-* [kubectl-trace](https://github.com/iovisor/kubectl-trace)
-* [gpumounter](https://github.com/pokerfaceSad/GPUMounter)
+* [istio](https://github.com/istio/istio)
 
 # k8s storage
 * [csi](https://github.com/container-storage-interface/spec)
@@ -26,9 +19,26 @@
 
 # k8s networking
 * [cni](https://github.com/containernetworking/cni)
+* [flannel](https://github.com/coreos/flannel)
+* [calico](https://github.com/projectcalico/calico)
+* [cilium](https://github.com/cilium/cilium)
+* [galaxy](https://github.com/tkestack/galaxy)
+* [mesh](https://github.com/traefik/mesh)
 
-# container
+# docker
 * [awesome-linux-containers](https://github.com/Friz-zy/awesome-linux-containers)
+* [docker-ce-packaging:go](https://github.com/docker/docker-ce-packaging)
+* [cli:go](https://github.com/docker/cli)
+* [engine:go](https://github.com/docker/engine)
+* [docker-ce:go](https://github.com/docker/docker-ce)
+* [buildx:go](https://github.com/docker/buildx)
+* [buildkit:go](https://github.com/moby/buildkit)
+* [containerd:go](https://github.com/containerd/containerd)
+* [runc:go](https://github.com/opencontainers/runc)
+* [docker-compose:py](https://github.com/docker/compose)
+
+# containers
+* [kata-containers:go](https://github.com/kata-containers/kata-containers)
 * [lxc](https://github.com/lxc/lxc)
 * [lxd](https://github.com/lxc/lxd)
 * [iSulad](https://github.com/openeuler-mirror/iSulad)
@@ -36,20 +46,14 @@
 * [railcar:rs](https://github.com/oracle/railcar)
 * [quark:rs](https://github.com/QuarkContainer/Quark)
 * [pouch:go](https://github.com/alibaba/pouch)
-* [runc:go](https://github.com/opencontainers/runc)
-* [runtime-spec](https://github.com/opencontainers/runtime-spec)
 * [podman:go](https://github.com/containers/podman)
-* [kata-containers:go](https://github.com/kata-containers/kata-containers)
-* [containerd:go](https://github.com/containerd/containerd)
-* [containerd.io](https://github.com/containerd/containerd.io)
-* [docker-ce:go](https://github.com/docker/docker-ce)
 * [dind](https://github.com/jpetazzo/dind)
-* [docker-docs](https://github.com/docker/docker.github.io)
-* [docker-compose:py](https://github.com/docker/compose)
 
-# container plugin
-* [cni-plugins:go](https://github.com/greenpau/cni-plugins)
-* [docker-sriov-plugin:go](https://github.com/Mellanox/docker-sriov-plugin)
-* [docker-ovs-plugin:go](https://github.com/gopher-net/docker-ovs-plugin)
-* [docker-volume-sshfs:go](https://github.com/vieux/docker-volume-sshfs)
-* [docker-volume-nfs:go](https://github.com/SvenDowideit/docker-volume-nfs)
+# container docs
+* [docker-docs](https://github.com/docker/docker.github.io)
+* [runtime-spec](https://github.com/opencontainers/runtime-spec)
+* [containerd.io](https://github.com/containerd/containerd.io)
+
+# container related
+* [gvisor:go](https://github.com/google/gvisor)
+* [cadvisor:go](https://github.com/google/cadvisor)
