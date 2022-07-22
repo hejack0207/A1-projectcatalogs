@@ -10,6 +10,7 @@
 # k8s partners
 * [distribution](https://github.com/distribution/distribution)
 * [distribution-spec](https://github.com/opencontainers/distribution-spec)
+* [metrics-server](https://github.com/kubernetes-sigs/metrics-server)
 
 # k8s plugins
 * [kubectl-tree](https://github.com/ahmetb/kubectl-tree)
