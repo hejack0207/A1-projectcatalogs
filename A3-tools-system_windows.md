@@ -17,7 +17,9 @@
 * [mingw-packages](https://github.com/msys2/MINGW-packages)
 
 # windows manager
-* [komorebi:rs](https://github.com/komorebi/komorebi)
+* [win-vind](https://github.com/pit-ray/win-vind)
+* [komorebi:rs](https://github.com/LGUG2Z/komorebi)
+* [dwm-win32](https://github.com/martanne/dwm-win32)
 
 # automation
 * [autohotkey_l](https://github.com/Lexikos/AutoHotkey_L)
