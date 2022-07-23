@@ -49,6 +49,11 @@
 * [podman:go](https://github.com/containers/podman)
 * [dind](https://github.com/jpetazzo/dind)
 
+# container tools
+* [ansible-bender:py](https://github.com/ansible-community/ansible-bender)
+* [undocker:py](https://github.com/larsks/undocker)
+* [dfimage:py](https://github.com/LanikSJ/dfimage)
+
 # container docs
 * [docker-docs](https://github.com/docker/docker.github.io)
 * [runtime-spec](https://github.com/opencontainers/runtime-spec)
