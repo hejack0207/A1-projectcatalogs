@@ -4,6 +4,7 @@
 * [tpm](https://github.com/tmux-plugins/tpm)
 * [tmux-sensible](https://github.com/tmux-plugins/tmux-sensible)
 * [tmux-thumbs:rs](https://github.com/fcsonline/tmux-thumbs)
+* [tmux-picker](https://github.com/pawel-wiejacha/tmux-picker)
 * [tmux-fingers](https://github.com/Morantron/tmux-fingers)
 * [tmux-jump](https://github.com/schasse/tmux-jump)
 * [tmux-easymotion](https://github.com/ddzero2c/tmux-easymotion)
