@@ -25,6 +25,9 @@
 * [galaxy](https://github.com/tkestack/galaxy)
 * [mesh](https://github.com/traefik/mesh)
 
+# k8s tools
+* [kubectl-node-shell:sh](https://github.com/kvaps/kubectl-node-shell)
+
 # docker
 * [awesome-linux-containers](https://github.com/Friz-zy/awesome-linux-containers)
 * [docker-ce-packaging:go](https://github.com/docker/docker-ce-packaging)
