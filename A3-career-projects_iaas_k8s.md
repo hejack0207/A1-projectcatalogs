@@ -7,6 +7,9 @@
 * [tke:go](https://github.com/tkestack/tke)
 * [tke-docs](https://github.com/tkestack/docs)
 
+# k8s community
+* [community](https://github.com/kubernetes/community)
+
 # k8s partners
 * [distribution](https://github.com/distribution/distribution)
 * [distribution-spec](https://github.com/opencontainers/distribution-spec)

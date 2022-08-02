@@ -27,7 +27,9 @@
 * [polardb](https://github.com/alibaba/PolarDB-for-PostgreSQL)
 
 ## nosql
+* [awesome-elasticsearch](https://github.com/elastic/awesome-elasticsearch)
 * [elasticsearch:java](https://github.com/elastic/elasticsearch)
+* [elasticsearch-definitive-guide](https://github.com/elastic/elasticsearch-definitive-guide)
 * [cerebro:scala](https://github.com/lmenezes/cerebro)
 * [elsec:py](https://github.com/mkocikowski/elsec)
 * [elseql:py](https://github.com/raff/elseql)
@@ -59,6 +61,8 @@
 * [zookeeper-benchmark:java](https://github.com/brownsys/zookeeper-benchmark)
 * [zkbench:java](https://github.com/Randgalt/zkbench)
 * [Tendis](https://github.com/Tencent/Tendis)
+* [redis-enterprise-k8s-docs](https://github.com/RedisLabs/redis-enterprise-k8s-docs)
+* [redislabs-docs](https://github.com/RedisLabs/redislabs-docs)
 * [redis](https://github.com/redis/redis)
 * [redis-doc](https://github.com/redis/redis-doc)
 * [etcd:go](https://github.com/etcd-io/etcd)
