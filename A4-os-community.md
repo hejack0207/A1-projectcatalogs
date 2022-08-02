@@ -17,3 +17,6 @@
 
 # almalinux
 * [almalinux-deploy](https://github.com/AlmaLinux/almalinux-deploy)
+
+# loongson
+* [LoongArch-Documentation](https://github.com/loongson/LoongArch-Documentation)
