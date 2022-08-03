@@ -1,8 +1,9 @@
 # openeuler
-* [openeuler](https://github.com/openeuler-mirror/community)
+* [openeuler](https://github.com/openeuler-mirror)
+* [openeuler-community](https://github.com/openeuler-mirror/community)
 
 # openanolis
-* [openanolis](https://github.com/openanolis/)
+* [openanolis](https://github.com/openanolis)
 
 # opencloudos
 * [opencloudOS](https://github.com/OpenCloudOS)
@@ -17,6 +18,7 @@
 * [sig-core-livemedias](https://github.com/CentOS/sig-core-livemedias)
 
 # almalinux
+* [AlmaLinux](https://github.com/AlmaLinux)
 * [almalinux-deploy](https://github.com/AlmaLinux/almalinux-deploy)
 
 # loongson
