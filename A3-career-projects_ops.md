@@ -19,6 +19,9 @@
 * [grafana-dashboards](https://github.com/percona/grafana-dashboards)
 * [grafana-docker](https://github.com/grafana/grafana-docker)
 
+# exporter
+* [node_exporter](https://github.com/prometheus/node_exporter)
+
 # reverse engineering
 * [awesome-reverse-engineering](https://github.com/alphaSeclab/awesome-reverse-engineering)
 * [reverse-engineering](https://github.com/wtsxDev/reverse-engineering)
