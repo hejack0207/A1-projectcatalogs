@@ -6,7 +6,7 @@
 
 # opencloudos
 * [opencloudos](https://github.com/OpenCloudOS/community)
-* [OpenClousOS-tools](https://github.com/OpenCloudOS/OpenClousOS-tools)
+* [OpenCloudOS-tools](https://github.com/OpenCloudOS/OpenCloudOS-tools)
 
 # centos
 * [centos](https://github.com/CentOS)
