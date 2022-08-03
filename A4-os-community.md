@@ -5,6 +5,7 @@
 * [openanolis](https://github.com/openanolis/)
 
 # opencloudos
+* [opencloudOS](https://github.com/OpenCloudOS)
 * [opencloudos](https://github.com/OpenCloudOS/community)
 * [OpenCloudOS-tools](https://github.com/OpenCloudOS/OpenCloudOS-tools)
 
