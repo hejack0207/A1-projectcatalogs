@@ -80,6 +80,7 @@
 
 # image tools
 * [distroless](https://github.com/GoogleContainerTools/distroless)
+* [docker-mount](https://github.com/rhvgoyal/docker-mount)
 * [dive:go](https://github.com/wagoodman/dive)
 * [dfimage:py](https://github.com/LanikSJ/dfimage)
 
