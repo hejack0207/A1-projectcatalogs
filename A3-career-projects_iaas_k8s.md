@@ -30,8 +30,11 @@
 
 # k8s tools
 * [kubectl-node-shell:sh](https://github.com/kvaps/kubectl-node-shell)
+* [ksniff:go](https://github.com/eldadru/ksniff)
+* [kubevirt:go](https://github.com/kubevirt/kubevirt)
 
 # docker
+* [awesome-docker](https://github.com/veggiemonk/awesome-docker)
 * [awesome-linux-containers](https://github.com/Friz-zy/awesome-linux-containers)
 * [docker-ce-packaging:go](https://github.com/docker/docker-ce-packaging)
 * [cli:go](https://github.com/docker/cli)
@@ -59,11 +62,26 @@
 * [ansible-bender:py](https://github.com/ansible-community/ansible-bender)
 * [undocker:py](https://github.com/larsks/undocker)
 * [dfimage:py](https://github.com/LanikSJ/dfimage)
+* [boot2docker](https://github.com/boot2docker/boot2docker)
+* [bocker](https://github.com/p8952/bocker)
+* [cntr](https://github.com/Mic92/cntr)
+* [cinf](https://github.com/mhausenblas/cinf)
+* [dockermachine:go](https://github.com/docker/machine)
+* [docker-machine-kvm:go](https://github.com/machine-drivers/docker-machine-kvm)dhiltgen/docker-machine-kvm
+* [runq:go](https://github.com/gotoz/runq)
+* [buildah:go](https://github.com/containers/buildah)
+* [log-pilot:go](https://github.com/AliyunContainerService/log-pilot)
+* [nerdctl:go](https://github.com/containerd/nerdctl)
 
 # container docs
 * [docker-docs](https://github.com/docker/docker.github.io)
 * [runtime-spec](https://github.com/opencontainers/runtime-spec)
 * [containerd.io](https://github.com/containerd/containerd.io)
+
+# image tools
+* [distroless](https://github.com/GoogleContainerTools/distroless)
+* [dive:go](https://github.com/wagoodman/dive)
+* [dfimage:py](https://github.com/LanikSJ/dfimage)
 
 # container related
 * [gvisor:go](https://github.com/google/gvisor)

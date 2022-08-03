@@ -14,6 +14,7 @@
 * [kdump](https://github.com/openSUSE/kdump)
 
 # kernel tools
+* [dkms](https://github.com/dell/dkms)
 * [dattobd](https://github.com/datto/dattobd)
 * [tpe-lkm](https://github.com/cormander/tpe-lkm)
 * [kpatch](https://github.com/dynup/kpatch)
