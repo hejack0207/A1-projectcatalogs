@@ -41,7 +41,7 @@
 * [docker-toolbox](https://github.com/docker/toolbox)
 
 # qemu vms
+* [qemu-vfio-win10](https://github.com/UtkarshVerma/qemu-vfio-win10)
 * [qemu-win10](https://github.com/caxapyk/qemu-win10)
 * [qemu-windows-10](https://github.com/cardi/qemu-windows-10)
 * [win10-vm](https://github.com/infokiller/win10-vm)
-* [qemu-vfio-win10](https://github.com/UtkarshVerma/qemu-vfio-win10)

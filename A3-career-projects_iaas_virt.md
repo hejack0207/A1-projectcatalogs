@@ -4,6 +4,12 @@
 * [stratovirt:rs](https://github.com/openeuler-mirror/stratovirt)
 * [firecracker:rs](https://github.com/firecracker-microvm/firecracker)
 
+# kvm
+* [docker-on-kvm:rs](https://github.com/svenslaggare/docker-on-kvm)
+
+# vm image
+* [brokkr:rs](https://github.com/PierreZ/brokkr)
+
 # hpyervisor plugins
 * [libvirt-hook-qemu:py](https://github.com/saschpe/libvirt-hook-qemu)
 * [qemu-shogggoth](https://github.com/cromulencelic/qemu-shoggoth)
