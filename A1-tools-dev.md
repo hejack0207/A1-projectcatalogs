@@ -23,6 +23,8 @@
 * [gdb-dashboard](https://github.com/cyrus-and/gdb-dashboard)
 * [gef](https://github.com/hugsy/gef)
 * [peda](https://github.com/longld/peda)
+--------------------
+* [Gdbinit](https://github.com/gdbinit/Gdbinit)
 
 # language server
 * [texlab](https://github.com/latex-lsp/texlab)
