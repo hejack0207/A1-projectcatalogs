@@ -6,9 +6,11 @@
 # ai application
 * [PaddleClas](https://github.com/PaddlePaddle/PaddleClas)
 
-# ai project
-## ai-ops
+# ai-ops
+* [awesome-AIOPs](https://github.com/OpsPAI/awesome-AIOPs)
+* [aiops-handbook](https://github.com/chenryn/aiops-handbook)
 * [awesome-aiops](https://github.com/linjinjin123/awesome-AIOps)
+* [aiops](https://github.com/martinliu/aiops)
 * [awesome-mlops](https://github.com/visenger/awesome-mlops)
 * [A-Tune](https://github.com/openeuler-mirror/A-Tune)
 * [metis:py](https://github.com/Tencent/Metis)
