@@ -6,6 +6,9 @@
 * [merbridge](https://github.com/merbridge/merbridge)
 
 # observe
+* [opentelemetry-collector](https://github.com/open-telemetry/opentelemetry-collector)
+* [opentelemetry.io](https://github.com/open-telemetry/opentelemetry.io)
+* [deepflow](https://github.com/openflowys/deepflow)
 * [pixie](https://github.com/pixie-io/pixie)
 
 ## monitoring
