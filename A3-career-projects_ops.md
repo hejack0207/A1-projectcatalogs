@@ -1,4 +1,31 @@
-# chaos
+# access securities
+* [jumpserver:py](https://github.com/jumpserver/jumpserver)
+* [aker](https://github.com/aker-gateway/Aker)
+
+# arch
+* [merbridge](https://github.com/merbridge/merbridge)
+
+# observe
+* [pixie](https://github.com/pixie-io/pixie)
+
+## monitoring
+* [prometheus:go](https://github.com/prometheus/prometheus)
+* [grafana:ts](https://github.com/grafana/grafana)
+* [grafana-dashboards](https://github.com/percona/grafana-dashboards)
+
+## metrics
+* [node_exporter](https://github.com/prometheus/node_exporter)
+* [skywalking-rover](https://github.com/apache/skywalking-rover)
+
+## tracing
+
+## profiling
+* [pyroscope](https://github.com/pyroscope-io/pyroscope)
+* [pyroscope-docs](https://github.com/pyroscope-io/docs)
+* [pyroscope-helm-chart](https://github.com/pyroscope-io/helm-chart)
+* [pyroscope-java](https://github.com/pyroscope-io/pyroscope-java)
+
+# chaos engineering
 * [awesome-chaosblade](https://github.com/chaosblade-io/awesome-chaosblade)
 * [chaosblade:go](https://github.com/chaosblade-io/chaosblade)
 * [chaosblade-help-doc](https://github.com/chaosblade-io/chaosblade-help-doc)
@@ -9,18 +36,10 @@
 * [chaosblade-exec-cplus:go](https://github.com/chaosblade-io/chaosblade-exec-cplus)
 * [chaosblade-exec-jvm:java](https://github.com/chaosblade-io/chaosblade-exec-jvm)
 
-# traditional ops
-* [jumpserver:py](https://github.com/jumpserver/jumpserver)
-* [aker](https://github.com/aker-gateway/Aker)
+# performance testing
+* [fio](https://github.com/axboe/fio)
 
-# monitoring
-* [prometheus:go](https://github.com/prometheus/prometheus)
-* [grafana:ts](https://github.com/grafana/grafana)
-* [grafana-dashboards](https://github.com/percona/grafana-dashboards)
-* [grafana-docker](https://github.com/grafana/grafana-docker)
-
-# exporter
-* [node_exporter](https://github.com/prometheus/node_exporter)
+# performance tuning
 
 # reverse engineering
 * [awesome-reverse-engineering](https://github.com/alphaSeclab/awesome-reverse-engineering)
@@ -28,9 +47,6 @@
 
 # diagnose
 * [kubediag](https://github.com/kubediag/kubediag)
-
-# testing
-* [fio](https://github.com/axboe/fio)
 
 # sre
 * [awesome-sre](https://github.com/dastergon/awesome-sre)
