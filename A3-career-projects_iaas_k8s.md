@@ -32,6 +32,7 @@
 * [kubectl-node-shell:sh](https://github.com/kvaps/kubectl-node-shell)
 * [ksniff:go](https://github.com/eldadru/ksniff)
 * [kubevirt:go](https://github.com/kubevirt/kubevirt)
+* [kubediag:go](https://github.com/kubediag/kubediag)
 
 # docker
 * [awesome-docker](https://github.com/veggiemonk/awesome-docker)

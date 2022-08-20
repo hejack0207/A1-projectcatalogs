@@ -26,7 +26,6 @@
 ## network
 * [dpdk](https://github.com/DPDK/dpdk)
 * [mininet](https://github.com/mininet/mininet)
-* [fio](https://github.com/axboe/fio)
 
 # paas
 * [etcd-website:go](https://github.com/etcd-io/website)
