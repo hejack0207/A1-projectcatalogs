@@ -41,7 +41,6 @@
 
 # performance testing
 * [alimama-common-performance-platform-acp](https://github.com/alibaba/alimama-common-performance-platform-acp)
-* [fio](https://github.com/axboe/fio)
 
 # performance tuning
 
