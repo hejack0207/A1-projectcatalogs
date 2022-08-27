@@ -27,6 +27,7 @@
 * [Gdbinit](https://github.com/gdbinit/Gdbinit)
 
 # language server
+* [language-server-protocol](https://github.com/microsoft/language-server-protocol)
 * [texlab](https://github.com/latex-lsp/texlab)
 
 # editor
