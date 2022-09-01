@@ -30,6 +30,15 @@
 * [latex2md:py](https://github.com/daanvandijk/latex2md)
 * [pdf-to-markdown:py](https://github.com/johnlinp/pdf-to-markdown)
 
+### rst
+* [rst-cheatsheet](https://github.com/ralsina/rst-cheatsheet)
+--------------------
+* [linux](https://github.com/torvalds/linux)
+
+### txt
+* [RFC.py](https://github.com/danielmichaels/RFC.py)
+* [rtfm:py](https://github.com/hile/rtfm)
+
 ### epub
 * [mdbook-epub:rs](https://github.com/Michael-F-Bryan/mdbook-epub)
 * [texinfo2epub:xslt](https://github.com/jlhg/texinfo2epub)
@@ -60,10 +69,6 @@
 * [man2html](https://github.com/hamano/man2html)
 * [man2html:py](https://github.com/Phil9l/man2html)
 
-### txt
-* [RFC.py](https://github.com/danielmichaels/RFC.py)
-* [rtfm:py](https://github.com/hile/rtfm)
-
 ## composing
 ### yodl
 * [yodl](https://github.com/fbb-git/yodl)
@@ -81,6 +86,7 @@
 * [asciidoctor:rb](https://github.com/asciidoctor/asciidoctor)
 
 ### docbook
+* [docbook](https://github.com/doctook/doctook)
 
 ## pc
 ### pdf
