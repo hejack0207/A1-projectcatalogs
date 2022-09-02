@@ -33,7 +33,7 @@
 ### rst
 * [rst-cheatsheet](https://github.com/ralsina/rst-cheatsheet)
 --------------------
-* [linux](https://github.com/torvalds/linux) [cpython](https://github.com/cpython/cpython)
+* [linux](https://github.com/torvalds/linux) [cpython](https://github.com/python/cpython)
 
 ### txt
 * [RFC.py](https://github.com/danielmichaels/RFC.py)
