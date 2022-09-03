@@ -33,6 +33,8 @@
 ### rst
 * [rst-cheatsheet](https://github.com/ralsina/rst-cheatsheet)
 --------------------
+* [html2rst:got](https://github.com/siongui/html2rst)
+--------------------
 * [linux](https://github.com/torvalds/linux) [cpython](https://github.com/python/cpython)
 
 ### txt
