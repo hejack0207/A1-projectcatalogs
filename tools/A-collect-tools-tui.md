@@ -1,6 +1,9 @@
 # app
 * [awesome-linux-software](https://github.com/luong-komorebi/Awesome-Linux-Software)
 
+## browser
+* [w3m](https://github.com/tats/w3m)
+
 ## wechat
 * [wechatcmd:go](https://github.com/liushuchun/wechatcmd)
 * [wechit:py](https://github.com/LingDong-/wechit)
