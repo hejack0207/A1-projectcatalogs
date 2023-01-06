@@ -15,6 +15,7 @@
 ## k8s
 * [k8s-website](https://github.com/kubernetes/website)
 * [containerd.io](https://github.com/containerd/containerd.io)
+* [containerd](https://github.com/containerd/containerd)
 * [docker-docs](https://github.com/docker/docker.github.io)
 * [runtime-spec](https://github.com/opencontainers/runtime-spec)
 * [cni](https://github.com/containernetworking/cni)
