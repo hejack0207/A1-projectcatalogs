@@ -1,10 +1,7 @@
-# ai frameworks
-* [awesome-artificial-intelligence](https://github.com/owainlewis/awesome-artificial-intelligence)
-* [Hetu](https://github.com/Hsword/Hetu)
-* [paddlepaddle](https://github.com/PaddlePaddle/Paddle)
-
 # ai application
+* [OpenChatKit](https://github.com/togethercomputer/OpenChatKit)
 * [PaddleClas](https://github.com/PaddlePaddle/PaddleClas)
+* [muavic](https://github.com/facebookresearch/muavic)
 
 # ai-ops
 * [awesome-AIOPs](https://github.com/OpsPAI/awesome-AIOPs)
@@ -15,3 +12,17 @@
 * [A-Tune](https://github.com/openeuler-mirror/A-Tune)
 * [metis:py](https://github.com/Tencent/Metis)
 
+# gpt
+* [picoGPT](https://github.com/jaymody/picoGPT)
+* [minGPT](https://github.com/karpathy/minGPT)
+* [gpt-2](https://github.com/openai/gpt-2)
+* [transformers](https://github.com/huggingface/transformers)
+
+# ai frameworks
+* [awesome-artificial-intelligence](https://github.com/owainlewis/awesome-artificial-intelligence)
+* [ColossalAI](https://github.com/hpcaitech/ColossalAI)
+* [Hetu](https://github.com/Hsword/Hetu)
+* [paddlepaddle](https://github.com/PaddlePaddle/Paddle)
+
+# ai support
+* [xla](https://github.com/openxla/xla)

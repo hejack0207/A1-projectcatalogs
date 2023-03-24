@@ -19,6 +19,7 @@
 * [volt](https://github.com/vim-volt/volt)
 
 # debugger
+* [drgn](https://github.com/osandov/drgn)
 * [conque-gdb](https://github.com/vim-scripts/Conque-GDB)
 * [gdb-dashboard](https://github.com/cyrus-and/gdb-dashboard)
 * [gef](https://github.com/hugsy/gef)

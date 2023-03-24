@@ -1,3 +1,7 @@
+# applications
+* [standford_alpaca](https://github.com/tatsu-lab/standford_alpaca)
+* [BalanceWheel](https://github.com/SMDHuman/BalanceWheel)
+
 # awesome
 * [awesome-3d-printing](https://github.com/ad-si/awesome-3d-printing)
 
