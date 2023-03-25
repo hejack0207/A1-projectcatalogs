@@ -30,6 +30,7 @@
 
 # chaos engineering
 * [awesome-chaosblade](https://github.com/chaosblade-io/awesome-chaosblade)
+* [chaos-mesh](https://github.com/chaos-mesh/chaos-mesh)
 * [chaosblade:go](https://github.com/chaosblade-io/chaosblade)
 * [chaosblade-help-doc](https://github.com/chaosblade-io/chaosblade-help-doc)
 * [chaosblade-dev-doc](https://github.com/chaosblade-io/chaosblade-dev-doc)
