@@ -46,6 +46,7 @@
 # registry
 * [distribution](https://github.com/distribution/distribution)
 * [distribution-spec](https://github.com/opencontainers/distribution-spec)
+* [docker-registry](https://github.com/docker-archive/docker-registry)
 
 # image tools
 * [distroless](https://github.com/GoogleContainerTools/distroless)
