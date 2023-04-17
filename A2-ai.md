@@ -1,6 +1,6 @@
 # ai application
 * [awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt)
-* [OpenChatKit](https://github.com/togethercomputer/OpenChatKit)
+* [Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT)
 * [OpenChatKit](https://github.com/togethercomputer/OpenChatKit)
 * [PaddleClas](https://github.com/PaddlePaddle/PaddleClas)
 * [muavic](https://github.com/facebookresearch/muavic)
@@ -19,6 +19,8 @@
 * [minGPT](https://github.com/karpathy/minGPT)
 * [gpt-2](https://github.com/openai/gpt-2)
 * [transformers](https://github.com/huggingface/transformers)
+* [Open-Assistant](https://github.com/LAION-AI/Open-Assistant)
+* [DeepSpeed](https://github.com/microsoft/DeepSpeed)
 
 # ai frameworks
 * [awesome-artificial-intelligence](https://github.com/owainlewis/awesome-artificial-intelligence)
