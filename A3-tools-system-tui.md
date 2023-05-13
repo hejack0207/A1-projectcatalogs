@@ -35,7 +35,9 @@
 # terminal app
 ## browser
 * [w3m](https://github.com/tats/w3m)
-* [thirtyfour:rust](https://github.com/stevepryde/thirtyfour)
+* [carbonyl:rs](https://github.com/fathyb/carbonyl)
+* [browsh:js](https://github.com/browsh-org/browsh)
+* [thirtyfour:rs](https://github.com/stevepryde/thirtyfour)
 * [rust-headless-chrome:rs](https://github.com/atroche/rust-headless-chrome)
 
 ## doc viewer
