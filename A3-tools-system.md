@@ -22,12 +22,15 @@
 * [tmux-tilish](https://github.com/jabirali/tmux-tilish)
 * [tmux-logging](https://github.com/tmux-plugins/tmux-logging)
 
+## terminal emulators
+* [kitty:go](https://github.com/kovidgoyal/kitty)
+* [fbterm](https://github.com/stephenprater/fbterm)
+
 ## terminal tools
 * [dtach](https://github.com/crigler/dtach)
 * [zellij:rs](https://github.com/zellij-org/zellij)
 * [congif](https://github.com/lecram/congif)
 * [ttyrec](https://github.com/mjording/ttyrec)
-* [fbterm](https://github.com/stephenprater/fbterm)
 
 # windows manager
 * [i3](https://github.com/i3/i3)
