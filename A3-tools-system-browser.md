@@ -1,10 +1,6 @@
 # browser based
 * [chrome-extensions](https://github.com/learn-anything/chrome-extensions)
 
-## headless
-* [thirtyfour:rust](https://github.com/stevepryde/thirtyfour)
-* [rust-headless-chrome:rs](https://github.com/atroche/rust-headless-chrome)
-
 ## chrome extenstion
 * [vimium:js](https://github.com/philc/vimium)
 * [Surfingkeys](https://github.com/brookhong/Surfingkeys)
