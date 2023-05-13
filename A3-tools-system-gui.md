@@ -10,3 +10,6 @@
 # windows manager
 * [i3](https://github.com/i3/i3)
 * [lightdm](https://github.com/canonical/lightdm)
+
+# android emulators
+* [waydroid](https://github.com/waydroid/waydroid)
