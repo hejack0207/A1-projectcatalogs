@@ -42,6 +42,8 @@
 
 ## doc viewer
 * [termpdf.py](https://github.com/dsanson/termpdf.py)
+* [tpp](https://github.com/cbbrowne/tpp)
+* [wordgrinder](https://github.com/davidgiven/wordgrinder)
 
 ## wechat
 * [wechatcmd:go](https://github.com/liushuchun/wechatcmd)
