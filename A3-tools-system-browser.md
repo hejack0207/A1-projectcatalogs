@@ -2,8 +2,9 @@
 * [chrome-extensions](https://github.com/learn-anything/chrome-extensions)
 
 ## chrome extenstion
-* [vimium:js](https://github.com/philc/vimium)
 * [Surfingkeys](https://github.com/brookhong/Surfingkeys)
+* [bookmarks-manager](https://github.com/inbasic/bookmarks-manager)
+* [vimium:js](https://github.com/philc/vimium)
 * [automa:js](https://github.com/Kholid060/automa)
 * [selenium-ide](https://github.com/SeleniumHQ/selenium-ide)
 * [markdownizr-chrome:js](https://github.com/sh78/markdownizr-chrome)
