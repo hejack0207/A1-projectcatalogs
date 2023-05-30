@@ -9,7 +9,7 @@
 * [selenium-ide](https://github.com/SeleniumHQ/selenium-ide)
 * [markdownizr-chrome:js](https://github.com/sh78/markdownizr-chrome)
 * [web-scraper-chrome-extenstion.js](https://github.com/hejack0207/web-scraper-chrome-extenstion.js)
-* [shortkeys:js](https://github.com/mikecriitenden/shortkeys)
+* [shortkeys:js](https://github.com/crittermike/shortkeys)
 * [pinboard-keyboard-shortcut:js](https://github.com/bertrandom/pinboard-keyboard-shortcut)
 * [xpath-viewer:js](https://github.com/amphro/xPath-Viewer)
 * [Chrome-Extension-WebPageMonitor:js](https://github.com/beherca/Chrome-Extension-WebPageMonitor)
