@@ -27,6 +27,9 @@
 --------------------
 * [Gdbinit](https://github.com/gdbinit/Gdbinit)
 
+# binary
+* [dwgrep](https://github.com/pmachata/dwgrep)
+
 # language server
 * [language-server-protocol](https://github.com/microsoft/language-server-protocol)
 * [texlab](https://github.com/latex-lsp/texlab)
