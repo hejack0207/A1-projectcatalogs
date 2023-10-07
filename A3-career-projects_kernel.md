@@ -20,6 +20,7 @@
 * [kpatch](https://github.com/dynup/kpatch)
 
 # ebpf tools
+* [drgn](https://github.com/osandov/drgn)
 * [libbpf](https://github.com/libbpf/libbpf)
 * [bpftool](https://github.com/libbpf/bpftool)
 * [libbpf-bootstrap](https://github.com/libbpf/libbpf-bootstrap)
