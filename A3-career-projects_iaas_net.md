@@ -13,6 +13,8 @@
 * [xorp.ct](https://github.com/greearb/xorg.ct)
 * [openvswitch](https://github.com/openvswitch/ovs)
 * [SONiC](https://github.com/Azure/SONiC)
+* [Freeflow](https://github.com/microsoft/Freeflow)
+* [slirp4netns](https://github.com/rootless-containers/slirp4netns)
 * [cni:go](https://github.com/containernetworking/cni)
 * [flannel:go](https://github.com/coreos/flannel)
 * [calico:go](https://github.com/projectcalico/calico)
