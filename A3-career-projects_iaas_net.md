@@ -27,6 +27,10 @@
 * [dpvs:c](https://github.com/iqiyi/dpvs)
 * [qnsm:c](https://github.com/iqiyi/qnsm)
 * [dpdkcap:c](https://github.com/dpdkcap/dpdkcap)
+* [packet-journey](https://github.com/Gandi/packet-journey)
+* [dpdk-pingpong](https://github.com/zylan29/dpdk-pingpong)
+* [lagopus](https://github.com/lagopus/lagopus)
+* [jupiter](https://github.com/tiglabs/jupiter)
 
 # networking - routing
 * [quagga](https://github.com/Quagga/quagga)
