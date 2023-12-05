@@ -10,8 +10,8 @@
 
 # networking - nfv
 * [awesome-sdn](https://github.com/sdnds-tw/awesome-sdn)
-* [xorp.ct](https://github.com/greearb/xorg.ct)
 * [openvswitch](https://github.com/openvswitch/ovs)
+* [xorp.ct](https://github.com/greearb/xorg.ct)
 * [SONiC](https://github.com/Azure/SONiC)
 * [Freeflow](https://github.com/microsoft/Freeflow)
 * [slirp4netns](https://github.com/rootless-containers/slirp4netns)

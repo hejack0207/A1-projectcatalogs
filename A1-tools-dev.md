@@ -27,6 +27,7 @@
 
 # trace
 * [uftrace](https://github.com/namhyung/uftrace)
+* [trace-cmd](https://github.com/rostedt/trace-cmd)
 
 --------------------
 * [Gdbinit](https://github.com/gdbinit/Gdbinit)
