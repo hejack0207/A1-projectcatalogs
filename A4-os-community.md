@@ -24,3 +24,6 @@
 # loongson
 * [LoongArch](https://github.com/loongson)
 * [LoongArch-Documentation](https://github.com/loongson/LoongArch-Documentation)
+
+# rros
+* [RROS](https://github.com/BUPT-OS/RROS)
