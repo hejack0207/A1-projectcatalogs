@@ -7,19 +7,22 @@
 * [mininet](https://github.com/mininet/mininet)
 * [mininet-tests](https://github.com/mininet/mininet-tests)
 * [mininetlab](https://github.com/bobuhiro11/mininetlab)
+* [containernet](https://github.com/containernet/containernet)
 
 # networking - nfv
 * [awesome-sdn](https://github.com/sdnds-tw/awesome-sdn)
 * [openvswitch](https://github.com/openvswitch/ovs)
 * [xorp.ct](https://github.com/greearb/xorg.ct)
 * [SONiC](https://github.com/Azure/SONiC)
-* [Freeflow](https://github.com/microsoft/Freeflow)
 * [slirp4netns](https://github.com/rootless-containers/slirp4netns)
 * [cni:go](https://github.com/containernetworking/cni)
 * [flannel:go](https://github.com/coreos/flannel)
 * [calico:go](https://github.com/projectcalico/calico)
 * [galaxy:go](https://github.com/tkestack/galaxy)
 * [cilium:go](https://github.com/cilium/cilium)
+
+# networking - rdma
+* [Freeflow](https://github.com/microsoft/Freeflow)
 
 # networking - dpdk
 * [dpdk](https://github.com/DPDK/dpdk)
@@ -37,6 +40,7 @@
 # networking - routing
 * [quagga](https://github.com/Quagga/quagga)
 * [mininet-quagga:py](https://github.com/qyang18/Mininet-Quagga)
+* [mininet_ospf_bgp](https://github.com/edwinsc/mininet_ospf_bgp)
 
 # networking - load balancer
 * [keepalived](https://github.com/acassen/keepalived)
