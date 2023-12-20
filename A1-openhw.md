@@ -2,9 +2,6 @@
 * [standford_alpaca](https://github.com/tatsu-lab/standford_alpaca)
 * [BalanceWheel](https://github.com/SMDHuman/BalanceWheel)
 
-# awesome
-* [awesome-3d-printing](https://github.com/ad-si/awesome-3d-printing)
-
 # raspberry
 * [awesome-raspberry-pi](https://github.com/thibmaek/awesome-raspberry-pi)
 * [raspberry-pi-os](https://github.com/s-matyukevich/raspberry-pi-os)
@@ -16,6 +13,9 @@
 * [tensorflow-on-raspberry-pi](https://github.com/samjabrahams/tensorflow-on-raspberry-pi)
 
 # fpga
+* [awesome-fpga](https://github.com/Vitorian/awesome-fpga)
+* [awesome-fpga-boards](https://github.com/iDoka/awesome-fpga-boards)
+* [awesome-latticeFPGAs](https://github.com/kelu124/awesome-latticeFPGAs)
 * [corundum](https://github.com/ucsdsysnet/corundum)
 
 # verilog

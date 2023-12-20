@@ -1,5 +1,7 @@
 # awesome
 * [awesome-sdn](https://github.com/sdnds-tw/awesome-sdn)
+* [awesome-5g](https://github.com/calee0219/awesome-5g)
+* [awesome-telco](https://github.com/ravens/awesome-telco)
 
 # network stack
 * [lwip](https://github.com/lwip-tcpip/lwip)
