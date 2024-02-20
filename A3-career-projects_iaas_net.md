@@ -57,7 +57,11 @@
 # 5G
 * [awesome-5g](https://github.com/calee0219/awesome-5g)
 * [awesome-telco](https://github.com/ravens/awesome-telco)
-* [OpenLTE](https://github.com/mgp25/OpenLTE)
+* [open5gs](https://github.com/open5gs/open5gs)
+* [srsRAN_Project](https://github.com/srsran/srsRAN_Project)
+* [ueransim](https://github.com/aligungr/UERANSIM)
+* [5G-air-simulator](https://github.com/telematics-lab/5G-air-simulator)
+* [3gpp-documentation](https://github.com/emanuelfreitas/3gpp-documentation)
 
 # tcpcopy
 * [tcpcopy:c](https://github.com/session-replay-tools/tcpcopy)
