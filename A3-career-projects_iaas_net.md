@@ -58,6 +58,7 @@
 * [awesome-5g](https://github.com/calee0219/awesome-5g)
 * [awesome-telco](https://github.com/ravens/awesome-telco)
 * [open5gs](https://github.com/open5gs/open5gs)
+* [srsRAN_Project_docs](https://github.com/srsran/srsRAN_Project_docs)
 * [srsRAN_Project](https://github.com/srsran/srsRAN_Project)
 * [ueransim](https://github.com/aligungr/UERANSIM)
 * [5G-air-simulator](https://github.com/telematics-lab/5G-air-simulator)
