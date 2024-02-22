@@ -5,6 +5,9 @@
 * [PaddleClas](https://github.com/PaddlePaddle/PaddleClas)
 * [muavic](https://github.com/facebookresearch/muavic)
 
+# ai-platform
+* [pytorch](https://github.com/pytorch/pytorch)
+
 # ai-ops
 * [awesome-AIOPs](https://github.com/OpsPAI/awesome-AIOPs)
 * [aiops-handbook](https://github.com/chenryn/aiops-handbook)
