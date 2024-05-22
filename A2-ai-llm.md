@@ -46,6 +46,9 @@
 
 # web UI
 
+# dataset
+* [open-eqa](https://github.com/facebookresearch/open-eqa)
+
 # gpt
 * [picoGPT](https://github.com/jaymody/picoGPT)
 * [minGPT](https://github.com/karpathy/minGPT)
