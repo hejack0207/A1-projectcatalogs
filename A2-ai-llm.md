@@ -8,6 +8,9 @@
 * [whisper-docker](https://github.com/karaage0703/whisper-docker)
 * [wyoming-whisper-gpu](https://github.com/slackr31337/wyoming-whisper-gpu)
 
+## voice to text
+* [buzz](https://github.com/chidiwilliams/buzz)
+
 ## coding assistant
 * [OpenDevin](https://github.com/OpenDevin/OpenDevin)
 * [CodeGen](https://github.com/facebookresearch/CodeGen)
