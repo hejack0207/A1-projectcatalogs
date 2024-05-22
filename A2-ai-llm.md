@@ -23,6 +23,7 @@
 * [ChatGLM3](https://github.com/THUDM/ChatGLM3)
 * [ChatGLM2-6B](https://github.com/THUDM/ChatGLM2-6B)
 * [MiniCPM](https://github.com/OpenBMB/MiniCPM)
+* [Yi](https://github.com/01-ai/Yi)
 
 ## coding copolit
 * [CodeGeeX2](https://github.com/THUDM/CodeGeeX2)
@@ -40,6 +41,7 @@
 * [anything-llm](https://github.com/Mintplex-Labs/anything-llm)
 * [gemma.cpp](https://github.com/google/gemma.cpp)
 * [gemma_pytorch](https://github.com/google/gemma_pytorch)
+* [gemma](https://github.com/google-deepmind/gemma)
 
 # web UI
 
