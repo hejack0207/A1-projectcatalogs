@@ -17,7 +17,7 @@
 ## chat
 * [ChatGLM3](https://github.com/THUDM/ChatGLM3)
 * [ChatGLM2-6B](https://github.com/THUDM/ChatGLM2-6B)
-* [MiniCPM](https://github.com/OpenRMB/MiniCPM)
+* [MiniCPM](https://github.com/OpenBMB/MiniCPM)
 
 ## coding copolit
 * [CodeGeeX2](https://github.com/THUDM/CodeGeeX2)
@@ -25,8 +25,8 @@
 * [aiXcoder-7B](https://github.com/aixcoder-plugin/aiXcoder-7B)
 
 ## MOE
-* [MiniCPM](https://github.com/OpenRMB/MiniCPM-V)
-* [InternVL](https://github.com/OpenGVLab/InernVL)
+* [MiniCPM](https://github.com/OpenBMB/MiniCPM-V)
+* [InternVL](https://github.com/OpenGVLab/InternVL)
 
 # inference engine
 * [ollama](https://github.com/ollama/ollama)
