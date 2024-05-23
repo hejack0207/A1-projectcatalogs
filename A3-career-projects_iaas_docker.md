@@ -42,6 +42,7 @@
 * [docker-docs](https://github.com/docker/docker.github.io)
 * [runtime-spec](https://github.com/opencontainers/runtime-spec)
 * [containerd.io](https://github.com/containerd/containerd.io)
+* [container-device-interface](https://github.com/cncf-tags/container-device-interface)
 
 # registry
 * [distribution](https://github.com/distribution/distribution)
