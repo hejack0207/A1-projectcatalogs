@@ -1,4 +1,13 @@
-# applications
+# cpu
+* [awesome-cpus](https://github.com/larsbrinkhoff/awesome-cpus)
+* [mips-cpu](https://github.com/jmahler/mips-cpu)
+* [awesome-mcu](https://github.com/cla7aye15l4nd/awesome-mcu)
+
+# gpu
+* [Awesome-CUDA](https://github.com/Erkaman/Awesome-CUDA)
+* [awesome-cuda-tensorrt-fpga](https://github.com/codingonion/awesome-cuda-tensorrt-fpga)
+
+# hardware make
 * [standford_alpaca](https://github.com/tatsu-lab/standford_alpaca)
 * [BalanceWheel](https://github.com/SMDHuman/BalanceWheel)
 
