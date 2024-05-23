@@ -1,7 +1,7 @@
 # cpu
 * [awesome-cpus](https://github.com/larsbrinkhoff/awesome-cpus)
 * [mips-cpu](https://github.com/jmahler/mips-cpu)
-* [awesome-mcu](https://github.com/cla7aye15l4nd/awesome-mcu)
+* [awesome-mcu](https://github.com/cla7aye15I4nd/awesome-mcu)
 
 # gpu
 * [Awesome-CUDA](https://github.com/Erkaman/Awesome-CUDA)
