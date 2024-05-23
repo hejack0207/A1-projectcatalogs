@@ -45,6 +45,7 @@
 * [gemma](https://github.com/google-deepmind/gemma)
 
 # web UI
+* [open-webui](https://github.com/open-webui/open-webui)
 
 # dataset
 * [open-eqa](https://github.com/facebookresearch/open-eqa)
