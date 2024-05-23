@@ -30,6 +30,7 @@
 # verilog
 * [verilog-ethernet](https://github.com/alexforencich/verilog-ethernet)
 * [verilogboy](https://github.com/zephray/VerilogBoy)
+* [awesome-hdl](https://github.com/drom/awesome-hdl)
 * [open-fpga-verilog-tutorial](https://github.com/Obijuan/open-fpga-verilog-tutorial)
 
 # 3d print

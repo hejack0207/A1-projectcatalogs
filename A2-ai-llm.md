@@ -15,8 +15,18 @@
 * [whisper-docker](https://github.com/karaage0703/whisper-docker)
 * [wyoming-whisper-gpu](https://github.com/slackr31337/wyoming-whisper-gpu)
 
+* [DeepSpeech](https://github.com/mozilla/DeepSpeech)
+* [FunASR](https://github.com/alibaba-damo-academy/FunASR)
+
 ## voice to text
 * [buzz](https://github.com/chidiwilliams/buzz)
+
+## OCR
+* [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR)
+* [EasyOCR](https://github.com/JaidedAI/EasyOCR)
+
+## FACE
+* [deepface](https://github.com/serengil/deepface)
 
 ## coding assistant
 * [OpenDevin](https://github.com/OpenDevin/OpenDevin)
@@ -34,10 +44,14 @@
 * [Yi](https://github.com/01-ai/Yi)
 * [Llama3-Chinese-Chat](https://github.com/Shenzhi-Wang/Llama3-Chinese-Chat)
 
-## coding copolit
+## coding
 * [CodeGeeX2](https://github.com/THUDM/CodeGeeX2)
 * [CodeQwen1.5](https://github.com/QwenLM/CodeQwen1.5)
 * [aiXcoder-7B](https://github.com/aixcoder-plugin/aiXcoder-7B)
+
+## medical
+* [meditron](https://github.com/epfLLM/meditron)
+* [Bunny](https://github.com/BAAI-DCAI/Bunny)
 
 ## MOE
 * [MiniCPM](https://github.com/OpenBMB/MiniCPM-V)
@@ -59,6 +73,7 @@
 
 # dataset
 * [open-eqa](https://github.com/facebookresearch/open-eqa)
+* [Chinese-medical-dialogue-data](https://github.com/Toyhom/Chinese-medical-dialogue-data)
 
 # courses
 * [llm-cookbook](https://github.com/datawhalechina/llm-cookbook)
