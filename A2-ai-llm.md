@@ -14,7 +14,7 @@
 * [whisper.cpp](https://github.com/ggerganov/whisper.cpp)
 * [whisper-docker](https://github.com/karaage0703/whisper-docker)
 * [wyoming-whisper-gpu](https://github.com/slackr31337/wyoming-whisper-gpu)
-
+--------------------
 * [DeepSpeech](https://github.com/mozilla/DeepSpeech)
 * [FunASR](https://github.com/alibaba-damo-academy/FunASR)
 
