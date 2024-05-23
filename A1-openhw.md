@@ -6,6 +6,8 @@
 # gpu
 * [Awesome-CUDA](https://github.com/Erkaman/Awesome-CUDA)
 * [awesome-cuda-tensorrt-fpga](https://github.com/codingonion/awesome-cuda-tensorrt-fpga)
+* [libnvidia-container](https://github.com/NVIDIA/libnvidia-container)
+* [nvidia-contaienr-toolkit](https://github.com/NVIDIA/nvidia-contaienr-toolkit)
 
 # hardware make
 * [standford_alpaca](https://github.com/tatsu-lab/standford_alpaca)
