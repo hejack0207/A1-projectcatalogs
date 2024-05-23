@@ -1,4 +1,3 @@
-* [awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt)
 * [Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT)
 * [OpenChatKit](https://github.com/togethercomputer/OpenChatKit)
 * [PaddleClas](https://github.com/PaddlePaddle/PaddleClas)
