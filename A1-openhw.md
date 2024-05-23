@@ -10,6 +10,7 @@
 # hardware make
 * [standford_alpaca](https://github.com/tatsu-lab/standford_alpaca)
 * [BalanceWheel](https://github.com/SMDHuman/BalanceWheel)
+* [upkie](https://github.com/upkie/upkie)
 
 # raspberry
 * [awesome-raspberry-pi](https://github.com/thibmaek/awesome-raspberry-pi)

@@ -8,6 +8,7 @@
 
 ## RAG
 * [vanna](https://github.com/vanna-ai/vanna)
+* [ragflow](https://github.com/infiniflow/ragflow)
 
 ## voice helper
 * [whisper](https://github.com/openai/whisper)
@@ -28,7 +29,14 @@
 ## FACE
 * [deepface](https://github.com/serengil/deepface)
 
+## lips read
+* [LipSick](https://github.com/Inferencer/LipSick)
+
+## browser agent
+* [skyvern](https://github.com/Skyvern-AI/skyvern)
+
 ## coding assistant
+* [devika](https://github.com/stitionai/devika)
 * [OpenDevin](https://github.com/OpenDevin/OpenDevin)
 * [CodeGen](https://github.com/facebookresearch/CodeGen)
 * [TransCoder](https://github.com/facebookresearch/TransCoder)
@@ -70,6 +78,10 @@
 
 # web UI
 * [open-webui](https://github.com/open-webui/open-webui)
+* [LibreChat](https://github.com/danny-avila/LibreChat)
+
+# Tools
+* [Eurus](https://github.com/OpenBMB/Eurus)
 
 # dataset
 * [open-eqa](https://github.com/facebookresearch/open-eqa)

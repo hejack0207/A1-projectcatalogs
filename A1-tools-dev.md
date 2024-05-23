@@ -16,6 +16,7 @@
 
 # editor vim
 * [vim](https://github.com/vim/vim)
+* [awesome-neovim](https://github.com/rockerBOO/awesome-neovim)
 * [volt](https://github.com/vim-volt/volt)
 
 # debugger
