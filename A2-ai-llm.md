@@ -1,4 +1,11 @@
+# awesome
+* [LLMSurvey](https://github.com/RUCAIBox/LLMSurvey)
+* [Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM)
+
 # applications
+## agent
+* [awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents)
+
 ## RAG
 * [vanna](https://github.com/vanna-ai/vanna)
 
@@ -17,6 +24,7 @@
 * [TransCoder](https://github.com/facebookresearch/TransCoder)
 
 # model
+* [open-llms](https://github.com/eugeneyan/open-llms)
 * [Awesome-Chinese-LLM](https://github.com/HqWu-HITCS/Awesome-Chinese-LLM)
 
 ## chat
@@ -50,6 +58,12 @@
 
 # dataset
 * [open-eqa](https://github.com/facebookresearch/open-eqa)
+
+# courses
+* [llm-cookbook](https://github.com/datawhalechina/llm-cookbook)
+* [LLMsPracticalGuide](https://github.com/Mooler0410/LLMsPracticalGuide)
+* [llm-course](https://github.com/mlabonne/llm-course)
+* [so-large-lm](https://github.com/datawhalechina/so-large-lm)
 
 # gpt
 * [picoGPT](https://github.com/jaymody/picoGPT)
