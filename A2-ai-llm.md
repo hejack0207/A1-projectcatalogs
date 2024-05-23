@@ -32,6 +32,7 @@
 * [ChatGLM2-6B](https://github.com/THUDM/ChatGLM2-6B)
 * [MiniCPM](https://github.com/OpenBMB/MiniCPM)
 * [Yi](https://github.com/01-ai/Yi)
+* [Llama3-Chinese-Chat](https://github.com/Shenzhi-Wang/Llama3-Chinese-Chat)
 
 ## coding copolit
 * [CodeGeeX2](https://github.com/THUDM/CodeGeeX2)
