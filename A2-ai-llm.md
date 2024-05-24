@@ -72,8 +72,8 @@
 # inference engine
 * [ollama](https://github.com/ollama/ollama)
 * [llama.cpp](https://github.com/ggerganov/llama.cpp)
-* [LocalAI](https://github.com/mudler/LocalAI)
 * [vllm](https://github.com/vllm-project/vllm)
+* [LocalAI](https://github.com/mudler/LocalAI)
 * [anything-llm](https://github.com/Mintplex-Labs/anything-llm)
 * [gemma.cpp](https://github.com/google/gemma.cpp)
 * [gemma_pytorch](https://github.com/google/gemma_pytorch)
