@@ -36,8 +36,8 @@
 * [skyvern](https://github.com/Skyvern-AI/skyvern)
 
 ## coding assistant
-* [devika](https://github.com/stitionai/devika)
 * [OpenDevin](https://github.com/OpenDevin/OpenDevin)
+* [devika](https://github.com/stitionai/devika)
 * [CodeGen](https://github.com/facebookresearch/CodeGen)
 * [TransCoder](https://github.com/facebookresearch/TransCoder)
 
@@ -62,7 +62,7 @@
 * [meditron](https://github.com/epfLLM/meditron)
 * [Bunny](https://github.com/BAAI-DCAI/Bunny)
 
-## MOE
+## moe
 * [MiniCPM](https://github.com/OpenBMB/MiniCPM-V)
 * [InternVL](https://github.com/OpenGVLab/InternVL)
 * [CogVLM2](https://github.com/THUDM/CogVLM2)
