@@ -50,6 +50,7 @@
 * [ChatGLM2-6B](https://github.com/THUDM/ChatGLM2-6B)
 * [MiniCPM](https://github.com/OpenBMB/MiniCPM)
 * [Yi](https://github.com/01-ai/Yi)
+* [llama3](https://github.com/meta-llama/llama3)
 * [Llama3-Chinese-Chat](https://github.com/Shenzhi-Wang/Llama3-Chinese-Chat)
 
 ## coding
@@ -65,6 +66,8 @@
 * [MiniCPM](https://github.com/OpenBMB/MiniCPM-V)
 * [InternVL](https://github.com/OpenGVLab/InternVL)
 * [CogVLM2](https://github.com/THUDM/CogVLM2)
+* [MGM](https://github.com/dvlab-research/MGM)
+* [XVERSE-V-13b](https://github.com/xverse-ai/XVERSE-V-13b)
 
 # inference engine
 * [ollama](https://github.com/ollama/ollama)
