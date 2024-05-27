@@ -81,6 +81,7 @@
 
 # web UI
 * [open-webui](https://github.com/open-webui/open-webui)
+* [lobe-chat](https://github.com/lobehub/lobe-chat)
 * [LibreChat](https://github.com/danny-avila/LibreChat)
 
 # Tools
