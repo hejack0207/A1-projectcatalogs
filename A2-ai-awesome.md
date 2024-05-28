@@ -1,5 +1,6 @@
 # awesome
 * [LLMSurvey](https://github.com/RUCAIBox/LLMSurvey)
+* [AGI-survey](https://github.com/ulab-uiuc/AGI-survey)
 * [Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM)
 * [awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt)
 * [awesome-artificial-intelligence](https://github.com/owainlewis/awesome-artificial-intelligence)
