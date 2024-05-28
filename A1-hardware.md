@@ -8,8 +8,10 @@
 * [awesome-cuda-tensorrt-fpga](https://github.com/codingonion/awesome-cuda-tensorrt-fpga)
 * [libnvidia-container](https://github.com/NVIDIA/libnvidia-container)
 * [nvidia-contaienr-toolkit](https://github.com/NVIDIA/nvidia-contaienr-toolkit)
+* [open-gpu-kernel-modules](https://github.com/NVIDIA/open-gpu-kernel-modules)
+* [nvidia-installer](https://github.com/NVIDIA/nvidia-installer)
 
-# hardware make
+# hardware makings
 * [standford_alpaca](https://github.com/tatsu-lab/standford_alpaca)
 * [BalanceWheel](https://github.com/SMDHuman/BalanceWheel)
 * [upkie](https://github.com/upkie/upkie)
