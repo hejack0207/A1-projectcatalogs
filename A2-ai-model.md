@@ -15,6 +15,9 @@
 * [CodeQwen1.5](https://github.com/QwenLM/CodeQwen1.5)
 * [aiXcoder-7B](https://github.com/aixcoder-plugin/aiXcoder-7B)
 
+## voice
+* [TeleSpeech-ASR](https://github.com/Tele-AI/TeleSpeech-ASR)
+
 ## medical
 * [meditron](https://github.com/epfLLM/meditron)
 * [Bunny](https://github.com/BAAI-DCAI/Bunny)
