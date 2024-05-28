@@ -19,7 +19,7 @@
 * [meditron](https://github.com/epfLLM/meditron)
 * [Bunny](https://github.com/BAAI-DCAI/Bunny)
 
-## MOE
+## moe
 * [MiniCPM](https://github.com/OpenBMB/MiniCPM-V)
 * [InternVL](https://github.com/OpenGVLab/InternVL)
 * [CogVLM2](https://github.com/THUDM/CogVLM2)

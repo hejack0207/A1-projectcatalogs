@@ -1,8 +1,6 @@
-## ops
-* [chaosblade](https://github.com/chaosblade-io/chaosblade)
-* [jumpserver](https://github.com/jumpserver/jumpserver)
-* [prometheus](https://github.com/prometheus/prometheus)
-* [grafana](https://github.com/grafana/grafana)
+## ai
+* [whisper.cpp](https://github.com/ggerganov/whisper.cpp)
+* [llama.cpp](https://github.com/ggerganov/llama.cpp)
 
 # iaas
 * [linux](https://github.com/torvalds/linux)
