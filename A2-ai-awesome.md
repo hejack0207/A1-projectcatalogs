@@ -10,3 +10,7 @@
 * [LLMsPracticalGuide](https://github.com/Mooler0410/LLMsPracticalGuide)
 * [llm-course](https://github.com/mlabonne/llm-course)
 * [so-large-lm](https://github.com/datawhalechina/so-large-lm)
+
+# from scratch
+* [llama3-from-scratch](https://github.com/naklecha/llama3-from-scratch)
+* [LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch)
