@@ -11,6 +11,9 @@
 * [llm-course](https://github.com/mlabonne/llm-course)
 * [so-large-lm](https://github.com/datawhalechina/so-large-lm)
 
+# theory
+* [Book-Mathematical-Foundation-of-Reinforcement-Learning](https://github.com/MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning)
+
 # from scratch
 * [llama3-from-scratch](https://github.com/naklecha/llama3-from-scratch)
 * [LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch)
