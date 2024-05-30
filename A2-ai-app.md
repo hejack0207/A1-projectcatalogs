@@ -1,5 +1,14 @@
-# agent
+# Agent
 * [awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents)
+
+## browser agent
+* [skyvern](https://github.com/Skyvern-AI/skyvern)
+
+## coding assistant
+* [devika](https://github.com/stitionai/devika)
+* [OpenDevin](https://github.com/OpenDevin/OpenDevin)
+* [CodeGen](https://github.com/facebookresearch/CodeGen)
+* [TransCoder](https://github.com/facebookresearch/TransCoder)
 
 # RAG
 * [vanna](https://github.com/vanna-ai/vanna)
@@ -26,15 +35,6 @@
 
 # lips read
 * [LipSick](https://github.com/Inferencer/LipSick)
-
-# browser agent
-* [skyvern](https://github.com/Skyvern-AI/skyvern)
-
-# coding assistant
-* [devika](https://github.com/stitionai/devika)
-* [OpenDevin](https://github.com/OpenDevin/OpenDevin)
-* [CodeGen](https://github.com/facebookresearch/CodeGen)
-* [TransCoder](https://github.com/facebookresearch/TransCoder)
 
 # others
 * [Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT)

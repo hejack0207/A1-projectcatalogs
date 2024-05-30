@@ -11,8 +11,12 @@
 # web UI
 * [open-webui](https://github.com/open-webui/open-webui)
 * [lobe-chat](https://github.com/lobehub/lobe-chat)
+* [chatbox](https://github.com/Bin-Huang/chatbox)
 * [text-generation-webui](https://github.com/oobabooga/text-generation-webui)
 * [LibreChat](https://github.com/danny-avila/LibreChat)
+
+# train engine
+* [llm.c](https://github.com/karpathy/llm.c)
 
 # Tools
 * [Eurus](https://github.com/OpenBMB/Eurus)
