@@ -38,6 +38,7 @@
 
 # language server
 * [language-server-protocol](https://github.com/microsoft/language-server-protocol)
+* [yaml-language-server](https://github.com/redhat-developer/yaml-language-server)
 * [texlab](https://github.com/latex-lsp/texlab)
 
 # editor

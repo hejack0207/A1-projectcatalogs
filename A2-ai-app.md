@@ -1,4 +1,7 @@
-# Agent
+# applications
+* [awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-ai-agents)
+
+# agent
 * [awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents)
 
 ## browser agent
@@ -10,7 +13,12 @@
 * [CodeGen](https://github.com/facebookresearch/CodeGen)
 * [TransCoder](https://github.com/facebookresearch/TransCoder)
 
-# RAG
+# rag
+* [RAG-Survey](https://github.com/hymie122/RAG-Survey)
+* [Awesome-LLM-RAG](https://github.com/jxzhangjhu/Awesome-LLM-RAG)
+* [Awesome-LLM-RAG-Application](https://github.com/lizhe2004/Awesome-LLM-RAG-Application)
+* [Awesome-RAG](https://github.com/lucifertrj/Awesome-RAG)
+--------------------
 * [vanna](https://github.com/vanna-ai/vanna)
 * [ragflow](https://github.com/infiniflow/ragflow)
 
@@ -26,11 +34,11 @@
 # voice to text
 * [buzz](https://github.com/chidiwilliams/buzz)
 
-# OCR
+# ocr
 * [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR)
 * [EasyOCR](https://github.com/JaidedAI/EasyOCR)
 
-# FACE
+# face
 * [deepface](https://github.com/serengil/deepface)
 
 # lips read
