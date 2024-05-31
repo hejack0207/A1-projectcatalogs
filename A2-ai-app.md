@@ -1,5 +1,5 @@
 # applications
-* [awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-ai-agents)
+* [awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)
 
 # agent
 * [awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents)
