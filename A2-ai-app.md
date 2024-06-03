@@ -34,6 +34,9 @@
 # voice to text
 * [buzz](https://github.com/chidiwilliams/buzz)
 
+# text to voice
+* [chattts](https://github.com/2noise/ChatTTS)
+
 # ocr
 * [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR)
 * [EasyOCR](https://github.com/JaidedAI/EasyOCR)
