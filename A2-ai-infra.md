@@ -4,7 +4,7 @@
 * [lmdeploy](https://github.com/InternLM/lmdeploy)
 * [vllm](https://github.com/vllm-project/vllm)
 * [LocalAI](https://github.com/mudler/LocalAI)
-* [anything-llm](https://github.com/Mintplex-Labs/anything-llm)
+--------------------
 * [gemma.cpp](https://github.com/google/gemma.cpp)
 * [gemma_pytorch](https://github.com/google/gemma_pytorch)
 * [gemma](https://github.com/google-deepmind/gemma)
