@@ -92,6 +92,7 @@
 
 ## pc
 ### pdf
+* [marker:py](https://github.com/VikParuchuri/marker)
 * [pdf-to-markdown:py](https://github.com/johnlinp/pdf-to-markdown)
 --------------------
 * [chm2pdf:py](https://github.com/Arnoques/chm2pdf)
