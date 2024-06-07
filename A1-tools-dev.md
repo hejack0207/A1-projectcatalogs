@@ -25,6 +25,7 @@
 * [gdb-dashboard](https://github.com/cyrus-and/gdb-dashboard)
 * [gef](https://github.com/hugsy/gef)
 * [peda](https://github.com/longld/peda)
+* [quickstack](https://github.com/yoshinorim/quickstack)
 
 # trace
 * [uftrace](https://github.com/namhyung/uftrace)
