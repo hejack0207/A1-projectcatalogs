@@ -8,6 +8,9 @@
 * [skyvern](https://github.com/Skyvern-AI/skyvern)
 
 ## coding assistant
+* [codegeex-vscode-extension](https://github.com/CodeGeeX/codegeex-vscode-extension)
+* [continue](https://github.com/continuedev/continue)
+--------------------
 * [devika](https://github.com/stitionai/devika)
 * [OpenDevin](https://github.com/OpenDevin/OpenDevin)
 * [CodeGen](https://github.com/facebookresearch/CodeGen)
