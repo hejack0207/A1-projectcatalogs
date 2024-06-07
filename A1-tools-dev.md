@@ -35,6 +35,7 @@
 
 # binary
 * [dwgrep](https://github.com/pmachata/dwgrep)
+* [dwarf_dumper](https://github.com/DimitriFourny/dwarf_dumper)
 
 # language server
 * [language-server-protocol](https://github.com/microsoft/language-server-protocol)
