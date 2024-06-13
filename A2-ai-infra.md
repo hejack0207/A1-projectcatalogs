@@ -1,8 +1,9 @@
 # inference engine
 * [ollama](https://github.com/ollama/ollama)
+* [PowerInfer](https://github.com/SJTU-IPADS/PowerInfer)
 * [llama.cpp](https://github.com/ggerganov/llama.cpp)
-* [lmdeploy](https://github.com/InternLM/lmdeploy)
 * [vllm](https://github.com/vllm-project/vllm)
+* [lmdeploy](https://github.com/InternLM/lmdeploy)
 * [LocalAI](https://github.com/mudler/LocalAI)
 --------------------
 * [gemma.cpp](https://github.com/google/gemma.cpp)
