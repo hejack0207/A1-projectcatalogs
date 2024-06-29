@@ -3,6 +3,7 @@
 * [Awesome-Chinese-LLM](https://github.com/HqWu-HITCS/Awesome-Chinese-LLM)
 
 ## chat
+* [GLM-4](https://github.com/THUDM/GLM-4)
 * [ChatGLM3](https://github.com/THUDM/ChatGLM3)
 * [DeepSeek-V2](https://github.com/deepseek-ai/DeepSeek-V2)
 * [ChatGLM2-6B](https://github.com/THUDM/ChatGLM2-6B)
