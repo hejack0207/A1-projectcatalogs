@@ -4,13 +4,18 @@
 
 ## chat
 * [ChatGLM3](https://github.com/THUDM/ChatGLM3)
+* [DeepSeek-V2](https://github.com/deepseek-ai/DeepSeek-V2)
 * [ChatGLM2-6B](https://github.com/THUDM/ChatGLM2-6B)
 * [MiniCPM](https://github.com/OpenBMB/MiniCPM)
+* [Qwen2](https://github.com/QwenLM/Qwen2)
 * [Yi](https://github.com/01-ai/Yi)
 * [llama3](https://github.com/meta-llama/llama3)
 * [Llama3-Chinese-Chat](https://github.com/Shenzhi-Wang/Llama3-Chinese-Chat)
 
 ## coding
+* [DeepSeek-Coder-V2](https://github.com/deepseek-ai/DeepSeek-Coder-V2)
+* [DeepSeek-Coder](https://github.com/deepseek-ai/DeepSeek-Coder)
+* [ChatGLM2-6B](https://github.com/THUDM/ChatGLM2-6B)
 * [CodeGeeX2](https://github.com/THUDM/CodeGeeX2)
 * [CodeQwen1.5](https://github.com/QwenLM/CodeQwen1.5)
 * [aiXcoder-7B](https://github.com/aixcoder-plugin/aiXcoder-7B)

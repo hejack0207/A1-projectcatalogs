@@ -3,13 +3,23 @@
 * [mips-cpu](https://github.com/jmahler/mips-cpu)
 * [awesome-mcu](https://github.com/cla7aye15I4nd/awesome-mcu)
 
+## risc
+* [learn](https://github.com/riscv/learn)
+* [docs-resources](https://github.com/riscv/docs-resources)
+* [docs-dev-guide](https://github.com/riscv/docs-dev-guide)
+* [riscv-software-ecosystem](https://github.com/riscv/riscv-software-ecosystem)
+* [riscv-opcodes](https://github.com/riscv/riscv-opcodes)
+
 # gpu
 * [Awesome-CUDA](https://github.com/Erkaman/Awesome-CUDA)
 * [awesome-cuda-tensorrt-fpga](https://github.com/codingonion/awesome-cuda-tensorrt-fpga)
+* [open-gpu-kernel-modules](https://github.com/NVIDIA/open-gpu-kernel-modules)
 * [libnvidia-container](https://github.com/NVIDIA/libnvidia-container)
 * [nvidia-contaienr-toolkit](https://github.com/NVIDIA/nvidia-contaienr-toolkit)
-* [open-gpu-kernel-modules](https://github.com/NVIDIA/open-gpu-kernel-modules)
 * [nvidia-installer](https://github.com/NVIDIA/nvidia-installer)
+
+## vulkan
+* [awesome-vulkan](https://github.com/vinjin/awesome-vulkan)
 
 # hardware makings
 * [standford_alpaca](https://github.com/tatsu-lab/standford_alpaca)
@@ -31,12 +41,18 @@
 * [awesome-fpga-boards](https://github.com/iDoka/awesome-fpga-boards)
 * [awesome-latticeFPGAs](https://github.com/kelu124/awesome-latticeFPGAs)
 * [corundum](https://github.com/ucsdsysnet/corundum)
+* [picorv32](https://github.com/YosysHQ/picorv32)
+* [FPGA-radio](https://github.com/dawsonjon/FPGA-radio)
 
 # verilog
 * [verilog-ethernet](https://github.com/alexforencich/verilog-ethernet)
+* [vgasim](https://github.com/ZipCPU/vgasim)
 * [verilogboy](https://github.com/zephray/VerilogBoy)
 * [awesome-hdl](https://github.com/drom/awesome-hdl)
 * [open-fpga-verilog-tutorial](https://github.com/Obijuan/open-fpga-verilog-tutorial)
+
+## verilog dev
+* [iverilog](https://github.com/steveicarus/iverilog)
 
 # 3d print
 * [awesome-3d-printing](https://github.com/ad-si/awesome-3d-printing)
