@@ -4,6 +4,7 @@
 * [putty-nd](https://github.com/noodle1983/putty-nd)
 * [ConEmu](https://github.com/Maximus5/ConEmu)
 * [terminal](https://github.com/microsoft/terminal)
+* [wezterm:rs](https://github.com/wez/wezterm)
 * [alacritty:rs](https://github.com/alacritty/alacritty)
 * [cmder](https://github.com/cmderdev/cmder)
 * [clink](https://github.com/mridgers/clink)
