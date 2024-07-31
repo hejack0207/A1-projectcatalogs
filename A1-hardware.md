@@ -4,6 +4,7 @@
 * [awesome-mcu](https://github.com/cla7aye15I4nd/awesome-mcu)
 
 ## risc
+* [loongarch-documentation](https://github.com/loongson/LoongArch-Documentation)
 * [learn](https://github.com/riscv/learn)
 * [docs-resources](https://github.com/riscv/docs-resources)
 * [docs-dev-guide](https://github.com/riscv/docs-dev-guide)
@@ -17,6 +18,7 @@
 * [libnvidia-container](https://github.com/NVIDIA/libnvidia-container)
 * [nvidia-contaienr-toolkit](https://github.com/NVIDIA/nvidia-contaienr-toolkit)
 * [nvidia-installer](https://github.com/NVIDIA/nvidia-installer)
+* [iBFS](https://github.com/iHeartGraph/iBFS)
 
 ## vulkan
 * [awesome-vulkan](https://github.com/vinjin/awesome-vulkan)
@@ -25,6 +27,7 @@
 * [standford_alpaca](https://github.com/tatsu-lab/standford_alpaca)
 * [BalanceWheel](https://github.com/SMDHuman/BalanceWheel)
 * [upkie](https://github.com/upkie/upkie)
+* [ElectronBot](https://github.com/peng-zhihui/ElectronBot)
 
 # raspberry
 * [awesome-raspberry-pi](https://github.com/thibmaek/awesome-raspberry-pi)
@@ -43,6 +46,9 @@
 * [corundum](https://github.com/ucsdsysnet/corundum)
 * [picorv32](https://github.com/YosysHQ/picorv32)
 * [FPGA-radio](https://github.com/dawsonjon/FPGA-radio)
+* [openwifi](https://github.com/open-sdr/openwifi)
+* [openwifi-hw:verilog](https://github.com/open-sdr/openwifi-hw)
+* [corundum:verilog](https://github.com/corundum/corundum)
 
 # verilog
 * [verilog-ethernet](https://github.com/alexforencich/verilog-ethernet)
