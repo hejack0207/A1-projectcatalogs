@@ -24,6 +24,7 @@
 * [awesome-vulkan](https://github.com/vinjin/awesome-vulkan)
 
 # hardware makings
+* [esp-drone](https://github.com/Circuit-Digest/ESP-Drone)
 * [standford_alpaca](https://github.com/tatsu-lab/standford_alpaca)
 * [BalanceWheel](https://github.com/SMDHuman/BalanceWheel)
 * [upkie](https://github.com/upkie/upkie)
