@@ -14,7 +14,15 @@
 * [gitui:rs](https://github.com/extrawurst/gitui)
 * [gitoxide:rs](https://github.com/Byron/gitoxide)
 
-# editor vim
+# editor
+* [lapce](https://github.com/lapce/lapce)
+* [helix](https://github.com/helix-editor/helix)
+* [kakoune](https://github.com/mawww/kakoune)
+* [emacs](https://github.com/emacs-mirror/emacs)
+* [spacemacs](https://github.com/syl20bnr/spacemacs)
+
+## editor vim
+* [neovim](https://github.com/neovim/neovim)
 * [vim](https://github.com/vim/vim)
 * [awesome-neovim](https://github.com/rockerBOO/awesome-neovim)
 * [volt](https://github.com/vim-volt/volt)
@@ -42,7 +50,3 @@
 * [language-server-protocol](https://github.com/microsoft/language-server-protocol)
 * [yaml-language-server](https://github.com/redhat-developer/yaml-language-server)
 * [texlab](https://github.com/latex-lsp/texlab)
-
-# editor
-* [emacs](https://github.com/emacs-mirror/emacs)
-* [spacemacs](https://github.com/syl20bnr/spacemacs)
