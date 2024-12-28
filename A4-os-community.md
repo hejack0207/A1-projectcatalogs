@@ -33,7 +33,7 @@
 * [sdhcpv6](https://github.com/superwrt/sdhcpv6)
 
 # xilnx
-* [linux-xilnx](https://github.com/Xilnx/linux-xlnx)
+* [linux-xlnx](https://github.com/Xilinx/linux-xlnx)
 
 # android
 * [tools_repo](https://github.com/aosp-mirror/tools_repo)
