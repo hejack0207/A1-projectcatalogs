@@ -33,6 +33,9 @@
 * [awesome-raspberry-pi](https://github.com/thibmaek/awesome-raspberry-pi)
 * [raspberry-pi-os](https://github.com/s-matyukevich/raspberry-pi-os)
 * [raspberrypi](https://github.com/dwelch67/raspberrypi)
+* [firmware](https://github.com/raspberrypi/firmware)
+* [documentation](https://github.com/raspberrypi/documentation)
+* [linux](https://github.com/raspberrypi/linux)
 
 # raspberry app
 * [speed-camera](https://github.com/pageauc/speed-camera)
@@ -43,6 +46,9 @@
 * [awesome-fpga](https://github.com/Vitorian/awesome-fpga)
 * [awesome-fpga-boards](https://github.com/iDoka/awesome-fpga-boards)
 * [awesome-latticeFPGAs](https://github.com/kelu124/awesome-latticeFPGAs)
+
+# xilinx
+* [dma-ip-drivers](https://github.com/Xilinx/dma_ip_drivers)
 
 ## cpu
 * [arm-legv8](https://github.com/nxbyte/ARM-LEGv8)
@@ -91,3 +97,7 @@
 * [stick:rs](https://github.com/libcala/stick)
 * [joystick:go](https://github.com/0xcafed00d/joystick)
 * [joy2mouse:go](https://github.com/abbychau/joy2mouse)
+
+# esp32
+* [esp32-linux-build](https://github.com/jcmvbkbc/esp32-linux-build)
+* [buildroot](https://github.com/jcmvbkbc/buildroot)
