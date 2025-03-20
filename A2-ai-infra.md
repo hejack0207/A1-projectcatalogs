@@ -1,5 +1,5 @@
 # inference engine
-* [mistral.rs](https://github.com/EricBuehler/mistral.rs)
+* [mistral.rs](https://github.com/EricLBuehler/mistral.rs)
 * [ollama](https://github.com/ollama/ollama)
 * [PowerInfer](https://github.com/SJTU-IPADS/PowerInfer)
 * [llama.cpp](https://github.com/ggerganov/llama.cpp)
