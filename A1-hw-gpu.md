@@ -7,10 +7,10 @@
 * [nvidia-installer](https://github.com/NVIDIA/nvidia-installer)
 * [iBFS](https://github.com/iHeartGraph/iBFS)
 
-## vulkan
+# vulkan
 * [awesome-vulkan](https://github.com/vinjin/awesome-vulkan)
 
-## opengl
+# opengl
 * [mesa](https://github.com/notaz/mesa)
 * [cublic](https://github.com/t-88/cublic)
 * [trap2](https://github.com/tale/trap2)
