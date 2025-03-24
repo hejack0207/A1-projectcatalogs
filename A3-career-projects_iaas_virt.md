@@ -5,6 +5,10 @@
 * [stratovirt:rs](https://github.com/openeuler-mirror/stratovirt)
 * [firecracker:rs](https://github.com/firecracker-microvm/firecracker)
 
+# bios
+* [seabios](https://github.com/qemu/seabios)
+* [coreboot](https://github.com/coreboot/coreboot)
+
 # kvm
 * [docker-on-kvm:rs](https://github.com/svenslaggare/docker-on-kvm)
 
