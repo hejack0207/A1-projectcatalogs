@@ -1,3 +1,6 @@
+# awesome
+* [awesome-embedded](https://github.com/nhivp/Awesome-Embedded)
+
 # hypervisor
 * [minos](https://github.com/minosproject/minos)
 * [acrn-hypervisor](https://github.com/projectacrn/acrn-hypervisor)
