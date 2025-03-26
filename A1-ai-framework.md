@@ -1,5 +1,7 @@
 # platform
 * [pytorch](https://github.com/pytorch/pytorch)
+* [tensorrt-llm](https://github.com/NVIDIA/TensorRT-LLM)
+* [ggml](https://github.com/ggml-org/ggml)
 
 # library
 * [transformers](https://github.com/huggingface/transformers)

@@ -1,8 +1,12 @@
 # model
 * [open-llms](https://github.com/eugeneyan/open-llms)
 * [Awesome-Chinese-LLM](https://github.com/HqWu-HITCS/Awesome-Chinese-LLM)
+* [awesome-deepseek-integration](https://github.com/deepseek-ai/awesome-deepseek-integration)
+* [awesome-deepseek-coder](https://github.com/deepseek-ai/awesome-deepseek-coder)
 
 ## chat
+* [deepseek-r1](https://github.com/deepseek-ai/DeepSeek-R1)
+* [deepseek-v3](https://github.com/deepseek-ai/DeepSeek-V3)
 * [GLM-4](https://github.com/THUDM/GLM-4)
 * [ChatGLM3](https://github.com/THUDM/ChatGLM3)
 * [DeepSeek-V2](https://github.com/deepseek-ai/DeepSeek-V2)

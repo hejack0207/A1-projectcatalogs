@@ -3,6 +3,7 @@
 * [ollama](https://github.com/ollama/ollama)
 * [PowerInfer](https://github.com/SJTU-IPADS/PowerInfer)
 * [llama.cpp](https://github.com/ggerganov/llama.cpp)
+* [sglang](https://github.com/sgl-project/sglang)
 * [vllm](https://github.com/vllm-project/vllm)
 * [lmdeploy](https://github.com/InternLM/lmdeploy)
 * [LocalAI](https://github.com/mudler/LocalAI)

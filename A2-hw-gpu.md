@@ -12,5 +12,6 @@
 
 # opengl
 * [mesa](https://github.com/notaz/mesa)
-* [cublic](https://github.com/t-88/cublic)
+* [glfw](https://github.com/glfw/glfw)
+* [cubic](https://github.com/t-88/cubic)
 * [trap2](https://github.com/tale/trap2)

@@ -3,6 +3,7 @@
 
 # agent
 * [awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents)
+* [openmanus](https://github.com/mannaandpoem/OpenManus)
 
 ## browser agent
 * [skyvern](https://github.com/Skyvern-AI/skyvern)

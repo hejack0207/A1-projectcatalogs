@@ -1,5 +1,8 @@
 # hypervisor
 * [minos](https://github.com/minosproject/minos)
+* [acrn-hypervisor](https://github.com/projectacrn/acrn-hypervisor)
+* [acrn-kernel](https://github.com/projectacrn/acrn-kernel)
+* [seL4](https://github.com/seL4/seL4)
 
 # os
 * [freertos](https://github.com/FreeRTOS/FreeRTOS-kernel)
