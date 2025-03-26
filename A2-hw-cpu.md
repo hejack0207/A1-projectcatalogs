@@ -4,6 +4,8 @@
 * [awesome-mcu](https://github.com/cla7aye15I4nd/awesome-mcu)
 
 ## arm
+* [arm_now](https://github.com/nongiach/arm_now)
+* [arm_now_templates](https://github.com/nongiach/arm_now_templates)
 
 ## risc
 * [loongarch-documentation](https://github.com/loongson/LoongArch-Documentation)
