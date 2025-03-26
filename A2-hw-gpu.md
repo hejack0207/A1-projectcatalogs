@@ -1,5 +1,5 @@
 # gpu
-* [awesome-gpgpu](https://github.com/Erkaman/awesome-gpgpu)
+* [awesome-gpgpu](https://github.com/jslee02/awesome-gpgpu)
 * [awesome-mobile-graphics](https://github.com/shihchinw/awesome-mobile-graphics)
 * [iBFS](https://github.com/iHeartGraph/iBFS)
 
