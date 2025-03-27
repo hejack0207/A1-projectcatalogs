@@ -14,5 +14,4 @@
 * [docs-dev-guide](https://github.com/riscv/docs-dev-guide)
 * [riscv-software-ecosystem](https://github.com/riscv/riscv-software-ecosystem)
 * [riscv-opcodes](https://github.com/riscv/riscv-opcodes)
-
 * [opensbi](https://github.com/riscv-software-src/opensbi)

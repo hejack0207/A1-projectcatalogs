@@ -5,6 +5,7 @@
 * [awesome-deepseek-coder](https://github.com/deepseek-ai/awesome-deepseek-coder)
 
 ## chat
+* [qwen2.5-omni](https://github.com/QwenLM/Qwen2.5-Omni)
 * [deepseek-r1](https://github.com/deepseek-ai/DeepSeek-R1)
 * [deepseek-v3](https://github.com/deepseek-ai/DeepSeek-V3)
 * [GLM-4](https://github.com/THUDM/GLM-4)
