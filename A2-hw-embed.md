@@ -28,6 +28,14 @@
 # esp32
 * [esp32-linux-build](https://github.com/jcmvbkbc/esp32-linux-build)
 * [buildroot](https://github.com/jcmvbkbc/buildroot)
+* [esp-idf](https://github.com/espressif/esp-idf)
+* [arduino-esp32](https://github.com/espressif/arduino-esp32)
+* [esp-bsp](https://github.com/espressif/esp-bsp)
+* [esp8266_rtos_sdk](https://github.com/espressif/ESP8266_RTOS_SDK)
+* [esp-eth-drivers](https://github.com/espressif/esp-eth-drivers)
+* [xtensa-dynconfig](https://github.com/espressif/xtensa-dynconfig)
+* [xtensa-isa-doc](https://github.com/espressif/xtensa-isa-doc)
+* [xtensa-overlays](https://github.com/espressif/xtensa-overlays)
 
 # tools
 * [buildroot](https://github.com/buildroot/buildroot)
