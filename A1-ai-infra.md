@@ -1,11 +1,12 @@
 # inference engine
 * [mistral.rs](https://github.com/EricLBuehler/mistral.rs)
-* [ollama](https://github.com/ollama/ollama)
 * [PowerInfer](https://github.com/SJTU-IPADS/PowerInfer)
 * [llama.cpp](https://github.com/ggerganov/llama.cpp)
 * [sglang](https://github.com/sgl-project/sglang)
 * [vllm](https://github.com/vllm-project/vllm)
 * [lmdeploy](https://github.com/InternLM/lmdeploy)
+* [airllm](https://github.com/lyogavin/airllm)
+* [ollama](https://github.com/ollama/ollama)
 * [LocalAI](https://github.com/mudler/LocalAI)
 --------------------
 * [gemma.cpp](https://github.com/google/gemma.cpp)

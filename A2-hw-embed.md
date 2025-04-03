@@ -7,10 +7,14 @@
 * [acrn-kernel](https://github.com/projectacrn/acrn-kernel)
 * [seL4](https://github.com/seL4/seL4)
 
-# os
+# realtime os
+* [nuttx](https://github.com/apache/nuttx)
 * [freertos](https://github.com/FreeRTOS/FreeRTOS-kernel)
 * [liteos](https://github.com/LiteOS/LiteOS)
 * [rt-thread](https://github.com/RT-Thread/rt-thread)
+
+# os
+* [openwrt](https://github.com/openwrt/openwrt)
 
 # raspberry
 * [awesome-raspberry-pi](https://github.com/thibmaek/awesome-raspberry-pi)
