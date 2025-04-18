@@ -13,7 +13,14 @@
 * [liteos](https://github.com/LiteOS/LiteOS)
 * [rt-thread](https://github.com/RT-Thread/rt-thread)
 
-# os
+# vxworks
+* [vxworks_image_for_qemu](https://github.com/ruier/VxWorks_image_for_qemu)
+
+# freertos
+* [freertos-qemu](https://github.com/moeghassi/freertos-qemu)
+* [port_freertos_to_qemu_a57_virt](https://github.com/NienfengYao/port_freertos_to_qemu_a57_virt)
+
+# linux os
 * [openwrt](https://github.com/openwrt/openwrt)
 
 # raspberry
