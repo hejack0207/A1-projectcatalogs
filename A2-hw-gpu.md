@@ -17,6 +17,8 @@
 ## opengl
 * [awesome-opengl](https://github.com/eug/awesome-opengl)
 * [mesa](https://github.com/notaz/mesa)
+* [OpenSceneGraph](https://github.com/openscenegraph/OpenSceneGraph)
 * [glfw](https://github.com/glfw/glfw)
 * [cubic](https://github.com/hejack0207/cubic)
+* [flightgear](https://github.com/FlightGear/flightgear)
 * [trap2](https://github.com/tale/trap2)

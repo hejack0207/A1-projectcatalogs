@@ -70,6 +70,7 @@
 * [ueransim](https://github.com/aligungr/UERANSIM)
 * [5G-air-simulator](https://github.com/telematics-lab/5G-air-simulator)
 * [3gpp-documentation](https://github.com/emanuelfreitas/3gpp-documentation)
+* [upf](https://github.com/free5gc/upf)
 
 # tcpcopy
 * [tcpcopy:c](https://github.com/session-replay-tools/tcpcopy)

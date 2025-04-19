@@ -6,6 +6,7 @@
 * [apps-android-wikipedia](https://github.com/wikimedia/apps-android-wikipedia)
 * [termux-app](https://github.com/termux/termux-app)
 * [termux-packages](https://github.com/termux/termux-packages)
+* [termux-qemu-alpine-docker](https://github.com/diogok/termux-qemu-alpine-docker)
 
 # system
 * [qemu-android-x86-runner](https://github.com/rexim/qemu-android-x86-runner)
