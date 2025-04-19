@@ -101,3 +101,6 @@
 * [chm2pdf:py](https://github.com/Arnoques/chm2pdf)
 * [chmtoepub](https://github.com/idsol/ChmToEpub)
 * [chm2epub:py](https://github.com/righthandabacus/chm2epub)
+
+### polarion
+* [python-polarion](https://github.com/jesper-raemaekers/python-polarion)

@@ -12,3 +12,7 @@
 
 # testing performance
 * [fio](https://github.com/axboe/fio)
+
+# aero
+* [PX4-Autopilot](https://github.com/PX4/PX4-Autopilot)
+* [PX4-user_guide](https://github.com/PX4/PX4-user_guide)
