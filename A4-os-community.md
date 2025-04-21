@@ -28,18 +28,5 @@
 # rros
 * [RROS](https://github.com/BUPT-OS/RROS)
 
-# openwrt
-* [openwrt](https://github.com/openwrt/openwrt)
-* [sdhcpv6](https://github.com/superwrt/sdhcpv6)
-
 # xilnx
 * [linux-xlnx](https://github.com/Xilinx/linux-xlnx)
-
-# android
-* [tools_repo](https://github.com/aosp-mirror/tools_repo)
-* [platform_bionic](https://github.com/aosp-mirror/platform_bionic)
-
-# freertos
-* [freertos](https://github.com/FreeRTOS/FreeRTOS)
-* [freertos-kernel](https://github.com/FreeRTOS/FreeRTOS-Kernel)
-* [freertos-qemu](https://github.com/mghicho/freertos-qemu)
