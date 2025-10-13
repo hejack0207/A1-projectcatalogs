@@ -18,8 +18,9 @@
 * [gitoxide:rs](https://github.com/Byron/gitoxide)
 
 # editor
-* [lapce](https://github.com/lapce/lapce)
 * [helix](https://github.com/helix-editor/helix)
+* [zed](https://github.com/zed-industries/zed)
+* [lapce](https://github.com/lapce/lapce)
 * [kakoune](https://github.com/mawww/kakoune)
 * [emacs](https://github.com/emacs-mirror/emacs)
 * [spacemacs](https://github.com/syl20bnr/spacemacs)
