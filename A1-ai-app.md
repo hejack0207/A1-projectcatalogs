@@ -9,6 +9,7 @@
 * [skyvern](https://github.com/Skyvern-AI/skyvern)
 
 ## coding assistant
+* [iflow-cli](https://github.com/ifow-ai/iflow-cli)
 * [codegeex-vscode-extension](https://github.com/CodeGeeX/codegeex-vscode-extension)
 * [continue](https://github.com/continuedev/continue)
 --------------------

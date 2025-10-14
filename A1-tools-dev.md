@@ -22,6 +22,8 @@
 * [zed](https://github.com/zed-industries/zed)
 * [lapce](https://github.com/lapce/lapce)
 * [kakoune](https://github.com/mawww/kakoune)
+* [lazyvim](https://github.com/LazyVim/LazyVim)
+* [spacevim](https://github.com/wsdjeg/SpaceVim)
 * [emacs](https://github.com/emacs-mirror/emacs)
 * [spacemacs](https://github.com/syl20bnr/spacemacs)
 
