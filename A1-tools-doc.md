@@ -72,10 +72,17 @@
 * [man2html:py](https://github.com/Phil9l/man2html)
 
 ## composing
+### typst
+* typst[](https://github.com/typst/typst)
+
 ### yodl
 * [yodl](https://github.com/fbb-git/yodl)
 --------------------
 * [zsh](https://github.com/zsh-users/zsh)
+
+### mermaid
+* [mermaid](https://github.com/mermaid-js/mermaid)
+* [mermaid-cli](https://github.com/mermaid-js/mermaid-cli)
 
 ### latex
 * [latex2md:py](https://github.com/daanvandijk/latex2md)
