@@ -7,6 +7,9 @@
 * [termux-app](https://github.com/termux/termux-app)
 * [termux-packages](https://github.com/termux/termux-packages)
 * [termux-qemu-alpine-docker](https://github.com/diogok/termux-qemu-alpine-docker)
+## llm
+* [swift-chat](https://github.com/aws-samples/swift-chat)
+* [rikkahub](https://github.com/rikkahub/rikkahub)
 
 # system
 * [qemu-android-x86-runner](https://github.com/rexim/qemu-android-x86-runner)

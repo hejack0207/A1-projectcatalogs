@@ -1,11 +1,18 @@
 # inference engine
 * [mistral.rs](https://github.com/EricLBuehler/mistral.rs)
-* [PowerInfer](https://github.com/SJTU-IPADS/PowerInfer)
+## cpp
 * [llama.cpp](https://github.com/ggerganov/llama.cpp)
-* [sglang](https://github.com/sgl-project/sglang)
+* [PowerInfer](https://github.com/SJTU-IPADS/PowerInfer)
+* [Paddle-Lite](https://github.com/PaddlePaddle/Paddle-Lite)
+* [Tengine](https://github.com/OAID/Tengine)
+## python
 * [vllm](https://github.com/vllm-project/vllm)
+* [ktransformers](https://github.com/kvcache-ai/ktransformers)
+* [sglang](https://github.com/sgl-project/sglang)
 * [lmdeploy](https://github.com/InternLM/lmdeploy)
+* [mlc-llm](https://github.com/mlc-ai/mlc-llm)
 * [airllm](https://github.com/lyogavin/airllm)
+## golang
 * [ollama](https://github.com/ollama/ollama)
 * [LocalAI](https://github.com/mudler/LocalAI)
 --------------------
