@@ -2,6 +2,7 @@
 * [chrome-extensions](https://github.com/learn-anything/chrome-extensions)
 
 ## chrome extenstion
+* [github-ai-analyzer](https://github.com/tuolaji123/github-ai-analyzer)
 * [Surfingkeys](https://github.com/brookhong/Surfingkeys)
 * [bookmarks-manager](https://github.com/inbasic/bookmarks-manager)
 * [vimium:js](https://github.com/philc/vimium)
