@@ -1,4 +1,5 @@
 # inference engine
+## rust
 * [mistral.rs](https://github.com/EricLBuehler/mistral.rs)
 ## cpp
 * [llama.cpp](https://github.com/ggerganov/llama.cpp)
@@ -6,14 +7,15 @@
 * [Paddle-Lite](https://github.com/PaddlePaddle/Paddle-Lite)
 * [Tengine](https://github.com/OAID/Tengine)
 ## python
+* [sglang](https://github.com/sgl-project/sglang)
 * [vllm](https://github.com/vllm-project/vllm)
 * [ktransformers](https://github.com/kvcache-ai/ktransformers)
-* [sglang](https://github.com/sgl-project/sglang)
 * [lmdeploy](https://github.com/InternLM/lmdeploy)
 * [mlc-llm](https://github.com/mlc-ai/mlc-llm)
 * [airllm](https://github.com/lyogavin/airllm)
 ## golang
 * [ollama](https://github.com/ollama/ollama)
+* [nexa-sdk](https://github.com/NexaAI/nexa-sdk)
 * [LocalAI](https://github.com/mudler/LocalAI)
 --------------------
 * [gemma.cpp](https://github.com/google/gemma.cpp)
