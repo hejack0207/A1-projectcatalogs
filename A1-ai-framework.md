@@ -1,3 +1,6 @@
+# hardware
+* [triton](https://github.com/triton-lang/triton)
+
 # platform
 * [pytorch](https://github.com/pytorch/pytorch)
 * [tensorrt-llm](https://github.com/NVIDIA/TensorRT-LLM)
@@ -10,6 +13,12 @@
 
 # client library
 * [ollama-python](https://github.com/ollama/ollama-python)
+* [openai-python](https://github.com/openai/openai-python)
+* [openai-cookbook](https://github.com/openai/openai-cookbook)
+* [mcp-python-sdk](https://github.com/modelcontextprotocol/python-sdk)
+
+## js
+* [ollama-js](https://github.com/ollama/ollama-js)
 
 # utils
 * [modelscope](https://github.com/modelscope/modelscope)

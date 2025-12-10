@@ -43,6 +43,7 @@
 * [chattts](https://github.com/2noise/ChatTTS)
 
 # ocr
+* [DeepSeek-OCR-SDK](https://github.com/BukeLy/DeepSeek-OCR-SDK)
 * [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR)
 * [EasyOCR](https://github.com/JaidedAI/EasyOCR)
 
