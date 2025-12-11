@@ -56,6 +56,9 @@
 ## auto
 * [Open-AutoGLM](https://github.com/zai-org/Open-AutoGLM)
 
+## structural
+* [LimiX](https://github.com/limix-ldm/LimiX)
+
 ## medical
 * [meditron](https://github.com/epfLLM/meditron)
 * [Bunny](https://github.com/BAAI-DCAI/Bunny)

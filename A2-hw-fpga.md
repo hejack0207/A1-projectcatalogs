@@ -43,3 +43,7 @@
 * [cocotb](https://github.com/cocotb/cocotb)
 * [sv2v](https://github.com/zachjs/sv2v)
 * [OpenTimer](https://github.com/OpenTimer/OpenTimer)
+
+# simulator
+* [firesim](https://github.com/firesim/firesim)
+* [verilator](https://github.com/verilator/verilator)

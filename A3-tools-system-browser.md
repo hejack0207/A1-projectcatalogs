@@ -2,6 +2,7 @@
 * [chrome-extensions](https://github.com/learn-anything/chrome-extensions)
 
 ## chrome extenstion
+
 ### ai
 * [github-ai-analyzer](https://github.com/tuolaji123/github-ai-analyzer)
 * [deepwiki-md-chrome-extension](https://github.com/zxmfke/deepwiki-md-chrome-extension)

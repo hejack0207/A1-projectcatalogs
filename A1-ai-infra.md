@@ -13,6 +13,7 @@
 ## python
 * [sglang](https://github.com/sgl-project/sglang)
 * [vllm](https://github.com/vllm-project/vllm)
+* [vllm-omni](https://github.com/vllm-project/vllm-omni)
 * [ktransformers](https://github.com/kvcache-ai/ktransformers)
 * [lmdeploy](https://github.com/InternLM/lmdeploy)
 * [mlc-llm](https://github.com/mlc-ai/mlc-llm)
