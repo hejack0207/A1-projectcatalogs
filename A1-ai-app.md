@@ -29,7 +29,7 @@
 # ocr
 ## deepseek ocr
 * [deepseekocr-img2txt](https://github.com/hejack0207/deepSeek-ocr-docker-compose)
-* [deepseekocr-pfd2md](https://github.com/doppey123/DeepSeek-OCR---Dockerized-API)
+* [deepseekocr-pfd2md](https://github.com/doppey123/DeekSeek-OCR---Dockerized-API)
 * [DeepSeek-OCR-SDK](https://github.com/BukeLy/DeepSeek-OCR-SDK)
 
 ## others
