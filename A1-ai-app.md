@@ -27,10 +27,15 @@
 * [chattts](https://github.com/2noise/ChatTTS)
 
 # ocr
+## deepseek ocr
+* [deepseekocr-img2txt](https://github.com/hejack0207/deepSeek-ocr-docker-compose)
+* [deepseekocr-pfd2md](https://github.com/doppey123/DeepSeek-OCR--Dockerized-API)
 * [DeepSeek-OCR-SDK](https://github.com/BukeLy/DeepSeek-OCR-SDK)
+
+## others
+* [HunyuanOCR](https://github.com/Tencent-Hunyuan/HunyuanOCR)
 * [MonkeyOCR](https://github.com/Yuliang-Liu/MonkeyOCR)
 * [MinerU](https://github.com/opendatalab/MinerU)
-* [HunyuanOCR](https://github.com/Tencent-Hunyuan/HunyuanOCR)
 * [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR)
 * [EasyOCR](https://github.com/JaidedAI/EasyOCR)
 * [RapidOCR](https://github.com/RapidAI/RapidOCR)
