@@ -5,13 +5,6 @@
 * [awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt)
 * [awesome-artificial-intelligence](https://github.com/owainlewis/awesome-artificial-intelligence)
 
-# courses
-* [llm-cookbook](https://github.com/datawhalechina/llm-cookbook)
-* [dive-into-llms](https://github.com/Lordog/dive-into-llms)
-* [LLMsPracticalGuide](https://github.com/Mooler0410/LLMsPracticalGuide)
-* [llm-course](https://github.com/mlabonne/llm-course)
-* [so-large-lm](https://github.com/datawhalechina/so-large-lm)
-
 # theory
 * [Book-Mathematical-Foundation-of-Reinforcement-Learning](https://github.com/MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning)
 
@@ -20,6 +13,10 @@
 * [lean4](https://github.com/leanprover/lean4)
 * [fp-lean](https://github.com/leanprover/fp-lean)
 * [theorem_proving_in_lean](https://github.com/leanprover/theorem_proving_in_lean)
+
+# transformers
+* [awesome-transformers](https://github.com/abacaj/awesome-transformers)
+* [Treasure-of-Transformers](https://github.com/ashishpatel26/Treasure-of-Transformers)
 
 ## math reasoning
 * [analysis](https://github.com/teorth/analysis)
