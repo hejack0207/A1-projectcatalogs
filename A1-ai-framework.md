@@ -5,12 +5,12 @@
 * [TileGym](https://github.com/NVIDIA/TileGym)
 
 # platform
+* [transformers](https://github.com/huggingface/transformers)
 * [pytorch](https://github.com/pytorch/pytorch)
 * [tensorrt-llm](https://github.com/NVIDIA/TensorRT-LLM)
 * [ggml](https://github.com/ggml-org/ggml)
 
 # algorithm
-* [transformers](https://github.com/huggingface/transformers)
 * [flash-attention](https://github.com/Dao-AILab/flash-attention)
 * [flash-linear-attention](https://github.com/fla-org/flash-linear-attention)
 * [Kimi-Linear](https://github.com/MoonshotAI/Kimi-Linear)
