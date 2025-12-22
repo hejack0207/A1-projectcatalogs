@@ -42,7 +42,7 @@
 * [aiXcoder-7B](https://github.com/aixcoder-plugin/aiXcoder-7B)
 
 ## voice
-* [GLM-ASR](https://github.com/zai-org/GLM-ASR)
+* [GLM-ASR](https://github.com/hejack0207/GLM-ASR)
 * [GLM-4-Voice](https://github.com/zai-org/GLM-4-Voice)
 * [TeleSpeech-ASR](https://github.com/Tele-AI/TeleSpeech-ASR)
 
