@@ -13,10 +13,11 @@
 * [BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD)
 
 ## coding
+* [claude-code](https://github.com/anthropics/claude-code)
 * [iflow-cli](https://github.com/iflow-ai/iflow-cli)
+* [cline](https://github.com/cline/cline)
 * [qwen-code](https://github.com/QwenLM/qwen-code)
 * [trae-agent](https://github.com/bytedance/trae-agent)
-* [claude-code](https://github.com/anthropics/claude-code)
 * [crush](https://github.com/charmbracelet/crush)
 * [mistral-vibe](https://github.com/mistralai/mistral-vibe)
 * [openmanus](https://github.com/mannaandpoem/OpenManus)
@@ -67,6 +68,7 @@
 * [skyvern](https://github.com/Skyvern-AI/skyvern)
 
 ### tools
+* [litellm](https://github.com/BerriAI/litellm)
 * [i3wm-mcp](https://github.com/caninja/i3wm-mcp)
 * [droidmind](https://github.com/hyperb1iss/droidmind)
 * [apktool-mcp-server](https://github.com/zinja-coder/apktool-mcp-server)

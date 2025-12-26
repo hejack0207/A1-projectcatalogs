@@ -7,6 +7,7 @@
 * [termux-app](https://github.com/termux/termux-app)
 * [termux-packages](https://github.com/termux/termux-packages)
 * [termux-qemu-alpine-docker](https://github.com/diogok/termux-qemu-alpine-docker)
+* [PuppyGit](https://github.com/catpuppyapp/PuppyGit)
 
 ## llm
 * [swift-chat](https://github.com/aws-samples/swift-chat)

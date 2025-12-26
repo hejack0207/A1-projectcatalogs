@@ -53,6 +53,9 @@
 ## image to video
 * [InfiniteTalk](https://github.com/MeiGen-AI/InfiniteTalk)
 
+## embody
+* [unifolm-world-model-action](https://github.com/unitreerobotics/unifolm-world-model-action)
+
 ## auto
 * [Open-AutoGLM](https://github.com/zai-org/Open-AutoGLM)
 

@@ -6,6 +6,7 @@
 
 # platform
 * [transformers](https://github.com/huggingface/transformers)
+* [accelerate](https://github.com/huggingface/accelerate)
 * [pytorch](https://github.com/pytorch/pytorch)
 * [tensorrt-llm](https://github.com/NVIDIA/TensorRT-LLM)
 * [ggml](https://github.com/ggml-org/ggml)
@@ -35,6 +36,7 @@
 
 # utils
 * [modelscope](https://github.com/modelscope/modelscope)
+* [llm-transparency-tool](https://github.com/facebookresearch/llm-transparency-tool)
 
 # gpt
 * [picoGPT](https://github.com/jaymody/picoGPT)
