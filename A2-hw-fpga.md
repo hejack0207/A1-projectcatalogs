@@ -32,6 +32,7 @@
 * [verilogboy](https://github.com/zephray/VerilogBoy)
 
 ## projects
+* [verilog_elevator](https://github.com/hejack0207/verilog_elevator)
 * [32-verilog-mini-projects](https://github.com/sudhamshu091/32-Verilog-Mini-Projects)
 
 # verilog

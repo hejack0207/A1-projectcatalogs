@@ -67,6 +67,7 @@
 * [Bunny](https://github.com/BAAI-DCAI/Bunny)
 
 # dataset
+* [datasets](https://github.com/huggingface/datasets)
 * [open-eqa](https://github.com/facebookresearch/open-eqa)
 * [Chinese-medical-dialogue-data](https://github.com/Toyhom/Chinese-medical-dialogue-data)
 

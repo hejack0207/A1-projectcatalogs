@@ -27,4 +27,7 @@
 * [Nano-vLLM](https://github.com/GeeeekExplorer/Nano-vLLM)
 
 # orgs
-* [unsloth](https://github.com/unslothai/unsloth)
+* [unslothai](https://github.com/unslothai)
+* [nvlabs](https://github.com/NVlabs)
+* [nvidia-cosmos](https://github.com/nvidia-cosmos)
+* [agibottech](https://github.com/AgibotTech)
