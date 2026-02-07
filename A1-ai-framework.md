@@ -3,6 +3,7 @@
 # compiler
 * [triton](https://github.com/triton-lang/triton)
 * [TileGym](https://github.com/NVIDIA/TileGym)
+* [tilelang](https://github.com/tile-ai/tilelang)
 
 # platform
 * [transformers](https://github.com/huggingface/transformers)
@@ -18,6 +19,10 @@
 * [ImageBind](https://github.com/facebookresearch/ImageBind)
 * [circuit_sparsity](https://github.com/openai/circuit_sparsity)
 * [C3-Context-Cascade-Compression](https://github.com/liufanfanlff/C3-Context-Cascade-Compression)
+
+# reinforcement learning
+* [tianshou](https://github.com/thu-ml/tianshou)
+  * [openevolve](https://github.com/algorithmicsuperintelligence/openevolve)
 
 # framework
 * [langchain-docs](https://github.com/langchain-ai/docs)
@@ -39,8 +44,10 @@
 * [llm-transparency-tool](https://github.com/facebookresearch/llm-transparency-tool)
 
 # gpt
-* [picoGPT](https://github.com/jaymody/picoGPT)
+* [nanochat](https://github.com/karpathy/nanochat)
+* [nanoGPT](https://github.com/karpathy/nanoGPT)
 * [minGPT](https://github.com/karpathy/minGPT)
+* [picoGPT](https://github.com/jaymody/picoGPT)
 * [gpt-2](https://github.com/openai/gpt-2)
 * [Open-Assistant](https://github.com/LAION-AI/Open-Assistant)
 * [DeepSpeed](https://github.com/microsoft/DeepSpeed)

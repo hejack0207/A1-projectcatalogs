@@ -9,9 +9,11 @@
 * [PowerInfer](https://github.com/SJTU-IPADS/PowerInfer)
 * [Paddle-Lite](https://github.com/PaddlePaddle/Paddle-Lite)
 * [Tengine](https://github.com/OAID/Tengine)
+* [BitNet](https://github.com/microsoft/BitNet)
 
 ## python
 * [sglang](https://github.com/sgl-project/sglang)
+* [mini-sglang](https://github.com/sgl-project/mini-sglang)
 * [vllm](https://github.com/vllm-project/vllm)
 * [vllm-omni](https://github.com/vllm-project/vllm-omni)
 * [ktransformers](https://github.com/kvcache-ai/ktransformers)
@@ -24,6 +26,7 @@
 * [nexa-sdk](https://github.com/NexaAI/nexa-sdk)
 * [LocalAI](https://github.com/mudler/LocalAI)
 --------------------
+* [gemma-cookbook](https://github.com/google-gemini/gemma-cookbook)
 * [gemma.cpp](https://github.com/google/gemma.cpp)
 * [gemma_pytorch](https://github.com/google/gemma_pytorch)
 * [gemma](https://github.com/google-deepmind/gemma)
@@ -45,3 +48,4 @@
 
 # Tools
 * [Eurus](https://github.com/OpenBMB/Eurus)
+* [llama-swap](https://github.com/mostlygeek/llama-swap)
