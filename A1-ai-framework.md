@@ -22,7 +22,7 @@
 
 # reinforcement learning
 * [tianshou](https://github.com/thu-ml/tianshou)
-  * [openevolve](https://github.com/algorithmicsuperintelligence/openevolve)
+* [openevolve](https://github.com/algorithmicsuperintelligence/openevolve)
 
 # framework
 * [langchain-docs](https://github.com/langchain-ai/docs)
