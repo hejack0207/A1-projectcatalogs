@@ -18,9 +18,6 @@
 ## vision
 * [Qwen3-VL](https://github.com/QwenLM/Qwen3-VL)
 * [Kimi-VL](https://github.com/MoonshotAI/Kimi-VL)
-* [Deepseek-OCR-2](https://github.com/deepseek-ai/DeepSeek-OCR-2)
-* [Deepseek-OCR](https://github.com/deepseek-ai/DeepSeek-OCR)
-* [GLM-OCR](https://github.com/zai-org/GLM-OCR)
 * [Deepseek-V3.2-Exp](https://github.com/deepseek-ai/DeepSeek-V3.2-Exp)
 * [Deepseek-V3](https://github.com/deepseek-ai/DeepSeek-V3)
 * [DeepSeek-V2](https://github.com/deepseek-ai/DeepSeek-V2)

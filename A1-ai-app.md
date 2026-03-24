@@ -32,7 +32,10 @@
 * [deepseekocr-pfd2md](https://github.com/doppey123/DeekSeek-OCR---Dockerized-API)
 * [DeepSeek-OCR-SDK](https://github.com/BukeLy/DeepSeek-OCR-SDK)
 
-## others
+## models
+* [Deepseek-OCR-2](https://github.com/deepseek-ai/DeepSeek-OCR-2)
+* [Deepseek-OCR](https://github.com/deepseek-ai/DeepSeek-OCR)
+* [GLM-OCR](https://github.com/zai-org/GLM-OCR)
 * [HunyuanOCR](https://github.com/Tencent-Hunyuan/HunyuanOCR)
 * [MonkeyOCR](https://github.com/Yuliang-Liu/MonkeyOCR)
 * [MinerU](https://github.com/opendatalab/MinerU)
