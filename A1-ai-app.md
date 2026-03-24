@@ -36,10 +36,11 @@
 * [Deepseek-OCR-2](https://github.com/deepseek-ai/DeepSeek-OCR-2)
 * [Deepseek-OCR](https://github.com/deepseek-ai/DeepSeek-OCR)
 * [GLM-OCR](https://github.com/zai-org/GLM-OCR)
+* [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR)
+* [Qianfan-OCR](https://huggingface.co/baidu/Qianfan-OCR)
 * [HunyuanOCR](https://github.com/Tencent-Hunyuan/HunyuanOCR)
 * [MonkeyOCR](https://github.com/Yuliang-Liu/MonkeyOCR)
 * [MinerU](https://github.com/opendatalab/MinerU)
-* [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR)
 * [EasyOCR](https://github.com/JaidedAI/EasyOCR)
 * [RapidOCR](https://github.com/RapidAI/RapidOCR)
 
