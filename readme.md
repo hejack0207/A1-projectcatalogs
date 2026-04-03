@@ -1,4 +1,5 @@
 # ai
+* [ollama](https://github.com/ollama/ollama)
 * [whisper.cpp](https://github.com/ggerganov/whisper.cpp)
 * [llama.cpp](https://github.com/ggerganov/llama.cpp)
 
