@@ -7,10 +7,12 @@
 * [Awesome-LLM-RAG-Application](https://github.com/lizhe2004/Awesome-LLM-RAG-Application)
 * [Awesome-RAG](https://github.com/lucifertrj/Awesome-RAG)
 --------------------
+* [anthing-llm](https://github.com/Mintplex-Labs/anything-llm)
 * [vanna](https://github.com/vanna-ai/vanna)
 * [ragflow](https://github.com/infiniflow/ragflow)
 
 # voice helper
+* [vibevoice](https://github.com/microsoft/VibeVoice)
 * [whisper](https://github.com/openai/whisper)
 * [whisper.cpp](https://github.com/ggerganov/whisper.cpp)
 * [whisper-docker](https://github.com/karaage0703/whisper-docker)
@@ -37,6 +39,8 @@
 * [Deepseek-OCR](https://github.com/deepseek-ai/DeepSeek-OCR)
 * [GLM-OCR](https://github.com/zai-org/GLM-OCR)
 * [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR)
+* [Logics-Parsing](https://github.com/alibaba/Logics-Parsing)
+* [dots.mocr](https://huggingface.co/rednote-hilab/dots.mocr)
 * [Qianfan-OCR](https://huggingface.co/baidu/Qianfan-OCR)
 * [HunyuanOCR](https://github.com/Tencent-Hunyuan/HunyuanOCR)
 * [MonkeyOCR](https://github.com/Yuliang-Liu/MonkeyOCR)
@@ -53,7 +57,7 @@
 # vision
 * [ultralytics](https://github.com/ultralytics/ultralytics) #yolo
 
-# others
+# gpt
 * [Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT)
 * [OpenChatKit](https://github.com/togethercomputer/OpenChatKit)
 * [PaddleClas](https://github.com/PaddlePaddle/PaddleClas)

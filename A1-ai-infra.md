@@ -42,6 +42,9 @@
 # train engine
 * [llm.c](https://github.com/karpathy/llm.c)
 
+# fine-tuning
+* [unsloth](https://github.com/unslothai/unsloth)
+
 # Tools
 * [Eurus](https://github.com/OpenBMB/Eurus)
 * [llama-swap](https://github.com/mostlygeek/llama-swap)

@@ -25,6 +25,7 @@
 * [md2man:rb](https://github.com/sunaku/md2man)
 * [md2tex:py](https://github.com/marvinborner/md2tex)
 --------------------
+* [markitdown](https://github.com/microsoft/markitdown)
 * [man-to-md:pl](https://github.com/mle86/man-to-md)
 * [texi2md:pl](https://github.com/kcolford/texi2md)
 * [latex2md:py](https://github.com/daanvandijk/latex2md)

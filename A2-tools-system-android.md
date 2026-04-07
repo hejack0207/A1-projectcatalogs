@@ -8,6 +8,8 @@
 * [termux-packages](https://github.com/termux/termux-packages)
 * [termux-qemu-alpine-docker](https://github.com/diogok/termux-qemu-alpine-docker)
 * [PuppyGit](https://github.com/catpuppyapp/PuppyGit)
+* [another](https://github.com/Zfinix/another)
+* [rustdesk](https://github.com/rustdesk/rustdesk)
 
 ## llm
 * [swift-chat](https://github.com/aws-samples/swift-chat)

@@ -6,8 +6,10 @@
 * [BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD)
 
 # coding
+* [claw-code](https://github.com/ultraworkers/claw-code)
 * [claude-code](https://github.com/anthropics/claude-code)
 * [iflow-cli](https://github.com/iflow-ai/iflow-cli)
+* [paper2code](https://github.com/going-doer/Paper2Code)
 * [cline](https://github.com/cline/cline)
 * [qwen-code](https://github.com/QwenLM/qwen-code)
 * [trae-agent](https://github.com/bytedance/trae-agent)
