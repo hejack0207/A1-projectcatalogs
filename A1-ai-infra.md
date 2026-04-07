@@ -31,10 +31,6 @@
 * [gemma_pytorch](https://github.com/google/gemma_pytorch)
 * [gemma](https://github.com/google-deepmind/gemma)
 
-# client
-* [oterm](https://github.com/ggozad/oterm)
-* [aichat](https://github.com/sigoden/aichat)
-
 # web UI
 * [open-webui-docs](https://github.com/open-webui/docs)
 * [open-webui](https://github.com/open-webui/open-webui)
