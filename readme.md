@@ -5,6 +5,8 @@
 * [ollama](https://github.com/ollama/ollama)
 * [whisper.cpp](https://github.com/ggerganov/whisper.cpp)
 * [llama.cpp](https://github.com/ggerganov/llama.cpp)
+--------
+* [opencode](https://github.com/anomalyco/opencode)
 
 # iaas
 * [linux](https://github.com/torvalds/linux)
