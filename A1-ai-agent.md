@@ -17,6 +17,7 @@
 ## chat
 * [oterm](https://github.com/ggozad/oterm)
 * [aichat](https://github.com/sigoden/aichat)
+* [llm-functions](https://github.com/sigoden/llm-functions)
 * [goose](https://github.com/block/goose)
 * [cherry-studio](https://github.com/CherryHQ/cherry-studio)
 
