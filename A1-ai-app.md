@@ -8,6 +8,7 @@
 * [Awesome-RAG](https://github.com/lucifertrj/Awesome-RAG)
 --------------------
 * [anthing-llm](https://github.com/Mintplex-Labs/anything-llm)
+* [qdrant](https://github.com/qdrant/qdrant)
 * [vanna](https://github.com/vanna-ai/vanna)
 * [ragflow](https://github.com/infiniflow/ragflow)
 

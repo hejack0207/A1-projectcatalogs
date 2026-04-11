@@ -9,6 +9,7 @@
 * [autoresearch](https://github.com/karpathy/autoresearch)
 
 ## openclaw
+* [hermes-agent](https://github.com/NousResearch/hermes-agent)
 * [openclaw](https://github.com/openclaw/openclaw)
 * [copaw](https://github.com/agentscope-ai/CoPaw)
 * [clawhub](https://github.com/openclaw/clawhub)
