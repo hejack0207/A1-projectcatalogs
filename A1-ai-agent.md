@@ -1,5 +1,5 @@
 # agent
-* [awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents)
+* [awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)
 * [agents.md](https://github.com/agentsmd/agents.md)
 
 ## harness
