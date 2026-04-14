@@ -11,7 +11,7 @@
 ## openclaw
 * [hermes-agent](https://github.com/NousResearch/hermes-agent)
 * [openclaw](https://github.com/openclaw/openclaw)
-* [copaw](https://github.com/agentscope-ai/CoPaw)
+* [qwenpaw](https://github.com/agentscope-ai/QwenPaw)
 * [clawhub](https://github.com/openclaw/clawhub)
 * [openmanus](https://github.com/FoundationAgents/OpenManus)
 
